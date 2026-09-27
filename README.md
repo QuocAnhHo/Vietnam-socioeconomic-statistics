@@ -4,7 +4,11 @@ Province-level statistics prepared from public CSV data published by Vietnam's N
 
 **161,709 observations · 231 indicator series · 91 source tables**
 
-This repository contains data and documentation. The website and dashboard have not yet been built. This project is not an official NSO website and does not imply government endorsement.
+[Visit the website](https://quocanhho.github.io/Vietnam-socio-economics-statistics/) · [Open the population explorer](https://quocanhho.github.io/Vietnam-socio-economics-statistics/#/explorer)
+
+The English-language website includes a searchable statistics catalogue, dataset pages, downloads and a population explorer with 32 indicators, historical province maps, rankings, trends, comparisons and CSV exports. Census is a coming-soon placeholder. This is an independent personal project, not an official NSO website, and does not imply government endorsement.
+
+See [WEBSITE.md](WEBSITE.md) for local development, rebuilding and GitHub Pages deployment.
 
 ## Download and explore
 
