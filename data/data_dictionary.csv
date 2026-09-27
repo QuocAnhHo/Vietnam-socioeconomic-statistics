@@ -1,0 +1,20 @@
+﻿field,description
+section,One of the seven requested source sections.
+indicator_id,Source table plus a stable hash of the source measure/breakdown label. Join indicators.csv.
+province_code,"Stable project ID, not an official administrative code. Join provinces.csv."
+province_name,Province label with normalised whitespace; historical labels remain distinct.
+geography_version,source_reported_unharmonized: source boundaries not harmonised or independently dated.
+period,"Annual year, academic year, ISO date, comparison period or unresolved original period label."
+year,"First year in the source period, or observation date year. Empty if the year is unresolved."
+period_type,"annual, academic_year, point_in_time, comparison, or unresolved_source_period."
+value,Numeric value in the original source unit. Empty for missing source values; zero is preserved.
+unit,Unit/scale from source metadata or explicit measure heading. No rescaling performed.
+value_status,observed or missing (non_numeric_source_marker reserved for other source markers).
+period_status,"preliminary, estimated, footnoted, or not_specified. Not_specified does not assert finality."
+source_id,Original source table ID. Join sources.csv for provenance.
+source_row,"1-based CSV record number, including title and blank records; not physical line number for multiline fields."
+source_column,1-based source CSV column number.
+raw_value,"Original source value token, with surrounding whitespace removed. Missing markers are retained."
+source_period_header,Unchanged source column heading identifying period and breakdown.
+quality_flags,"Semicolon-separated source title, definition or unresolved period warnings."
+province_name_source,Original source province name with surrounding whitespace removed.

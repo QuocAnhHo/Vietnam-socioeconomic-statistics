@@ -1,0 +1,633 @@
+﻿source_id,source_row,label,reason
+E0201,4, WHOLE COUNTRY,not in province allowlist
+E0201,5,Red River Delta,not in province allowlist
+E0201,17,Northern midlands and mountain areas,not in province allowlist
+E0201,32,Northern Central area and Central coastal area,not in province allowlist
+E0201,47,Central Highlands,not in province allowlist
+E0201,53,South East,not in province allowlist
+E0201,60,Mekong River Delta,not in province allowlist
+E0203-07,4, WHOLE COUNTRY,not in province allowlist
+E0203-07,5,Red River Delta,not in province allowlist
+E0203-07,18,Northern midlands and mountain areas,not in province allowlist
+E0203-07,33,Northern Central area and Central coastal area,not in province allowlist
+E0203-07,48,Central Highlands,not in province allowlist
+E0203-07,54,South East,not in province allowlist
+E0203-07,61,Mekong River Delta,not in province allowlist
+E0209,4, WHOLE COUNTRY,not in province allowlist
+E0209,5,Red River Delta,not in province allowlist
+E0209,18,Northern midlands and mountain areas,not in province allowlist
+E0209,33,Northern Central area and Central coastal area,not in province allowlist
+E0209,48,Central Highlands,not in province allowlist
+E0209,54,South East,not in province allowlist
+E0209,61,Mekong River Delta,not in province allowlist
+E0212-14,4, WHOLE COUNTRY,not in province allowlist
+E0212-14,5,Red River Delta,not in province allowlist
+E0212-14,18,Northern midlands and mountain areas,not in province allowlist
+E0212-14,33,Northern Central area and Central coastal area,not in province allowlist
+E0212-14,48,Central Highlands,not in province allowlist
+E0212-14,54,South East,not in province allowlist
+E0212-14,61,Mekong River Delta,not in province allowlist
+E0216,4, WHOLE COUNTRY,not in province allowlist
+E0216,5,Red River Delta,not in province allowlist
+E0216,18,Northern midlands and mountain areas,not in province allowlist
+E0216,33,Northern Central area and Central coastal area,not in province allowlist
+E0216,48,Central Highlands,not in province allowlist
+E0216,54,South East,not in province allowlist
+E0216,61,Mekong River Delta,not in province allowlist
+E0218,4, WHOLE COUNTRY,not in province allowlist
+E0218,5,Red River Delta,not in province allowlist
+E0218,18,Northern midlands and mountain areas,not in province allowlist
+E0218,33,Northern Central area and Central coastal area,not in province allowlist
+E0218,48,Central Highlands,not in province allowlist
+E0218,54,South East,not in province allowlist
+E0218,61,Mekong River Delta,not in province allowlist
+E0219,4, WHOLE COUNTRY,not in province allowlist
+E0219,5,Red River Delta,not in province allowlist
+E0219,17,Northern midlands and mountain areas,not in province allowlist
+E0219,32,Northern Central area and Central coastal area,not in province allowlist
+E0219,47,Central Highlands,not in province allowlist
+E0219,53,South East,not in province allowlist
+E0219,60,Mekong River Delta,not in province allowlist
+E0220,4, WHOLE COUNTRY,not in province allowlist
+E0220,5,Red River Delta,not in province allowlist
+E0220,18,Northern midlands and mountain areas,not in province allowlist
+E0220,33,Northern Central area and Central coastal area,not in province allowlist
+E0220,48,Central Highlands,not in province allowlist
+E0220,54,South East,not in province allowlist
+E0220,61,Mekong River Delta,not in province allowlist
+E0221-23,4, WHOLE COUNTRY,not in province allowlist
+E0221-23,5,Red River Delta,not in province allowlist
+E0221-23,18,Northern midlands and mountain areas,not in province allowlist
+E0221-23,33,Northern Central area and Central coastal area,not in province allowlist
+E0221-23,48,Central Highlands,not in province allowlist
+E0221-23,54,South East,not in province allowlist
+E0221-23,61,Mekong River Delta,not in province allowlist
+E0225,4, WHOLE COUNTRY,not in province allowlist
+E0225,5,Red River Delta,not in province allowlist
+E0225,17,Northern midlands and mountain areas,not in province allowlist
+E0225,32,Northern Central area and Central coastal area,not in province allowlist
+E0225,47,Central Highlands,not in province allowlist
+E0225,53,South East,not in province allowlist
+E0225,60,Mekong River Delta,not in province allowlist
+E0227,4,WHOLE COUNTRY,not in province allowlist
+E0227,5,Red River Delta,not in province allowlist
+E0227,18,Northern midlands and mountain areas,not in province allowlist
+E0227,33,Northern Central area and Central coastal area,not in province allowlist
+E0227,48,Central Highlands,not in province allowlist
+E0227,54,South East,not in province allowlist
+E0227,61,Mekong River Delta,not in province allowlist
+E0228,4,WHOLE COUNTRY,not in province allowlist
+E0228,5,Red River Delta,not in province allowlist
+E0228,17,Northern midlands and mountain areas,not in province allowlist
+E0228,32,Northern Central area and Central coastal area,not in province allowlist
+E0228,47,Central Highlands,not in province allowlist
+E0228,53,South East,not in province allowlist
+E0228,60,Mekong River Delta,not in province allowlist
+E0230,4,WHOLE COUNTRY,not in province allowlist
+E0230,5,Red River Delta,not in province allowlist
+E0230,17,Northern midlands and mountain areas,not in province allowlist
+E0230,32,Northern Central area and Central coastal area,not in province allowlist
+E0230,47,Central Highlands,not in province allowlist
+E0230,53,South East,not in province allowlist
+E0230,60,Mekong River Delta,not in province allowlist
+E0231,4,WHOLE COUNTRY,not in province allowlist
+E0231,5,Red River Delta,not in province allowlist
+E0231,17,Northern midlands and mountain areas,not in province allowlist
+E0231,32,Northern Central area and Central coastal area,not in province allowlist
+E0231,47,Central Highlands,not in province allowlist
+E0231,53,South East,not in province allowlist
+E0231,60,Mekong River Delta,not in province allowlist
+E0233,4, WHOLE COUNTRY,not in province allowlist
+E0233,5,Red River Delta,not in province allowlist
+E0233,17,Northern midlands and mountain areas,not in province allowlist
+E0233,32,Northern Central area and Central coastal area,not in province allowlist
+E0233,47,Central Highlands,not in province allowlist
+E0233,53,South East,not in province allowlist
+E0233,60,Mekong River Delta,not in province allowlist
+E0234,4,WHOLE COUNTRY,not in province allowlist
+E0234,5,Red River Delta,not in province allowlist
+E0234,17,Northern midlands and mountain areas,not in province allowlist
+E0234,32,Northern Central area and Central coastal area,not in province allowlist
+E0234,47,Central Highlands,not in province allowlist
+E0234,53,South East,not in province allowlist
+E0234,60,Mekong River Delta,not in province allowlist
+E0237,4, WHOLE COUNTRY,not in province allowlist
+E0237,5,Red River Delta,not in province allowlist
+E0237,18,Northern midlands and mountain areas,not in province allowlist
+E0237,33,Northern Central area and Central coastal area,not in province allowlist
+E0237,48,Central Highlands,not in province allowlist
+E0237,54,South East,not in province allowlist
+E0237,61,Mekong River Delta,not in province allowlist
+E0245,4, WHOLE COUNTRY,not in province allowlist
+E0245,5,Red River Delta,not in province allowlist
+E0245,17,Northern midlands and mountain areas,not in province allowlist
+E0245,32,Northern Central area and Central coastal area,not in province allowlist
+E0245,47,Central Highlands,not in province allowlist
+E0245,53,South East,not in province allowlist
+E0245,60,Mekong River Delta,not in province allowlist
+E0251,4, WHOLE COUNTRY,not in province allowlist
+E0251,5,Red River Delta,not in province allowlist
+E0251,17,Northern midlands and mountain areas,not in province allowlist
+E0251,32,Northern Central area and Central coastal area,not in province allowlist
+E0251,47,Central Highlands,not in province allowlist
+E0251,53,South East,not in province allowlist
+E0251,60,Mekong River Delta,not in province allowlist
+E0255,4, WHOLE COUNTRY,not in province allowlist
+E0255,5,Red River Delta,not in province allowlist
+E0255,17,Northern midlands and mountain areas,not in province allowlist
+E0255,32,Northern Central area and Central coastal area,not in province allowlist
+E0255,47,Central Highlands,not in province allowlist
+E0255,53,South East,not in province allowlist
+E0255,60,Mekong River Delta,not in province allowlist
+E0258,4,WHOLE COUNTRY,not in province allowlist
+E0258,5,Red River Delta,not in province allowlist
+E0258,17,Northern midlands and mountain areas,not in province allowlist
+E0258,32,North Central and central coastal areas,not in province allowlist
+E0258,47,Central Highlands,not in province allowlist
+E0258,53,South East,not in province allowlist
+E0258,60,Mekong River Delta,not in province allowlist
+E0263,4, WHOLE COUNTRY,not in province allowlist
+E0263,5,Red River Delta,not in province allowlist
+E0263,17,Northern midlands and mountain areas,not in province allowlist
+E0263,32,Northern Central area and Central coastal area,not in province allowlist
+E0263,47,Central Highlands,not in province allowlist
+E0263,53,South East,not in province allowlist
+E0263,60,Mekong River Delta,not in province allowlist
+E0270,4, WHOLE COUNTRY,not in province allowlist
+E0270,5,Red River Delta,not in province allowlist
+E0270,17,Northern midlands and mountain areas,not in province allowlist
+E0270,32,Northern Central area and Central coastal area,not in province allowlist
+E0270,47,Central Highlands,not in province allowlist
+E0270,53,South East,not in province allowlist
+E0270,60,Mekong River Delta,not in province allowlist
+E0310,4,Red River Delta,not in province allowlist
+E0310,16,Northern midlands and mountain areas,not in province allowlist
+E0310,31,North Central and central coastal areas,not in province allowlist
+E0310,46,Central Highlands,not in province allowlist
+E0310,52,South East,not in province allowlist
+E0310,59,Mekong River Delta,not in province allowlist
+E0312,4,Red River Delta,not in province allowlist
+E0312,16,Northern midlands and mountain areas,not in province allowlist
+E0312,31,North Central and central coastal areas,not in province allowlist
+E0312,46,Central Highlands,not in province allowlist
+E0312,52,South East,not in province allowlist
+E0312,59,Mekong River Delta,not in province allowlist
+E0323,4,Whole country,not in province allowlist
+E0323,5,Red River Delta,not in province allowlist
+E0323,17,Northern midlands and mountain areas,not in province allowlist
+E0323,32,North Central and central coastal areas,not in province allowlist
+E0323,47,Central Highlands,not in province allowlist
+E0323,53,South East,not in province allowlist
+E0323,60,Mekong River Delta,not in province allowlist
+E0324,4,Whole country,not in province allowlist
+E0324,5,Red River Delta,not in province allowlist
+E0324,17,Northern midlands and mountain areas,not in province allowlist
+E0324,32,North Central and central coastal areas,not in province allowlist
+E0324,47,Central Highlands,not in province allowlist
+E0324,53,South East,not in province allowlist
+E0324,60,Mekong River Delta,not in province allowlist
+E0325,4,Whole country,not in province allowlist
+E0325,5,Red River Delta,not in province allowlist
+E0325,17,Northern midlands and mountain areas,not in province allowlist
+E0325,32,North Central and central coastal areas,not in province allowlist
+E0325,47,Central Highlands,not in province allowlist
+E0325,53,South East,not in province allowlist
+E0325,60,Mekong River Delta,not in province allowlist
+E1303,4, WHOLE COUNTRY,not in province allowlist
+E1303,5,Red River Delta,not in province allowlist
+E1303,18,Northern midlands and mountain areas,not in province allowlist
+E1303,33,Northern Central area and Central coastal area,not in province allowlist
+E1303,48,Central Highlands,not in province allowlist
+E1303,54,South East,not in province allowlist
+E1303,61,Mekong River Delta,not in province allowlist
+E1308,4, WHOLE COUNTRY,not in province allowlist
+E1308,5,Red River Delta,not in province allowlist
+E1308,18,Northern midlands and mountain areas,not in province allowlist
+E1308,33,Northern Central area and Central coastal area,not in province allowlist
+E1308,48,Central Highlands,not in province allowlist
+E1308,54,South East,not in province allowlist
+E1308,61,Mekong River Delta,not in province allowlist
+E1309,4, WHOLE COUNTRY,not in province allowlist
+E1309,5,Red River Delta,not in province allowlist
+E1309,18,Northern midlands and mountain areas,not in province allowlist
+E1309,33,Northern Central area and Central coastal area,not in province allowlist
+E1309,48,Central Highlands,not in province allowlist
+E1309,54,South East,not in province allowlist
+E1309,61,Mekong River Delta,not in province allowlist
+E1309,75,General classes in universities have been excluded in province,not in province allowlist
+E1311,4, WHOLE COUNTRY,not in province allowlist
+E1311,5,Red River Delta,not in province allowlist
+E1311,18,Northern midlands and mountain areas,not in province allowlist
+E1311,33,Northern Central area and Central coastal area,not in province allowlist
+E1311,48,Central Highlands,not in province allowlist
+E1311,54,South East,not in province allowlist
+E1311,61,Mekong River Delta,not in province allowlist
+E1312,4, WHOLE COUNTRY,not in province allowlist
+E1312,5,Red River Delta,not in province allowlist
+E1312,18,Northern midlands and mountain areas,not in province allowlist
+E1312,33,Northern Central area and Central coastal area,not in province allowlist
+E1312,48,Central Highlands,not in province allowlist
+E1312,54,South East,not in province allowlist
+E1312,61,Mekong River Delta,not in province allowlist
+E1313,4,WHOLE COUNTRY,not in province allowlist
+E1313,51,Other provinces,not in province allowlist
+E1314,4, WHOLE COUNTRY,not in province allowlist
+E1314,5,Red River Delta,not in province allowlist
+E1314,18,Northern midlands and mountain areas,not in province allowlist
+E1314,33,Northern Central area and Central coastal area,not in province allowlist
+E1314,48,Central Highlands,not in province allowlist
+E1314,54,South East,not in province allowlist
+E1314,61,Mekong River Delta,not in province allowlist
+E1314,75,Pupils in universities,not in province allowlist
+E1315,4, WHOLE COUNTRY,not in province allowlist
+E1315,5,Red River Delta,not in province allowlist
+E1315,18,Northern midlands and mountain areas,not in province allowlist
+E1315,33,Northern Central area and Central coastal area,not in province allowlist
+E1315,48,Central Highlands,not in province allowlist
+E1315,54,South East,not in province allowlist
+E1315,61,Mekong River Delta,not in province allowlist
+E1315,75,Upper secondary schoolgirls in universities have been excluded in province,not in province allowlist
+E1316,4, WHOLE COUNTRY,not in province allowlist
+E1316,5,Red River Delta,not in province allowlist
+E1316,18,Northern midlands and mountain areas,not in province allowlist
+E1316,33,Northern Central area and Central coastal area,not in province allowlist
+E1316,48,Central Highlands,not in province allowlist
+E1316,54,South East,not in province allowlist
+E1316,61,Mekong River Delta,not in province allowlist
+E1316,75,"Other city, province",not in province allowlist
+E1319,4, WHOLE COUNTRY,not in province allowlist
+E1319,5,Red River Delta,not in province allowlist
+E1319,17,Northern midlands and mountain areas,not in province allowlist
+E1319,32,Northern Central area and Central coastal area,not in province allowlist
+E1319,47,Central Highlands,not in province allowlist
+E1319,53,South East,not in province allowlist
+E1319,60,Mekong River Delta,not in province allowlist
+E1320,4, WHOLE COUNTRY,not in province allowlist
+E1320,5,Red River Delta,not in province allowlist
+E1320,17,Northern midlands and mountain areas,not in province allowlist
+E1320,32,Northern Central area and Central coastal area,not in province allowlist
+E1320,47,Central Highlands,not in province allowlist
+E1320,53,South East,not in province allowlist
+E1320,60,Mekong River Delta,not in province allowlist
+E1322,4, WHOLE COUNTRY,not in province allowlist
+E1322,5,Red River Delta,not in province allowlist
+E1322,17,Northern midlands and mountain areas,not in province allowlist
+E1322,32,Northern Central area and Central coastal area,not in province allowlist
+E1322,47,Central Highlands,not in province allowlist
+E1322,53,South East,not in province allowlist
+E1322,60,Mekong River Delta,not in province allowlist
+E1323,4, WHOLE COUNTRY,not in province allowlist
+E1323,5,Red River Delta,not in province allowlist
+E1323,18,Northern midlands and mountain areas,not in province allowlist
+E1323,33,Northern Central area and Central coastal area,not in province allowlist
+E1323,48,Central Highlands,not in province allowlist
+E1323,54,South East,not in province allowlist
+E1323,61,Mekong River Delta,not in province allowlist
+E1326,4, WHOLE COUNTRY,not in province allowlist
+E1326,5,Red River Delta,not in province allowlist
+E1326,16,Northern midlands and mountain areas,not in province allowlist
+E1326,25,Northern Central area and Central coastal area,not in province allowlist
+E1326,39,Central Highlands,not in province allowlist
+E1326,44,South East,not in province allowlist
+E1326,49,Mekong River Delta,not in province allowlist
+E1327,4, WHOLE COUNTRY,not in province allowlist
+E1327,5,Red River Delta,not in province allowlist
+E1327,16,Northern midlands and mountain areas,not in province allowlist
+E1327,25,Northern Central area and Central coastal area,not in province allowlist
+E1327,39,Central Highlands,not in province allowlist
+E1327,44,South East,not in province allowlist
+E1327,49,Mekong River Delta,not in province allowlist
+E1331,4, WHOLE COUNTRY,not in province allowlist
+E1331,5,Red River Delta,not in province allowlist
+E1331,17,Northern midlands and mountain areas,not in province allowlist
+E1331,32,Northern Central area and Central coastal area,not in province allowlist
+E1331,47,Central Highlands,not in province allowlist
+E1331,53,South East,not in province allowlist
+E1331,60,Mekong River Delta,not in province allowlist
+E1405,4,WHOLE COUNTRY,not in province allowlist
+E1405,5,Red River Delta,not in province allowlist
+E1405,18,Northern midlands and mountain areas,not in province allowlist
+E1405,33,Northern Central area and Central coastal area,not in province allowlist
+E1405,48,Central Highlands,not in province allowlist
+E1405,54,South East,not in province allowlist
+E1405,61,Mekong River Delta,not in province allowlist
+E1409,4,WHOLE COUNTRY,not in province allowlist
+E1409,5,Red River Delta,not in province allowlist
+E1409,17,Northern midlands and mountain areas,not in province allowlist
+E1409,32,North Central area and Central coastal area,not in province allowlist
+E1409,47,Central Highlands,not in province allowlist
+E1409,53,South East,not in province allowlist
+E1409,60,Mekong River Delta,not in province allowlist
+E1410,4,WHOLE COUNTRY,not in province allowlist
+E1410,5,Red River Delta,not in province allowlist
+E1410,18,Northern midlands and mountain areas,not in province allowlist
+E1410,33,Northern Central area and Central coastal area,not in province allowlist
+E1410,48,Central Highlands,not in province allowlist
+E1410,54,South East,not in province allowlist
+E1410,61,Mekong River Delta,not in province allowlist
+E1413,4,WHOLE COUNTRY,not in province allowlist
+E1413,5,Red River Delta,not in province allowlist
+E1413,18,Northern midlands and mountain areas,not in province allowlist
+E1413,33,Northern Central area and Central coastal area,not in province allowlist
+E1413,48,Central Highlands,not in province allowlist
+E1413,54,South East,not in province allowlist
+E1413,61,Mekong River Delta,not in province allowlist
+E1414,4,WHOLE COUNTRY,not in province allowlist
+E1414,5,Red River Delta,not in province allowlist
+E1414,17,Northern midlands and mountain areas,not in province allowlist
+E1414,32,North Central area and Central coastal area,not in province allowlist
+E1414,47,Central Highlands,not in province allowlist
+E1414,53,South East,not in province allowlist
+E1414,60,Mekong River Delta,not in province allowlist
+E1415,4,WHOLE COUNTRY,not in province allowlist
+E1415,5,Red River Delta,not in province allowlist
+E1415,18,Northern midlands and mountain areas,not in province allowlist
+E1415,33,Northern Central area and Central coastal area,not in province allowlist
+E1415,48,Central Highlands,not in province allowlist
+E1415,54,South East,not in province allowlist
+E1415,61,Mekong River Delta,not in province allowlist
+E1416,4, WHOLE COUNTRY,not in province allowlist
+E1416,5,Red River Delta,not in province allowlist
+E1416,17,Northern midlands and mountain areas,not in province allowlist
+E1416,32,Northern Central area and Central coastal area,not in province allowlist
+E1416,47,Central Highlands,not in province allowlist
+E1416,53,South East,not in province allowlist
+E1416,60,Mekong River Delta,not in province allowlist
+E1418,4,WHOLE COUNTRY,not in province allowlist
+E1418,5,Red River Delta,not in province allowlist
+E1418,17,Northern midlands and mountain areas,not in province allowlist
+E1418,32,North Central area and Central coastal area,not in province allowlist
+E1418,47,Central Highlands,not in province allowlist
+E1418,53,South East,not in province allowlist
+E1418,60,Mekong River Delta,not in province allowlist
+E1419,4, WHOLE COUNTRY,not in province allowlist
+E1419,5,Red River Delta,not in province allowlist
+E1419,17,Northern midlands and mountain areas,not in province allowlist
+E1419,32,Northern Central area and Central coastal area,not in province allowlist
+E1419,47,Central Highlands,not in province allowlist
+E1419,53,South East,not in province allowlist
+E1419,60,Mekong River Delta,not in province allowlist
+E1419,74,Unidentified,not in province allowlist
+E1421,4, WHOLE COUNTRY,not in province allowlist
+E1421,5,Red River Delta,not in province allowlist
+E1421,18,Northern midlands and mountain areas,not in province allowlist
+E1421,33,Northern Central area and Central coastal area,not in province allowlist
+E1421,48,Central Highlands,not in province allowlist
+E1421,54,South East,not in province allowlist
+E1421,61,Mekong River Delta,not in province allowlist
+E1422,4, WHOLE COUNTRY,not in province allowlist
+E1422,5,Red River Delta,not in province allowlist
+E1422,17,Northern midlands and mountain areas,not in province allowlist
+E1422,32,Northern Central area and Central coastal area,not in province allowlist
+E1422,47,Central Highlands,not in province allowlist
+E1422,53,South East,not in province allowlist
+E1422,60,Mekong River Delta,not in province allowlist
+E1425,4, WHOLE COUNTRY,not in province allowlist
+E1425,5,Red River Delta,not in province allowlist
+E1425,17,Northern midlands and mountain areas,not in province allowlist
+E1425,32,Northern Central area and Central coastal area,not in province allowlist
+E1425,47,Central Highlands,not in province allowlist
+E1425,53,South East,not in province allowlist
+E1425,60,Mekong River Delta,not in province allowlist
+E1428,4, WHOLE COUNTRY,not in province allowlist
+E1428,5,Red River Delta,not in province allowlist
+E1428,17,Northern midlands and mountain areas,not in province allowlist
+E1428,32,Northern Central area and Central coastal area,not in province allowlist
+E1428,47,Central Highlands,not in province allowlist
+E1428,53,South East,not in province allowlist
+E1428,60,Mekong River Delta,not in province allowlist
+E1430,4, WHOLE COUNTRY,not in province allowlist
+E1430,5,Red River Delta,not in province allowlist
+E1430,17,Northern midlands and mountain areas,not in province allowlist
+E1430,32,Northern Central area and Central coastal area,not in province allowlist
+E1430,47,Central Highlands,not in province allowlist
+E1430,53,South East,not in province allowlist
+E1430,60,Mekong River Delta,not in province allowlist
+E1432,4, WHOLE COUNTRY,not in province allowlist
+E1432,5,Red River Delta,not in province allowlist
+E1432,17,Northern midlands and mountain areas,not in province allowlist
+E1432,32,Northern Central area and Central coastal area,not in province allowlist
+E1432,47,Central Highlands,not in province allowlist
+E1432,53,South East,not in province allowlist
+E1432,60,Mekong River Delta,not in province allowlist
+E1436,4, WHOLE COUNTRY,not in province allowlist
+E1436,5,Red River Delta,not in province allowlist
+E1436,17,Northern midlands and mountain areas,not in province allowlist
+E1436,32,Northern Central area and Central coastal area,not in province allowlist
+E1436,47,Central Highlands,not in province allowlist
+E1436,53,South East,not in province allowlist
+E1436,60,Mekong River Delta,not in province allowlist
+E1437,4, WHOLE COUNTRY,not in province allowlist
+E1439,4, WHOLE COUNTRY,not in province allowlist
+E1439,5,Red River Delta,not in province allowlist
+E1439,17,Northern midlands and mountain areas,not in province allowlist
+E1439,32,Northern Central area and Central coastal area,not in province allowlist
+E1439,47,Central Highlands,not in province allowlist
+E1439,53,South East,not in province allowlist
+E1439,60,Mekong River Delta,not in province allowlist
+E1447,4, WHOLE COUNTRY,not in province allowlist
+E1447,5,Red River Delta,not in province allowlist
+E1447,18,Northern midlands and mountain areas,not in province allowlist
+E1447,33,Northern Central area and Central coastal area,not in province allowlist
+E1447,48,Central Highlands,not in province allowlist
+E1447,54,South East,not in province allowlist
+E1447,61,Mekong River Delta,not in province allowlist
+E1448,4, WHOLE COUNTRY,not in province allowlist
+E1448,5,Red River Delta,not in province allowlist
+E1448,17,Northern midlands and mountain areas,not in province allowlist
+E1448,32,Northern Central area and Central coastal area,not in province allowlist
+E1448,47,Central Highlands,not in province allowlist
+E1448,53,South East,not in province allowlist
+E1448,60,Mekong River Delta,not in province allowlist
+E1453,4, WHOLE COUNTRY,not in province allowlist
+E1453,5,Red River Delta,not in province allowlist
+E1453,17,Northern midlands and mountain areas,not in province allowlist
+E1453,32,Northern Central area and Central coastal area,not in province allowlist
+E1453,47,Central Highlands,not in province allowlist
+E1453,53,South East,not in province allowlist
+E1453,60,Mekong River Delta,not in province allowlist
+E1454,4, WHOLE COUNTRY,not in province allowlist
+E1454,5,Red River Delta,not in province allowlist
+E1454,17,Northern midlands and mountain areas,not in province allowlist
+E1454,32,Northern Central area and Central coastal area,not in province allowlist
+E1454,47,Central Highlands,not in province allowlist
+E1454,53,South East,not in province allowlist
+E1454,60,Mekong River Delta,not in province allowlist
+E1456,4, WHOLE COUNTRY,not in province allowlist
+E1456,5,Red River Delta,not in province allowlist
+E1456,17,Northern midlands and mountain areas,not in province allowlist
+E1456,32,Northern Central area and Central coastal area,not in province allowlist
+E1456,47,Central Highlands,not in province allowlist
+E1456,53,South East,not in province allowlist
+E1456,60,Mekong River Delta,not in province allowlist
+E1458,4, WHOLE COUNTRY,not in province allowlist
+E1461,4, WHOLE COUNTRY,not in province allowlist
+E1463,4, WHOLE COUNTRY,not in province allowlist
+E1463,5,Red River Delta,not in province allowlist
+E1463,17,Northern midlands and mountain areas,not in province allowlist
+E1463,32,Northern Central area and Central coastal area,not in province allowlist
+E1463,47,Central Highlands,not in province allowlist
+E1463,53,South East,not in province allowlist
+E1463,60,Mekong River Delta,not in province allowlist
+E1465,4, WHOLE COUNTRY,not in province allowlist
+E1465,5,Red River Delta,not in province allowlist
+E1465,17,Northern midlands and mountain areas,not in province allowlist
+E1465,32,Northern Central area and Central coastal area,not in province allowlist
+E1465,47,Central Highlands,not in province allowlist
+E1465,53,South East,not in province allowlist
+E1465,60,Mekong River Delta,not in province allowlist
+E1467,4, WHOLE COUNTRY,not in province allowlist
+E1467,5,Red River Delta,not in province allowlist
+E1467,17,Northern midlands and mountain areas,not in province allowlist
+E1467,32,Northern Central area and Central coastal area,not in province allowlist
+E1467,47,Central Highlands,not in province allowlist
+E1467,53,South East,not in province allowlist
+E1467,60,Mekong River Delta,not in province allowlist
+E1469,4, WHOLE COUNTRY,not in province allowlist
+E1469,5,Red River Delta,not in province allowlist
+E1469,17,Northern midlands and mountain areas,not in province allowlist
+E1469,32,Northern Central area and Central coastal area,not in province allowlist
+E1469,47,Central Highlands,not in province allowlist
+E1469,53,South East,not in province allowlist
+E1469,60,Mekong River Delta,not in province allowlist
+E1471,4, WHOLE COUNTRY,not in province allowlist
+E1471,5,Red River Delta,not in province allowlist
+E1471,17,Northern midlands and mountain areas,not in province allowlist
+E1471,32,Northern Central area and Central coastal area,not in province allowlist
+E1471,47,Central Highlands,not in province allowlist
+E1471,53,South East,not in province allowlist
+E1471,60,Mekong River Delta,not in province allowlist
+E1473,4, WHOLE COUNTRY,not in province allowlist
+E1473,5,Red River Delta,not in province allowlist
+E1473,17,Northern midlands and mountain areas,not in province allowlist
+E1473,32,Northern Central area and Central coastal area,not in province allowlist
+E1473,47,Central Highlands,not in province allowlist
+E1473,53,South East,not in province allowlist
+E1473,60,Mekong River Delta,not in province allowlist
+E1476,4, WHOLE COUNTRY,not in province allowlist
+E1476,5,Red River Delta,not in province allowlist
+E1476,17,Northern midlands and mountain areas,not in province allowlist
+E1476,32,Northern Central area and Central coastal area,not in province allowlist
+E1476,47,Central Highlands,not in province allowlist
+E1476,53,South East,not in province allowlist
+E1476,60,Mekong River Delta,not in province allowlist
+E1479,4, WHOLE COUNTRY,not in province allowlist
+E1479,5,Red River Delta,not in province allowlist
+E1479,17,Northern midlands and mountain areas,not in province allowlist
+E1479,32,Northern Central area and Central coastal area,not in province allowlist
+E1479,47,Central Highlands,not in province allowlist
+E1479,53,South East,not in province allowlist
+E1479,60,Mekong River Delta,not in province allowlist
+E1479,74,Other,not in province allowlist
+E1479,75, Military,not in province allowlist
+E1479,76, Central level,not in province allowlist
+E1479,77,a,not in province allowlist
+E1481,4, WHOLE COUNTRY,not in province allowlist
+E1481,5,Red River Delta,not in province allowlist
+E1481,17,Northern midlands and mountain areas,not in province allowlist
+E1481,32,Northern Central area and Central coastal area,not in province allowlist
+E1481,47,Central Highlands,not in province allowlist
+E1481,53,South East,not in province allowlist
+E1481,60,Mekong River Delta,not in province allowlist
+E1481,74,Other,not in province allowlist
+E1481,75, Military procuracy,not in province allowlist
+E1481,76,Supreme people's procuracy,not in province allowlist
+E1482,4, WHOLE COUNTRY,not in province allowlist
+E1482,5,Red River Delta,not in province allowlist
+E1482,17,Northern midlands and mountain areas,not in province allowlist
+E1482,32,Northern Central area and Central coastal area,not in province allowlist
+E1482,47,Central Highlands,not in province allowlist
+E1482,53,South East,not in province allowlist
+E1482,60,Mekong River Delta,not in province allowlist
+E1482,74,Other,not in province allowlist
+E1483,4, WHOLE COUNTRY,not in province allowlist
+E1483,5,Red River Delta,not in province allowlist
+E1483,17,Northern midlands and mountain areas,not in province allowlist
+E1483,32,Northern Central area and Central coastal area,not in province allowlist
+E1483,47,Central Highlands,not in province allowlist
+E1483,53,South East,not in province allowlist
+E1483,60,Mekong River Delta,not in province allowlist
+E1483,74,Other,not in province allowlist
+E1485,4, WHOLE COUNTRY,not in province allowlist
+E1485,5,Red River Delta,not in province allowlist
+E1485,17,Northern midlands and mountain areas,not in province allowlist
+E1485,32,Northern Central area and Central coastal area,not in province allowlist
+E1485,47,Central Highlands,not in province allowlist
+E1485,53,South East,not in province allowlist
+E1485,60,Mekong River Delta,not in province allowlist
+E1488,4, WHOLE COUNTRY,not in province allowlist
+E1488,5,Red River Delta,not in province allowlist
+E1488,17,Northern midlands and mountain areas,not in province allowlist
+E1488,32,Northern Central area and Central coastal area,not in province allowlist
+E1488,47,Central Highlands,not in province allowlist
+E1488,53,South East,not in province allowlist
+E1488,60,Mekong River Delta,not in province allowlist
+E1488,74,Other,not in province allowlist
+E1490,4, WHOLE COUNTRY,not in province allowlist
+E1490,5,Red River Delta,not in province allowlist
+E1490,17,Northern midlands and mountain areas,not in province allowlist
+E1490,32,Northern Central area and Central coastal area,not in province allowlist
+E1490,47,Central Highlands,not in province allowlist
+E1490,53,South East,not in province allowlist
+E1490,60,Mekong River Delta,not in province allowlist
+E1490,74,Other,not in province allowlist
+E1494,4, WHOLE COUNTRY,not in province allowlist
+E1494,5,Red River Delta,not in province allowlist
+E1494,17,Northern midlands and mountain areas,not in province allowlist
+E1494,32,Northern Central area and Central coastal area,not in province allowlist
+E1494,47,Central Highlands,not in province allowlist
+E1494,53,South East,not in province allowlist
+E1494,60,Mekong River Delta,not in province allowlist
+E1495,4,WHOLE COUNTRY,not in province allowlist
+E1495,5,Red River Delta,not in province allowlist
+E1495,10,Northern midlands and mountain areas,not in province allowlist
+E1495,18,Northern Central area and Central coastal area,not in province allowlist
+E1495,22,Central Highlands,not in province allowlist
+E1495,27, South East,not in province allowlist
+E1495,29,Mekong River Delta,not in province allowlist
+E1496,4,WHOLE COUNTRY,not in province allowlist
+E1496,5,Red River Delta,not in province allowlist
+E1496,17,Northern midlands and mountain areas,not in province allowlist
+E1496,32,Northern Central area and Central coastal area,not in province allowlist
+E1496,47,Central Highlands,not in province allowlist
+E1496,53,South East,not in province allowlist
+E1496,60,Mekong River Delta,not in province allowlist
+E1497,4,WHOLE COUNTRY,not in province allowlist
+E1497,5,Red River Delta,not in province allowlist
+E1497,17,Northern midlands and mountain areas,not in province allowlist
+E1497,32,Northern Central area and Central coastal area,not in province allowlist
+E1497,47,Central Highlands,not in province allowlist
+E1497,53,South East,not in province allowlist
+E1497,60,Mekong River Delta,not in province allowlist
+E0101,4,WHOLE COUNTRY,not in province allowlist
+E0101,5,Red River Delta,not in province allowlist
+E0101,17,Northern midlands and mountain areas,not in province allowlist
+E0101,32,North Central area and Central coastal area,not in province allowlist
+E0101,47,Central Highlands,not in province allowlist
+E0101,53,South East,not in province allowlist
+E0101,60,Mekong River Delta,not in province allowlist
+E0103,4,WHOLE COUNTRY,not in province allowlist
+E0103,5,Red River Delta,not in province allowlist
+E0103,17,Northern midlands and mountain areas,not in province allowlist
+E0103,32,North Central area and Central coastal area,not in province allowlist
+E0103,47,Central Highlands,not in province allowlist
+E0103,53,South East,not in province allowlist
+E0103,60,Mekong River Delta,not in province allowlist
+E0103,74,NEC.,not in province allowlist
+E0104,4,WHOLE COUNTRY,not in province allowlist
+E0104,5,Red River Delta,not in province allowlist
+E0104,17,Northern midlands and mountain areas,not in province allowlist
+E0104,32,North Central area and Central coastal area,not in province allowlist
+E0104,47,Central Highlands,not in province allowlist
+E0104,53,South East,not in province allowlist
+E0104,60,Mekong River Delta,not in province allowlist
+E0104,74,Nec.,not in province allowlist
+E0105,4,WHOLE COUNTRY,not in province allowlist
+E0105,5,Red River Delta,not in province allowlist
+E0105,17,Northern midlands and mountain areas,not in province allowlist
+E0105,32,North Central area and Central coastal area,not in province allowlist
+E0105,47,Central Highlands,not in province allowlist
+E0105,53,South East,not in province allowlist
+E0105,60,Mekong River Delta,not in province allowlist
+E0105,74,Nec.,not in province allowlist
+E0105,75,%,not in province allowlist

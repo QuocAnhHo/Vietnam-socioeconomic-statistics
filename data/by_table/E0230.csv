@@ -1,0 +1,883 @@
+﻿section,indicator_id,province_code,province_name,geography_version,period,year,period_type,value,unit,value_status,period_status,source_id,source_row,source_column,raw_value,source_period_header,quality_flags,province_name_source
+population,e0230_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2010,2010,annual,24.9,Age,observed,not_specified,E0230,6,2,24.9,2010,,Ha Noi
+population,e0230_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2013,2013,annual,24.9,Age,observed,not_specified,E0230,6,3,24.9,2013,,Ha Noi
+population,e0230_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2014,2014,annual,25.1,Age,observed,not_specified,E0230,6,4,25.1,2014,,Ha Noi
+population,e0230_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2015,2015,annual,25.2,Age,observed,not_specified,E0230,6,5,25.2,2015,,Ha Noi
+population,e0230_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2016,2016,annual,25.3,Age,observed,not_specified,E0230,6,6,25.3,2016,,Ha Noi
+population,e0230_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2017,2017,annual,25.9,Age,observed,not_specified,E0230,6,7,25.9,2017,,Ha Noi
+population,e0230_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2018,2018,annual,26.2,Age,observed,not_specified,E0230,6,8,26.2,2018,,Ha Noi
+population,e0230_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2019,2019,annual,25.7,Age,observed,not_specified,E0230,6,9,25.7,2019,,Ha Noi
+population,e0230_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2020,2020,annual,25.8,Age,observed,not_specified,E0230,6,10,25.8,2020,,Ha Noi
+population,e0230_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2021,2021,annual,26.4,Age,observed,not_specified,E0230,6,11,26.4,2021,,Ha Noi
+population,e0230_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2022,2022,annual,26.9,Age,observed,not_specified,E0230,6,12,26.9,2022,,Ha Noi
+population,e0230_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2023,2023,annual,27.9,Age,observed,not_specified,E0230,6,13,27.9,2023,,Ha Noi
+population,e0230_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2024,2024,annual,27.8,Age,observed,not_specified,E0230,6,14,27.8,2024,,Ha Noi
+population,e0230_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2025,2025,annual,28.6,Age,observed,preliminary,E0230,6,15,28.6,Prel. 2025,,Ha Noi
+population,e0230_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2010,2010,annual,23.8,Age,observed,not_specified,E0230,7,2,23.8,2010,,Vinh Phuc
+population,e0230_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2013,2013,annual,23.7,Age,observed,not_specified,E0230,7,3,23.7,2013,,Vinh Phuc
+population,e0230_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2014,2014,annual,23.6,Age,observed,not_specified,E0230,7,4,23.6,2014,,Vinh Phuc
+population,e0230_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2015,2015,annual,23.6,Age,observed,not_specified,E0230,7,5,23.6,2015,,Vinh Phuc
+population,e0230_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2016,2016,annual,23.7,Age,observed,not_specified,E0230,7,6,23.7,2016,,Vinh Phuc
+population,e0230_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2017,2017,annual,23.7,Age,observed,not_specified,E0230,7,7,23.7,2017,,Vinh Phuc
+population,e0230_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2018,2018,annual,23.7,Age,observed,not_specified,E0230,7,8,23.7,2018,,Vinh Phuc
+population,e0230_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2019,2019,annual,23.8,Age,observed,not_specified,E0230,7,9,23.8,2019,,Vinh Phuc
+population,e0230_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2020,2020,annual,24.3,Age,observed,not_specified,E0230,7,10,24.3,2020,,Vinh Phuc
+population,e0230_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2021,2021,annual,24.5,Age,observed,not_specified,E0230,7,11,24.5,2021,,Vinh Phuc
+population,e0230_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2022,2022,annual,25.4,Age,observed,not_specified,E0230,7,12,25.4,2022,,Vinh Phuc
+population,e0230_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2023,2023,annual,25.4,Age,observed,not_specified,E0230,7,13,25.4,2023,,Vinh Phuc
+population,e0230_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2024,2024,annual,25.8,Age,observed,not_specified,E0230,7,14,25.8,2024,,Vinh Phuc
+population,e0230_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2025,2025,annual,26.2,Age,observed,preliminary,E0230,7,15,26.2,Prel. 2025,,Vinh Phuc
+population,e0230_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2010,2010,annual,22.7,Age,observed,not_specified,E0230,8,2,22.7,2010,,Bac Ninh
+population,e0230_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2013,2013,annual,22.8,Age,observed,not_specified,E0230,8,3,22.8,2013,,Bac Ninh
+population,e0230_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2014,2014,annual,23.5,Age,observed,not_specified,E0230,8,4,23.5,2014,,Bac Ninh
+population,e0230_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2015,2015,annual,23.4,Age,observed,not_specified,E0230,8,5,23.4,2015,,Bac Ninh
+population,e0230_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2016,2016,annual,23.6,Age,observed,not_specified,E0230,8,6,23.6,2016,,Bac Ninh
+population,e0230_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2017,2017,annual,23.8,Age,observed,not_specified,E0230,8,7,23.8,2017,,Bac Ninh
+population,e0230_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2018,2018,annual,24.0,Age,observed,not_specified,E0230,8,8,24.0,2018,,Bac Ninh
+population,e0230_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2019,2019,annual,24.3,Age,observed,not_specified,E0230,8,9,24.3,2019,,Bac Ninh
+population,e0230_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2020,2020,annual,24.4,Age,observed,not_specified,E0230,8,10,24.4,2020,,Bac Ninh
+population,e0230_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2021,2021,annual,24.7,Age,observed,not_specified,E0230,8,11,24.7,2021,,Bac Ninh
+population,e0230_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2022,2022,annual,25.1,Age,observed,not_specified,E0230,8,12,25.1,2022,,Bac Ninh
+population,e0230_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2023,2023,annual,25.4,Age,observed,not_specified,E0230,8,13,25.4,2023,,Bac Ninh
+population,e0230_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2024,2024,annual,25.5,Age,observed,not_specified,E0230,8,14,25.5,2024,,Bac Ninh
+population,e0230_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2025,2025,annual,26.0,Age,observed,preliminary,E0230,8,15,26.0,Prel. 2025,,Bac Ninh
+population,e0230_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2010,2010,annual,24.8,Age,observed,not_specified,E0230,9,2,24.8,2010,,Quang Ninh
+population,e0230_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2013,2013,annual,24.4,Age,observed,not_specified,E0230,9,3,24.4,2013,,Quang Ninh
+population,e0230_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2014,2014,annual,25.1,Age,observed,not_specified,E0230,9,4,25.1,2014,,Quang Ninh
+population,e0230_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2015,2015,annual,25.0,Age,observed,not_specified,E0230,9,5,25.0,2015,,Quang Ninh
+population,e0230_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2016,2016,annual,25.3,Age,observed,not_specified,E0230,9,6,25.3,2016,,Quang Ninh
+population,e0230_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2017,2017,annual,25.8,Age,observed,not_specified,E0230,9,7,25.8,2017,,Quang Ninh
+population,e0230_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2018,2018,annual,25.7,Age,observed,not_specified,E0230,9,8,25.7,2018,,Quang Ninh
+population,e0230_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2019,2019,annual,25.1,Age,observed,not_specified,E0230,9,9,25.1,2019,,Quang Ninh
+population,e0230_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2020,2020,annual,25.7,Age,observed,not_specified,E0230,9,10,25.7,2020,,Quang Ninh
+population,e0230_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2021,2021,annual,26.2,Age,observed,not_specified,E0230,9,11,26.2,2021,,Quang Ninh
+population,e0230_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2022,2022,annual,26.5,Age,observed,not_specified,E0230,9,12,26.5,2022,,Quang Ninh
+population,e0230_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2023,2023,annual,26.9,Age,observed,not_specified,E0230,9,13,26.9,2023,,Quang Ninh
+population,e0230_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2024,2024,annual,27.1,Age,observed,not_specified,E0230,9,14,27.1,2024,,Quang Ninh
+population,e0230_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2025,2025,annual,28.6,Age,observed,preliminary,E0230,9,15,28.6,Prel. 2025,,Quang Ninh
+population,e0230_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2010,2010,annual,24.3,Age,observed,not_specified,E0230,10,2,24.3,2010,,Hai Duong
+population,e0230_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2013,2013,annual,23.9,Age,observed,not_specified,E0230,10,3,23.9,2013,,Hai Duong
+population,e0230_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2014,2014,annual,24.9,Age,observed,not_specified,E0230,10,4,24.9,2014,,Hai Duong
+population,e0230_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2015,2015,annual,25.2,Age,observed,not_specified,E0230,10,5,25.2,2015,,Hai Duong
+population,e0230_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2016,2016,annual,25.1,Age,observed,not_specified,E0230,10,6,25.1,2016,,Hai Duong
+population,e0230_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2017,2017,annual,24.9,Age,observed,not_specified,E0230,10,7,24.9,2017,,Hai Duong
+population,e0230_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2018,2018,annual,25.3,Age,observed,not_specified,E0230,10,8,25.3,2018,,Hai Duong
+population,e0230_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2019,2019,annual,24.9,Age,observed,not_specified,E0230,10,9,24.9,2019,,Hai Duong
+population,e0230_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2020,2020,annual,25.1,Age,observed,not_specified,E0230,10,10,25.1,2020,,Hai Duong
+population,e0230_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2021,2021,annual,25.9,Age,observed,not_specified,E0230,10,11,25.9,2021,,Hai Duong
+population,e0230_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2022,2022,annual,26.8,Age,observed,not_specified,E0230,10,12,26.8,2022,,Hai Duong
+population,e0230_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2023,2023,annual,27.4,Age,observed,not_specified,E0230,10,13,27.4,2023,,Hai Duong
+population,e0230_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2024,2024,annual,26.9,Age,observed,not_specified,E0230,10,14,26.9,2024,,Hai Duong
+population,e0230_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2025,2025,annual,28.3,Age,observed,preliminary,E0230,10,15,28.3,Prel. 2025,,Hai Duong
+population,e0230_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2010,2010,annual,24.5,Age,observed,not_specified,E0230,11,2,24.5,2010,,Hai Phong
+population,e0230_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2013,2013,annual,24.5,Age,observed,not_specified,E0230,11,3,24.5,2013,,Hai Phong
+population,e0230_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2014,2014,annual,24.9,Age,observed,not_specified,E0230,11,4,24.9,2014,,Hai Phong
+population,e0230_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2015,2015,annual,25.1,Age,observed,not_specified,E0230,11,5,25.1,2015,,Hai Phong
+population,e0230_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2016,2016,annual,25.2,Age,observed,not_specified,E0230,11,6,25.2,2016,,Hai Phong
+population,e0230_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2017,2017,annual,25.4,Age,observed,not_specified,E0230,11,7,25.4,2017,,Hai Phong
+population,e0230_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2018,2018,annual,25.4,Age,observed,not_specified,E0230,11,8,25.4,2018,,Hai Phong
+population,e0230_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2019,2019,annual,25.5,Age,observed,not_specified,E0230,11,9,25.5,2019,,Hai Phong
+population,e0230_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2020,2020,annual,26.0,Age,observed,not_specified,E0230,11,10,26.0,2020,,Hai Phong
+population,e0230_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2021,2021,annual,26.7,Age,observed,not_specified,E0230,11,11,26.7,2021,,Hai Phong
+population,e0230_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2022,2022,annual,27.1,Age,observed,not_specified,E0230,11,12,27.1,2022,,Hai Phong
+population,e0230_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2023,2023,annual,27.4,Age,observed,not_specified,E0230,11,13,27.4,2023,,Hai Phong
+population,e0230_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2024,2024,annual,26.9,Age,observed,not_specified,E0230,11,14,26.9,2024,,Hai Phong
+population,e0230_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2025,2025,annual,28.1,Age,observed,preliminary,E0230,11,15,28.1,Prel. 2025,,Hai Phong
+population,e0230_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2010,2010,annual,23.5,Age,observed,not_specified,E0230,12,2,23.5,2010,,Hung Yen
+population,e0230_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2013,2013,annual,24.2,Age,observed,not_specified,E0230,12,3,24.2,2013,,Hung Yen
+population,e0230_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2014,2014,annual,23.9,Age,observed,not_specified,E0230,12,4,23.9,2014,,Hung Yen
+population,e0230_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2015,2015,annual,23.6,Age,observed,not_specified,E0230,12,5,23.6,2015,,Hung Yen
+population,e0230_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2016,2016,annual,24.0,Age,observed,not_specified,E0230,12,6,24.0,2016,,Hung Yen
+population,e0230_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2017,2017,annual,24.4,Age,observed,not_specified,E0230,12,7,24.4,2017,,Hung Yen
+population,e0230_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2018,2018,annual,24.3,Age,observed,not_specified,E0230,12,8,24.3,2018,,Hung Yen
+population,e0230_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2019,2019,annual,24.4,Age,observed,not_specified,E0230,12,9,24.4,2019,,Hung Yen
+population,e0230_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2020,2020,annual,25.0,Age,observed,not_specified,E0230,12,10,25.0,2020,,Hung Yen
+population,e0230_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2021,2021,annual,25.4,Age,observed,not_specified,E0230,12,11,25.4,2021,,Hung Yen
+population,e0230_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2022,2022,annual,26.4,Age,observed,not_specified,E0230,12,12,26.4,2022,,Hung Yen
+population,e0230_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2023,2023,annual,26.2,Age,observed,not_specified,E0230,12,13,26.2,2023,,Hung Yen
+population,e0230_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2024,2024,annual,26.5,Age,observed,not_specified,E0230,12,14,26.5,2024,,Hung Yen
+population,e0230_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2025,2025,annual,26.8,Age,observed,preliminary,E0230,12,15,26.8,Prel. 2025,,Hung Yen
+population,e0230_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2010,2010,annual,24.1,Age,observed,not_specified,E0230,13,2,24.1,2010,,Thai Binh
+population,e0230_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2013,2013,annual,25.1,Age,observed,not_specified,E0230,13,3,25.1,2013,,Thai Binh
+population,e0230_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2014,2014,annual,25.3,Age,observed,not_specified,E0230,13,4,25.3,2014,,Thai Binh
+population,e0230_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2015,2015,annual,24.7,Age,observed,not_specified,E0230,13,5,24.7,2015,,Thai Binh
+population,e0230_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2016,2016,annual,25.5,Age,observed,not_specified,E0230,13,6,25.5,2016,,Thai Binh
+population,e0230_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2017,2017,annual,25.4,Age,observed,not_specified,E0230,13,7,25.4,2017,,Thai Binh
+population,e0230_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2018,2018,annual,25.5,Age,observed,not_specified,E0230,13,8,25.5,2018,,Thai Binh
+population,e0230_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2019,2019,annual,25.2,Age,observed,not_specified,E0230,13,9,25.2,2019,,Thai Binh
+population,e0230_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2020,2020,annual,25.7,Age,observed,not_specified,E0230,13,10,25.7,2020,,Thai Binh
+population,e0230_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2021,2021,annual,26.1,Age,observed,not_specified,E0230,13,11,26.1,2021,,Thai Binh
+population,e0230_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2022,2022,annual,27.0,Age,observed,not_specified,E0230,13,12,27.0,2022,,Thai Binh
+population,e0230_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2023,2023,annual,27.3,Age,observed,not_specified,E0230,13,13,27.3,2023,,Thai Binh
+population,e0230_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2024,2024,annual,27.8,Age,observed,not_specified,E0230,13,14,27.8,2024,,Thai Binh
+population,e0230_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2025,2025,annual,28.1,Age,observed,preliminary,E0230,13,15,28.1,Prel. 2025,,Thai Binh
+population,e0230_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2010,2010,annual,23.9,Age,observed,not_specified,E0230,14,2,23.9,2010,,Ha Nam
+population,e0230_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2013,2013,annual,25.4,Age,observed,not_specified,E0230,14,3,25.4,2013,,Ha Nam
+population,e0230_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2014,2014,annual,25.4,Age,observed,not_specified,E0230,14,4,25.4,2014,,Ha Nam
+population,e0230_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2015,2015,annual,25.0,Age,observed,not_specified,E0230,14,5,25.0,2015,,Ha Nam
+population,e0230_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2016,2016,annual,25.7,Age,observed,not_specified,E0230,14,6,25.7,2016,,Ha Nam
+population,e0230_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2017,2017,annual,25.2,Age,observed,not_specified,E0230,14,7,25.2,2017,,Ha Nam
+population,e0230_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2018,2018,annual,25.0,Age,observed,not_specified,E0230,14,8,25.0,2018,,Ha Nam
+population,e0230_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2019,2019,annual,24.6,Age,observed,not_specified,E0230,14,9,24.6,2019,,Ha Nam
+population,e0230_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2020,2020,annual,24.9,Age,observed,not_specified,E0230,14,10,24.9,2020,,Ha Nam
+population,e0230_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2021,2021,annual,25.8,Age,observed,not_specified,E0230,14,11,25.8,2021,,Ha Nam
+population,e0230_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2022,2022,annual,26.7,Age,observed,not_specified,E0230,14,12,26.7,2022,,Ha Nam
+population,e0230_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2023,2023,annual,27.1,Age,observed,not_specified,E0230,14,13,27.1,2023,,Ha Nam
+population,e0230_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2024,2024,annual,26.2,Age,observed,not_specified,E0230,14,14,26.2,2024,,Ha Nam
+population,e0230_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2025,2025,annual,27.5,Age,observed,preliminary,E0230,14,15,27.5,Prel. 2025,,Ha Nam
+population,e0230_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2010,2010,annual,23.4,Age,observed,not_specified,E0230,15,2,23.4,2010,,Nam Dinh
+population,e0230_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2013,2013,annual,24.7,Age,observed,not_specified,E0230,15,3,24.7,2013,,Nam Dinh
+population,e0230_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2014,2014,annual,23.8,Age,observed,not_specified,E0230,15,4,23.8,2014,,Nam Dinh
+population,e0230_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2015,2015,annual,23.9,Age,observed,not_specified,E0230,15,5,23.9,2015,,Nam Dinh
+population,e0230_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2016,2016,annual,24.2,Age,observed,not_specified,E0230,15,6,24.2,2016,,Nam Dinh
+population,e0230_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2017,2017,annual,24.1,Age,observed,not_specified,E0230,15,7,24.1,2017,,Nam Dinh
+population,e0230_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2018,2018,annual,23.9,Age,observed,not_specified,E0230,15,8,23.9,2018,,Nam Dinh
+population,e0230_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2019,2019,annual,24.6,Age,observed,not_specified,E0230,15,9,24.6,2019,,Nam Dinh
+population,e0230_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2020,2020,annual,24.5,Age,observed,not_specified,E0230,15,10,24.5,2020,,Nam Dinh
+population,e0230_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2021,2021,annual,24.5,Age,observed,not_specified,E0230,15,11,24.5,2021,,Nam Dinh
+population,e0230_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2022,2022,annual,25.2,Age,observed,not_specified,E0230,15,12,25.2,2022,,Nam Dinh
+population,e0230_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2023,2023,annual,25.0,Age,observed,not_specified,E0230,15,13,25.0,2023,,Nam Dinh
+population,e0230_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2024,2024,annual,26.3,Age,observed,not_specified,E0230,15,14,26.3,2024,,Nam Dinh
+population,e0230_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2025,2025,annual,26.4,Age,observed,preliminary,E0230,15,15,26.4,Prel. 2025,,Nam Dinh
+population,e0230_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2010,2010,annual,24.5,Age,observed,not_specified,E0230,16,2,24.5,2010,,Ninh Binh
+population,e0230_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2013,2013,annual,24.0,Age,observed,not_specified,E0230,16,3,24.0,2013,,Ninh Binh
+population,e0230_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2014,2014,annual,24.5,Age,observed,not_specified,E0230,16,4,24.5,2014,,Ninh Binh
+population,e0230_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2015,2015,annual,24.3,Age,observed,not_specified,E0230,16,5,24.3,2015,,Ninh Binh
+population,e0230_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2016,2016,annual,24.2,Age,observed,not_specified,E0230,16,6,24.2,2016,,Ninh Binh
+population,e0230_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2017,2017,annual,24.7,Age,observed,not_specified,E0230,16,7,24.7,2017,,Ninh Binh
+population,e0230_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2018,2018,annual,24.8,Age,observed,not_specified,E0230,16,8,24.8,2018,,Ninh Binh
+population,e0230_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2019,2019,annual,24.8,Age,observed,not_specified,E0230,16,9,24.8,2019,,Ninh Binh
+population,e0230_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2020,2020,annual,24.8,Age,observed,not_specified,E0230,16,10,24.8,2020,,Ninh Binh
+population,e0230_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2021,2021,annual,24.9,Age,observed,not_specified,E0230,16,11,24.9,2021,,Ninh Binh
+population,e0230_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2022,2022,annual,25.8,Age,observed,not_specified,E0230,16,12,25.8,2022,,Ninh Binh
+population,e0230_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2023,2023,annual,25.6,Age,observed,not_specified,E0230,16,13,25.6,2023,,Ninh Binh
+population,e0230_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2024,2024,annual,26.5,Age,observed,not_specified,E0230,16,14,26.5,2024,,Ninh Binh
+population,e0230_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2025,2025,annual,26.3,Age,observed,preliminary,E0230,16,15,26.3,Prel. 2025,,Ninh Binh
+population,e0230_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2010,2010,annual,21.4,Age,observed,not_specified,E0230,18,2,21.4,2010,,Ha Giang
+population,e0230_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2013,2013,annual,20.6,Age,observed,not_specified,E0230,18,3,20.6,2013,,Ha Giang
+population,e0230_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2014,2014,annual,21.5,Age,observed,not_specified,E0230,18,4,21.5,2014,,Ha Giang
+population,e0230_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2015,2015,annual,21.3,Age,observed,not_specified,E0230,18,5,21.3,2015,,Ha Giang
+population,e0230_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2016,2016,annual,21.5,Age,observed,not_specified,E0230,18,6,21.5,2016,,Ha Giang
+population,e0230_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2017,2017,annual,21.5,Age,observed,not_specified,E0230,18,7,21.5,2017,,Ha Giang
+population,e0230_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2018,2018,annual,21.2,Age,observed,not_specified,E0230,18,8,21.2,2018,,Ha Giang
+population,e0230_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2019,2019,annual,21.4,Age,observed,not_specified,E0230,18,9,21.4,2019,,Ha Giang
+population,e0230_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2020,2020,annual,21.6,Age,observed,not_specified,E0230,18,10,21.6,2020,,Ha Giang
+population,e0230_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2021,2021,annual,22.2,Age,observed,not_specified,E0230,18,11,22.2,2021,,Ha Giang
+population,e0230_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2022,2022,annual,22.2,Age,observed,not_specified,E0230,18,12,22.2,2022,,Ha Giang
+population,e0230_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2023,2023,annual,22.8,Age,observed,not_specified,E0230,18,13,22.8,2023,,Ha Giang
+population,e0230_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2024,2024,annual,22.6,Age,observed,not_specified,E0230,18,14,22.6,2024,,Ha Giang
+population,e0230_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2025,2025,annual,23.1,Age,observed,preliminary,E0230,18,15,23.1,Prel. 2025,,Ha Giang
+population,e0230_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2010,2010,annual,22.4,Age,observed,not_specified,E0230,19,2,22.4,2010,,Cao Bang
+population,e0230_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2013,2013,annual,22.4,Age,observed,not_specified,E0230,19,3,22.4,2013,,Cao Bang
+population,e0230_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2014,2014,annual,22.6,Age,observed,not_specified,E0230,19,4,22.6,2014,,Cao Bang
+population,e0230_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2015,2015,annual,22.3,Age,observed,not_specified,E0230,19,5,22.3,2015,,Cao Bang
+population,e0230_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2016,2016,annual,22.2,Age,observed,not_specified,E0230,19,6,22.2,2016,,Cao Bang
+population,e0230_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2017,2017,annual,22.1,Age,observed,not_specified,E0230,19,7,22.1,2017,,Cao Bang
+population,e0230_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2018,2018,annual,22.4,Age,observed,not_specified,E0230,19,8,22.4,2018,,Cao Bang
+population,e0230_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2019,2019,annual,22.5,Age,observed,not_specified,E0230,19,9,22.5,2019,,Cao Bang
+population,e0230_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2020,2020,annual,22.5,Age,observed,not_specified,E0230,19,10,22.5,2020,,Cao Bang
+population,e0230_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2021,2021,annual,23.0,Age,observed,not_specified,E0230,19,11,23.0,2021,,Cao Bang
+population,e0230_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2022,2022,annual,23.4,Age,observed,not_specified,E0230,19,12,23.4,2022,,Cao Bang
+population,e0230_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2023,2023,annual,24.0,Age,observed,not_specified,E0230,19,13,24.0,2023,,Cao Bang
+population,e0230_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2024,2024,annual,24.2,Age,observed,not_specified,E0230,19,14,24.2,2024,,Cao Bang
+population,e0230_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2025,2025,annual,24.3,Age,observed,preliminary,E0230,19,15,24.3,Prel. 2025,,Cao Bang
+population,e0230_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2010,2010,annual,23.2,Age,observed,not_specified,E0230,20,2,23.2,2010,,Bac Kan
+population,e0230_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2013,2013,annual,22.5,Age,observed,not_specified,E0230,20,3,22.5,2013,,Bac Kan
+population,e0230_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2014,2014,annual,23.3,Age,observed,not_specified,E0230,20,4,23.3,2014,,Bac Kan
+population,e0230_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2015,2015,annual,23.4,Age,observed,not_specified,E0230,20,5,23.4,2015,,Bac Kan
+population,e0230_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2016,2016,annual,23.4,Age,observed,not_specified,E0230,20,6,23.4,2016,,Bac Kan
+population,e0230_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2017,2017,annual,23.4,Age,observed,not_specified,E0230,20,7,23.4,2017,,Bac Kan
+population,e0230_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2018,2018,annual,23.8,Age,observed,not_specified,E0230,20,8,23.8,2018,,Bac Kan
+population,e0230_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2019,2019,annual,23.5,Age,observed,not_specified,E0230,20,9,23.5,2019,,Bac Kan
+population,e0230_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2020,2020,annual,23.4,Age,observed,not_specified,E0230,20,10,23.4,2020,,Bac Kan
+population,e0230_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2021,2021,annual,24.4,Age,observed,not_specified,E0230,20,11,24.4,2021,,Bac Kan
+population,e0230_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2022,2022,annual,24.9,Age,observed,not_specified,E0230,20,12,24.9,2022,,Bac Kan
+population,e0230_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2023,2023,annual,24.7,Age,observed,not_specified,E0230,20,13,24.7,2023,,Bac Kan
+population,e0230_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2024,2024,annual,24.0,Age,observed,not_specified,E0230,20,14,24.0,2024,,Bac Kan
+population,e0230_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2025,2025,annual,25.5,Age,observed,preliminary,E0230,20,15,25.5,Prel. 2025,,Bac Kan
+population,e0230_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2010,2010,annual,23.2,Age,observed,not_specified,E0230,21,2,23.2,2010,,Tuyen Quang
+population,e0230_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2013,2013,annual,22.3,Age,observed,not_specified,E0230,21,3,22.3,2013,,Tuyen Quang
+population,e0230_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2014,2014,annual,22.8,Age,observed,not_specified,E0230,21,4,22.8,2014,,Tuyen Quang
+population,e0230_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2015,2015,annual,22.6,Age,observed,not_specified,E0230,21,5,22.6,2015,,Tuyen Quang
+population,e0230_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2016,2016,annual,22.6,Age,observed,not_specified,E0230,21,6,22.6,2016,,Tuyen Quang
+population,e0230_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2017,2017,annual,22.9,Age,observed,not_specified,E0230,21,7,22.9,2017,,Tuyen Quang
+population,e0230_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2018,2018,annual,23.2,Age,observed,not_specified,E0230,21,8,23.2,2018,,Tuyen Quang
+population,e0230_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2019,2019,annual,23.2,Age,observed,not_specified,E0230,21,9,23.2,2019,,Tuyen Quang
+population,e0230_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2020,2020,annual,23.9,Age,observed,not_specified,E0230,21,10,23.9,2020,,Tuyen Quang
+population,e0230_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2021,2021,annual,24.1,Age,observed,not_specified,E0230,21,11,24.1,2021,,Tuyen Quang
+population,e0230_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2022,2022,annual,25.1,Age,observed,not_specified,E0230,21,12,25.1,2022,,Tuyen Quang
+population,e0230_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2023,2023,annual,24.9,Age,observed,not_specified,E0230,21,13,24.9,2023,,Tuyen Quang
+population,e0230_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2024,2024,annual,25.0,Age,observed,not_specified,E0230,21,14,25.0,2024,,Tuyen Quang
+population,e0230_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2025,2025,annual,24.9,Age,observed,preliminary,E0230,21,15,24.9,Prel. 2025,,Tuyen Quang
+population,e0230_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2010,2010,annual,21.8,Age,observed,not_specified,E0230,22,2,21.8,2010,,Lao Cai
+population,e0230_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2013,2013,annual,21.7,Age,observed,not_specified,E0230,22,3,21.7,2013,,Lao Cai
+population,e0230_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2014,2014,annual,22.1,Age,observed,not_specified,E0230,22,4,22.1,2014,,Lao Cai
+population,e0230_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2015,2015,annual,22.2,Age,observed,not_specified,E0230,22,5,22.2,2015,,Lao Cai
+population,e0230_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2016,2016,annual,22.5,Age,observed,not_specified,E0230,22,6,22.5,2016,,Lao Cai
+population,e0230_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2017,2017,annual,22.1,Age,observed,not_specified,E0230,22,7,22.1,2017,,Lao Cai
+population,e0230_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2018,2018,annual,22.1,Age,observed,not_specified,E0230,22,8,22.1,2018,,Lao Cai
+population,e0230_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2019,2019,annual,22.0,Age,observed,not_specified,E0230,22,9,22.0,2019,,Lao Cai
+population,e0230_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2020,2020,annual,22.9,Age,observed,not_specified,E0230,22,10,22.9,2020,,Lao Cai
+population,e0230_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2021,2021,annual,23.4,Age,observed,not_specified,E0230,22,11,23.4,2021,,Lao Cai
+population,e0230_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2022,2022,annual,23.6,Age,observed,not_specified,E0230,22,12,23.6,2022,,Lao Cai
+population,e0230_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2023,2023,annual,24.0,Age,observed,not_specified,E0230,22,13,24.0,2023,,Lao Cai
+population,e0230_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2024,2024,annual,24.0,Age,observed,not_specified,E0230,22,14,24.0,2024,,Lao Cai
+population,e0230_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2025,2025,annual,24.9,Age,observed,preliminary,E0230,22,15,24.9,Prel. 2025,,Lao Cai
+population,e0230_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2010,2010,annual,22.2,Age,observed,not_specified,E0230,23,2,22.2,2010,,Yen Bai
+population,e0230_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2013,2013,annual,21.6,Age,observed,not_specified,E0230,23,3,21.6,2013,,Yen Bai
+population,e0230_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2014,2014,annual,22.1,Age,observed,not_specified,E0230,23,4,22.1,2014,,Yen Bai
+population,e0230_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2015,2015,annual,22.4,Age,observed,not_specified,E0230,23,5,22.4,2015,,Yen Bai
+population,e0230_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2016,2016,annual,22.3,Age,observed,not_specified,E0230,23,6,22.3,2016,,Yen Bai
+population,e0230_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2017,2017,annual,22.2,Age,observed,not_specified,E0230,23,7,22.2,2017,,Yen Bai
+population,e0230_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2018,2018,annual,22.2,Age,observed,not_specified,E0230,23,8,22.2,2018,,Yen Bai
+population,e0230_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2019,2019,annual,22.5,Age,observed,not_specified,E0230,23,9,22.5,2019,,Yen Bai
+population,e0230_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2020,2020,annual,23.2,Age,observed,not_specified,E0230,23,10,23.2,2020,,Yen Bai
+population,e0230_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2021,2021,annual,22.8,Age,observed,not_specified,E0230,23,11,22.8,2021,,Yen Bai
+population,e0230_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2022,2022,annual,23.7,Age,observed,not_specified,E0230,23,12,23.7,2022,,Yen Bai
+population,e0230_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2023,2023,annual,24.3,Age,observed,not_specified,E0230,23,13,24.3,2023,,Yen Bai
+population,e0230_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2024,2024,annual,23.9,Age,observed,not_specified,E0230,23,14,23.9,2024,,Yen Bai
+population,e0230_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2025,2025,annual,24.5,Age,observed,preliminary,E0230,23,15,24.5,Prel. 2025,,Yen Bai
+population,e0230_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2010,2010,annual,23.8,Age,observed,not_specified,E0230,24,2,23.8,2010,,Thai  Nguyen
+population,e0230_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2013,2013,annual,23.5,Age,observed,not_specified,E0230,24,3,23.5,2013,,Thai  Nguyen
+population,e0230_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2014,2014,annual,23.9,Age,observed,not_specified,E0230,24,4,23.9,2014,,Thai  Nguyen
+population,e0230_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2015,2015,annual,24.3,Age,observed,not_specified,E0230,24,5,24.3,2015,,Thai  Nguyen
+population,e0230_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2016,2016,annual,24.2,Age,observed,not_specified,E0230,24,6,24.2,2016,,Thai  Nguyen
+population,e0230_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2017,2017,annual,24.5,Age,observed,not_specified,E0230,24,7,24.5,2017,,Thai  Nguyen
+population,e0230_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2018,2018,annual,24.9,Age,observed,not_specified,E0230,24,8,24.9,2018,,Thai  Nguyen
+population,e0230_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2019,2019,annual,24.5,Age,observed,not_specified,E0230,24,9,24.5,2019,,Thai  Nguyen
+population,e0230_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2020,2020,annual,24.5,Age,observed,not_specified,E0230,24,10,24.5,2020,,Thai  Nguyen
+population,e0230_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2021,2021,annual,24.9,Age,observed,not_specified,E0230,24,11,24.9,2021,,Thai  Nguyen
+population,e0230_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2022,2022,annual,25.2,Age,observed,not_specified,E0230,24,12,25.2,2022,,Thai  Nguyen
+population,e0230_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2023,2023,annual,25.8,Age,observed,not_specified,E0230,24,13,25.8,2023,,Thai  Nguyen
+population,e0230_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2024,2024,annual,25.1,Age,observed,not_specified,E0230,24,14,25.1,2024,,Thai  Nguyen
+population,e0230_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2025,2025,annual,26.2,Age,observed,preliminary,E0230,24,15,26.2,Prel. 2025,,Thai  Nguyen
+population,e0230_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2010,2010,annual,23.6,Age,observed,not_specified,E0230,25,2,23.6,2010,,Lang Son
+population,e0230_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2013,2013,annual,23.7,Age,observed,not_specified,E0230,25,3,23.7,2013,,Lang Son
+population,e0230_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2014,2014,annual,23.7,Age,observed,not_specified,E0230,25,4,23.7,2014,,Lang Son
+population,e0230_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2015,2015,annual,23.9,Age,observed,not_specified,E0230,25,5,23.9,2015,,Lang Son
+population,e0230_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2016,2016,annual,24.1,Age,observed,not_specified,E0230,25,6,24.1,2016,,Lang Son
+population,e0230_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2017,2017,annual,24.5,Age,observed,not_specified,E0230,25,7,24.5,2017,,Lang Son
+population,e0230_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2018,2018,annual,24.6,Age,observed,not_specified,E0230,25,8,24.6,2018,,Lang Son
+population,e0230_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2019,2019,annual,24.4,Age,observed,not_specified,E0230,25,9,24.4,2019,,Lang Son
+population,e0230_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2020,2020,annual,24.9,Age,observed,not_specified,E0230,25,10,24.9,2020,,Lang Son
+population,e0230_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2021,2021,annual,24.8,Age,observed,not_specified,E0230,25,11,24.8,2021,,Lang Son
+population,e0230_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2022,2022,annual,25.7,Age,observed,not_specified,E0230,25,12,25.7,2022,,Lang Son
+population,e0230_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2023,2023,annual,25.6,Age,observed,not_specified,E0230,25,13,25.6,2023,,Lang Son
+population,e0230_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2024,2024,annual,25.8,Age,observed,not_specified,E0230,25,14,25.8,2024,,Lang Son
+population,e0230_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2025,2025,annual,25.8,Age,observed,preliminary,E0230,25,15,25.8,Prel. 2025,,Lang Son
+population,e0230_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2010,2010,annual,23.4,Age,observed,not_specified,E0230,26,2,23.4,2010,,Bac Giang
+population,e0230_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2013,2013,annual,23.4,Age,observed,not_specified,E0230,26,3,23.4,2013,,Bac Giang
+population,e0230_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2014,2014,annual,23.7,Age,observed,not_specified,E0230,26,4,23.7,2014,,Bac Giang
+population,e0230_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2015,2015,annual,23.3,Age,observed,not_specified,E0230,26,5,23.3,2015,,Bac Giang
+population,e0230_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2016,2016,annual,23.6,Age,observed,not_specified,E0230,26,6,23.6,2016,,Bac Giang
+population,e0230_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2017,2017,annual,23.7,Age,observed,not_specified,E0230,26,7,23.7,2017,,Bac Giang
+population,e0230_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2018,2018,annual,24.5,Age,observed,not_specified,E0230,26,8,24.5,2018,,Bac Giang
+population,e0230_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2019,2019,annual,24.2,Age,observed,not_specified,E0230,26,9,24.2,2019,,Bac Giang
+population,e0230_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2020,2020,annual,24.7,Age,observed,not_specified,E0230,26,10,24.7,2020,,Bac Giang
+population,e0230_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2021,2021,annual,25.3,Age,observed,not_specified,E0230,26,11,25.3,2021,,Bac Giang
+population,e0230_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2022,2022,annual,25.7,Age,observed,not_specified,E0230,26,12,25.7,2022,,Bac Giang
+population,e0230_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2023,2023,annual,26.4,Age,observed,not_specified,E0230,26,13,26.4,2023,,Bac Giang
+population,e0230_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2024,2024,annual,26.6,Age,observed,not_specified,E0230,26,14,26.6,2024,,Bac Giang
+population,e0230_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2025,2025,annual,26.8,Age,observed,preliminary,E0230,26,15,26.8,Prel. 2025,,Bac Giang
+population,e0230_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2010,2010,annual,23.7,Age,observed,not_specified,E0230,27,2,23.7,2010,,Phu Tho
+population,e0230_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2013,2013,annual,23.5,Age,observed,not_specified,E0230,27,3,23.5,2013,,Phu Tho
+population,e0230_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2014,2014,annual,24.0,Age,observed,not_specified,E0230,27,4,24.0,2014,,Phu Tho
+population,e0230_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2015,2015,annual,23.6,Age,observed,not_specified,E0230,27,5,23.6,2015,,Phu Tho
+population,e0230_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2016,2016,annual,23.6,Age,observed,not_specified,E0230,27,6,23.6,2016,,Phu Tho
+population,e0230_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2017,2017,annual,23.9,Age,observed,not_specified,E0230,27,7,23.9,2017,,Phu Tho
+population,e0230_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2018,2018,annual,24.0,Age,observed,not_specified,E0230,27,8,24.0,2018,,Phu Tho
+population,e0230_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2019,2019,annual,24.2,Age,observed,not_specified,E0230,27,9,24.2,2019,,Phu Tho
+population,e0230_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2020,2020,annual,24.3,Age,observed,not_specified,E0230,27,10,24.3,2020,,Phu Tho
+population,e0230_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2021,2021,annual,24.9,Age,observed,not_specified,E0230,27,11,24.9,2021,,Phu Tho
+population,e0230_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2022,2022,annual,25.8,Age,observed,not_specified,E0230,27,12,25.8,2022,,Phu Tho
+population,e0230_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2023,2023,annual,25.6,Age,observed,not_specified,E0230,27,13,25.6,2023,,Phu Tho
+population,e0230_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2024,2024,annual,25.8,Age,observed,not_specified,E0230,27,14,25.8,2024,,Phu Tho
+population,e0230_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2025,2025,annual,26.4,Age,observed,preliminary,E0230,27,15,26.4,Prel. 2025,,Phu Tho
+population,e0230_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2010,2010,annual,21.7,Age,observed,not_specified,E0230,28,2,21.7,2010,,Dien Bien
+population,e0230_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2013,2013,annual,21.4,Age,observed,not_specified,E0230,28,3,21.4,2013,,Dien Bien
+population,e0230_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2014,2014,annual,21.6,Age,observed,not_specified,E0230,28,4,21.6,2014,,Dien Bien
+population,e0230_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2015,2015,annual,21.4,Age,observed,not_specified,E0230,28,5,21.4,2015,,Dien Bien
+population,e0230_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2016,2016,annual,21.5,Age,observed,not_specified,E0230,28,6,21.5,2016,,Dien Bien
+population,e0230_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2017,2017,annual,21.3,Age,observed,not_specified,E0230,28,7,21.3,2017,,Dien Bien
+population,e0230_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2018,2018,annual,21.7,Age,observed,not_specified,E0230,28,8,21.7,2018,,Dien Bien
+population,e0230_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2019,2019,annual,21.3,Age,observed,not_specified,E0230,28,9,21.3,2019,,Dien Bien
+population,e0230_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2020,2020,annual,22.6,Age,observed,not_specified,E0230,28,10,22.6,2020,,Dien Bien
+population,e0230_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2021,2021,annual,22.2,Age,observed,not_specified,E0230,28,11,22.2,2021,,Dien Bien
+population,e0230_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2022,2022,annual,22.8,Age,observed,not_specified,E0230,28,12,22.8,2022,,Dien Bien
+population,e0230_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2023,2023,annual,23.0,Age,observed,not_specified,E0230,28,13,23.0,2023,,Dien Bien
+population,e0230_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2024,2024,annual,23.3,Age,observed,not_specified,E0230,28,14,23.3,2024,,Dien Bien
+population,e0230_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2025,2025,annual,23.0,Age,observed,preliminary,E0230,28,15,23.0,Prel. 2025,,Dien Bien
+population,e0230_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2010,2010,annual,21.1,Age,observed,not_specified,E0230,29,2,21.1,2010,,Lai Chau
+population,e0230_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2013,2013,annual,20.7,Age,observed,not_specified,E0230,29,3,20.7,2013,,Lai Chau
+population,e0230_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2014,2014,annual,20.4,Age,observed,not_specified,E0230,29,4,20.4,2014,,Lai Chau
+population,e0230_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2015,2015,annual,20.3,Age,observed,not_specified,E0230,29,5,20.3,2015,,Lai Chau
+population,e0230_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2016,2016,annual,20.6,Age,observed,not_specified,E0230,29,6,20.6,2016,,Lai Chau
+population,e0230_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2017,2017,annual,20.6,Age,observed,not_specified,E0230,29,7,20.6,2017,,Lai Chau
+population,e0230_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2018,2018,annual,20.6,Age,observed,not_specified,E0230,29,8,20.6,2018,,Lai Chau
+population,e0230_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2019,2019,annual,20.9,Age,observed,not_specified,E0230,29,9,20.9,2019,,Lai Chau
+population,e0230_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2020,2020,annual,21.5,Age,observed,not_specified,E0230,29,10,21.5,2020,,Lai Chau
+population,e0230_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2021,2021,annual,21.6,Age,observed,not_specified,E0230,29,11,21.6,2021,,Lai Chau
+population,e0230_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2022,2022,annual,21.9,Age,observed,not_specified,E0230,29,12,21.9,2022,,Lai Chau
+population,e0230_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2023,2023,annual,22.3,Age,observed,not_specified,E0230,29,13,22.3,2023,,Lai Chau
+population,e0230_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2024,2024,annual,22.8,Age,observed,not_specified,E0230,29,14,22.8,2024,,Lai Chau
+population,e0230_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2025,2025,annual,22.9,Age,observed,preliminary,E0230,29,15,22.9,Prel. 2025,,Lai Chau
+population,e0230_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2010,2010,annual,21.3,Age,observed,not_specified,E0230,30,2,21.3,2010,,Son La
+population,e0230_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2013,2013,annual,20.5,Age,observed,not_specified,E0230,30,3,20.5,2013,,Son La
+population,e0230_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2014,2014,annual,21.2,Age,observed,not_specified,E0230,30,4,21.2,2014,,Son La
+population,e0230_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2015,2015,annual,20.8,Age,observed,not_specified,E0230,30,5,20.8,2015,,Son La
+population,e0230_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2016,2016,annual,20.7,Age,observed,not_specified,E0230,30,6,20.7,2016,,Son La
+population,e0230_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2017,2017,annual,20.8,Age,observed,not_specified,E0230,30,7,20.8,2017,,Son La
+population,e0230_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2018,2018,annual,21.0,Age,observed,not_specified,E0230,30,8,21.0,2018,,Son La
+population,e0230_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2019,2019,annual,21.1,Age,observed,not_specified,E0230,30,9,21.1,2019,,Son La
+population,e0230_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2020,2020,annual,21.5,Age,observed,not_specified,E0230,30,10,21.5,2020,,Son La
+population,e0230_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2021,2021,annual,21.8,Age,observed,not_specified,E0230,30,11,21.8,2021,,Son La
+population,e0230_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2022,2022,annual,22.1,Age,observed,not_specified,E0230,30,12,22.1,2022,,Son La
+population,e0230_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2023,2023,annual,22.9,Age,observed,not_specified,E0230,30,13,22.9,2023,,Son La
+population,e0230_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2024,2024,annual,22.2,Age,observed,not_specified,E0230,30,14,22.2,2024,,Son La
+population,e0230_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2025,2025,annual,23.4,Age,observed,preliminary,E0230,30,15,23.4,Prel. 2025,,Son La
+population,e0230_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2010,2010,annual,23.5,Age,observed,not_specified,E0230,31,2,23.5,2010,,Hoa Binh
+population,e0230_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2013,2013,annual,23.3,Age,observed,not_specified,E0230,31,3,23.3,2013,,Hoa Binh
+population,e0230_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2014,2014,annual,23.4,Age,observed,not_specified,E0230,31,4,23.4,2014,,Hoa Binh
+population,e0230_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2015,2015,annual,23.0,Age,observed,not_specified,E0230,31,5,23.0,2015,,Hoa Binh
+population,e0230_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2016,2016,annual,22.9,Age,observed,not_specified,E0230,31,6,22.9,2016,,Hoa Binh
+population,e0230_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2017,2017,annual,23.0,Age,observed,not_specified,E0230,31,7,23.0,2017,,Hoa Binh
+population,e0230_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2018,2018,annual,23.2,Age,observed,not_specified,E0230,31,8,23.2,2018,,Hoa Binh
+population,e0230_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2019,2019,annual,23.7,Age,observed,not_specified,E0230,31,9,23.7,2019,,Hoa Binh
+population,e0230_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2020,2020,annual,24.3,Age,observed,not_specified,E0230,31,10,24.3,2020,,Hoa Binh
+population,e0230_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2021,2021,annual,24.6,Age,observed,not_specified,E0230,31,11,24.6,2021,,Hoa Binh
+population,e0230_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2022,2022,annual,25.3,Age,observed,not_specified,E0230,31,12,25.3,2022,,Hoa Binh
+population,e0230_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2023,2023,annual,25.4,Age,observed,not_specified,E0230,31,13,25.4,2023,,Hoa Binh
+population,e0230_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2024,2024,annual,25.7,Age,observed,not_specified,E0230,31,14,25.7,2024,,Hoa Binh
+population,e0230_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2025,2025,annual,25.7,Age,observed,preliminary,E0230,31,15,25.7,Prel. 2025,,Hoa Binh
+population,e0230_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2010,2010,annual,23.6,Age,observed,not_specified,E0230,33,2,23.6,2010,,Thanh Hoa
+population,e0230_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2013,2013,annual,22.8,Age,observed,not_specified,E0230,33,3,22.8,2013,,Thanh Hoa
+population,e0230_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2014,2014,annual,24.5,Age,observed,not_specified,E0230,33,4,24.5,2014,,Thanh Hoa
+population,e0230_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2015,2015,annual,23.7,Age,observed,not_specified,E0230,33,5,23.7,2015,,Thanh Hoa
+population,e0230_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2016,2016,annual,24.1,Age,observed,not_specified,E0230,33,6,24.1,2016,,Thanh Hoa
+population,e0230_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2017,2017,annual,24.0,Age,observed,not_specified,E0230,33,7,24.0,2017,,Thanh Hoa
+population,e0230_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2018,2018,annual,24.1,Age,observed,not_specified,E0230,33,8,24.1,2018,,Thanh Hoa
+population,e0230_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2019,2019,annual,24.6,Age,observed,not_specified,E0230,33,9,24.6,2019,,Thanh Hoa
+population,e0230_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2020,2020,annual,24.7,Age,observed,not_specified,E0230,33,10,24.7,2020,,Thanh Hoa
+population,e0230_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2021,2021,annual,24.9,Age,observed,not_specified,E0230,33,11,24.9,2021,,Thanh Hoa
+population,e0230_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2022,2022,annual,26.1,Age,observed,not_specified,E0230,33,12,26.1,2022,,Thanh Hoa
+population,e0230_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2023,2023,annual,25.9,Age,observed,not_specified,E0230,33,13,25.9,2023,,Thanh Hoa
+population,e0230_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2024,2024,annual,26.9,Age,observed,not_specified,E0230,33,14,26.9,2024,,Thanh Hoa
+population,e0230_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2025,2025,annual,27.7,Age,observed,preliminary,E0230,33,15,27.7,Prel. 2025,,Thanh Hoa
+population,e0230_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2010,2010,annual,23.9,Age,observed,not_specified,E0230,34,2,23.9,2010,,Nghe An
+population,e0230_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2013,2013,annual,24.3,Age,observed,not_specified,E0230,34,3,24.3,2013,,Nghe An
+population,e0230_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2014,2014,annual,25.2,Age,observed,not_specified,E0230,34,4,25.2,2014,,Nghe An
+population,e0230_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2015,2015,annual,24.9,Age,observed,not_specified,E0230,34,5,24.9,2015,,Nghe An
+population,e0230_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2016,2016,annual,24.7,Age,observed,not_specified,E0230,34,6,24.7,2016,,Nghe An
+population,e0230_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2017,2017,annual,25.0,Age,observed,not_specified,E0230,34,7,25.0,2017,,Nghe An
+population,e0230_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2018,2018,annual,25.4,Age,observed,not_specified,E0230,34,8,25.4,2018,,Nghe An
+population,e0230_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2019,2019,annual,25.4,Age,observed,not_specified,E0230,34,9,25.4,2019,,Nghe An
+population,e0230_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2020,2020,annual,26.4,Age,observed,not_specified,E0230,34,10,26.4,2020,,Nghe An
+population,e0230_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2021,2021,annual,26.3,Age,observed,not_specified,E0230,34,11,26.3,2021,,Nghe An
+population,e0230_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2022,2022,annual,27.3,Age,observed,not_specified,E0230,34,12,27.3,2022,,Nghe An
+population,e0230_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2023,2023,annual,27.1,Age,observed,not_specified,E0230,34,13,27.1,2023,,Nghe An
+population,e0230_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2024,2024,annual,27.2,Age,observed,not_specified,E0230,34,14,27.2,2024,,Nghe An
+population,e0230_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2025,2025,annual,28.1,Age,observed,preliminary,E0230,34,15,28.1,Prel. 2025,,Nghe An
+population,e0230_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2010,2010,annual,25.0,Age,observed,not_specified,E0230,35,2,25.0,2010,,Ha Tinh
+population,e0230_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2013,2013,annual,24.7,Age,observed,not_specified,E0230,35,3,24.7,2013,,Ha Tinh
+population,e0230_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2014,2014,annual,25.2,Age,observed,not_specified,E0230,35,4,25.2,2014,,Ha Tinh
+population,e0230_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2015,2015,annual,25.1,Age,observed,not_specified,E0230,35,5,25.1,2015,,Ha Tinh
+population,e0230_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2016,2016,annual,25.2,Age,observed,not_specified,E0230,35,6,25.2,2016,,Ha Tinh
+population,e0230_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2017,2017,annual,25.3,Age,observed,not_specified,E0230,35,7,25.3,2017,,Ha Tinh
+population,e0230_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2018,2018,annual,25.4,Age,observed,not_specified,E0230,35,8,25.4,2018,,Ha Tinh
+population,e0230_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2019,2019,annual,25.5,Age,observed,not_specified,E0230,35,9,25.5,2019,,Ha Tinh
+population,e0230_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2020,2020,annual,25.9,Age,observed,not_specified,E0230,35,10,25.9,2020,,Ha Tinh
+population,e0230_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2021,2021,annual,26.4,Age,observed,not_specified,E0230,35,11,26.4,2021,,Ha Tinh
+population,e0230_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2022,2022,annual,26.9,Age,observed,not_specified,E0230,35,12,26.9,2022,,Ha Tinh
+population,e0230_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2023,2023,annual,27.0,Age,observed,not_specified,E0230,35,13,27.0,2023,,Ha Tinh
+population,e0230_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2024,2024,annual,27.5,Age,observed,not_specified,E0230,35,14,27.5,2024,,Ha Tinh
+population,e0230_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2025,2025,annual,28.6,Age,observed,preliminary,E0230,35,15,28.6,Prel. 2025,,Ha Tinh
+population,e0230_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2010,2010,annual,25.9,Age,observed,not_specified,E0230,36,2,25.9,2010,,Quang Binh
+population,e0230_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2013,2013,annual,25.5,Age,observed,not_specified,E0230,36,3,25.5,2013,,Quang Binh
+population,e0230_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2014,2014,annual,25.7,Age,observed,not_specified,E0230,36,4,25.7,2014,,Quang Binh
+population,e0230_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2015,2015,annual,25.8,Age,observed,not_specified,E0230,36,5,25.8,2015,,Quang Binh
+population,e0230_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2016,2016,annual,24.9,Age,observed,not_specified,E0230,36,6,24.9,2016,,Quang Binh
+population,e0230_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2017,2017,annual,26.4,Age,observed,not_specified,E0230,36,7,26.4,2017,,Quang Binh
+population,e0230_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2018,2018,annual,26.0,Age,observed,not_specified,E0230,36,8,26.0,2018,,Quang Binh
+population,e0230_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2019,2019,annual,25.7,Age,observed,not_specified,E0230,36,9,25.7,2019,,Quang Binh
+population,e0230_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2020,2020,annual,26.5,Age,observed,not_specified,E0230,36,10,26.5,2020,,Quang Binh
+population,e0230_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2021,2021,annual,26.9,Age,observed,not_specified,E0230,36,11,26.9,2021,,Quang Binh
+population,e0230_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2022,2022,annual,27.1,Age,observed,not_specified,E0230,36,12,27.1,2022,,Quang Binh
+population,e0230_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2023,2023,annual,27.5,Age,observed,not_specified,E0230,36,13,27.5,2023,,Quang Binh
+population,e0230_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2024,2024,annual,27.5,Age,observed,not_specified,E0230,36,14,27.5,2024,,Quang Binh
+population,e0230_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2025,2025,annual,28.8,Age,observed,preliminary,E0230,36,15,28.8,Prel. 2025,,Quang Binh
+population,e0230_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2010,2010,annual,24.9,Age,observed,not_specified,E0230,37,2,24.9,2010,,Quang Tri
+population,e0230_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2013,2013,annual,24.7,Age,observed,not_specified,E0230,37,3,24.7,2013,,Quang Tri
+population,e0230_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2014,2014,annual,25.0,Age,observed,not_specified,E0230,37,4,25.0,2014,,Quang Tri
+population,e0230_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2015,2015,annual,24.9,Age,observed,not_specified,E0230,37,5,24.9,2015,,Quang Tri
+population,e0230_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2016,2016,annual,24.9,Age,observed,not_specified,E0230,37,6,24.9,2016,,Quang Tri
+population,e0230_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2017,2017,annual,25.1,Age,observed,not_specified,E0230,37,7,25.1,2017,,Quang Tri
+population,e0230_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2018,2018,annual,25.3,Age,observed,not_specified,E0230,37,8,25.3,2018,,Quang Tri
+population,e0230_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2019,2019,annual,24.8,Age,observed,not_specified,E0230,37,9,24.8,2019,,Quang Tri
+population,e0230_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2020,2020,annual,25.1,Age,observed,not_specified,E0230,37,10,25.1,2020,,Quang Tri
+population,e0230_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2021,2021,annual,25.3,Age,observed,not_specified,E0230,37,11,25.3,2021,,Quang Tri
+population,e0230_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2022,2022,annual,25.6,Age,observed,not_specified,E0230,37,12,25.6,2022,,Quang Tri
+population,e0230_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2023,2023,annual,25.8,Age,observed,not_specified,E0230,37,13,25.8,2023,,Quang Tri
+population,e0230_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2024,2024,annual,26.6,Age,observed,not_specified,E0230,37,14,26.6,2024,,Quang Tri
+population,e0230_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2025,2025,annual,26.7,Age,observed,preliminary,E0230,37,15,26.7,Prel. 2025,,Quang Tri
+population,e0230_c9b3c38247,VN_SRC_HUE,Hue,source_reported_unharmonized,2010,2010,annual,26.2,Age,observed,not_specified,E0230,38,2,26.2,2010,,Hue
+population,e0230_c9b3c38247,VN_SRC_HUE,Hue,source_reported_unharmonized,2013,2013,annual,25.6,Age,observed,not_specified,E0230,38,3,25.6,2013,,Hue
+population,e0230_c9b3c38247,VN_SRC_HUE,Hue,source_reported_unharmonized,2014,2014,annual,26.6,Age,observed,not_specified,E0230,38,4,26.6,2014,,Hue
+population,e0230_c9b3c38247,VN_SRC_HUE,Hue,source_reported_unharmonized,2015,2015,annual,26.5,Age,observed,not_specified,E0230,38,5,26.5,2015,,Hue
+population,e0230_c9b3c38247,VN_SRC_HUE,Hue,source_reported_unharmonized,2016,2016,annual,27.3,Age,observed,not_specified,E0230,38,6,27.3,2016,,Hue
+population,e0230_c9b3c38247,VN_SRC_HUE,Hue,source_reported_unharmonized,2017,2017,annual,26.7,Age,observed,not_specified,E0230,38,7,26.7,2017,,Hue
+population,e0230_c9b3c38247,VN_SRC_HUE,Hue,source_reported_unharmonized,2018,2018,annual,27.1,Age,observed,not_specified,E0230,38,8,27.1,2018,,Hue
+population,e0230_c9b3c38247,VN_SRC_HUE,Hue,source_reported_unharmonized,2019,2019,annual,26.5,Age,observed,not_specified,E0230,38,9,26.5,2019,,Hue
+population,e0230_c9b3c38247,VN_SRC_HUE,Hue,source_reported_unharmonized,2020,2020,annual,27.0,Age,observed,not_specified,E0230,38,10,27.0,2020,,Hue
+population,e0230_c9b3c38247,VN_SRC_HUE,Hue,source_reported_unharmonized,2021,2021,annual,27.2,Age,observed,not_specified,E0230,38,11,27.2,2021,,Hue
+population,e0230_c9b3c38247,VN_SRC_HUE,Hue,source_reported_unharmonized,2022,2022,annual,28.0,Age,observed,not_specified,E0230,38,12,28.0,2022,,Hue
+population,e0230_c9b3c38247,VN_SRC_HUE,Hue,source_reported_unharmonized,2023,2023,annual,28.2,Age,observed,not_specified,E0230,38,13,28.2,2023,,Hue
+population,e0230_c9b3c38247,VN_SRC_HUE,Hue,source_reported_unharmonized,2024,2024,annual,28.8,Age,observed,not_specified,E0230,38,14,28.8,2024,,Hue
+population,e0230_c9b3c38247,VN_SRC_HUE,Hue,source_reported_unharmonized,2025,2025,annual,29.3,Age,observed,preliminary,E0230,38,15,29.3,Prel. 2025,,Hue
+population,e0230_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2010,2010,annual,26.5,Age,observed,not_specified,E0230,39,2,26.5,2010,,Da Nang
+population,e0230_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2013,2013,annual,25.9,Age,observed,not_specified,E0230,39,3,25.9,2013,,Da Nang
+population,e0230_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2014,2014,annual,26.1,Age,observed,not_specified,E0230,39,4,26.1,2014,,Da Nang
+population,e0230_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2015,2015,annual,26.2,Age,observed,not_specified,E0230,39,5,26.2,2015,,Da Nang
+population,e0230_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2016,2016,annual,26.6,Age,observed,not_specified,E0230,39,6,26.6,2016,,Da Nang
+population,e0230_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2017,2017,annual,26.8,Age,observed,not_specified,E0230,39,7,26.8,2017,,Da Nang
+population,e0230_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2018,2018,annual,27.1,Age,observed,not_specified,E0230,39,8,27.1,2018,,Da Nang
+population,e0230_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2019,2019,annual,26.5,Age,observed,not_specified,E0230,39,9,26.5,2019,,Da Nang
+population,e0230_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2020,2020,annual,26.8,Age,observed,not_specified,E0230,39,10,26.8,2020,,Da Nang
+population,e0230_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2021,2021,annual,27.3,Age,observed,not_specified,E0230,39,11,27.3,2021,,Da Nang
+population,e0230_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2022,2022,annual,27.6,Age,observed,not_specified,E0230,39,12,27.6,2022,,Da Nang
+population,e0230_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2023,2023,annual,27.8,Age,observed,not_specified,E0230,39,13,27.8,2023,,Da Nang
+population,e0230_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2024,2024,annual,27.7,Age,observed,not_specified,E0230,39,14,27.7,2024,,Da Nang
+population,e0230_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2025,2025,annual,28.3,Age,observed,preliminary,E0230,39,15,28.3,Prel. 2025,,Da Nang
+population,e0230_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2010,2010,annual,24.6,Age,observed,not_specified,E0230,40,2,24.6,2010,,Quang  Nam
+population,e0230_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2013,2013,annual,24.9,Age,observed,not_specified,E0230,40,3,24.9,2013,,Quang  Nam
+population,e0230_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2014,2014,annual,25.2,Age,observed,not_specified,E0230,40,4,25.2,2014,,Quang  Nam
+population,e0230_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2015,2015,annual,25.5,Age,observed,not_specified,E0230,40,5,25.5,2015,,Quang  Nam
+population,e0230_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2016,2016,annual,25.7,Age,observed,not_specified,E0230,40,6,25.7,2016,,Quang  Nam
+population,e0230_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2017,2017,annual,25.8,Age,observed,not_specified,E0230,40,7,25.8,2017,,Quang  Nam
+population,e0230_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2018,2018,annual,25.7,Age,observed,not_specified,E0230,40,8,25.7,2018,,Quang  Nam
+population,e0230_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2019,2019,annual,25.1,Age,observed,not_specified,E0230,40,9,25.1,2019,,Quang  Nam
+population,e0230_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2020,2020,annual,25.8,Age,observed,not_specified,E0230,40,10,25.8,2020,,Quang  Nam
+population,e0230_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2021,2021,annual,25.6,Age,observed,not_specified,E0230,40,11,25.6,2021,,Quang  Nam
+population,e0230_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2022,2022,annual,26.9,Age,observed,not_specified,E0230,40,12,26.9,2022,,Quang  Nam
+population,e0230_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2023,2023,annual,27.2,Age,observed,not_specified,E0230,40,13,27.2,2023,,Quang  Nam
+population,e0230_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2024,2024,annual,26.7,Age,observed,not_specified,E0230,40,14,26.7,2024,,Quang  Nam
+population,e0230_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2025,2025,annual,28.1,Age,observed,preliminary,E0230,40,15,28.1,Prel. 2025,,Quang  Nam
+population,e0230_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2010,2010,annual,24.0,Age,observed,not_specified,E0230,41,2,24.0,2010,,Quang  Ngai
+population,e0230_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2013,2013,annual,23.8,Age,observed,not_specified,E0230,41,3,23.8,2013,,Quang  Ngai
+population,e0230_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2014,2014,annual,25.4,Age,observed,not_specified,E0230,41,4,25.4,2014,,Quang  Ngai
+population,e0230_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2015,2015,annual,25.6,Age,observed,not_specified,E0230,41,5,25.6,2015,,Quang  Ngai
+population,e0230_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2016,2016,annual,25.9,Age,observed,not_specified,E0230,41,6,25.9,2016,,Quang  Ngai
+population,e0230_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2017,2017,annual,25.8,Age,observed,not_specified,E0230,41,7,25.8,2017,,Quang  Ngai
+population,e0230_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2018,2018,annual,25.5,Age,observed,not_specified,E0230,41,8,25.5,2018,,Quang  Ngai
+population,e0230_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2019,2019,annual,25.0,Age,observed,not_specified,E0230,41,9,25.0,2019,,Quang  Ngai
+population,e0230_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2020,2020,annual,25.5,Age,observed,not_specified,E0230,41,10,25.5,2020,,Quang  Ngai
+population,e0230_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2021,2021,annual,25.5,Age,observed,not_specified,E0230,41,11,25.5,2021,,Quang  Ngai
+population,e0230_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2022,2022,annual,26.3,Age,observed,not_specified,E0230,41,12,26.3,2022,,Quang  Ngai
+population,e0230_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2023,2023,annual,25.9,Age,observed,not_specified,E0230,41,13,25.9,2023,,Quang  Ngai
+population,e0230_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2024,2024,annual,27.0,Age,observed,not_specified,E0230,41,14,27.0,2024,,Quang  Ngai
+population,e0230_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2025,2025,annual,27.2,Age,observed,preliminary,E0230,41,15,27.2,Prel. 2025,,Quang  Ngai
+population,e0230_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2010,2010,annual,24.2,Age,observed,not_specified,E0230,42,2,24.2,2010,,Binh Dinh
+population,e0230_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2013,2013,annual,24.7,Age,observed,not_specified,E0230,42,3,24.7,2013,,Binh Dinh
+population,e0230_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2014,2014,annual,25.0,Age,observed,not_specified,E0230,42,4,25.0,2014,,Binh Dinh
+population,e0230_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2015,2015,annual,25.9,Age,observed,not_specified,E0230,42,5,25.9,2015,,Binh Dinh
+population,e0230_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2016,2016,annual,25.8,Age,observed,not_specified,E0230,42,6,25.8,2016,,Binh Dinh
+population,e0230_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2017,2017,annual,25.8,Age,observed,not_specified,E0230,42,7,25.8,2017,,Binh Dinh
+population,e0230_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2018,2018,annual,25.7,Age,observed,not_specified,E0230,42,8,25.7,2018,,Binh Dinh
+population,e0230_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2019,2019,annual,25.4,Age,observed,not_specified,E0230,42,9,25.4,2019,,Binh Dinh
+population,e0230_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2020,2020,annual,26.1,Age,observed,not_specified,E0230,42,10,26.1,2020,,Binh Dinh
+population,e0230_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2021,2021,annual,26.1,Age,observed,not_specified,E0230,42,11,26.1,2021,,Binh Dinh
+population,e0230_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2022,2022,annual,27.0,Age,observed,not_specified,E0230,42,12,27.0,2022,,Binh Dinh
+population,e0230_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2023,2023,annual,27.2,Age,observed,not_specified,E0230,42,13,27.2,2023,,Binh Dinh
+population,e0230_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2024,2024,annual,27.8,Age,observed,not_specified,E0230,42,14,27.8,2024,,Binh Dinh
+population,e0230_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2025,2025,annual,28.1,Age,observed,preliminary,E0230,42,15,28.1,Prel. 2025,,Binh Dinh
+population,e0230_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2010,2010,annual,24.6,Age,observed,not_specified,E0230,43,2,24.6,2010,,Phu Yen
+population,e0230_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2013,2013,annual,24.7,Age,observed,not_specified,E0230,43,3,24.7,2013,,Phu Yen
+population,e0230_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2014,2014,annual,25.4,Age,observed,not_specified,E0230,43,4,25.4,2014,,Phu Yen
+population,e0230_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2015,2015,annual,25.2,Age,observed,not_specified,E0230,43,5,25.2,2015,,Phu Yen
+population,e0230_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2016,2016,annual,25.4,Age,observed,not_specified,E0230,43,6,25.4,2016,,Phu Yen
+population,e0230_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2017,2017,annual,25.0,Age,observed,not_specified,E0230,43,7,25.0,2017,,Phu Yen
+population,e0230_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2018,2018,annual,25.5,Age,observed,not_specified,E0230,43,8,25.5,2018,,Phu Yen
+population,e0230_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2019,2019,annual,24.9,Age,observed,not_specified,E0230,43,9,24.9,2019,,Phu Yen
+population,e0230_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2020,2020,annual,25.6,Age,observed,not_specified,E0230,43,10,25.6,2020,,Phu Yen
+population,e0230_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2021,2021,annual,25.8,Age,observed,not_specified,E0230,43,11,25.8,2021,,Phu Yen
+population,e0230_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2022,2022,annual,26.2,Age,observed,not_specified,E0230,43,12,26.2,2022,,Phu Yen
+population,e0230_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2023,2023,annual,26.4,Age,observed,not_specified,E0230,43,13,26.4,2023,,Phu Yen
+population,e0230_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2024,2024,annual,26.6,Age,observed,not_specified,E0230,43,14,26.6,2024,,Phu Yen
+population,e0230_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2025,2025,annual,27.1,Age,observed,preliminary,E0230,43,15,27.1,Prel. 2025,,Phu Yen
+population,e0230_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2010,2010,annual,25.8,Age,observed,not_specified,E0230,44,2,25.8,2010,,Khanh  Hoa
+population,e0230_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2013,2013,annual,25.7,Age,observed,not_specified,E0230,44,3,25.7,2013,,Khanh  Hoa
+population,e0230_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2014,2014,annual,26.6,Age,observed,not_specified,E0230,44,4,26.6,2014,,Khanh  Hoa
+population,e0230_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2015,2015,annual,27.0,Age,observed,not_specified,E0230,44,5,27.0,2015,,Khanh  Hoa
+population,e0230_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2016,2016,annual,27.2,Age,observed,not_specified,E0230,44,6,27.2,2016,,Khanh  Hoa
+population,e0230_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2017,2017,annual,27.2,Age,observed,not_specified,E0230,44,7,27.2,2017,,Khanh  Hoa
+population,e0230_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2018,2018,annual,28.5,Age,observed,not_specified,E0230,44,8,28.5,2018,,Khanh  Hoa
+population,e0230_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2019,2019,annual,26.2,Age,observed,not_specified,E0230,44,9,26.2,2019,,Khanh  Hoa
+population,e0230_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2020,2020,annual,27.2,Age,observed,not_specified,E0230,44,10,27.2,2020,,Khanh  Hoa
+population,e0230_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2021,2021,annual,27.5,Age,observed,not_specified,E0230,44,11,27.5,2021,,Khanh  Hoa
+population,e0230_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2022,2022,annual,28.6,Age,observed,not_specified,E0230,44,12,28.6,2022,,Khanh  Hoa
+population,e0230_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2023,2023,annual,29.1,Age,observed,not_specified,E0230,44,13,29.1,2023,,Khanh  Hoa
+population,e0230_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2024,2024,annual,28.7,Age,observed,not_specified,E0230,44,14,28.7,2024,,Khanh  Hoa
+population,e0230_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2025,2025,annual,29.5,Age,observed,preliminary,E0230,44,15,29.5,Prel. 2025,,Khanh  Hoa
+population,e0230_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2010,2010,annual,24.2,Age,observed,not_specified,E0230,45,2,24.2,2010,,Ninh  Thuan
+population,e0230_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2013,2013,annual,24.6,Age,observed,not_specified,E0230,45,3,24.6,2013,,Ninh  Thuan
+population,e0230_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2014,2014,annual,25.2,Age,observed,not_specified,E0230,45,4,25.2,2014,,Ninh  Thuan
+population,e0230_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2015,2015,annual,26.0,Age,observed,not_specified,E0230,45,5,26.0,2015,,Ninh  Thuan
+population,e0230_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2016,2016,annual,26.2,Age,observed,not_specified,E0230,45,6,26.2,2016,,Ninh  Thuan
+population,e0230_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2017,2017,annual,26.0,Age,observed,not_specified,E0230,45,7,26.0,2017,,Ninh  Thuan
+population,e0230_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2018,2018,annual,25.9,Age,observed,not_specified,E0230,45,8,25.9,2018,,Ninh  Thuan
+population,e0230_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2019,2019,annual,25.1,Age,observed,not_specified,E0230,45,9,25.1,2019,,Ninh  Thuan
+population,e0230_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2020,2020,annual,25.5,Age,observed,not_specified,E0230,45,10,25.5,2020,,Ninh  Thuan
+population,e0230_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2021,2021,annual,26.2,Age,observed,not_specified,E0230,45,11,26.2,2021,,Ninh  Thuan
+population,e0230_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2022,2022,annual,26.6,Age,observed,not_specified,E0230,45,12,26.6,2022,,Ninh  Thuan
+population,e0230_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2023,2023,annual,27.0,Age,observed,not_specified,E0230,45,13,27.0,2023,,Ninh  Thuan
+population,e0230_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2024,2024,annual,26.5,Age,observed,not_specified,E0230,45,14,26.5,2024,,Ninh  Thuan
+population,e0230_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2025,2025,annual,28.1,Age,observed,preliminary,E0230,45,15,28.1,Prel. 2025,,Ninh  Thuan
+population,e0230_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2010,2010,annual,25.0,Age,observed,not_specified,E0230,46,2,25.0,2010,,Binh Thuan
+population,e0230_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2013,2013,annual,25.1,Age,observed,not_specified,E0230,46,3,25.1,2013,,Binh Thuan
+population,e0230_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2014,2014,annual,26.2,Age,observed,not_specified,E0230,46,4,26.2,2014,,Binh Thuan
+population,e0230_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2015,2015,annual,26.2,Age,observed,not_specified,E0230,46,5,26.2,2015,,Binh Thuan
+population,e0230_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2016,2016,annual,26.7,Age,observed,not_specified,E0230,46,6,26.7,2016,,Binh Thuan
+population,e0230_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2017,2017,annual,26.5,Age,observed,not_specified,E0230,46,7,26.5,2017,,Binh Thuan
+population,e0230_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2018,2018,annual,26.4,Age,observed,not_specified,E0230,46,8,26.4,2018,,Binh Thuan
+population,e0230_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2019,2019,annual,25.7,Age,observed,not_specified,E0230,46,9,25.7,2019,,Binh Thuan
+population,e0230_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2020,2020,annual,26.6,Age,observed,not_specified,E0230,46,10,26.6,2020,,Binh Thuan
+population,e0230_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2021,2021,annual,26.9,Age,observed,not_specified,E0230,46,11,26.9,2021,,Binh Thuan
+population,e0230_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2022,2022,annual,28.0,Age,observed,not_specified,E0230,46,12,28.0,2022,,Binh Thuan
+population,e0230_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2023,2023,annual,28.6,Age,observed,not_specified,E0230,46,13,28.6,2023,,Binh Thuan
+population,e0230_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2024,2024,annual,28.4,Age,observed,not_specified,E0230,46,14,28.4,2024,,Binh Thuan
+population,e0230_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2025,2025,annual,29.4,Age,observed,preliminary,E0230,46,15,29.4,Prel. 2025,,Binh Thuan
+population,e0230_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2010,2010,annual,23.3,Age,observed,not_specified,E0230,48,2,23.3,2010,,Kon Tum
+population,e0230_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2013,2013,annual,23.1,Age,observed,not_specified,E0230,48,3,23.1,2013,,Kon Tum
+population,e0230_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2014,2014,annual,23.5,Age,observed,not_specified,E0230,48,4,23.5,2014,,Kon Tum
+population,e0230_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2015,2015,annual,24.0,Age,observed,not_specified,E0230,48,5,24.0,2015,,Kon Tum
+population,e0230_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2016,2016,annual,24.3,Age,observed,not_specified,E0230,48,6,24.3,2016,,Kon Tum
+population,e0230_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2017,2017,annual,24.8,Age,observed,not_specified,E0230,48,7,24.8,2017,,Kon Tum
+population,e0230_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2018,2018,annual,25.0,Age,observed,not_specified,E0230,48,8,25.0,2018,,Kon Tum
+population,e0230_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2019,2019,annual,23.5,Age,observed,not_specified,E0230,48,9,23.5,2019,,Kon Tum
+population,e0230_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2020,2020,annual,25.0,Age,observed,not_specified,E0230,48,10,25.0,2020,,Kon Tum
+population,e0230_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2021,2021,annual,24.7,Age,observed,not_specified,E0230,48,11,24.7,2021,,Kon Tum
+population,e0230_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2022,2022,annual,25.1,Age,observed,not_specified,E0230,48,12,25.1,2022,,Kon Tum
+population,e0230_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2023,2023,annual,25.9,Age,observed,not_specified,E0230,48,13,25.9,2023,,Kon Tum
+population,e0230_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2024,2024,annual,25.2,Age,observed,not_specified,E0230,48,14,25.2,2024,,Kon Tum
+population,e0230_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2025,2025,annual,27.2,Age,observed,preliminary,E0230,48,15,27.2,Prel. 2025,,Kon Tum
+population,e0230_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2010,2010,annual,23.0,Age,observed,not_specified,E0230,49,2,23.0,2010,,Gia Lai
+population,e0230_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2013,2013,annual,23.4,Age,observed,not_specified,E0230,49,3,23.4,2013,,Gia Lai
+population,e0230_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2014,2014,annual,23.6,Age,observed,not_specified,E0230,49,4,23.6,2014,,Gia Lai
+population,e0230_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2015,2015,annual,23.3,Age,observed,not_specified,E0230,49,5,23.3,2015,,Gia Lai
+population,e0230_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2016,2016,annual,23.7,Age,observed,not_specified,E0230,49,6,23.7,2016,,Gia Lai
+population,e0230_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2017,2017,annual,23.9,Age,observed,not_specified,E0230,49,7,23.9,2017,,Gia Lai
+population,e0230_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2018,2018,annual,24.1,Age,observed,not_specified,E0230,49,8,24.1,2018,,Gia Lai
+population,e0230_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2019,2019,annual,22.8,Age,observed,not_specified,E0230,49,9,22.8,2019,,Gia Lai
+population,e0230_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2020,2020,annual,23.5,Age,observed,not_specified,E0230,49,10,23.5,2020,,Gia Lai
+population,e0230_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2021,2021,annual,23.6,Age,observed,not_specified,E0230,49,11,23.6,2021,,Gia Lai
+population,e0230_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2022,2022,annual,24.4,Age,observed,not_specified,E0230,49,12,24.4,2022,,Gia Lai
+population,e0230_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2023,2023,annual,24.0,Age,observed,not_specified,E0230,49,13,24.0,2023,,Gia Lai
+population,e0230_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2024,2024,annual,24.4,Age,observed,not_specified,E0230,49,14,24.4,2024,,Gia Lai
+population,e0230_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2025,2025,annual,25.0,Age,observed,preliminary,E0230,49,15,25.0,Prel. 2025,,Gia Lai
+population,e0230_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2010,2010,annual,23.9,Age,observed,not_specified,E0230,50,2,23.9,2010,,Dak Lak
+population,e0230_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2013,2013,annual,24.1,Age,observed,not_specified,E0230,50,3,24.1,2013,,Dak Lak
+population,e0230_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2014,2014,annual,24.7,Age,observed,not_specified,E0230,50,4,24.7,2014,,Dak Lak
+population,e0230_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2015,2015,annual,23.3,Age,observed,not_specified,E0230,50,5,23.3,2015,,Dak Lak
+population,e0230_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2016,2016,annual,25.1,Age,observed,not_specified,E0230,50,6,25.1,2016,,Dak Lak
+population,e0230_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2017,2017,annual,24.7,Age,observed,not_specified,E0230,50,7,24.7,2017,,Dak Lak
+population,e0230_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2018,2018,annual,25.3,Age,observed,not_specified,E0230,50,8,25.3,2018,,Dak Lak
+population,e0230_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2019,2019,annual,24.3,Age,observed,not_specified,E0230,50,9,24.3,2019,,Dak Lak
+population,e0230_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2020,2020,annual,24.6,Age,observed,not_specified,E0230,50,10,24.6,2020,,Dak Lak
+population,e0230_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2021,2021,annual,25.3,Age,observed,not_specified,E0230,50,11,25.3,2021,,Dak Lak
+population,e0230_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2022,2022,annual,25.5,Age,observed,not_specified,E0230,50,12,25.5,2022,,Dak Lak
+population,e0230_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2023,2023,annual,26.4,Age,observed,not_specified,E0230,50,13,26.4,2023,,Dak Lak
+population,e0230_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2024,2024,annual,26.0,Age,observed,not_specified,E0230,50,14,26.0,2024,,Dak Lak
+population,e0230_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2025,2025,annual,26.4,Age,observed,preliminary,E0230,50,15,26.4,Prel. 2025,,Dak Lak
+population,e0230_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2010,2010,annual,23.1,Age,observed,not_specified,E0230,51,2,23.1,2010,,Dak Nong
+population,e0230_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2013,2013,annual,24.0,Age,observed,not_specified,E0230,51,3,24.0,2013,,Dak Nong
+population,e0230_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2014,2014,annual,24.0,Age,observed,not_specified,E0230,51,4,24.0,2014,,Dak Nong
+population,e0230_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2015,2015,annual,24.1,Age,observed,not_specified,E0230,51,5,24.1,2015,,Dak Nong
+population,e0230_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2016,2016,annual,24.9,Age,observed,not_specified,E0230,51,6,24.9,2016,,Dak Nong
+population,e0230_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2017,2017,annual,24.2,Age,observed,not_specified,E0230,51,7,24.2,2017,,Dak Nong
+population,e0230_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2018,2018,annual,24.1,Age,observed,not_specified,E0230,51,8,24.1,2018,,Dak Nong
+population,e0230_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2019,2019,annual,23.7,Age,observed,not_specified,E0230,51,9,23.7,2019,,Dak Nong
+population,e0230_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2020,2020,annual,24.2,Age,observed,not_specified,E0230,51,10,24.2,2020,,Dak Nong
+population,e0230_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2021,2021,annual,25.7,Age,observed,not_specified,E0230,51,11,25.7,2021,,Dak Nong
+population,e0230_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2022,2022,annual,26.0,Age,observed,not_specified,E0230,51,12,26.0,2022,,Dak Nong
+population,e0230_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2023,2023,annual,25.7,Age,observed,not_specified,E0230,51,13,25.7,2023,,Dak Nong
+population,e0230_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2024,2024,annual,25.6,Age,observed,not_specified,E0230,51,14,25.6,2024,,Dak Nong
+population,e0230_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2025,2025,annual,26.8,Age,observed,preliminary,E0230,51,15,26.8,Prel. 2025,,Dak Nong
+population,e0230_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2010,2010,annual,24.6,Age,observed,not_specified,E0230,52,2,24.6,2010,,Lam Dong
+population,e0230_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2013,2013,annual,24.0,Age,observed,not_specified,E0230,52,3,24.0,2013,,Lam Dong
+population,e0230_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2014,2014,annual,24.9,Age,observed,not_specified,E0230,52,4,24.9,2014,,Lam Dong
+population,e0230_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2015,2015,annual,25.3,Age,observed,not_specified,E0230,52,5,25.3,2015,,Lam Dong
+population,e0230_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2016,2016,annual,25.1,Age,observed,not_specified,E0230,52,6,25.1,2016,,Lam Dong
+population,e0230_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2017,2017,annual,25.5,Age,observed,not_specified,E0230,52,7,25.5,2017,,Lam Dong
+population,e0230_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2018,2018,annual,26.0,Age,observed,not_specified,E0230,52,8,26.0,2018,,Lam Dong
+population,e0230_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2019,2019,annual,25.0,Age,observed,not_specified,E0230,52,9,25.0,2019,,Lam Dong
+population,e0230_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2020,2020,annual,25.4,Age,observed,not_specified,E0230,52,10,25.4,2020,,Lam Dong
+population,e0230_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2021,2021,annual,26.3,Age,observed,not_specified,E0230,52,11,26.3,2021,,Lam Dong
+population,e0230_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2022,2022,annual,26.7,Age,observed,not_specified,E0230,52,12,26.7,2022,,Lam Dong
+population,e0230_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2023,2023,annual,26.6,Age,observed,not_specified,E0230,52,13,26.6,2023,,Lam Dong
+population,e0230_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2024,2024,annual,27.4,Age,observed,not_specified,E0230,52,14,27.4,2024,,Lam Dong
+population,e0230_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2025,2025,annual,28.1,Age,observed,preliminary,E0230,52,15,28.1,Prel. 2025,,Lam Dong
+population,e0230_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2010,2010,annual,24.0,Age,observed,not_specified,E0230,54,2,24.0,2010,,Binh Phuoc
+population,e0230_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2013,2013,annual,24.2,Age,observed,not_specified,E0230,54,3,24.2,2013,,Binh Phuoc
+population,e0230_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2014,2014,annual,24.2,Age,observed,not_specified,E0230,54,4,24.2,2014,,Binh Phuoc
+population,e0230_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2015,2015,annual,23.3,Age,observed,not_specified,E0230,54,5,23.3,2015,,Binh Phuoc
+population,e0230_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2016,2016,annual,25.2,Age,observed,not_specified,E0230,54,6,25.2,2016,,Binh Phuoc
+population,e0230_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2017,2017,annual,25.3,Age,observed,not_specified,E0230,54,7,25.3,2017,,Binh Phuoc
+population,e0230_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2018,2018,annual,25.2,Age,observed,not_specified,E0230,54,8,25.2,2018,,Binh Phuoc
+population,e0230_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2019,2019,annual,24.5,Age,observed,not_specified,E0230,54,9,24.5,2019,,Binh Phuoc
+population,e0230_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2020,2020,annual,25.7,Age,observed,not_specified,E0230,54,10,25.7,2020,,Binh Phuoc
+population,e0230_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2021,2021,annual,25.3,Age,observed,not_specified,E0230,54,11,25.3,2021,,Binh Phuoc
+population,e0230_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2022,2022,annual,26.4,Age,observed,not_specified,E0230,54,12,26.4,2022,,Binh Phuoc
+population,e0230_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2023,2023,annual,26.2,Age,observed,not_specified,E0230,54,13,26.2,2023,,Binh Phuoc
+population,e0230_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2024,2024,annual,26.2,Age,observed,not_specified,E0230,54,14,26.2,2024,,Binh Phuoc
+population,e0230_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2025,2025,annual,26.6,Age,observed,preliminary,E0230,54,15,26.6,Prel. 2025,,Binh Phuoc
+population,e0230_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2010,2010,annual,24.4,Age,observed,not_specified,E0230,55,2,24.4,2010,,Tay Ninh
+population,e0230_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2013,2013,annual,24.2,Age,observed,not_specified,E0230,55,3,24.2,2013,,Tay Ninh
+population,e0230_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2014,2014,annual,25.0,Age,observed,not_specified,E0230,55,4,25.0,2014,,Tay Ninh
+population,e0230_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2015,2015,annual,25.2,Age,observed,not_specified,E0230,55,5,25.2,2015,,Tay Ninh
+population,e0230_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2016,2016,annual,25.6,Age,observed,not_specified,E0230,55,6,25.6,2016,,Tay Ninh
+population,e0230_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2017,2017,annual,26.2,Age,observed,not_specified,E0230,55,7,26.2,2017,,Tay Ninh
+population,e0230_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2018,2018,annual,26.1,Age,observed,not_specified,E0230,55,8,26.1,2018,,Tay Ninh
+population,e0230_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2019,2019,annual,25.8,Age,observed,not_specified,E0230,55,9,25.8,2019,,Tay Ninh
+population,e0230_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2020,2020,annual,26.6,Age,observed,not_specified,E0230,55,10,26.6,2020,,Tay Ninh
+population,e0230_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2021,2021,annual,26.8,Age,observed,not_specified,E0230,55,11,26.8,2021,,Tay Ninh
+population,e0230_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2022,2022,annual,27.8,Age,observed,not_specified,E0230,55,12,27.8,2022,,Tay Ninh
+population,e0230_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2023,2023,annual,28.1,Age,observed,not_specified,E0230,55,13,28.1,2023,,Tay Ninh
+population,e0230_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2024,2024,annual,27.8,Age,observed,not_specified,E0230,55,14,27.8,2024,,Tay Ninh
+population,e0230_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2025,2025,annual,29.2,Age,observed,preliminary,E0230,55,15,29.2,Prel. 2025,,Tay Ninh
+population,e0230_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2010,2010,annual,24.8,Age,observed,not_specified,E0230,56,2,24.8,2010,,Binh  Duong
+population,e0230_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2013,2013,annual,24.4,Age,observed,not_specified,E0230,56,3,24.4,2013,,Binh  Duong
+population,e0230_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2014,2014,annual,24.2,Age,observed,not_specified,E0230,56,4,24.2,2014,,Binh  Duong
+population,e0230_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2015,2015,annual,24.4,Age,observed,not_specified,E0230,56,5,24.4,2015,,Binh  Duong
+population,e0230_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2016,2016,annual,25.2,Age,observed,not_specified,E0230,56,6,25.2,2016,,Binh  Duong
+population,e0230_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2017,2017,annual,24.9,Age,observed,not_specified,E0230,56,7,24.9,2017,,Binh  Duong
+population,e0230_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2018,2018,annual,24.2,Age,observed,not_specified,E0230,56,8,24.2,2018,,Binh  Duong
+population,e0230_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2019,2019,annual,25.0,Age,observed,not_specified,E0230,56,9,25.0,2019,,Binh  Duong
+population,e0230_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2020,2020,annual,25.0,Age,observed,not_specified,E0230,56,10,25.0,2020,,Binh  Duong
+population,e0230_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2021,2021,annual,26.1,Age,observed,not_specified,E0230,56,11,26.1,2021,,Binh  Duong
+population,e0230_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2022,2022,annual,27.3,Age,observed,not_specified,E0230,56,12,27.3,2022,,Binh  Duong
+population,e0230_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2023,2023,annual,27.3,Age,observed,not_specified,E0230,56,13,27.3,2023,,Binh  Duong
+population,e0230_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2024,2024,annual,27.5,Age,observed,not_specified,E0230,56,14,27.5,2024,,Binh  Duong
+population,e0230_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2025,2025,annual,28.4,Age,observed,preliminary,E0230,56,15,28.4,Prel. 2025,,Binh  Duong
+population,e0230_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2010,2010,annual,25.9,Age,observed,not_specified,E0230,57,2,25.9,2010,,Dong Nai
+population,e0230_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2013,2013,annual,26.4,Age,observed,not_specified,E0230,57,3,26.4,2013,,Dong Nai
+population,e0230_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2014,2014,annual,26.4,Age,observed,not_specified,E0230,57,4,26.4,2014,,Dong Nai
+population,e0230_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2015,2015,annual,26.4,Age,observed,not_specified,E0230,57,5,26.4,2015,,Dong Nai
+population,e0230_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2016,2016,annual,26.9,Age,observed,not_specified,E0230,57,6,26.9,2016,,Dong Nai
+population,e0230_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2017,2017,annual,27.6,Age,observed,not_specified,E0230,57,7,27.6,2017,,Dong Nai
+population,e0230_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2018,2018,annual,27.7,Age,observed,not_specified,E0230,57,8,27.7,2018,,Dong Nai
+population,e0230_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2019,2019,annual,26.0,Age,observed,not_specified,E0230,57,9,26.0,2019,,Dong Nai
+population,e0230_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2020,2020,annual,27.4,Age,observed,not_specified,E0230,57,10,27.4,2020,,Dong Nai
+population,e0230_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2021,2021,annual,27.6,Age,observed,not_specified,E0230,57,11,27.6,2021,,Dong Nai
+population,e0230_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2022,2022,annual,28.5,Age,observed,not_specified,E0230,57,12,28.5,2022,,Dong Nai
+population,e0230_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2023,2023,annual,28.7,Age,observed,not_specified,E0230,57,13,28.7,2023,,Dong Nai
+population,e0230_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2024,2024,annual,28.8,Age,observed,not_specified,E0230,57,14,28.8,2024,,Dong Nai
+population,e0230_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2025,2025,annual,30.4,Age,observed,preliminary,E0230,57,15,30.4,Prel. 2025,,Dong Nai
+population,e0230_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2010,2010,annual,26.0,Age,observed,not_specified,E0230,58,2,26.0,2010,,Ba Ria - Vung Tau
+population,e0230_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2013,2013,annual,26.0,Age,observed,not_specified,E0230,58,3,26.0,2013,,Ba Ria - Vung Tau
+population,e0230_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2014,2014,annual,26.0,Age,observed,not_specified,E0230,58,4,26.0,2014,,Ba Ria - Vung Tau
+population,e0230_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2015,2015,annual,26.8,Age,observed,not_specified,E0230,58,5,26.8,2015,,Ba Ria - Vung Tau
+population,e0230_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2016,2016,annual,27.0,Age,observed,not_specified,E0230,58,6,27.0,2016,,Ba Ria - Vung Tau
+population,e0230_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2017,2017,annual,27.3,Age,observed,not_specified,E0230,58,7,27.3,2017,,Ba Ria - Vung Tau
+population,e0230_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2018,2018,annual,27.7,Age,observed,not_specified,E0230,58,8,27.7,2018,,Ba Ria - Vung Tau
+population,e0230_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2019,2019,annual,26.3,Age,observed,not_specified,E0230,58,9,26.3,2019,,Ba Ria - Vung Tau
+population,e0230_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2020,2020,annual,27.6,Age,observed,not_specified,E0230,58,10,27.6,2020,,Ba Ria - Vung Tau
+population,e0230_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2021,2021,annual,28.1,Age,observed,not_specified,E0230,58,11,28.1,2021,,Ba Ria - Vung Tau
+population,e0230_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2022,2022,annual,28.8,Age,observed,not_specified,E0230,58,12,28.8,2022,,Ba Ria - Vung Tau
+population,e0230_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2023,2023,annual,29.3,Age,observed,not_specified,E0230,58,13,29.3,2023,,Ba Ria - Vung Tau
+population,e0230_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2024,2024,annual,29.0,Age,observed,not_specified,E0230,58,14,29.0,2024,,Ba Ria - Vung Tau
+population,e0230_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2025,2025,annual,30.5,Age,observed,preliminary,E0230,58,15,30.5,Prel. 2025,,Ba Ria - Vung Tau
+population,e0230_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2010,2010,annual,26.6,Age,observed,not_specified,E0230,59,2,26.6,2010,,Ho Chi Minh city
+population,e0230_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2013,2013,annual,27.2,Age,observed,not_specified,E0230,59,3,27.2,2013,,Ho Chi Minh city
+population,e0230_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2014,2014,annual,26.8,Age,observed,not_specified,E0230,59,4,26.8,2014,,Ho Chi Minh city
+population,e0230_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2015,2015,annual,26.7,Age,observed,not_specified,E0230,59,5,26.7,2015,,Ho Chi Minh city
+population,e0230_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2016,2016,annual,27.3,Age,observed,not_specified,E0230,59,6,27.3,2016,,Ho Chi Minh city
+population,e0230_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2017,2017,annual,27.6,Age,observed,not_specified,E0230,59,7,27.6,2017,,Ho Chi Minh city
+population,e0230_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2018,2018,annual,27.7,Age,observed,not_specified,E0230,59,8,27.7,2018,,Ho Chi Minh city
+population,e0230_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2019,2019,annual,27.5,Age,observed,not_specified,E0230,59,9,27.5,2019,,Ho Chi Minh city
+population,e0230_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2020,2020,annual,28.0,Age,observed,not_specified,E0230,59,10,28.0,2020,,Ho Chi Minh city
+population,e0230_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2021,2021,annual,29.0,Age,observed,not_specified,E0230,59,11,29.0,2021,,Ho Chi Minh city
+population,e0230_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2022,2022,annual,29.8,Age,observed,not_specified,E0230,59,12,29.8,2022,,Ho Chi Minh city
+population,e0230_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2023,2023,annual,30.4,Age,observed,not_specified,E0230,59,13,30.4,2023,,Ho Chi Minh city
+population,e0230_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2024,2024,annual,30.1,Age,observed,not_specified,E0230,59,14,30.1,2024,,Ho Chi Minh city
+population,e0230_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2025,2025,annual,30.6,Age,observed,preliminary,E0230,59,15,30.6,Prel. 2025,,Ho Chi Minh city
+population,e0230_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2010,2010,annual,24.3,Age,observed,not_specified,E0230,61,2,24.3,2010,,Long An
+population,e0230_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2013,2013,annual,23.9,Age,observed,not_specified,E0230,61,3,23.9,2013,,Long An
+population,e0230_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2014,2014,annual,24.7,Age,observed,not_specified,E0230,61,4,24.7,2014,,Long An
+population,e0230_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2015,2015,annual,25.1,Age,observed,not_specified,E0230,61,5,25.1,2015,,Long An
+population,e0230_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2016,2016,annual,25.5,Age,observed,not_specified,E0230,61,6,25.5,2016,,Long An
+population,e0230_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2017,2017,annual,26.0,Age,observed,not_specified,E0230,61,7,26.0,2017,,Long An
+population,e0230_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2018,2018,annual,25.6,Age,observed,not_specified,E0230,61,8,25.6,2018,,Long An
+population,e0230_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2019,2019,annual,25.2,Age,observed,not_specified,E0230,61,9,25.2,2019,,Long An
+population,e0230_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2020,2020,annual,25.9,Age,observed,not_specified,E0230,61,10,25.9,2020,,Long An
+population,e0230_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2021,2021,annual,26.5,Age,observed,not_specified,E0230,61,11,26.5,2021,,Long An
+population,e0230_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2022,2022,annual,27.0,Age,observed,not_specified,E0230,61,12,27.0,2022,,Long An
+population,e0230_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2023,2023,annual,27.2,Age,observed,not_specified,E0230,61,13,27.2,2023,,Long An
+population,e0230_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2024,2024,annual,27.0,Age,observed,not_specified,E0230,61,14,27.0,2024,,Long An
+population,e0230_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2025,2025,annual,27.5,Age,observed,preliminary,E0230,61,15,27.5,Prel. 2025,,Long An
+population,e0230_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2010,2010,annual,24.0,Age,observed,not_specified,E0230,62,2,24.0,2010,,Tien Giang
+population,e0230_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2013,2013,annual,24.3,Age,observed,not_specified,E0230,62,3,24.3,2013,,Tien Giang
+population,e0230_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2014,2014,annual,24.4,Age,observed,not_specified,E0230,62,4,24.4,2014,,Tien Giang
+population,e0230_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2015,2015,annual,24.7,Age,observed,not_specified,E0230,62,5,24.7,2015,,Tien Giang
+population,e0230_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2016,2016,annual,24.9,Age,observed,not_specified,E0230,62,6,24.9,2016,,Tien Giang
+population,e0230_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2017,2017,annual,25.0,Age,observed,not_specified,E0230,62,7,25.0,2017,,Tien Giang
+population,e0230_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2018,2018,annual,25.4,Age,observed,not_specified,E0230,62,8,25.4,2018,,Tien Giang
+population,e0230_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2019,2019,annual,25.4,Age,observed,not_specified,E0230,62,9,25.4,2019,,Tien Giang
+population,e0230_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2020,2020,annual,26.0,Age,observed,not_specified,E0230,62,10,26.0,2020,,Tien Giang
+population,e0230_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2021,2021,annual,26.0,Age,observed,not_specified,E0230,62,11,26.0,2021,,Tien Giang
+population,e0230_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2022,2022,annual,27.1,Age,observed,not_specified,E0230,62,12,27.1,2022,,Tien Giang
+population,e0230_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2023,2023,annual,27.0,Age,observed,not_specified,E0230,62,13,27.0,2023,,Tien Giang
+population,e0230_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2024,2024,annual,27.2,Age,observed,not_specified,E0230,62,14,27.2,2024,,Tien Giang
+population,e0230_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2025,2025,annual,28.0,Age,observed,preliminary,E0230,62,15,28.0,Prel. 2025,,Tien Giang
+population,e0230_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2010,2010,annual,24.3,Age,observed,not_specified,E0230,63,2,24.3,2010,,Ben Tre
+population,e0230_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2013,2013,annual,24.5,Age,observed,not_specified,E0230,63,3,24.5,2013,,Ben Tre
+population,e0230_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2014,2014,annual,25.0,Age,observed,not_specified,E0230,63,4,25.0,2014,,Ben Tre
+population,e0230_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2015,2015,annual,25.3,Age,observed,not_specified,E0230,63,5,25.3,2015,,Ben Tre
+population,e0230_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2016,2016,annual,25.0,Age,observed,not_specified,E0230,63,6,25.0,2016,,Ben Tre
+population,e0230_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2017,2017,annual,25.2,Age,observed,not_specified,E0230,63,7,25.2,2017,,Ben Tre
+population,e0230_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2018,2018,annual,25.7,Age,observed,not_specified,E0230,63,8,25.7,2018,,Ben Tre
+population,e0230_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2019,2019,annual,25.5,Age,observed,not_specified,E0230,63,9,25.5,2019,,Ben Tre
+population,e0230_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2020,2020,annual,26.0,Age,observed,not_specified,E0230,63,10,26.0,2020,,Ben Tre
+population,e0230_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2021,2021,annual,26.5,Age,observed,not_specified,E0230,63,11,26.5,2021,,Ben Tre
+population,e0230_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2022,2022,annual,26.5,Age,observed,not_specified,E0230,63,12,26.5,2022,,Ben Tre
+population,e0230_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2023,2023,annual,27.4,Age,observed,not_specified,E0230,63,13,27.4,2023,,Ben Tre
+population,e0230_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2024,2024,annual,27.9,Age,observed,not_specified,E0230,63,14,27.9,2024,,Ben Tre
+population,e0230_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2025,2025,annual,28.0,Age,observed,preliminary,E0230,63,15,28.0,Prel. 2025,,Ben Tre
+population,e0230_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2010,2010,annual,24.3,Age,observed,not_specified,E0230,64,2,24.3,2010,,Tra Vinh
+population,e0230_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2013,2013,annual,23.8,Age,observed,not_specified,E0230,64,3,23.8,2013,,Tra Vinh
+population,e0230_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2014,2014,annual,24.5,Age,observed,not_specified,E0230,64,4,24.5,2014,,Tra Vinh
+population,e0230_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2015,2015,annual,24.5,Age,observed,not_specified,E0230,64,5,24.5,2015,,Tra Vinh
+population,e0230_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2016,2016,annual,24.5,Age,observed,not_specified,E0230,64,6,24.5,2016,,Tra Vinh
+population,e0230_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2017,2017,annual,24.7,Age,observed,not_specified,E0230,64,7,24.7,2017,,Tra Vinh
+population,e0230_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2018,2018,annual,24.8,Age,observed,not_specified,E0230,64,8,24.8,2018,,Tra Vinh
+population,e0230_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2019,2019,annual,25.1,Age,observed,not_specified,E0230,64,9,25.1,2019,,Tra Vinh
+population,e0230_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2020,2020,annual,25.4,Age,observed,not_specified,E0230,64,10,25.4,2020,,Tra Vinh
+population,e0230_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2021,2021,annual,25.7,Age,observed,not_specified,E0230,64,11,25.7,2021,,Tra Vinh
+population,e0230_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2022,2022,annual,26.4,Age,observed,not_specified,E0230,64,12,26.4,2022,,Tra Vinh
+population,e0230_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2023,2023,annual,26.7,Age,observed,not_specified,E0230,64,13,26.7,2023,,Tra Vinh
+population,e0230_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2024,2024,annual,27.2,Age,observed,not_specified,E0230,64,14,27.2,2024,,Tra Vinh
+population,e0230_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2025,2025,annual,27.6,Age,observed,preliminary,E0230,64,15,27.6,Prel. 2025,,Tra Vinh
+population,e0230_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2010,2010,annual,25.2,Age,observed,not_specified,E0230,65,2,25.2,2010,,Vinh Long
+population,e0230_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2013,2013,annual,24.5,Age,observed,not_specified,E0230,65,3,24.5,2013,,Vinh Long
+population,e0230_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2014,2014,annual,25.5,Age,observed,not_specified,E0230,65,4,25.5,2014,,Vinh Long
+population,e0230_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2015,2015,annual,25.3,Age,observed,not_specified,E0230,65,5,25.3,2015,,Vinh Long
+population,e0230_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2016,2016,annual,25.5,Age,observed,not_specified,E0230,65,6,25.5,2016,,Vinh Long
+population,e0230_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2017,2017,annual,26.1,Age,observed,not_specified,E0230,65,7,26.1,2017,,Vinh Long
+population,e0230_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2018,2018,annual,26.0,Age,observed,not_specified,E0230,65,8,26.0,2018,,Vinh Long
+population,e0230_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2019,2019,annual,26.0,Age,observed,not_specified,E0230,65,9,26.0,2019,,Vinh Long
+population,e0230_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2020,2020,annual,26.9,Age,observed,not_specified,E0230,65,10,26.9,2020,,Vinh Long
+population,e0230_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2021,2021,annual,26.9,Age,observed,not_specified,E0230,65,11,26.9,2021,,Vinh Long
+population,e0230_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2022,2022,annual,27.2,Age,observed,not_specified,E0230,65,12,27.2,2022,,Vinh Long
+population,e0230_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2023,2023,annual,28.3,Age,observed,not_specified,E0230,65,13,28.3,2023,,Vinh Long
+population,e0230_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2024,2024,annual,28.7,Age,observed,not_specified,E0230,65,14,28.7,2024,,Vinh Long
+population,e0230_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2025,2025,annual,29.1,Age,observed,preliminary,E0230,65,15,29.1,Prel. 2025,,Vinh Long
+population,e0230_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2010,2010,annual,24.3,Age,observed,not_specified,E0230,66,2,24.3,2010,,Dong Thap
+population,e0230_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2013,2013,annual,25.5,Age,observed,not_specified,E0230,66,3,25.5,2013,,Dong Thap
+population,e0230_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2014,2014,annual,25.2,Age,observed,not_specified,E0230,66,4,25.2,2014,,Dong Thap
+population,e0230_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2015,2015,annual,25.3,Age,observed,not_specified,E0230,66,5,25.3,2015,,Dong Thap
+population,e0230_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2016,2016,annual,25.6,Age,observed,not_specified,E0230,66,6,25.6,2016,,Dong Thap
+population,e0230_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2017,2017,annual,26.2,Age,observed,not_specified,E0230,66,7,26.2,2017,,Dong Thap
+population,e0230_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2018,2018,annual,26.1,Age,observed,not_specified,E0230,66,8,26.1,2018,,Dong Thap
+population,e0230_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2019,2019,annual,25.7,Age,observed,not_specified,E0230,66,9,25.7,2019,,Dong Thap
+population,e0230_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2020,2020,annual,26.6,Age,observed,not_specified,E0230,66,10,26.6,2020,,Dong Thap
+population,e0230_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2021,2021,annual,27.1,Age,observed,not_specified,E0230,66,11,27.1,2021,,Dong Thap
+population,e0230_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2022,2022,annual,27.5,Age,observed,not_specified,E0230,66,12,27.5,2022,,Dong Thap
+population,e0230_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2023,2023,annual,28.1,Age,observed,not_specified,E0230,66,13,28.1,2023,,Dong Thap
+population,e0230_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2024,2024,annual,27.8,Age,observed,not_specified,E0230,66,14,27.8,2024,,Dong Thap
+population,e0230_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2025,2025,annual,28.7,Age,observed,preliminary,E0230,66,15,28.7,Prel. 2025,,Dong Thap
+population,e0230_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2010,2010,annual,24.0,Age,observed,not_specified,E0230,67,2,24.0,2010,,An Giang
+population,e0230_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2013,2013,annual,23.9,Age,observed,not_specified,E0230,67,3,23.9,2013,,An Giang
+population,e0230_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2014,2014,annual,24.3,Age,observed,not_specified,E0230,67,4,24.3,2014,,An Giang
+population,e0230_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2015,2015,annual,24.6,Age,observed,not_specified,E0230,67,5,24.6,2015,,An Giang
+population,e0230_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2016,2016,annual,24.7,Age,observed,not_specified,E0230,67,6,24.7,2016,,An Giang
+population,e0230_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2017,2017,annual,25.2,Age,observed,not_specified,E0230,67,7,25.2,2017,,An Giang
+population,e0230_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2018,2018,annual,25.2,Age,observed,not_specified,E0230,67,8,25.2,2018,,An Giang
+population,e0230_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2019,2019,annual,25.1,Age,observed,not_specified,E0230,67,9,25.1,2019,,An Giang
+population,e0230_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2020,2020,annual,26.1,Age,observed,not_specified,E0230,67,10,26.1,2020,,An Giang
+population,e0230_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2021,2021,annual,26.2,Age,observed,not_specified,E0230,67,11,26.2,2021,,An Giang
+population,e0230_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2022,2022,annual,26.8,Age,observed,not_specified,E0230,67,12,26.8,2022,,An Giang
+population,e0230_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2023,2023,annual,27.3,Age,observed,not_specified,E0230,67,13,27.3,2023,,An Giang
+population,e0230_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2024,2024,annual,27.4,Age,observed,not_specified,E0230,67,14,27.4,2024,,An Giang
+population,e0230_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2025,2025,annual,28.5,Age,observed,preliminary,E0230,67,15,28.5,Prel. 2025,,An Giang
+population,e0230_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2010,2010,annual,24.1,Age,observed,not_specified,E0230,68,2,24.1,2010,,Kien  Giang
+population,e0230_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2013,2013,annual,24.2,Age,observed,not_specified,E0230,68,3,24.2,2013,,Kien  Giang
+population,e0230_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2014,2014,annual,24.5,Age,observed,not_specified,E0230,68,4,24.5,2014,,Kien  Giang
+population,e0230_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2015,2015,annual,24.4,Age,observed,not_specified,E0230,68,5,24.4,2015,,Kien  Giang
+population,e0230_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2016,2016,annual,24.9,Age,observed,not_specified,E0230,68,6,24.9,2016,,Kien  Giang
+population,e0230_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2017,2017,annual,24.9,Age,observed,not_specified,E0230,68,7,24.9,2017,,Kien  Giang
+population,e0230_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2018,2018,annual,25.7,Age,observed,not_specified,E0230,68,8,25.7,2018,,Kien  Giang
+population,e0230_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2019,2019,annual,25.4,Age,observed,not_specified,E0230,68,9,25.4,2019,,Kien  Giang
+population,e0230_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2020,2020,annual,26.1,Age,observed,not_specified,E0230,68,10,26.1,2020,,Kien  Giang
+population,e0230_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2021,2021,annual,27.3,Age,observed,not_specified,E0230,68,11,27.3,2021,,Kien  Giang
+population,e0230_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2022,2022,annual,27.8,Age,observed,not_specified,E0230,68,12,27.8,2022,,Kien  Giang
+population,e0230_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2023,2023,annual,27.4,Age,observed,not_specified,E0230,68,13,27.4,2023,,Kien  Giang
+population,e0230_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2024,2024,annual,27.1,Age,observed,not_specified,E0230,68,14,27.1,2024,,Kien  Giang
+population,e0230_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2025,2025,annual,28.7,Age,observed,preliminary,E0230,68,15,28.7,Prel. 2025,,Kien  Giang
+population,e0230_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2010,2010,annual,25.3,Age,observed,not_specified,E0230,69,2,25.3,2010,,Can Tho
+population,e0230_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2013,2013,annual,25.5,Age,observed,not_specified,E0230,69,3,25.5,2013,,Can Tho
+population,e0230_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2014,2014,annual,25.7,Age,observed,not_specified,E0230,69,4,25.7,2014,,Can Tho
+population,e0230_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2015,2015,annual,25.1,Age,observed,not_specified,E0230,69,5,25.1,2015,,Can Tho
+population,e0230_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2016,2016,annual,26.3,Age,observed,not_specified,E0230,69,6,26.3,2016,,Can Tho
+population,e0230_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2017,2017,annual,26.6,Age,observed,not_specified,E0230,69,7,26.6,2017,,Can Tho
+population,e0230_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2018,2018,annual,26.2,Age,observed,not_specified,E0230,69,8,26.2,2018,,Can Tho
+population,e0230_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2019,2019,annual,26.9,Age,observed,not_specified,E0230,69,9,26.9,2019,,Can Tho
+population,e0230_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2020,2020,annual,27.4,Age,observed,not_specified,E0230,69,10,27.4,2020,,Can Tho
+population,e0230_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2021,2021,annual,28.0,Age,observed,not_specified,E0230,69,11,28.0,2021,,Can Tho
+population,e0230_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2022,2022,annual,29.3,Age,observed,not_specified,E0230,69,12,29.3,2022,,Can Tho
+population,e0230_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2023,2023,annual,29.1,Age,observed,not_specified,E0230,69,13,29.1,2023,,Can Tho
+population,e0230_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2024,2024,annual,29.4,Age,observed,not_specified,E0230,69,14,29.4,2024,,Can Tho
+population,e0230_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2025,2025,annual,29.8,Age,observed,preliminary,E0230,69,15,29.8,Prel. 2025,,Can Tho
+population,e0230_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2010,2010,annual,24.4,Age,observed,not_specified,E0230,70,2,24.4,2010,,Hau Giang
+population,e0230_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2013,2013,annual,25.0,Age,observed,not_specified,E0230,70,3,25.0,2013,,Hau Giang
+population,e0230_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2014,2014,annual,25.9,Age,observed,not_specified,E0230,70,4,25.9,2014,,Hau Giang
+population,e0230_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2015,2015,annual,25.7,Age,observed,not_specified,E0230,70,5,25.7,2015,,Hau Giang
+population,e0230_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2016,2016,annual,26.3,Age,observed,not_specified,E0230,70,6,26.3,2016,,Hau Giang
+population,e0230_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2017,2017,annual,26.0,Age,observed,not_specified,E0230,70,7,26.0,2017,,Hau Giang
+population,e0230_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2018,2018,annual,26.2,Age,observed,not_specified,E0230,70,8,26.2,2018,,Hau Giang
+population,e0230_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2019,2019,annual,25.5,Age,observed,not_specified,E0230,70,9,25.5,2019,,Hau Giang
+population,e0230_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2020,2020,annual,26.6,Age,observed,not_specified,E0230,70,10,26.6,2020,,Hau Giang
+population,e0230_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2021,2021,annual,27.4,Age,observed,not_specified,E0230,70,11,27.4,2021,,Hau Giang
+population,e0230_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2022,2022,annual,28.0,Age,observed,not_specified,E0230,70,12,28.0,2022,,Hau Giang
+population,e0230_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2023,2023,annual,28.1,Age,observed,not_specified,E0230,70,13,28.1,2023,,Hau Giang
+population,e0230_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2024,2024,annual,28.5,Age,observed,not_specified,E0230,70,14,28.5,2024,,Hau Giang
+population,e0230_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2025,2025,annual,29.3,Age,observed,preliminary,E0230,70,15,29.3,Prel. 2025,,Hau Giang
+population,e0230_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2010,2010,annual,24.7,Age,observed,not_specified,E0230,71,2,24.7,2010,,Soc Trang
+population,e0230_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2013,2013,annual,24.5,Age,observed,not_specified,E0230,71,3,24.5,2013,,Soc Trang
+population,e0230_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2014,2014,annual,25.0,Age,observed,not_specified,E0230,71,4,25.0,2014,,Soc Trang
+population,e0230_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2015,2015,annual,25.7,Age,observed,not_specified,E0230,71,5,25.7,2015,,Soc Trang
+population,e0230_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2016,2016,annual,25.6,Age,observed,not_specified,E0230,71,6,25.6,2016,,Soc Trang
+population,e0230_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2017,2017,annual,25.8,Age,observed,not_specified,E0230,71,7,25.8,2017,,Soc Trang
+population,e0230_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2018,2018,annual,26.2,Age,observed,not_specified,E0230,71,8,26.2,2018,,Soc Trang
+population,e0230_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2019,2019,annual,25.0,Age,observed,not_specified,E0230,71,9,25.0,2019,,Soc Trang
+population,e0230_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2020,2020,annual,26.1,Age,observed,not_specified,E0230,71,10,26.1,2020,,Soc Trang
+population,e0230_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2021,2021,annual,27.1,Age,observed,not_specified,E0230,71,11,27.1,2021,,Soc Trang
+population,e0230_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2022,2022,annual,27.7,Age,observed,not_specified,E0230,71,12,27.7,2022,,Soc Trang
+population,e0230_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2023,2023,annual,27.4,Age,observed,not_specified,E0230,71,13,27.4,2023,,Soc Trang
+population,e0230_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2024,2024,annual,27.8,Age,observed,not_specified,E0230,71,14,27.8,2024,,Soc Trang
+population,e0230_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2025,2025,annual,27.8,Age,observed,preliminary,E0230,71,15,27.8,Prel. 2025,,Soc Trang
+population,e0230_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2010,2010,annual,25.7,Age,observed,not_specified,E0230,72,2,25.7,2010,,Bac Lieu
+population,e0230_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2013,2013,annual,25.2,Age,observed,not_specified,E0230,72,3,25.2,2013,,Bac Lieu
+population,e0230_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2014,2014,annual,26.0,Age,observed,not_specified,E0230,72,4,26.0,2014,,Bac Lieu
+population,e0230_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2015,2015,annual,25.4,Age,observed,not_specified,E0230,72,5,25.4,2015,,Bac Lieu
+population,e0230_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2016,2016,annual,25.4,Age,observed,not_specified,E0230,72,6,25.4,2016,,Bac Lieu
+population,e0230_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2017,2017,annual,26.2,Age,observed,not_specified,E0230,72,7,26.2,2017,,Bac Lieu
+population,e0230_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2018,2018,annual,25.8,Age,observed,not_specified,E0230,72,8,25.8,2018,,Bac Lieu
+population,e0230_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2019,2019,annual,25.3,Age,observed,not_specified,E0230,72,9,25.3,2019,,Bac Lieu
+population,e0230_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2020,2020,annual,27.4,Age,observed,not_specified,E0230,72,10,27.4,2020,,Bac Lieu
+population,e0230_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2021,2021,annual,28.3,Age,observed,not_specified,E0230,72,11,28.3,2021,,Bac Lieu
+population,e0230_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2022,2022,annual,28.2,Age,observed,not_specified,E0230,72,12,28.2,2022,,Bac Lieu
+population,e0230_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2023,2023,annual,28.3,Age,observed,not_specified,E0230,72,13,28.3,2023,,Bac Lieu
+population,e0230_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2024,2024,annual,29.1,Age,observed,not_specified,E0230,72,14,29.1,2024,,Bac Lieu
+population,e0230_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2025,2025,annual,29.8,Age,observed,preliminary,E0230,72,15,29.8,Prel. 2025,,Bac Lieu
+population,e0230_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2010,2010,annual,24.8,Age,observed,not_specified,E0230,73,2,24.8,2010,,Ca Mau
+population,e0230_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2013,2013,annual,24.6,Age,observed,not_specified,E0230,73,3,24.6,2013,,Ca Mau
+population,e0230_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2014,2014,annual,24.5,Age,observed,not_specified,E0230,73,4,24.5,2014,,Ca Mau
+population,e0230_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2015,2015,annual,24.6,Age,observed,not_specified,E0230,73,5,24.6,2015,,Ca Mau
+population,e0230_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2016,2016,annual,24.4,Age,observed,not_specified,E0230,73,6,24.4,2016,,Ca Mau
+population,e0230_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2017,2017,annual,24.9,Age,observed,not_specified,E0230,73,7,24.9,2017,,Ca Mau
+population,e0230_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2018,2018,annual,26.2,Age,observed,not_specified,E0230,73,8,26.2,2018,,Ca Mau
+population,e0230_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2019,2019,annual,24.8,Age,observed,not_specified,E0230,73,9,24.8,2019,,Ca Mau
+population,e0230_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2020,2020,annual,25.7,Age,observed,not_specified,E0230,73,10,25.7,2020,,Ca Mau
+population,e0230_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2021,2021,annual,26.0,Age,observed,not_specified,E0230,73,11,26.0,2021,,Ca Mau
+population,e0230_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2022,2022,annual,26.7,Age,observed,not_specified,E0230,73,12,26.7,2022,,Ca Mau
+population,e0230_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2023,2023,annual,27.3,Age,observed,not_specified,E0230,73,13,27.3,2023,,Ca Mau
+population,e0230_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2024,2024,annual,28.0,Age,observed,not_specified,E0230,73,14,28.0,2024,,Ca Mau
+population,e0230_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2025,2025,annual,28.5,Age,observed,preliminary,E0230,73,15,28.5,Prel. 2025,,Ca Mau

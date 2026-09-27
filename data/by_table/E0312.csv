@@ -1,0 +1,505 @@
+﻿section,indicator_id,province_code,province_name,geography_version,period,year,period_type,value,unit,value_status,period_status,source_id,source_row,source_column,raw_value,source_period_header,quality_flags,province_name_source
+national_account,e0312_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2018,2018,annual,111.60,Mill. dongs,observed,not_specified,E0312,5,2,111.60,2018,,Ha Noi
+national_account,e0312_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2019,2019,annual,120.32,Mill. dongs,observed,not_specified,E0312,5,3,120.32,2019,,Ha Noi
+national_account,e0312_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2020,2020,annual,123.40,Mill. dongs,observed,not_specified,E0312,5,4,123.40,2020,,Ha Noi
+national_account,e0312_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2021,2021,annual,128.33,Mill. dongs,observed,not_specified,E0312,5,5,128.33,2021,,Ha Noi
+national_account,e0312_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2022,2022,annual,141.12,Mill. dongs,observed,not_specified,E0312,5,6,141.12,2022,,Ha Noi
+national_account,e0312_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2023,2023,annual,149.69,Mill. dongs,observed,not_specified,E0312,5,7,149.69,2023,,Ha Noi
+national_account,e0312_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2024,2024,annual,162.92,Mill. dongs,observed,preliminary,E0312,5,8,162.92,Prel. 2024,,Ha Noi
+national_account,e0312_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2025,2025,annual,179.29,Mill. dongs,observed,estimated,E0312,5,9,179.29,Est.2025,,Ha Noi
+national_account,e0312_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2018,2018,annual,94.54,Mill. dongs,observed,not_specified,E0312,6,2,94.54,2018,,Vinh Phuc
+national_account,e0312_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2019,2019,annual,102.47,Mill. dongs,observed,not_specified,E0312,6,3,102.47,2019,,Vinh Phuc
+national_account,e0312_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2020,2020,annual,105.88,Mill. dongs,observed,not_specified,E0312,6,4,105.88,2020,,Vinh Phuc
+national_account,e0312_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2021,2021,annual,114.38,Mill. dongs,observed,not_specified,E0312,6,5,114.38,2021,,Vinh Phuc
+national_account,e0312_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2022,2022,annual,128.10,Mill. dongs,observed,not_specified,E0312,6,6,128.10,2022,,Vinh Phuc
+national_account,e0312_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2023,2023,annual,129.68,Mill. dongs,observed,not_specified,E0312,6,7,129.68,2023,,Vinh Phuc
+national_account,e0312_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2024,2024,annual,141.06,Mill. dongs,observed,preliminary,E0312,6,8,141.06,Prel. 2024,,Vinh Phuc
+national_account,e0312_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2025,2025,annual,158.02,Mill. dongs,observed,estimated,E0312,6,9,158.02,Est.2025,,Vinh Phuc
+national_account,e0312_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2018,2018,annual,144.95,Mill. dongs,observed,not_specified,E0312,7,2,144.95,2018,,Bac Ninh
+national_account,e0312_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2019,2019,annual,144.99,Mill. dongs,observed,not_specified,E0312,7,3,144.99,2019,,Bac Ninh
+national_account,e0312_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2020,2020,annual,147.26,Mill. dongs,observed,not_specified,E0312,7,4,147.26,2020,,Bac Ninh
+national_account,e0312_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2021,2021,annual,157.65,Mill. dongs,observed,not_specified,E0312,7,5,157.65,2021,,Bac Ninh
+national_account,e0312_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2022,2022,annual,166.72,Mill. dongs,observed,not_specified,E0312,7,6,166.72,2022,,Bac Ninh
+national_account,e0312_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2023,2023,annual,156.74,Mill. dongs,observed,not_specified,E0312,7,7,156.74,2023,,Bac Ninh
+national_account,e0312_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2024,2024,annual,159.10,Mill. dongs,observed,preliminary,E0312,7,8,159.10,Prel. 2024,,Bac Ninh
+national_account,e0312_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2025,2025,annual,173.44,Mill. dongs,observed,estimated,E0312,7,9,173.44,Est.2025,,Bac Ninh
+national_account,e0312_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2018,2018,annual,126.81,Mill. dongs,observed,not_specified,E0312,8,2,126.81,2018,,Quang Ninh
+national_account,e0312_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2019,2019,annual,143.31,Mill. dongs,observed,not_specified,E0312,8,3,143.31,2019,,Quang Ninh
+national_account,e0312_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2020,2020,annual,155.60,Mill. dongs,observed,not_specified,E0312,8,4,155.60,2020,,Quang Ninh
+national_account,e0312_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2021,2021,annual,170.19,Mill. dongs,observed,not_specified,E0312,8,5,170.19,2021,,Quang Ninh
+national_account,e0312_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2022,2022,annual,195.27,Mill. dongs,observed,not_specified,E0312,8,6,195.27,2022,,Quang Ninh
+national_account,e0312_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2023,2023,annual,213.15,Mill. dongs,observed,not_specified,E0312,8,7,213.15,2023,,Quang Ninh
+national_account,e0312_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2024,2024,annual,234.10,Mill. dongs,observed,preliminary,E0312,8,8,234.10,Prel. 2024,,Quang Ninh
+national_account,e0312_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2025,2025,annual,261.20,Mill. dongs,observed,estimated,E0312,8,9,261.20,Est.2025,,Quang Ninh
+national_account,e0312_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2018,2018,annual,61.21,Mill. dongs,observed,not_specified,E0312,9,2,61.21,2018,,Hai Duong
+national_account,e0312_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2019,2019,annual,66.78,Mill. dongs,observed,not_specified,E0312,9,3,66.78,2019,,Hai Duong
+national_account,e0312_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2020,2020,annual,68.40,Mill. dongs,observed,not_specified,E0312,9,4,68.40,2020,,Hai Duong
+national_account,e0312_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2021,2021,annual,77.30,Mill. dongs,observed,not_specified,E0312,9,5,77.30,2021,,Hai Duong
+national_account,e0312_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2022,2022,annual,87.71,Mill. dongs,observed,not_specified,E0312,9,6,87.71,2022,,Hai Duong
+national_account,e0312_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2023,2023,annual,94.85,Mill. dongs,observed,not_specified,E0312,9,7,94.85,2023,,Hai Duong
+national_account,e0312_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2024,2024,annual,106.25,Mill. dongs,observed,preliminary,E0312,9,8,106.25,Prel. 2024,,Hai Duong
+national_account,e0312_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2025,2025,annual,118.20,Mill. dongs,observed,estimated,E0312,9,9,118.20,Est.2025,,Hai Duong
+national_account,e0312_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2018,2018,annual,104.42,Mill. dongs,observed,not_specified,E0312,10,2,104.42,2018,,Hai Phong
+national_account,e0312_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2019,2019,annual,122.17,Mill. dongs,observed,not_specified,E0312,10,3,122.17,2019,,Hai Phong
+national_account,e0312_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2020,2020,annual,133.90,Mill. dongs,observed,not_specified,E0312,10,4,133.90,2020,,Hai Phong
+national_account,e0312_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2021,2021,annual,151.13,Mill. dongs,observed,not_specified,E0312,10,5,151.13,2021,,Hai Phong
+national_account,e0312_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2022,2022,annual,171.57,Mill. dongs,observed,not_specified,E0312,10,6,171.57,2022,,Hai Phong
+national_account,e0312_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2023,2023,annual,185.07,Mill. dongs,observed,not_specified,E0312,10,7,185.07,2023,,Hai Phong
+national_account,e0312_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2024,2024,annual,206.20,Mill. dongs,observed,preliminary,E0312,10,8,206.20,Prel. 2024,,Hai Phong
+national_account,e0312_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2025,2025,annual,231.58,Mill. dongs,observed,estimated,E0312,10,9,231.58,Est.2025,,Hai Phong
+national_account,e0312_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2018,2018,annual,66.90,Mill. dongs,observed,not_specified,E0312,11,2,66.90,2018,,Hung Yen
+national_account,e0312_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2019,2019,annual,73.71,Mill. dongs,observed,not_specified,E0312,11,3,73.71,2019,,Hung Yen
+national_account,e0312_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2020,2020,annual,79.04,Mill. dongs,observed,not_specified,E0312,11,4,79.04,2020,,Hung Yen
+national_account,e0312_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2021,2021,annual,88.04,Mill. dongs,observed,not_specified,E0312,11,5,88.04,2021,,Hung Yen
+national_account,e0312_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2022,2022,annual,102.53,Mill. dongs,observed,not_specified,E0312,11,6,102.53,2022,,Hung Yen
+national_account,e0312_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2023,2023,annual,109.88,Mill. dongs,observed,not_specified,E0312,11,7,109.88,2023,,Hung Yen
+national_account,e0312_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2024,2024,annual,117.74,Mill. dongs,observed,preliminary,E0312,11,8,117.74,Prel. 2024,,Hung Yen
+national_account,e0312_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2025,2025,annual,130.27,Mill. dongs,observed,estimated,E0312,11,9,130.27,Est.2025,,Hung Yen
+national_account,e0312_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2018,2018,annual,39.98,Mill. dongs,observed,not_specified,E0312,12,2,39.98,2018,,Thai Binh
+national_account,e0312_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2019,2019,annual,45.22,Mill. dongs,observed,not_specified,E0312,12,3,45.22,2019,,Thai Binh
+national_account,e0312_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2020,2020,annual,47.90,Mill. dongs,observed,not_specified,E0312,12,4,47.90,2020,,Thai Binh
+national_account,e0312_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2021,2021,annual,51.60,Mill. dongs,observed,not_specified,E0312,12,5,51.60,2021,,Thai Binh
+national_account,e0312_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2022,2022,annual,57.72,Mill. dongs,observed,not_specified,E0312,12,6,57.72,2022,,Thai Binh
+national_account,e0312_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2023,2023,annual,62.57,Mill. dongs,observed,not_specified,E0312,12,7,62.57,2023,,Thai Binh
+national_account,e0312_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2024,2024,annual,68.93,Mill. dongs,observed,preliminary,E0312,12,8,68.93,Prel. 2024,,Thai Binh
+national_account,e0312_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2025,2025,annual,76.83,Mill. dongs,observed,estimated,E0312,12,9,76.83,Est.2025,,Thai Binh
+national_account,e0312_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2018,2018,annual,56.31,Mill. dongs,observed,not_specified,E0312,13,2,56.31,2018,,Ha Nam
+national_account,e0312_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2019,2019,annual,64.03,Mill. dongs,observed,not_specified,E0312,13,3,64.03,2019,,Ha Nam
+national_account,e0312_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2020,2020,annual,69.53,Mill. dongs,observed,not_specified,E0312,13,4,69.53,2020,,Ha Nam
+national_account,e0312_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2021,2021,annual,75.96,Mill. dongs,observed,not_specified,E0312,13,5,75.96,2021,,Ha Nam
+national_account,e0312_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2022,2022,annual,87.11,Mill. dongs,observed,not_specified,E0312,13,6,87.11,2022,,Ha Nam
+national_account,e0312_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2023,2023,annual,95.75,Mill. dongs,observed,not_specified,E0312,13,7,95.75,2023,,Ha Nam
+national_account,e0312_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2024,2024,annual,107.53,Mill. dongs,observed,preliminary,E0312,13,8,107.53,Prel. 2024,,Ha Nam
+national_account,e0312_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2025,2025,annual,121.54,Mill. dongs,observed,estimated,E0312,13,9,121.54,Est.2025,,Ha Nam
+national_account,e0312_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2018,2018,annual,34.92,Mill. dongs,observed,not_specified,E0312,14,2,34.92,2018,,Nam Dinh
+national_account,e0312_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2019,2019,annual,39.04,Mill. dongs,observed,not_specified,E0312,14,3,39.04,2019,,Nam Dinh
+national_account,e0312_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2020,2020,annual,42.69,Mill. dongs,observed,not_specified,E0312,14,4,42.69,2020,,Nam Dinh
+national_account,e0312_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2021,2021,annual,44.55,Mill. dongs,observed,not_specified,E0312,14,5,44.55,2021,,Nam Dinh
+national_account,e0312_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2022,2022,annual,47.33,Mill. dongs,observed,not_specified,E0312,14,6,47.33,2022,,Nam Dinh
+national_account,e0312_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2023,2023,annual,51.61,Mill. dongs,observed,not_specified,E0312,14,7,51.61,2023,,Nam Dinh
+national_account,e0312_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2024,2024,annual,58.72,Mill. dongs,observed,preliminary,E0312,14,8,58.72,Prel. 2024,,Nam Dinh
+national_account,e0312_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2025,2025,annual,67.08,Mill. dongs,observed,estimated,E0312,14,9,67.08,Est.2025,,Nam Dinh
+national_account,e0312_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2018,2018,annual,54.31,Mill. dongs,observed,not_specified,E0312,15,2,54.31,2018,,Ninh Binh
+national_account,e0312_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2019,2019,annual,62.77,Mill. dongs,observed,not_specified,E0312,15,3,62.77,2019,,Ninh Binh
+national_account,e0312_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2020,2020,annual,67.53,Mill. dongs,observed,not_specified,E0312,15,4,67.53,2020,,Ninh Binh
+national_account,e0312_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2021,2021,annual,70.73,Mill. dongs,observed,not_specified,E0312,15,5,70.73,2021,,Ninh Binh
+national_account,e0312_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2022,2022,annual,79.77,Mill. dongs,observed,not_specified,E0312,15,6,79.77,2022,,Ninh Binh
+national_account,e0312_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2023,2023,annual,83.19,Mill. dongs,observed,not_specified,E0312,15,7,83.19,2023,,Ninh Binh
+national_account,e0312_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2024,2024,annual,91.39,Mill. dongs,observed,preliminary,E0312,15,8,91.39,Prel. 2024,,Ninh Binh
+national_account,e0312_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2025,2025,annual,101.36,Mill. dongs,observed,estimated,E0312,15,9,101.36,Est.2025,,Ninh Binh
+national_account,e0312_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2018,2018,annual,26.07,Mill. dongs,observed,not_specified,E0312,17,2,26.07,2018,,Ha Giang
+national_account,e0312_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2019,2019,annual,28.19,Mill. dongs,observed,not_specified,E0312,17,3,28.19,2019,,Ha Giang
+national_account,e0312_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2020,2020,annual,29.80,Mill. dongs,observed,not_specified,E0312,17,4,29.80,2020,,Ha Giang
+national_account,e0312_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2021,2021,annual,30.76,Mill. dongs,observed,not_specified,E0312,17,5,30.76,2021,,Ha Giang
+national_account,e0312_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2022,2022,annual,33.76,Mill. dongs,observed,not_specified,E0312,17,6,33.76,2022,,Ha Giang
+national_account,e0312_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2023,2023,annual,34.69,Mill. dongs,observed,not_specified,E0312,17,7,34.69,2023,,Ha Giang
+national_account,e0312_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2024,2024,annual,37.82,Mill. dongs,observed,preliminary,E0312,17,8,37.82,Prel. 2024,,Ha Giang
+national_account,e0312_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2025,2025,annual,42.87,Mill. dongs,observed,estimated,E0312,17,9,42.87,Est.2025,,Ha Giang
+national_account,e0312_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2018,2018,annual,30.63,Mill. dongs,observed,not_specified,E0312,18,2,30.63,2018,,Cao Bang
+national_account,e0312_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2019,2019,annual,32.89,Mill. dongs,observed,not_specified,E0312,18,3,32.89,2019,,Cao Bang
+national_account,e0312_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2020,2020,annual,35.81,Mill. dongs,observed,not_specified,E0312,18,4,35.81,2020,,Cao Bang
+national_account,e0312_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2021,2021,annual,35.85,Mill. dongs,observed,not_specified,E0312,18,5,35.85,2021,,Cao Bang
+national_account,e0312_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2022,2022,annual,38.71,Mill. dongs,observed,not_specified,E0312,18,6,38.71,2022,,Cao Bang
+national_account,e0312_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2023,2023,annual,40.98,Mill. dongs,observed,not_specified,E0312,18,7,40.98,2023,,Cao Bang
+national_account,e0312_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2024,2024,annual,44.25,Mill. dongs,observed,preliminary,E0312,18,8,44.25,Prel. 2024,,Cao Bang
+national_account,e0312_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2025,2025,annual,49.59,Mill. dongs,observed,estimated,E0312,18,9,49.59,Est.2025,,Cao Bang
+national_account,e0312_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2018,2018,annual,35.38,Mill. dongs,observed,not_specified,E0312,19,2,35.38,2018,,Bac Kan
+national_account,e0312_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2019,2019,annual,38.21,Mill. dongs,observed,not_specified,E0312,19,3,38.21,2019,,Bac Kan
+national_account,e0312_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2020,2020,annual,41.06,Mill. dongs,observed,not_specified,E0312,19,4,41.06,2020,,Bac Kan
+national_account,e0312_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2021,2021,annual,42.46,Mill. dongs,observed,not_specified,E0312,19,5,42.46,2021,,Bac Kan
+national_account,e0312_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2022,2022,annual,47.05,Mill. dongs,observed,not_specified,E0312,19,6,47.05,2022,,Bac Kan
+national_account,e0312_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2023,2023,annual,51.90,Mill. dongs,observed,not_specified,E0312,19,7,51.90,2023,,Bac Kan
+national_account,e0312_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2024,2024,annual,57.05,Mill. dongs,observed,preliminary,E0312,19,8,57.05,Prel. 2024,,Bac Kan
+national_account,e0312_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2025,2025,annual,62.18,Mill. dongs,observed,estimated,E0312,19,9,62.18,Est.2025,,Bac Kan
+national_account,e0312_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2018,2018,annual,36.19,Mill. dongs,observed,not_specified,E0312,20,2,36.19,2018,,Tuyen Quang
+national_account,e0312_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2019,2019,annual,39.58,Mill. dongs,observed,not_specified,E0312,20,3,39.58,2019,,Tuyen Quang
+national_account,e0312_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2020,2020,annual,43.52,Mill. dongs,observed,not_specified,E0312,20,4,43.52,2020,,Tuyen Quang
+national_account,e0312_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2021,2021,annual,45.23,Mill. dongs,observed,not_specified,E0312,20,5,45.23,2021,,Tuyen Quang
+national_account,e0312_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2022,2022,annual,50.26,Mill. dongs,observed,not_specified,E0312,20,6,50.26,2022,,Tuyen Quang
+national_account,e0312_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2023,2023,annual,53.76,Mill. dongs,observed,not_specified,E0312,20,7,53.76,2023,,Tuyen Quang
+national_account,e0312_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2024,2024,annual,60.03,Mill. dongs,observed,preliminary,E0312,20,8,60.03,Prel. 2024,,Tuyen Quang
+national_account,e0312_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2025,2025,annual,67.69,Mill. dongs,observed,estimated,E0312,20,9,67.69,Est.2025,,Tuyen Quang
+national_account,e0312_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2018,2018,annual,62.17,Mill. dongs,observed,not_specified,E0312,21,2,62.17,2018,,Lao Cai
+national_account,e0312_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2019,2019,annual,68.11,Mill. dongs,observed,not_specified,E0312,21,3,68.11,2019,,Lao Cai
+national_account,e0312_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2020,2020,annual,71.98,Mill. dongs,observed,not_specified,E0312,21,4,71.98,2020,,Lao Cai
+national_account,e0312_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2021,2021,annual,74.45,Mill. dongs,observed,not_specified,E0312,21,5,74.45,2021,,Lao Cai
+national_account,e0312_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2022,2022,annual,83.37,Mill. dongs,observed,not_specified,E0312,21,6,83.37,2022,,Lao Cai
+national_account,e0312_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2023,2023,annual,85.32,Mill. dongs,observed,not_specified,E0312,21,7,85.32,2023,,Lao Cai
+national_account,e0312_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2024,2024,annual,92.96,Mill. dongs,observed,preliminary,E0312,21,8,92.96,Prel. 2024,,Lao Cai
+national_account,e0312_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2025,2025,annual,108.25,Mill. dongs,observed,estimated,E0312,21,9,108.25,Est.2025,,Lao Cai
+national_account,e0312_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2018,2018,annual,33.87,Mill. dongs,observed,not_specified,E0312,22,2,33.87,2018,,Yen Bai
+national_account,e0312_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2019,2019,annual,37.09,Mill. dongs,observed,not_specified,E0312,22,3,37.09,2019,,Yen Bai
+national_account,e0312_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2020,2020,annual,39.87,Mill. dongs,observed,not_specified,E0312,22,4,39.87,2020,,Yen Bai
+national_account,e0312_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2021,2021,annual,42.58,Mill. dongs,observed,not_specified,E0312,22,5,42.58,2021,,Yen Bai
+national_account,e0312_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2022,2022,annual,47.49,Mill. dongs,observed,not_specified,E0312,22,6,47.49,2022,,Yen Bai
+national_account,e0312_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2023,2023,annual,50.12,Mill. dongs,observed,not_specified,E0312,22,7,50.12,2023,,Yen Bai
+national_account,e0312_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2024,2024,annual,55.35,Mill. dongs,observed,preliminary,E0312,22,8,55.35,Prel. 2024,,Yen Bai
+national_account,e0312_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2025,2025,annual,63.06,Mill. dongs,observed,estimated,E0312,22,9,63.06,Est.2025,,Yen Bai
+national_account,e0312_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2018,2018,annual,84.75,Mill. dongs,observed,not_specified,E0312,23,2,84.75,2018,,Thai  Nguyen
+national_account,e0312_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2019,2019,annual,90.89,Mill. dongs,observed,not_specified,E0312,23,3,90.89,2019,,Thai  Nguyen
+national_account,e0312_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2020,2020,annual,94.33,Mill. dongs,observed,not_specified,E0312,23,4,94.33,2020,,Thai  Nguyen
+national_account,e0312_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2021,2021,annual,99.96,Mill. dongs,observed,not_specified,E0312,23,5,99.96,2021,,Thai  Nguyen
+national_account,e0312_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2022,2022,annual,108.14,Mill. dongs,observed,not_specified,E0312,23,6,108.14,2022,,Thai  Nguyen
+national_account,e0312_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2023,2023,annual,110.42,Mill. dongs,observed,not_specified,E0312,23,7,110.42,2023,,Thai  Nguyen
+national_account,e0312_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2024,2024,annual,114.49,Mill. dongs,observed,preliminary,E0312,23,8,114.49,Prel. 2024,,Thai  Nguyen
+national_account,e0312_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2025,2025,annual,124.47,Mill. dongs,observed,estimated,E0312,23,9,124.47,Est.2025,,Thai  Nguyen
+national_account,e0312_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2018,2018,annual,38.25,Mill. dongs,observed,not_specified,E0312,24,2,38.25,2018,,Lang Son
+national_account,e0312_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2019,2019,annual,41.90,Mill. dongs,observed,not_specified,E0312,24,3,41.90,2019,,Lang Son
+national_account,e0312_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2020,2020,annual,44.23,Mill. dongs,observed,not_specified,E0312,24,4,44.23,2020,,Lang Son
+national_account,e0312_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2021,2021,annual,47.17,Mill. dongs,observed,not_specified,E0312,24,5,47.17,2021,,Lang Son
+national_account,e0312_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2022,2022,annual,50.98,Mill. dongs,observed,not_specified,E0312,24,6,50.98,2022,,Lang Son
+national_account,e0312_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2023,2023,annual,57.83,Mill. dongs,observed,not_specified,E0312,24,7,57.83,2023,,Lang Son
+national_account,e0312_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2024,2024,annual,62.36,Mill. dongs,observed,preliminary,E0312,24,8,62.36,Prel. 2024,,Lang Son
+national_account,e0312_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2025,2025,annual,70.95,Mill. dongs,observed,estimated,E0312,24,9,70.95,Est.2025,,Lang Son
+national_account,e0312_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2018,2018,annual,50.85,Mill. dongs,observed,not_specified,E0312,25,2,50.85,2018,,Bac Giang
+national_account,e0312_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2019,2019,annual,57.72,Mill. dongs,observed,not_specified,E0312,25,3,57.72,2019,,Bac Giang
+national_account,e0312_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2020,2020,annual,65.64,Mill. dongs,observed,not_specified,E0312,25,4,65.64,2020,,Bac Giang
+national_account,e0312_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2021,2021,annual,70.35,Mill. dongs,observed,not_specified,E0312,25,5,70.35,2021,,Bac Giang
+national_account,e0312_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2022,2022,annual,84.30,Mill. dongs,observed,not_specified,E0312,25,6,84.30,2022,,Bac Giang
+national_account,e0312_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2023,2023,annual,96.21,Mill. dongs,observed,not_specified,E0312,25,7,96.21,2023,,Bac Giang
+national_account,e0312_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2024,2024,annual,109.17,Mill. dongs,observed,preliminary,E0312,25,8,109.17,Prel. 2024,,Bac Giang
+national_account,e0312_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2025,2025,annual,124.65,Mill. dongs,observed,estimated,E0312,25,9,124.65,Est.2025,,Bac Giang
+national_account,e0312_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2018,2018,annual,42.53,Mill. dongs,observed,not_specified,E0312,26,2,42.53,2018,,Phu Tho
+national_account,e0312_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2019,2019,annual,47.07,Mill. dongs,observed,not_specified,E0312,26,3,47.07,2019,,Phu Tho
+national_account,e0312_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2020,2020,annual,50.74,Mill. dongs,observed,not_specified,E0312,26,4,50.74,2020,,Phu Tho
+national_account,e0312_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2021,2021,annual,54.00,Mill. dongs,observed,not_specified,E0312,26,5,54.00,2021,,Phu Tho
+national_account,e0312_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2022,2022,annual,59.64,Mill. dongs,observed,not_specified,E0312,26,6,59.64,2022,,Phu Tho
+national_account,e0312_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2023,2023,annual,65.05,Mill. dongs,observed,not_specified,E0312,26,7,65.05,2023,,Phu Tho
+national_account,e0312_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2024,2024,annual,73.09,Mill. dongs,observed,preliminary,E0312,26,8,73.09,Prel. 2024,,Phu Tho
+national_account,e0312_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2025,2025,annual,83.65,Mill. dongs,observed,estimated,E0312,26,9,83.65,Est.2025,,Phu Tho
+national_account,e0312_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2018,2018,annual,30.65,Mill. dongs,observed,not_specified,E0312,27,2,30.65,2018,,Dien Bien
+national_account,e0312_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2019,2019,annual,32.14,Mill. dongs,observed,not_specified,E0312,27,3,32.14,2019,,Dien Bien
+national_account,e0312_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2020,2020,annual,33.09,Mill. dongs,observed,not_specified,E0312,27,4,33.09,2020,,Dien Bien
+national_account,e0312_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2021,2021,annual,35.30,Mill. dongs,observed,not_specified,E0312,27,5,35.30,2021,,Dien Bien
+national_account,e0312_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2022,2022,annual,39.50,Mill. dongs,observed,not_specified,E0312,27,6,39.50,2022,,Dien Bien
+national_account,e0312_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2023,2023,annual,43.19,Mill. dongs,observed,not_specified,E0312,27,7,43.19,2023,,Dien Bien
+national_account,e0312_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2024,2024,annual,47.74,Mill. dongs,observed,preliminary,E0312,27,8,47.74,Prel. 2024,,Dien Bien
+national_account,e0312_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2025,2025,annual,53.39,Mill. dongs,observed,estimated,E0312,27,9,53.39,Est.2025,,Dien Bien
+national_account,e0312_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2018,2018,annual,40.50,Mill. dongs,observed,not_specified,E0312,28,2,40.50,2018,,Lai Chau
+national_account,e0312_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2019,2019,annual,38.86,Mill. dongs,observed,not_specified,E0312,28,3,38.86,2019,,Lai Chau
+national_account,e0312_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2020,2020,annual,43.33,Mill. dongs,observed,not_specified,E0312,28,4,43.33,2020,,Lai Chau
+national_account,e0312_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2021,2021,annual,44.66,Mill. dongs,observed,not_specified,E0312,28,5,44.66,2021,,Lai Chau
+national_account,e0312_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2022,2022,annual,49.62,Mill. dongs,observed,not_specified,E0312,28,6,49.62,2022,,Lai Chau
+national_account,e0312_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2023,2023,annual,50.80,Mill. dongs,observed,not_specified,E0312,28,7,50.80,2023,,Lai Chau
+national_account,e0312_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2024,2024,annual,60.38,Mill. dongs,observed,preliminary,E0312,28,8,60.38,Prel. 2024,,Lai Chau
+national_account,e0312_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2025,2025,annual,79.43,Mill. dongs,observed,estimated,E0312,28,9,79.43,Est.2025,,Lai Chau
+national_account,e0312_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2018,2018,annual,40.37,Mill. dongs,observed,not_specified,E0312,29,2,40.37,2018,,Son La
+national_account,e0312_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2019,2019,annual,39.68,Mill. dongs,observed,not_specified,E0312,29,3,39.68,2019,,Son La
+national_account,e0312_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2020,2020,annual,43.32,Mill. dongs,observed,not_specified,E0312,29,4,43.32,2020,,Son La
+national_account,e0312_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2021,2021,annual,44.25,Mill. dongs,observed,not_specified,E0312,29,5,44.25,2021,,Son La
+national_account,e0312_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2022,2022,annual,48.84,Mill. dongs,observed,not_specified,E0312,29,6,48.84,2022,,Son La
+national_account,e0312_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2023,2023,annual,50.84,Mill. dongs,observed,not_specified,E0312,29,7,50.84,2023,,Son La
+national_account,e0312_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2024,2024,annual,57.38,Mill. dongs,observed,preliminary,E0312,29,8,57.38,Prel. 2024,,Son La
+national_account,e0312_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2025,2025,annual,71.38,Mill. dongs,observed,estimated,E0312,29,9,71.38,Est.2025,,Son La
+national_account,e0312_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2018,2018,annual,54.42,Mill. dongs,observed,not_specified,E0312,30,2,54.42,2018,,Hoa Binh
+national_account,e0312_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2019,2019,annual,54.61,Mill. dongs,observed,not_specified,E0312,30,3,54.61,2019,,Hoa Binh
+national_account,e0312_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2020,2020,annual,57.72,Mill. dongs,observed,not_specified,E0312,30,4,57.72,2020,,Hoa Binh
+national_account,e0312_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2021,2021,annual,59.15,Mill. dongs,observed,not_specified,E0312,30,5,59.15,2021,,Hoa Binh
+national_account,e0312_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2022,2022,annual,67.21,Mill. dongs,observed,not_specified,E0312,30,6,67.21,2022,,Hoa Binh
+national_account,e0312_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2023,2023,annual,69.75,Mill. dongs,observed,not_specified,E0312,30,7,69.75,2023,,Hoa Binh
+national_account,e0312_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2024,2024,annual,79.43,Mill. dongs,observed,preliminary,E0312,30,8,79.43,Prel. 2024,,Hoa Binh
+national_account,e0312_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2025,2025,annual,95.14,Mill. dongs,observed,estimated,E0312,30,9,95.14,Est.2025,,Hoa Binh
+national_account,e0312_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2018,2018,annual,40.26,Mill. dongs,observed,not_specified,E0312,32,2,40.26,2018,,Thanh Hoa
+national_account,e0312_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2019,2019,annual,48.33,Mill. dongs,observed,not_specified,E0312,32,3,48.33,2019,,Thanh Hoa
+national_account,e0312_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2020,2020,annual,51.26,Mill. dongs,observed,not_specified,E0312,32,4,51.26,2020,,Thanh Hoa
+national_account,e0312_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2021,2021,annual,57.60,Mill. dongs,observed,not_specified,E0312,32,5,57.60,2021,,Thanh Hoa
+national_account,e0312_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2022,2022,annual,69.08,Mill. dongs,observed,not_specified,E0312,32,6,69.08,2022,,Thanh Hoa
+national_account,e0312_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2023,2023,annual,72.62,Mill. dongs,observed,not_specified,E0312,32,7,72.62,2023,,Thanh Hoa
+national_account,e0312_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2024,2024,annual,81.32,Mill. dongs,observed,preliminary,E0312,32,8,81.32,Prel. 2024,,Thanh Hoa
+national_account,e0312_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2025,2025,annual,88.49,Mill. dongs,observed,estimated,E0312,32,9,88.49,Est.2025,,Thanh Hoa
+national_account,e0312_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2018,2018,annual,36.52,Mill. dongs,observed,not_specified,E0312,33,2,36.52,2018,,Nghe An
+national_account,e0312_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2019,2019,annual,39.85,Mill. dongs,observed,not_specified,E0312,33,3,39.85,2019,,Nghe An
+national_account,e0312_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2020,2020,annual,43.06,Mill. dongs,observed,not_specified,E0312,33,4,43.06,2020,,Nghe An
+national_account,e0312_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2021,2021,annual,46.21,Mill. dongs,observed,not_specified,E0312,33,5,46.21,2021,,Nghe An
+national_account,e0312_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2022,2022,annual,51.20,Mill. dongs,observed,not_specified,E0312,33,6,51.20,2022,,Nghe An
+national_account,e0312_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2023,2023,annual,54.94,Mill. dongs,observed,not_specified,E0312,33,7,54.94,2023,,Nghe An
+national_account,e0312_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2024,2024,annual,60.75,Mill. dongs,observed,preliminary,E0312,33,8,60.75,Prel. 2024,,Nghe An
+national_account,e0312_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2025,2025,annual,67.61,Mill. dongs,observed,estimated,E0312,33,9,67.61,Est.2025,,Nghe An
+national_account,e0312_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2018,2018,annual,54.73,Mill. dongs,observed,not_specified,E0312,34,2,54.73,2018,,Ha Tinh
+national_account,e0312_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2019,2019,annual,60.54,Mill. dongs,observed,not_specified,E0312,34,3,60.54,2019,,Ha Tinh
+national_account,e0312_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2020,2020,annual,63.55,Mill. dongs,observed,not_specified,E0312,34,4,63.55,2020,,Ha Tinh
+national_account,e0312_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2021,2021,annual,68.90,Mill. dongs,observed,not_specified,E0312,34,5,68.90,2021,,Ha Tinh
+national_account,e0312_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2022,2022,annual,71.89,Mill. dongs,observed,not_specified,E0312,34,6,71.89,2022,,Ha Tinh
+national_account,e0312_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2023,2023,annual,76.50,Mill. dongs,observed,not_specified,E0312,34,7,76.50,2023,,Ha Tinh
+national_account,e0312_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2024,2024,annual,82.81,Mill. dongs,observed,preliminary,E0312,34,8,82.81,Prel. 2024,,Ha Tinh
+national_account,e0312_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2025,2025,annual,90.51,Mill. dongs,observed,estimated,E0312,34,9,90.51,Est.2025,,Ha Tinh
+national_account,e0312_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2018,2018,annual,39.72,Mill. dongs,observed,not_specified,E0312,35,2,39.72,2018,,Quang Binh
+national_account,e0312_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2019,2019,annual,43.75,Mill. dongs,observed,not_specified,E0312,35,3,43.75,2019,,Quang Binh
+national_account,e0312_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2020,2020,annual,46.32,Mill. dongs,observed,not_specified,E0312,35,4,46.32,2020,,Quang Binh
+national_account,e0312_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2021,2021,annual,49.29,Mill. dongs,observed,not_specified,E0312,35,5,49.29,2021,,Quang Binh
+national_account,e0312_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2022,2022,annual,54.30,Mill. dongs,observed,not_specified,E0312,35,6,54.30,2022,,Quang Binh
+national_account,e0312_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2023,2023,annual,59.26,Mill. dongs,observed,not_specified,E0312,35,7,59.26,2023,,Quang Binh
+national_account,e0312_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2024,2024,annual,64.71,Mill. dongs,observed,preliminary,E0312,35,8,64.71,Prel. 2024,,Quang Binh
+national_account,e0312_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2025,2025,annual,71.94,Mill. dongs,observed,estimated,E0312,35,9,71.94,Est.2025,,Quang Binh
+national_account,e0312_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2018,2018,annual,45.49,Mill. dongs,observed,not_specified,E0312,36,2,45.49,2018,,Quang Tri
+national_account,e0312_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2019,2019,annual,50.34,Mill. dongs,observed,not_specified,E0312,36,3,50.34,2019,,Quang Tri
+national_account,e0312_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2020,2020,annual,52.84,Mill. dongs,observed,not_specified,E0312,36,4,52.84,2020,,Quang Tri
+national_account,e0312_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2021,2021,annual,57.90,Mill. dongs,observed,not_specified,E0312,36,5,57.90,2021,,Quang Tri
+national_account,e0312_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2022,2022,annual,67.19,Mill. dongs,observed,not_specified,E0312,36,6,67.19,2022,,Quang Tri
+national_account,e0312_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2023,2023,annual,70.94,Mill. dongs,observed,not_specified,E0312,36,7,70.94,2023,,Quang Tri
+national_account,e0312_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2024,2024,annual,77.04,Mill. dongs,observed,preliminary,E0312,36,8,77.04,Prel. 2024,,Quang Tri
+national_account,e0312_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2025,2025,annual,85.10,Mill. dongs,observed,estimated,E0312,36,9,85.10,Est.2025,,Quang Tri
+national_account,e0312_c9b3c38247,VN_SRC_THUATHIENHUE,Thua Thien-Hue,source_reported_unharmonized,2018,2018,annual,42.54,Mill. dongs,observed,not_specified,E0312,37,2,42.54,2018,,Thua Thien-Hue
+national_account,e0312_c9b3c38247,VN_SRC_THUATHIENHUE,Thua Thien-Hue,source_reported_unharmonized,2019,2019,annual,46.81,Mill. dongs,observed,not_specified,E0312,37,3,46.81,2019,,Thua Thien-Hue
+national_account,e0312_c9b3c38247,VN_SRC_THUATHIENHUE,Thua Thien-Hue,source_reported_unharmonized,2020,2020,annual,48.56,Mill. dongs,observed,not_specified,E0312,37,4,48.56,2020,,Thua Thien-Hue
+national_account,e0312_c9b3c38247,VN_SRC_THUATHIENHUE,Thua Thien-Hue,source_reported_unharmonized,2021,2021,annual,50.83,Mill. dongs,observed,not_specified,E0312,37,5,50.83,2021,,Thua Thien-Hue
+national_account,e0312_c9b3c38247,VN_SRC_THUATHIENHUE,Thua Thien-Hue,source_reported_unharmonized,2022,2022,annual,56.80,Mill. dongs,observed,not_specified,E0312,37,6,56.80,2022,,Thua Thien-Hue
+national_account,e0312_c9b3c38247,VN_SRC_THUATHIENHUE,Thua Thien-Hue,source_reported_unharmonized,2023,2023,annual,62.01,Mill. dongs,observed,not_specified,E0312,37,7,62.01,2023,,Thua Thien-Hue
+national_account,e0312_c9b3c38247,VN_SRC_THUATHIENHUE,Thua Thien-Hue,source_reported_unharmonized,2024,2024,annual,67.72,Mill. dongs,observed,preliminary,E0312,37,8,67.72,Prel. 2024,,Thua Thien-Hue
+national_account,e0312_c9b3c38247,VN_SRC_THUATHIENHUE,Thua Thien-Hue,source_reported_unharmonized,2025,2025,annual,75.27,Mill. dongs,observed,estimated,E0312,37,9,75.27,Est.2025,,Thua Thien-Hue
+national_account,e0312_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2018,2018,annual,91.00,Mill. dongs,observed,not_specified,E0312,38,2,91.00,2018,,Da Nang
+national_account,e0312_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2019,2019,annual,97.44,Mill. dongs,observed,not_specified,E0312,38,3,97.44,2019,,Da Nang
+national_account,e0312_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2020,2020,annual,88.85,Mill. dongs,observed,not_specified,E0312,38,4,88.85,2020,,Da Nang
+national_account,e0312_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2021,2021,annual,90.41,Mill. dongs,observed,not_specified,E0312,38,5,90.41,2021,,Da Nang
+national_account,e0312_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2022,2022,annual,102.88,Mill. dongs,observed,not_specified,E0312,38,6,102.88,2022,,Da Nang
+national_account,e0312_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2023,2023,annual,108.30,Mill. dongs,observed,not_specified,E0312,38,7,108.30,2023,,Da Nang
+national_account,e0312_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2024,2024,annual,119.31,Mill. dongs,observed,preliminary,E0312,38,8,119.31,Prel. 2024,,Da Nang
+national_account,e0312_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2025,2025,annual,135.13,Mill. dongs,observed,estimated,E0312,38,9,135.13,Est.2025,,Da Nang
+national_account,e0312_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2018,2018,annual,61.55,Mill. dongs,observed,not_specified,E0312,39,2,61.55,2018,,Quang  Nam
+national_account,e0312_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2019,2019,annual,66.05,Mill. dongs,observed,not_specified,E0312,39,3,66.05,2019,,Quang  Nam
+national_account,e0312_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2020,2020,annual,65.41,Mill. dongs,observed,not_specified,E0312,39,4,65.41,2020,,Quang  Nam
+national_account,e0312_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2021,2021,annual,69.77,Mill. dongs,observed,not_specified,E0312,39,5,69.77,2021,,Quang  Nam
+national_account,e0312_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2022,2022,annual,78.67,Mill. dongs,observed,not_specified,E0312,39,6,78.67,2022,,Quang  Nam
+national_account,e0312_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2023,2023,annual,76.10,Mill. dongs,observed,not_specified,E0312,39,7,76.10,2023,,Quang  Nam
+national_account,e0312_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2024,2024,annual,83.10,Mill. dongs,observed,preliminary,E0312,39,8,83.10,Prel. 2024,,Quang  Nam
+national_account,e0312_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2025,2025,annual,90.06,Mill. dongs,observed,estimated,E0312,39,9,90.06,Est.2025,,Quang  Nam
+national_account,e0312_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2018,2018,annual,67.73,Mill. dongs,observed,not_specified,E0312,40,2,67.73,2018,,Quang  Ngai
+national_account,e0312_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2019,2019,annual,70.53,Mill. dongs,observed,not_specified,E0312,40,3,70.53,2019,,Quang  Ngai
+national_account,e0312_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2020,2020,annual,69.48,Mill. dongs,observed,not_specified,E0312,40,4,69.48,2020,,Quang  Ngai
+national_account,e0312_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2021,2021,annual,81.51,Mill. dongs,observed,not_specified,E0312,40,5,81.51,2021,,Quang  Ngai
+national_account,e0312_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2022,2022,annual,99.89,Mill. dongs,observed,not_specified,E0312,40,6,99.89,2022,,Quang  Ngai
+national_account,e0312_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2023,2023,annual,100.90,Mill. dongs,observed,not_specified,E0312,40,7,100.90,2023,,Quang  Ngai
+national_account,e0312_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2024,2024,annual,104.28,Mill. dongs,observed,preliminary,E0312,40,8,104.28,Prel. 2024,,Quang  Ngai
+national_account,e0312_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2025,2025,annual,114.45,Mill. dongs,observed,estimated,E0312,40,9,114.45,Est.2025,,Quang  Ngai
+national_account,e0312_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2018,2018,annual,50.25,Mill. dongs,observed,not_specified,E0312,41,2,50.25,2018,,Binh Dinh
+national_account,e0312_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2019,2019,annual,55.67,Mill. dongs,observed,not_specified,E0312,41,3,55.67,2019,,Binh Dinh
+national_account,e0312_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2020,2020,annual,60.08,Mill. dongs,observed,not_specified,E0312,41,4,60.08,2020,,Binh Dinh
+national_account,e0312_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2021,2021,annual,63.66,Mill. dongs,observed,not_specified,E0312,41,5,63.66,2021,,Binh Dinh
+national_account,e0312_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2022,2022,annual,71.65,Mill. dongs,observed,not_specified,E0312,41,6,71.65,2022,,Binh Dinh
+national_account,e0312_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2023,2023,annual,78.10,Mill. dongs,observed,not_specified,E0312,41,7,78.10,2023,,Binh Dinh
+national_account,e0312_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2024,2024,annual,85.26,Mill. dongs,observed,preliminary,E0312,41,8,85.26,Prel. 2024,,Binh Dinh
+national_account,e0312_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2025,2025,annual,93.38,Mill. dongs,observed,estimated,E0312,41,9,93.38,Est.2025,,Binh Dinh
+national_account,e0312_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2018,2018,annual,44.30,Mill. dongs,observed,not_specified,E0312,42,2,44.30,2018,,Phu Yen
+national_account,e0312_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2019,2019,annual,48.63,Mill. dongs,observed,not_specified,E0312,42,3,48.63,2019,,Phu Yen
+national_account,e0312_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2020,2020,annual,50.49,Mill. dongs,observed,not_specified,E0312,42,4,50.49,2020,,Phu Yen
+national_account,e0312_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2021,2021,annual,51.53,Mill. dongs,observed,not_specified,E0312,42,5,51.53,2021,,Phu Yen
+national_account,e0312_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2022,2022,annual,57.39,Mill. dongs,observed,not_specified,E0312,42,6,57.39,2022,,Phu Yen
+national_account,e0312_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2023,2023,annual,63.06,Mill. dongs,observed,not_specified,E0312,42,7,63.06,2023,,Phu Yen
+national_account,e0312_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2024,2024,annual,68.25,Mill. dongs,observed,preliminary,E0312,42,8,68.25,Prel. 2024,,Phu Yen
+national_account,e0312_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2025,2025,annual,74.23,Mill. dongs,observed,estimated,E0312,42,9,74.23,Est.2025,,Phu Yen
+national_account,e0312_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2018,2018,annual,63.89,Mill. dongs,observed,not_specified,E0312,43,2,63.89,2018,,Khanh  Hoa
+national_account,e0312_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2019,2019,annual,70.36,Mill. dongs,observed,not_specified,E0312,43,3,70.36,2019,,Khanh  Hoa
+national_account,e0312_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2020,2020,annual,64.27,Mill. dongs,observed,not_specified,E0312,43,4,64.27,2020,,Khanh  Hoa
+national_account,e0312_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2021,2021,annual,63.51,Mill. dongs,observed,not_specified,E0312,43,5,63.51,2021,,Khanh  Hoa
+national_account,e0312_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2022,2022,annual,77.20,Mill. dongs,observed,not_specified,E0312,43,6,77.20,2022,,Khanh  Hoa
+national_account,e0312_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2023,2023,annual,88.53,Mill. dongs,observed,not_specified,E0312,43,7,88.53,2023,,Khanh  Hoa
+national_account,e0312_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2024,2024,annual,104.33,Mill. dongs,observed,preliminary,E0312,43,8,104.33,Prel. 2024,,Khanh  Hoa
+national_account,e0312_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2025,2025,annual,114.21,Mill. dongs,observed,estimated,E0312,43,9,114.21,Est.2025,,Khanh  Hoa
+national_account,e0312_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2018,2018,annual,43.66,Mill. dongs,observed,not_specified,E0312,44,2,43.66,2018,,Ninh  Thuan
+national_account,e0312_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2019,2019,annual,52.70,Mill. dongs,observed,not_specified,E0312,44,3,52.70,2019,,Ninh  Thuan
+national_account,e0312_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2020,2020,annual,59.11,Mill. dongs,observed,not_specified,E0312,44,4,59.11,2020,,Ninh  Thuan
+national_account,e0312_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2021,2021,annual,69.69,Mill. dongs,observed,not_specified,E0312,44,5,69.69,2021,,Ninh  Thuan
+national_account,e0312_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2022,2022,annual,77.70,Mill. dongs,observed,not_specified,E0312,44,6,77.70,2022,,Ninh  Thuan
+national_account,e0312_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2023,2023,annual,85.52,Mill. dongs,observed,not_specified,E0312,44,7,85.52,2023,,Ninh  Thuan
+national_account,e0312_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2024,2024,annual,94.69,Mill. dongs,observed,preliminary,E0312,44,8,94.69,Prel. 2024,,Ninh  Thuan
+national_account,e0312_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2025,2025,annual,102.28,Mill. dongs,observed,estimated,E0312,44,9,102.28,Est.2025,,Ninh  Thuan
+national_account,e0312_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2018,2018,annual,53.39,Mill. dongs,observed,not_specified,E0312,45,2,53.39,2018,,Binh Thuan
+national_account,e0312_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2019,2019,annual,64.24,Mill. dongs,observed,not_specified,E0312,45,3,64.24,2019,,Binh Thuan
+national_account,e0312_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2020,2020,annual,69.23,Mill. dongs,observed,not_specified,E0312,45,4,69.23,2020,,Binh Thuan
+national_account,e0312_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2021,2021,annual,73.44,Mill. dongs,observed,not_specified,E0312,45,5,73.44,2021,,Binh Thuan
+national_account,e0312_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2022,2022,annual,81.03,Mill. dongs,observed,not_specified,E0312,45,6,81.03,2022,,Binh Thuan
+national_account,e0312_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2023,2023,annual,82.19,Mill. dongs,observed,not_specified,E0312,45,7,82.19,2023,,Binh Thuan
+national_account,e0312_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2024,2024,annual,91.96,Mill. dongs,observed,preliminary,E0312,45,8,91.96,Prel. 2024,,Binh Thuan
+national_account,e0312_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2025,2025,annual,99.86,Mill. dongs,observed,estimated,E0312,45,9,99.86,Est.2025,,Binh Thuan
+national_account,e0312_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2018,2018,annual,37.81,Mill. dongs,observed,not_specified,E0312,47,2,37.81,2018,,Kon Tum
+national_account,e0312_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2019,2019,annual,40.33,Mill. dongs,observed,not_specified,E0312,47,3,40.33,2019,,Kon Tum
+national_account,e0312_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2020,2020,annual,43.01,Mill. dongs,observed,not_specified,E0312,47,4,43.01,2020,,Kon Tum
+national_account,e0312_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2021,2021,annual,47.72,Mill. dongs,observed,not_specified,E0312,47,5,47.72,2021,,Kon Tum
+national_account,e0312_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2022,2022,annual,53.23,Mill. dongs,observed,not_specified,E0312,47,6,53.23,2022,,Kon Tum
+national_account,e0312_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2023,2023,annual,58.97,Mill. dongs,observed,not_specified,E0312,47,7,58.97,2023,,Kon Tum
+national_account,e0312_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2024,2024,annual,67.75,Mill. dongs,observed,preliminary,E0312,47,8,67.75,Prel. 2024,,Kon Tum
+national_account,e0312_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2025,2025,annual,75.76,Mill. dongs,observed,estimated,E0312,47,9,75.76,Est.2025,,Kon Tum
+national_account,e0312_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2018,2018,annual,39.35,Mill. dongs,observed,not_specified,E0312,48,2,39.35,2018,,Gia Lai
+national_account,e0312_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2019,2019,annual,40.25,Mill. dongs,observed,not_specified,E0312,48,3,40.25,2019,,Gia Lai
+national_account,e0312_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2020,2020,annual,42.59,Mill. dongs,observed,not_specified,E0312,48,4,42.59,2020,,Gia Lai
+national_account,e0312_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2021,2021,annual,48.20,Mill. dongs,observed,not_specified,E0312,48,5,48.20,2021,,Gia Lai
+national_account,e0312_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2022,2022,annual,54.08,Mill. dongs,observed,not_specified,E0312,48,6,54.08,2022,,Gia Lai
+national_account,e0312_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2023,2023,annual,57.82,Mill. dongs,observed,not_specified,E0312,48,7,57.82,2023,,Gia Lai
+national_account,e0312_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2024,2024,annual,66.68,Mill. dongs,observed,preliminary,E0312,48,8,66.68,Prel. 2024,,Gia Lai
+national_account,e0312_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2025,2025,annual,77.33,Mill. dongs,observed,estimated,E0312,48,9,77.33,Est.2025,,Gia Lai
+national_account,e0312_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2018,2018,annual,39.14,Mill. dongs,observed,not_specified,E0312,49,2,39.14,2018,,Dak Lak
+national_account,e0312_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2019,2019,annual,41.67,Mill. dongs,observed,not_specified,E0312,49,3,41.67,2019,,Dak Lak
+national_account,e0312_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2020,2020,annual,46.09,Mill. dongs,observed,not_specified,E0312,49,4,46.09,2020,,Dak Lak
+national_account,e0312_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2021,2021,annual,50.96,Mill. dongs,observed,not_specified,E0312,49,5,50.96,2021,,Dak Lak
+national_account,e0312_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2022,2022,annual,56.69,Mill. dongs,observed,not_specified,E0312,49,6,56.69,2022,,Dak Lak
+national_account,e0312_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2023,2023,annual,60.52,Mill. dongs,observed,not_specified,E0312,49,7,60.52,2023,,Dak Lak
+national_account,e0312_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2024,2024,annual,72.46,Mill. dongs,observed,preliminary,E0312,49,8,72.46,Prel. 2024,,Dak Lak
+national_account,e0312_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2025,2025,annual,83.43,Mill. dongs,observed,estimated,E0312,49,9,83.43,Est.2025,,Dak Lak
+national_account,e0312_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2018,2018,annual,44.01,Mill. dongs,observed,not_specified,E0312,50,2,44.01,2018,,Dak Nong
+national_account,e0312_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2019,2019,annual,45.47,Mill. dongs,observed,not_specified,E0312,50,3,45.47,2019,,Dak Nong
+national_account,e0312_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2020,2020,annual,48.14,Mill. dongs,observed,not_specified,E0312,50,4,48.14,2020,,Dak Nong
+national_account,e0312_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2021,2021,annual,53.23,Mill. dongs,observed,not_specified,E0312,50,5,53.23,2021,,Dak Nong
+national_account,e0312_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2022,2022,annual,60.28,Mill. dongs,observed,not_specified,E0312,50,6,60.28,2022,,Dak Nong
+national_account,e0312_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2023,2023,annual,65.44,Mill. dongs,observed,not_specified,E0312,50,7,65.44,2023,,Dak Nong
+national_account,e0312_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2024,2024,annual,83.27,Mill. dongs,observed,preliminary,E0312,50,8,83.27,Prel. 2024,,Dak Nong
+national_account,e0312_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2025,2025,annual,98.08,Mill. dongs,observed,estimated,E0312,50,9,98.08,Est.2025,,Dak Nong
+national_account,e0312_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2018,2018,annual,56.05,Mill. dongs,observed,not_specified,E0312,51,2,56.05,2018,,Lam Dong
+national_account,e0312_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2019,2019,annual,60.50,Mill. dongs,observed,not_specified,E0312,51,3,60.50,2019,,Lam Dong
+national_account,e0312_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2020,2020,annual,62.89,Mill. dongs,observed,not_specified,E0312,51,4,62.89,2020,,Lam Dong
+national_account,e0312_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2021,2021,annual,67.04,Mill. dongs,observed,not_specified,E0312,51,5,67.04,2021,,Lam Dong
+national_account,e0312_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2022,2022,annual,77.48,Mill. dongs,observed,not_specified,E0312,51,6,77.48,2022,,Lam Dong
+national_account,e0312_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2023,2023,annual,84.96,Mill. dongs,observed,not_specified,E0312,51,7,84.96,2023,,Lam Dong
+national_account,e0312_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2024,2024,annual,99.90,Mill. dongs,observed,preliminary,E0312,51,8,99.90,Prel. 2024,,Lam Dong
+national_account,e0312_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2025,2025,annual,113.90,Mill. dongs,observed,estimated,E0312,51,9,113.90,Est.2025,,Lam Dong
+national_account,e0312_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2018,2018,annual,56.08,Mill. dongs,observed,not_specified,E0312,53,2,56.08,2018,,Binh Phuoc
+national_account,e0312_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2019,2019,annual,62.61,Mill. dongs,observed,not_specified,E0312,53,3,62.61,2019,,Binh Phuoc
+national_account,e0312_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2020,2020,annual,67.73,Mill. dongs,observed,not_specified,E0312,53,4,67.73,2020,,Binh Phuoc
+national_account,e0312_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2021,2021,annual,76.12,Mill. dongs,observed,not_specified,E0312,53,5,76.12,2021,,Binh Phuoc
+national_account,e0312_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2022,2022,annual,87.36,Mill. dongs,observed,not_specified,E0312,53,6,87.36,2022,,Binh Phuoc
+national_account,e0312_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2023,2023,annual,94.64,Mill. dongs,observed,not_specified,E0312,53,7,94.64,2023,,Binh Phuoc
+national_account,e0312_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2024,2024,annual,107.62,Mill. dongs,observed,preliminary,E0312,53,8,107.62,Prel. 2024,,Binh Phuoc
+national_account,e0312_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2025,2025,annual,123.13,Mill. dongs,observed,estimated,E0312,53,9,123.13,Est.2025,,Binh Phuoc
+national_account,e0312_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2018,2018,annual,62.36,Mill. dongs,observed,not_specified,E0312,54,2,62.36,2018,,Tay Ninh
+national_account,e0312_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2019,2019,annual,70.59,Mill. dongs,observed,not_specified,E0312,54,3,70.59,2019,,Tay Ninh
+national_account,e0312_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2020,2020,annual,74.02,Mill. dongs,observed,not_specified,E0312,54,4,74.02,2020,,Tay Ninh
+national_account,e0312_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2021,2021,annual,76.58,Mill. dongs,observed,not_specified,E0312,54,5,76.58,2021,,Tay Ninh
+national_account,e0312_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2022,2022,annual,86.85,Mill. dongs,observed,not_specified,E0312,54,6,86.85,2022,,Tay Ninh
+national_account,e0312_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2023,2023,annual,93.17,Mill. dongs,observed,not_specified,E0312,54,7,93.17,2023,,Tay Ninh
+national_account,e0312_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2024,2024,annual,103.56,Mill. dongs,observed,preliminary,E0312,54,8,103.56,Prel. 2024,,Tay Ninh
+national_account,e0312_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2025,2025,annual,116.48,Mill. dongs,observed,estimated,E0312,54,9,116.48,Est.2025,,Tay Ninh
+national_account,e0312_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2018,2018,annual,137.67,Mill. dongs,observed,not_specified,E0312,55,2,137.67,2018,,Binh  Duong
+national_account,e0312_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2019,2019,annual,147.38,Mill. dongs,observed,not_specified,E0312,55,3,147.38,2019,,Binh  Duong
+national_account,e0312_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2020,2020,annual,150.48,Mill. dongs,observed,not_specified,E0312,55,4,150.48,2020,,Binh  Duong
+national_account,e0312_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2021,2021,annual,157.40,Mill. dongs,observed,not_specified,E0312,55,5,157.40,2021,,Binh  Duong
+national_account,e0312_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2022,2022,annual,163.45,Mill. dongs,observed,not_specified,E0312,55,6,163.45,2022,,Binh  Duong
+national_account,e0312_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2023,2023,annual,166.43,Mill. dongs,observed,not_specified,E0312,55,7,166.43,2023,,Binh  Duong
+national_account,e0312_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2024,2024,annual,177.20,Mill. dongs,observed,preliminary,E0312,55,8,177.20,Prel. 2024,,Binh  Duong
+national_account,e0312_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2025,2025,annual,196.09,Mill. dongs,observed,estimated,E0312,55,9,196.09,Est.2025,,Binh  Duong
+national_account,e0312_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2018,2018,annual,103.08,Mill. dongs,observed,not_specified,E0312,56,2,103.08,2018,,Dong Nai
+national_account,e0312_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2019,2019,annual,110.68,Mill. dongs,observed,not_specified,E0312,56,3,110.68,2019,,Dong Nai
+national_account,e0312_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2020,2020,annual,115.07,Mill. dongs,observed,not_specified,E0312,56,4,115.07,2020,,Dong Nai
+national_account,e0312_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2021,2021,annual,119.10,Mill. dongs,observed,not_specified,E0312,56,5,119.10,2021,,Dong Nai
+national_account,e0312_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2022,2022,annual,129.16,Mill. dongs,observed,not_specified,E0312,56,6,129.16,2022,,Dong Nai
+national_account,e0312_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2023,2023,annual,132.93,Mill. dongs,observed,not_specified,E0312,56,7,132.93,2023,,Dong Nai
+national_account,e0312_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2024,2024,annual,142.30,Mill. dongs,observed,preliminary,E0312,56,8,142.30,Prel. 2024,,Dong Nai
+national_account,e0312_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2025,2025,annual,159.53,Mill. dongs,observed,estimated,E0312,56,9,159.53,Est.2025,,Dong Nai
+national_account,e0312_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2018,2018,annual,309.62,Mill. dongs,observed,not_specified,E0312,57,2,309.62,2018,,Ba Ria - Vung Tau
+national_account,e0312_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2019,2019,annual,300.38,Mill. dongs,observed,not_specified,E0312,57,3,300.38,2019,,Ba Ria - Vung Tau
+national_account,e0312_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2020,2020,annual,251.16,Mill. dongs,observed,not_specified,E0312,57,4,251.16,2020,,Ba Ria - Vung Tau
+national_account,e0312_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2021,2021,annual,297.64,Mill. dongs,observed,not_specified,E0312,57,5,297.64,2021,,Ba Ria - Vung Tau
+national_account,e0312_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2022,2022,annual,372.10,Mill. dongs,observed,not_specified,E0312,57,6,372.10,2022,,Ba Ria - Vung Tau
+national_account,e0312_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2023,2023,annual,338.98,Mill. dongs,observed,not_specified,E0312,57,7,338.98,2023,,Ba Ria - Vung Tau
+national_account,e0312_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2024,2024,annual,338.97,Mill. dongs,observed,preliminary,E0312,57,8,338.97,Prel. 2024,,Ba Ria - Vung Tau
+national_account,e0312_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2025,2025,annual,346.89,Mill. dongs,observed,estimated,E0312,57,9,346.89,Est.2025,,Ba Ria - Vung Tau
+national_account,e0312_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2018,2018,annual,138.76,Mill. dongs,observed,not_specified,E0312,58,2,138.76,2018,,Ho Chi Minh city
+national_account,e0312_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2019,2019,annual,148.66,Mill. dongs,observed,not_specified,E0312,58,3,148.66,2019,,Ho Chi Minh city
+national_account,e0312_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2020,2020,annual,148.63,Mill. dongs,observed,not_specified,E0312,58,4,148.63,2020,,Ho Chi Minh city
+national_account,e0312_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2021,2021,annual,145.99,Mill. dongs,observed,not_specified,E0312,58,5,145.99,2021,,Ho Chi Minh city
+national_account,e0312_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2022,2022,annual,159.55,Mill. dongs,observed,not_specified,E0312,58,6,159.55,2022,,Ho Chi Minh city
+national_account,e0312_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2023,2023,annual,168.93,Mill. dongs,observed,not_specified,E0312,58,7,168.93,2023,,Ho Chi Minh city
+national_account,e0312_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2024,2024,annual,184.66,Mill. dongs,observed,preliminary,E0312,58,8,184.66,Prel. 2024,,Ho Chi Minh city
+national_account,e0312_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2025,2025,annual,204.80,Mill. dongs,observed,estimated,E0312,58,9,204.80,Est.2025,,Ho Chi Minh city
+national_account,e0312_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2018,2018,annual,65.72,Mill. dongs,observed,not_specified,E0312,60,2,65.72,2018,,Long An
+national_account,e0312_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2019,2019,annual,72.80,Mill. dongs,observed,not_specified,E0312,60,3,72.80,2019,,Long An
+national_account,e0312_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2020,2020,annual,76.36,Mill. dongs,observed,not_specified,E0312,60,4,76.36,2020,,Long An
+national_account,e0312_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2021,2021,annual,79.85,Mill. dongs,observed,not_specified,E0312,60,5,79.85,2021,,Long An
+national_account,e0312_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2022,2022,annual,90.30,Mill. dongs,observed,not_specified,E0312,60,6,90.30,2022,,Long An
+national_account,e0312_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2023,2023,annual,93.63,Mill. dongs,observed,not_specified,E0312,60,7,93.63,2023,,Long An
+national_account,e0312_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2024,2024,annual,103.52,Mill. dongs,observed,preliminary,E0312,60,8,103.52,Prel. 2024,,Long An
+national_account,e0312_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2025,2025,annual,115.02,Mill. dongs,observed,estimated,E0312,60,9,115.02,Est.2025,,Long An
+national_account,e0312_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2018,2018,annual,50.54,Mill. dongs,observed,not_specified,E0312,61,2,50.54,2018,,Tien Giang
+national_account,e0312_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2019,2019,annual,54.57,Mill. dongs,observed,not_specified,E0312,61,3,54.57,2019,,Tien Giang
+national_account,e0312_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2020,2020,annual,55.77,Mill. dongs,observed,not_specified,E0312,61,4,55.77,2020,,Tien Giang
+national_account,e0312_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2021,2021,annual,55.81,Mill. dongs,observed,not_specified,E0312,61,5,55.81,2021,,Tien Giang
+national_account,e0312_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2022,2022,annual,62.94,Mill. dongs,observed,not_specified,E0312,61,6,62.94,2022,,Tien Giang
+national_account,e0312_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2023,2023,annual,69.14,Mill. dongs,observed,not_specified,E0312,61,7,69.14,2023,,Tien Giang
+national_account,e0312_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2024,2024,annual,76.81,Mill. dongs,observed,preliminary,E0312,61,8,76.81,Prel. 2024,,Tien Giang
+national_account,e0312_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2025,2025,annual,84.89,Mill. dongs,observed,estimated,E0312,61,9,84.89,Est.2025,,Tien Giang
+national_account,e0312_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2018,2018,annual,36.75,Mill. dongs,observed,not_specified,E0312,62,2,36.75,2018,,Ben Tre
+national_account,e0312_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2019,2019,annual,40.31,Mill. dongs,observed,not_specified,E0312,62,3,40.31,2019,,Ben Tre
+national_account,e0312_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2020,2020,annual,41.86,Mill. dongs,observed,not_specified,E0312,62,4,41.86,2020,,Ben Tre
+national_account,e0312_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2021,2021,annual,44.62,Mill. dongs,observed,not_specified,E0312,62,5,44.62,2021,,Ben Tre
+national_account,e0312_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2022,2022,annual,48.36,Mill. dongs,observed,not_specified,E0312,62,6,48.36,2022,,Ben Tre
+national_account,e0312_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2023,2023,annual,51.80,Mill. dongs,observed,not_specified,E0312,62,7,51.80,2023,,Ben Tre
+national_account,e0312_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2024,2024,annual,56.43,Mill. dongs,observed,preliminary,E0312,62,8,56.43,Prel. 2024,,Ben Tre
+national_account,e0312_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2025,2025,annual,62.98,Mill. dongs,observed,estimated,E0312,62,9,62.98,Est.2025,,Ben Tre
+national_account,e0312_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2018,2018,annual,53.55,Mill. dongs,observed,not_specified,E0312,63,2,53.55,2018,,Tra Vinh
+national_account,e0312_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2019,2019,annual,58.85,Mill. dongs,observed,not_specified,E0312,63,3,58.85,2019,,Tra Vinh
+national_account,e0312_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2020,2020,annual,61.01,Mill. dongs,observed,not_specified,E0312,63,4,61.01,2020,,Tra Vinh
+national_account,e0312_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2021,2021,annual,63.09,Mill. dongs,observed,not_specified,E0312,63,5,63.09,2021,,Tra Vinh
+national_account,e0312_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2022,2022,annual,72.47,Mill. dongs,observed,not_specified,E0312,63,6,72.47,2022,,Tra Vinh
+national_account,e0312_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2023,2023,annual,82.42,Mill. dongs,observed,not_specified,E0312,63,7,82.42,2023,,Tra Vinh
+national_account,e0312_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2024,2024,annual,94.96,Mill. dongs,observed,preliminary,E0312,63,8,94.96,Prel. 2024,,Tra Vinh
+national_account,e0312_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2025,2025,annual,102.23,Mill. dongs,observed,estimated,E0312,63,9,102.23,Est.2025,,Tra Vinh
+national_account,e0312_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2018,2018,annual,48.08,Mill. dongs,observed,not_specified,E0312,64,2,48.08,2018,,Vinh Long
+national_account,e0312_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2019,2019,annual,52.94,Mill. dongs,observed,not_specified,E0312,64,3,52.94,2019,,Vinh Long
+national_account,e0312_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2020,2020,annual,57.34,Mill. dongs,observed,not_specified,E0312,64,4,57.34,2020,,Vinh Long
+national_account,e0312_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2021,2021,annual,57.50,Mill. dongs,observed,not_specified,E0312,64,5,57.50,2021,,Vinh Long
+national_account,e0312_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2022,2022,annual,68.60,Mill. dongs,observed,not_specified,E0312,64,6,68.60,2022,,Vinh Long
+national_account,e0312_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2023,2023,annual,73.19,Mill. dongs,observed,not_specified,E0312,64,7,73.19,2023,,Vinh Long
+national_account,e0312_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2024,2024,annual,80.87,Mill. dongs,observed,preliminary,E0312,64,8,80.87,Prel. 2024,,Vinh Long
+national_account,e0312_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2025,2025,annual,87.27,Mill. dongs,observed,estimated,E0312,64,9,87.27,Est.2025,,Vinh Long
+national_account,e0312_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2018,2018,annual,47.35,Mill. dongs,observed,not_specified,E0312,65,2,47.35,2018,,Dong Thap
+national_account,e0312_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2019,2019,annual,51.47,Mill. dongs,observed,not_specified,E0312,65,3,51.47,2019,,Dong Thap
+national_account,e0312_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2020,2020,annual,53.39,Mill. dongs,observed,not_specified,E0312,65,4,53.39,2020,,Dong Thap
+national_account,e0312_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2021,2021,annual,54.37,Mill. dongs,observed,not_specified,E0312,65,5,54.37,2021,,Dong Thap
+national_account,e0312_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2022,2022,annual,62.17,Mill. dongs,observed,not_specified,E0312,65,6,62.17,2022,,Dong Thap
+national_account,e0312_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2023,2023,annual,68.76,Mill. dongs,observed,not_specified,E0312,65,7,68.76,2023,,Dong Thap
+national_account,e0312_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2024,2024,annual,76.83,Mill. dongs,observed,preliminary,E0312,65,8,76.83,Prel. 2024,,Dong Thap
+national_account,e0312_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2025,2025,annual,83.04,Mill. dongs,observed,estimated,E0312,65,9,83.04,Est.2025,,Dong Thap
+national_account,e0312_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2018,2018,annual,40.43,Mill. dongs,observed,not_specified,E0312,66,2,40.43,2018,,An Giang
+national_account,e0312_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2019,2019,annual,44.49,Mill. dongs,observed,not_specified,E0312,66,3,44.49,2019,,An Giang
+national_account,e0312_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2020,2020,annual,46.64,Mill. dongs,observed,not_specified,E0312,66,4,46.64,2020,,An Giang
+national_account,e0312_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2021,2021,annual,47.71,Mill. dongs,observed,not_specified,E0312,66,5,47.71,2021,,An Giang
+national_account,e0312_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2022,2022,annual,52.67,Mill. dongs,observed,not_specified,E0312,66,6,52.67,2022,,An Giang
+national_account,e0312_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2023,2023,annual,58.67,Mill. dongs,observed,not_specified,E0312,66,7,58.67,2023,,An Giang
+national_account,e0312_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2024,2024,annual,65.98,Mill. dongs,observed,preliminary,E0312,66,8,65.98,Prel. 2024,,An Giang
+national_account,e0312_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2025,2025,annual,71.84,Mill. dongs,observed,estimated,E0312,66,9,71.84,Est.2025,,An Giang
+national_account,e0312_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2018,2018,annual,52.04,Mill. dongs,observed,not_specified,E0312,67,2,52.04,2018,,Kien  Giang
+national_account,e0312_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2019,2019,annual,55.17,Mill. dongs,observed,not_specified,E0312,67,3,55.17,2019,,Kien  Giang
+national_account,e0312_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2020,2020,annual,55.65,Mill. dongs,observed,not_specified,E0312,67,4,55.65,2020,,Kien  Giang
+national_account,e0312_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2021,2021,annual,59.03,Mill. dongs,observed,not_specified,E0312,67,5,59.03,2021,,Kien  Giang
+national_account,e0312_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2022,2022,annual,66.40,Mill. dongs,observed,not_specified,E0312,67,6,66.40,2022,,Kien  Giang
+national_account,e0312_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2023,2023,annual,72.55,Mill. dongs,observed,not_specified,E0312,67,7,72.55,2023,,Kien  Giang
+national_account,e0312_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2024,2024,annual,81.06,Mill. dongs,observed,preliminary,E0312,67,8,81.06,Prel. 2024,,Kien  Giang
+national_account,e0312_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2025,2025,annual,89.23,Mill. dongs,observed,estimated,E0312,67,9,89.23,Est.2025,,Kien  Giang
+national_account,e0312_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2018,2018,annual,67.78,Mill. dongs,observed,not_specified,E0312,68,2,67.78,2018,,Can Tho
+national_account,e0312_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2019,2019,annual,72.66,Mill. dongs,observed,not_specified,E0312,68,3,72.66,2019,,Can Tho
+national_account,e0312_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2020,2020,annual,72.41,Mill. dongs,observed,not_specified,E0312,68,4,72.41,2020,,Can Tho
+national_account,e0312_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2021,2021,annual,73.93,Mill. dongs,observed,not_specified,E0312,68,5,73.93,2021,,Can Tho
+national_account,e0312_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2022,2022,annual,86.74,Mill. dongs,observed,not_specified,E0312,68,6,86.74,2022,,Can Tho
+national_account,e0312_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2023,2023,annual,94.32,Mill. dongs,observed,not_specified,E0312,68,7,94.32,2023,,Can Tho
+national_account,e0312_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2024,2024,annual,104.26,Mill. dongs,observed,preliminary,E0312,68,8,104.26,Prel. 2024,,Can Tho
+national_account,e0312_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2025,2025,annual,114.64,Mill. dongs,observed,estimated,E0312,68,9,114.64,Est.2025,,Can Tho
+national_account,e0312_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2018,2018,annual,44.27,Mill. dongs,observed,not_specified,E0312,69,2,44.27,2018,,Hau Giang
+national_account,e0312_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2019,2019,annual,48.64,Mill. dongs,observed,not_specified,E0312,69,3,48.64,2019,,Hau Giang
+national_account,e0312_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2020,2020,annual,51.48,Mill. dongs,observed,not_specified,E0312,69,4,51.48,2020,,Hau Giang
+national_account,e0312_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2021,2021,annual,54.40,Mill. dongs,observed,not_specified,E0312,69,5,54.40,2021,,Hau Giang
+national_account,e0312_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2022,2022,annual,67.67,Mill. dongs,observed,not_specified,E0312,69,6,67.67,2022,,Hau Giang
+national_account,e0312_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2023,2023,annual,79.55,Mill. dongs,observed,not_specified,E0312,69,7,79.55,2023,,Hau Giang
+national_account,e0312_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2024,2024,annual,90.25,Mill. dongs,observed,preliminary,E0312,69,8,90.25,Prel. 2024,,Hau Giang
+national_account,e0312_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2025,2025,annual,100.29,Mill. dongs,observed,estimated,E0312,69,9,100.29,Est.2025,,Hau Giang
+national_account,e0312_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2018,2018,annual,41.47,Mill. dongs,observed,not_specified,E0312,70,2,41.47,2018,,Soc Trang
+national_account,e0312_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2019,2019,annual,44.50,Mill. dongs,observed,not_specified,E0312,70,3,44.50,2019,,Soc Trang
+national_account,e0312_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2020,2020,annual,45.84,Mill. dongs,observed,not_specified,E0312,70,4,45.84,2020,,Soc Trang
+national_account,e0312_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2021,2021,annual,48.05,Mill. dongs,observed,not_specified,E0312,70,5,48.05,2021,,Soc Trang
+national_account,e0312_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2022,2022,annual,55.31,Mill. dongs,observed,not_specified,E0312,70,6,55.31,2022,,Soc Trang
+national_account,e0312_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2023,2023,annual,59.88,Mill. dongs,observed,not_specified,E0312,70,7,59.88,2023,,Soc Trang
+national_account,e0312_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2024,2024,annual,65.58,Mill. dongs,observed,preliminary,E0312,70,8,65.58,Prel. 2024,,Soc Trang
+national_account,e0312_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2025,2025,annual,71.13,Mill. dongs,observed,estimated,E0312,70,9,71.13,Est.2025,,Soc Trang
+national_account,e0312_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2018,2018,annual,43.95,Mill. dongs,observed,not_specified,E0312,71,2,43.95,2018,,Bac Lieu
+national_account,e0312_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2019,2019,annual,45.95,Mill. dongs,observed,not_specified,E0312,71,3,45.95,2019,,Bac Lieu
+national_account,e0312_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2020,2020,annual,48.02,Mill. dongs,observed,not_specified,E0312,71,4,48.02,2020,,Bac Lieu
+national_account,e0312_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2021,2021,annual,51.44,Mill. dongs,observed,not_specified,E0312,71,5,51.44,2021,,Bac Lieu
+national_account,e0312_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2022,2022,annual,59.30,Mill. dongs,observed,not_specified,E0312,71,6,59.30,2022,,Bac Lieu
+national_account,e0312_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2023,2023,annual,64.45,Mill. dongs,observed,not_specified,E0312,71,7,64.45,2023,,Bac Lieu
+national_account,e0312_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2024,2024,annual,70.77,Mill. dongs,observed,preliminary,E0312,71,8,70.77,Prel. 2024,,Bac Lieu
+national_account,e0312_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2025,2025,annual,78.08,Mill. dongs,observed,estimated,E0312,71,9,78.08,Est.2025,,Bac Lieu
+national_account,e0312_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2018,2018,annual,48.21,Mill. dongs,observed,not_specified,E0312,72,2,48.21,2018,,Ca Mau
+national_account,e0312_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2019,2019,annual,50.67,Mill. dongs,observed,not_specified,E0312,72,3,50.67,2019,,Ca Mau
+national_account,e0312_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2020,2020,annual,51.21,Mill. dongs,observed,not_specified,E0312,72,4,51.21,2020,,Ca Mau
+national_account,e0312_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2021,2021,annual,51.81,Mill. dongs,observed,not_specified,E0312,72,5,51.81,2021,,Ca Mau
+national_account,e0312_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2022,2022,annual,59.44,Mill. dongs,observed,not_specified,E0312,72,6,59.44,2022,,Ca Mau
+national_account,e0312_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2023,2023,annual,64.38,Mill. dongs,observed,not_specified,E0312,72,7,64.38,2023,,Ca Mau
+national_account,e0312_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2024,2024,annual,71.36,Mill. dongs,observed,preliminary,E0312,72,8,71.36,Prel. 2024,,Ca Mau
+national_account,e0312_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2025,2025,annual,79.02,Mill. dongs,observed,estimated,E0312,72,9,79.02,Est.2025,,Ca Mau

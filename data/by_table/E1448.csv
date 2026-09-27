@@ -1,0 +1,568 @@
+﻿section,indicator_id,province_code,province_name,geography_version,period,year,period_type,value,unit,value_status,period_status,source_id,source_row,source_column,raw_value,source_period_header,quality_flags,province_name_source
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2016,2016,annual,1.40,%,observed,not_specified,E1448,6,2,1.40,2016,,Ha Noi
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2017,2017,annual,1.30,%,observed,not_specified,E1448,6,3,1.30,2017,,Ha Noi
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2018,2018,annual,0.88,%,observed,not_specified,E1448,6,4,0.88,2018,,Ha Noi
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2019,2019,annual,0.71,%,observed,not_specified,E1448,6,5,0.71,2019,,Ha Noi
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2020,2020,annual,0.49,%,observed,not_specified,E1448,6,6,0.49,2020,,Ha Noi
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2021,2021,annual,0.42,%,observed,not_specified,E1448,6,7,0.42,2021,,Ha Noi
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2022,2022,annual,0.14,%,observed,not_specified,E1448,6,8,0.14,2022,,Ha Noi
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2023,2023,annual,0.10,%,observed,not_specified,E1448,6,9,0.10,2023,,Ha Noi
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2024,2024,annual,0.10,%,observed,preliminary,E1448,6,10,0.10,Prel. 2024,,Ha Noi
+health_culture_environment,e1448_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2016,2016,annual,5.10,%,observed,not_specified,E1448,7,2,5.10,2016,,Vinh Phuc
+health_culture_environment,e1448_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2017,2017,annual,4.50,%,observed,not_specified,E1448,7,3,4.50,2017,,Vinh Phuc
+health_culture_environment,e1448_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2018,2018,annual,3.43,%,observed,not_specified,E1448,7,4,3.43,2018,,Vinh Phuc
+health_culture_environment,e1448_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2019,2019,annual,2.92,%,observed,not_specified,E1448,7,5,2.92,2019,,Vinh Phuc
+health_culture_environment,e1448_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2020,2020,annual,2.48,%,observed,not_specified,E1448,7,6,2.48,2020,,Vinh Phuc
+health_culture_environment,e1448_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2021,2021,annual,2.31,%,observed,not_specified,E1448,7,7,2.31,2021,,Vinh Phuc
+health_culture_environment,e1448_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2022,2022,annual,1.01,%,observed,not_specified,E1448,7,8,1.01,2022,,Vinh Phuc
+health_culture_environment,e1448_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2023,2023,annual,0.73,%,observed,not_specified,E1448,7,9,0.73,2023,,Vinh Phuc
+health_culture_environment,e1448_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2024,2024,annual,0.60,%,observed,preliminary,E1448,7,10,0.60,Prel. 2024,,Vinh Phuc
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2016,2016,annual,1.90,%,observed,not_specified,E1448,8,2,1.90,2016,,Bac Ninh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2017,2017,annual,1.40,%,observed,not_specified,E1448,8,3,1.40,2017,,Bac Ninh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2018,2018,annual,1.11,%,observed,not_specified,E1448,8,4,1.11,2018,,Bac Ninh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2019,2019,annual,0.80,%,observed,not_specified,E1448,8,5,0.80,2019,,Bac Ninh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2020,2020,annual,0.71,%,observed,not_specified,E1448,8,6,0.71,2020,,Bac Ninh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2021,2021,annual,0.60,%,observed,not_specified,E1448,8,7,0.60,2021,,Bac Ninh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2022,2022,annual,0.85,%,observed,not_specified,E1448,8,8,0.85,2022,,Bac Ninh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2023,2023,annual,1.00,%,observed,not_specified,E1448,8,9,1.00,2023,,Bac Ninh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2024,2024,annual,0.61,%,observed,preliminary,E1448,8,10,0.61,Prel. 2024,,Bac Ninh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2016,2016,annual,4.30,%,observed,not_specified,E1448,9,2,4.30,2016,,Quang Ninh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2017,2017,annual,3.80,%,observed,not_specified,E1448,9,3,3.80,2017,,Quang Ninh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2018,2018,annual,2.52,%,observed,not_specified,E1448,9,4,2.52,2018,,Quang Ninh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2019,2019,annual,2.15,%,observed,not_specified,E1448,9,5,2.15,2019,,Quang Ninh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2020,2020,annual,2.13,%,observed,not_specified,E1448,9,6,2.13,2020,,Quang Ninh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2021,2021,annual,1.84,%,observed,not_specified,E1448,9,7,1.84,2021,,Quang Ninh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2022,2022,annual,1.11,%,observed,not_specified,E1448,9,8,1.11,2022,,Quang Ninh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2023,2023,annual,1.09,%,observed,not_specified,E1448,9,9,1.09,2023,,Quang Ninh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2024,2024,annual,0.64,%,observed,preliminary,E1448,9,10,0.64,Prel. 2024,,Quang Ninh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2016,2016,annual,3.60,%,observed,not_specified,E1448,10,2,3.60,2016,,Hai Duong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2017,2017,annual,3.10,%,observed,not_specified,E1448,10,3,3.10,2017,,Hai Duong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2018,2018,annual,2.25,%,observed,not_specified,E1448,10,4,2.25,2018,,Hai Duong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2019,2019,annual,1.95,%,observed,not_specified,E1448,10,5,1.95,2019,,Hai Duong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2020,2020,annual,1.84,%,observed,not_specified,E1448,10,6,1.84,2020,,Hai Duong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2021,2021,annual,1.71,%,observed,not_specified,E1448,10,7,1.71,2021,,Hai Duong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2022,2022,annual,1.14,%,observed,not_specified,E1448,10,8,1.14,2022,,Hai Duong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2023,2023,annual,0.71,%,observed,not_specified,E1448,10,9,0.71,2023,,Hai Duong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2024,2024,annual,0.52,%,observed,preliminary,E1448,10,10,0.52,Prel. 2024,,Hai Duong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2016,2016,annual,2.10,%,observed,not_specified,E1448,11,2,2.10,2016,,Hai Phong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2017,2017,annual,1.90,%,observed,not_specified,E1448,11,3,1.90,2017,,Hai Phong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2018,2018,annual,1.44,%,observed,not_specified,E1448,11,4,1.44,2018,,Hai Phong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2019,2019,annual,1.24,%,observed,not_specified,E1448,11,5,1.24,2019,,Hai Phong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2020,2020,annual,0.95,%,observed,not_specified,E1448,11,6,0.95,2020,,Hai Phong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2021,2021,annual,0.81,%,observed,not_specified,E1448,11,7,0.81,2021,,Hai Phong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2022,2022,annual,0.65,%,observed,not_specified,E1448,11,8,0.65,2022,,Hai Phong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2023,2023,annual,0.29,%,observed,not_specified,E1448,11,9,0.29,2023,,Hai Phong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2024,2024,annual,0.21,%,observed,preliminary,E1448,11,10,0.21,Prel. 2024,,Hai Phong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2016,2016,annual,4.20,%,observed,not_specified,E1448,12,2,4.20,2016,,Hung Yen
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2017,2017,annual,3.70,%,observed,not_specified,E1448,12,3,3.70,2017,,Hung Yen
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2018,2018,annual,2.80,%,observed,not_specified,E1448,12,4,2.80,2018,,Hung Yen
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2019,2019,annual,2.27,%,observed,not_specified,E1448,12,5,2.27,2019,,Hung Yen
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2020,2020,annual,1.93,%,observed,not_specified,E1448,12,6,1.93,2020,,Hung Yen
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2021,2021,annual,1.79,%,observed,not_specified,E1448,12,7,1.79,2021,,Hung Yen
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2022,2022,annual,1.67,%,observed,not_specified,E1448,12,8,1.67,2022,,Hung Yen
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2023,2023,annual,1.47,%,observed,not_specified,E1448,12,9,1.47,2023,,Hung Yen
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2024,2024,annual,0.86,%,observed,preliminary,E1448,12,10,0.86,Prel. 2024,,Hung Yen
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2016,2016,annual,4.70,%,observed,not_specified,E1448,13,2,4.70,2016,,Thai Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2017,2017,annual,4.00,%,observed,not_specified,E1448,13,3,4.00,2017,,Thai Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2018,2018,annual,2.90,%,observed,not_specified,E1448,13,4,2.90,2018,,Thai Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2019,2019,annual,2.37,%,observed,not_specified,E1448,13,5,2.37,2019,,Thai Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2020,2020,annual,2.06,%,observed,not_specified,E1448,13,6,2.06,2020,,Thai Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2021,2021,annual,1.93,%,observed,not_specified,E1448,13,7,1.93,2021,,Thai Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2022,2022,annual,1.82,%,observed,not_specified,E1448,13,8,1.82,2022,,Thai Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2023,2023,annual,1.51,%,observed,not_specified,E1448,13,9,1.51,2023,,Thai Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2024,2024,annual,1.02,%,observed,preliminary,E1448,13,10,1.02,Prel. 2024,,Thai Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2016,2016,annual,4.90,%,observed,not_specified,E1448,14,2,4.90,2016,,Ha Nam
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2017,2017,annual,4.10,%,observed,not_specified,E1448,14,3,4.10,2017,,Ha Nam
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2018,2018,annual,2.75,%,observed,not_specified,E1448,14,4,2.75,2018,,Ha Nam
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2019,2019,annual,2.32,%,observed,not_specified,E1448,14,5,2.32,2019,,Ha Nam
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2020,2020,annual,2.10,%,observed,not_specified,E1448,14,6,2.10,2020,,Ha Nam
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2021,2021,annual,2.00,%,observed,not_specified,E1448,14,7,2.00,2021,,Ha Nam
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2022,2022,annual,1.98,%,observed,not_specified,E1448,14,8,1.98,2022,,Ha Nam
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2023,2023,annual,1.66,%,observed,not_specified,E1448,14,9,1.66,2023,,Ha Nam
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2024,2024,annual,1.15,%,observed,preliminary,E1448,14,10,1.15,Prel. 2024,,Ha Nam
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2016,2016,annual,4.20,%,observed,not_specified,E1448,15,2,4.20,2016,,Nam Dinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2017,2017,annual,3.60,%,observed,not_specified,E1448,15,3,3.60,2017,,Nam Dinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2018,2018,annual,2.78,%,observed,not_specified,E1448,15,4,2.78,2018,,Nam Dinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2019,2019,annual,2.33,%,observed,not_specified,E1448,15,5,2.33,2019,,Nam Dinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2020,2020,annual,1.98,%,observed,not_specified,E1448,15,6,1.98,2020,,Nam Dinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2021,2021,annual,1.82,%,observed,not_specified,E1448,15,7,1.82,2021,,Nam Dinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2022,2022,annual,1.43,%,observed,not_specified,E1448,15,8,1.43,2022,,Nam Dinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2023,2023,annual,0.99,%,observed,not_specified,E1448,15,9,0.99,2023,,Nam Dinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2024,2024,annual,0.73,%,observed,preliminary,E1448,15,10,0.73,Prel. 2024,,Nam Dinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2016,2016,annual,4.50,%,observed,not_specified,E1448,16,2,4.50,2016,,Ninh Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2017,2017,annual,3.90,%,observed,not_specified,E1448,16,3,3.90,2017,,Ninh Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2018,2018,annual,2.77,%,observed,not_specified,E1448,16,4,2.77,2018,,Ninh Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2019,2019,annual,2.20,%,observed,not_specified,E1448,16,5,2.20,2019,,Ninh Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2020,2020,annual,2.06,%,observed,not_specified,E1448,16,6,2.06,2020,,Ninh Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2021,2021,annual,2.00,%,observed,not_specified,E1448,16,7,2.00,2021,,Ninh Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2022,2022,annual,1.69,%,observed,not_specified,E1448,16,8,1.69,2022,,Ninh Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2023,2023,annual,1.07,%,observed,not_specified,E1448,16,9,1.07,2023,,Ninh Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2024,2024,annual,0.82,%,observed,preliminary,E1448,16,10,0.82,Prel. 2024,,Ninh Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2016,2016,annual,39.75,%,observed,not_specified,E1448,18,2,39.75,2016,,Ha Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2017,2017,annual,36.86,%,observed,not_specified,E1448,18,3,36.86,2017,,Ha Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2018,2018,annual,32.57,%,observed,not_specified,E1448,18,4,32.57,2018,,Ha Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2019,2019,annual,29.11,%,observed,not_specified,E1448,18,5,29.11,2019,,Ha Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2020,2020,annual,26.98,%,observed,not_specified,E1448,18,6,26.98,2020,,Ha Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2021,2021,annual,25.04,%,observed,not_specified,E1448,18,7,25.04,2021,,Ha Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2022,2022,annual,31.64,%,observed,not_specified,E1448,18,8,31.64,2022,,Ha Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2023,2023,annual,29.07,%,observed,not_specified,E1448,18,9,29.07,2023,,Ha Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2024,2024,annual,22.33,%,observed,preliminary,E1448,18,10,22.33,Prel. 2024,,Ha Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2016,2016,annual,37.33,%,observed,not_specified,E1448,19,2,37.33,2016,,Cao Bang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2017,2017,annual,34.94,%,observed,not_specified,E1448,19,3,34.94,2017,,Cao Bang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2018,2018,annual,31.46,%,observed,not_specified,E1448,19,4,31.46,2018,,Cao Bang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2019,2019,annual,28.53,%,observed,not_specified,E1448,19,5,28.53,2019,,Cao Bang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2020,2020,annual,25.97,%,observed,not_specified,E1448,19,6,25.97,2020,,Cao Bang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2021,2021,annual,24.47,%,observed,not_specified,E1448,19,7,24.47,2021,,Cao Bang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2022,2022,annual,23.62,%,observed,not_specified,E1448,19,8,23.62,2022,,Cao Bang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2023,2023,annual,21.24,%,observed,not_specified,E1448,19,9,21.24,2023,,Cao Bang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2024,2024,annual,17.01,%,observed,preliminary,E1448,19,10,17.01,Prel. 2024,,Cao Bang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2016,2016,annual,29.68,%,observed,not_specified,E1448,20,2,29.68,2016,,Bac Kan
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2017,2017,annual,27.73,%,observed,not_specified,E1448,20,3,27.73,2017,,Bac Kan
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2018,2018,annual,25.05,%,observed,not_specified,E1448,20,4,25.05,2018,,Bac Kan
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2019,2019,annual,22.53,%,observed,not_specified,E1448,20,5,22.53,2019,,Bac Kan
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2020,2020,annual,21.47,%,observed,not_specified,E1448,20,6,21.47,2020,,Bac Kan
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2021,2021,annual,20.62,%,observed,not_specified,E1448,20,7,20.62,2021,,Bac Kan
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2022,2022,annual,20.10,%,observed,not_specified,E1448,20,8,20.10,2022,,Bac Kan
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2023,2023,annual,16.67,%,observed,not_specified,E1448,20,9,16.67,2023,,Bac Kan
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2024,2024,annual,11.30,%,observed,preliminary,E1448,20,10,11.30,Prel. 2024,,Bac Kan
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2016,2016,annual,22.04,%,observed,not_specified,E1448,21,2,22.04,2016,,Tuyen Quang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2017,2017,annual,19.60,%,observed,not_specified,E1448,21,3,19.60,2017,,Tuyen Quang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2018,2018,annual,17.47,%,observed,not_specified,E1448,21,4,17.47,2018,,Tuyen Quang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2019,2019,annual,15.11,%,observed,not_specified,E1448,21,5,15.11,2019,,Tuyen Quang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2020,2020,annual,12.90,%,observed,not_specified,E1448,21,6,12.90,2020,,Tuyen Quang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2021,2021,annual,11.90,%,observed,not_specified,E1448,21,7,11.90,2021,,Tuyen Quang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2022,2022,annual,10.27,%,observed,not_specified,E1448,21,8,10.27,2022,,Tuyen Quang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2023,2023,annual,7.10,%,observed,not_specified,E1448,21,9,7.10,2023,,Tuyen Quang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2024,2024,annual,5.02,%,observed,preliminary,E1448,21,10,5.02,Prel. 2024,,Tuyen Quang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2016,2016,annual,26.35,%,observed,not_specified,E1448,22,2,26.35,2016,,Lao Cai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2017,2017,annual,23.88,%,observed,not_specified,E1448,22,3,23.88,2017,,Lao Cai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2018,2018,annual,20.47,%,observed,not_specified,E1448,22,4,20.47,2018,,Lao Cai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2019,2019,annual,17.24,%,observed,not_specified,E1448,22,5,17.24,2019,,Lao Cai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2020,2020,annual,15.38,%,observed,not_specified,E1448,22,6,15.38,2020,,Lao Cai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2021,2021,annual,14.83,%,observed,not_specified,E1448,22,7,14.83,2021,,Lao Cai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2022,2022,annual,15.57,%,observed,not_specified,E1448,22,8,15.57,2022,,Lao Cai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2023,2023,annual,13.68,%,observed,not_specified,E1448,22,9,13.68,2023,,Lao Cai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2024,2024,annual,9.06,%,observed,preliminary,E1448,22,10,9.06,Prel. 2024,,Lao Cai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2016,2016,annual,26.12,%,observed,not_specified,E1448,23,2,26.12,2016,,Yen Bai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2017,2017,annual,23.56,%,observed,not_specified,E1448,23,3,23.56,2017,,Yen Bai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2018,2018,annual,20.34,%,observed,not_specified,E1448,23,4,20.34,2018,,Yen Bai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2019,2019,annual,17.47,%,observed,not_specified,E1448,23,5,17.47,2019,,Yen Bai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2020,2020,annual,15.06,%,observed,not_specified,E1448,23,6,15.06,2020,,Yen Bai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2021,2021,annual,14.02,%,observed,not_specified,E1448,23,7,14.02,2021,,Yen Bai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2022,2022,annual,16.57,%,observed,not_specified,E1448,23,8,16.57,2022,,Yen Bai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2023,2023,annual,10.60,%,observed,not_specified,E1448,23,9,10.60,2023,,Yen Bai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2024,2024,annual,7.81,%,observed,preliminary,E1448,23,10,7.81,Prel. 2024,,Yen Bai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2016,2016,annual,7.77,%,observed,not_specified,E1448,24,2,7.77,2016,,Thai Nguyen
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2017,2017,annual,7.44,%,observed,not_specified,E1448,24,3,7.44,2017,,Thai Nguyen
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2018,2018,annual,5.98,%,observed,not_specified,E1448,24,4,5.98,2018,,Thai Nguyen
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2019,2019,annual,5.09,%,observed,not_specified,E1448,24,5,5.09,2019,,Thai Nguyen
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2020,2020,annual,4.09,%,observed,not_specified,E1448,24,6,4.09,2020,,Thai Nguyen
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2021,2021,annual,3.67,%,observed,not_specified,E1448,24,7,3.67,2021,,Thai Nguyen
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2022,2022,annual,2.15,%,observed,not_specified,E1448,24,8,2.15,2022,,Thai Nguyen
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2023,2023,annual,1.73,%,observed,not_specified,E1448,24,9,1.73,2023,,Thai Nguyen
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2024,2024,annual,1.17,%,observed,preliminary,E1448,24,10,1.17,Prel. 2024,,Thai Nguyen
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2016,2016,annual,23.51,%,observed,not_specified,E1448,25,2,23.51,2016,,Lang Son
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2017,2017,annual,20.55,%,observed,not_specified,E1448,25,3,20.55,2017,,Lang Son
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2018,2018,annual,18.38,%,observed,not_specified,E1448,25,4,18.38,2018,,Lang Son
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2019,2019,annual,15.90,%,observed,not_specified,E1448,25,5,15.90,2019,,Lang Son
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2020,2020,annual,12.26,%,observed,not_specified,E1448,25,6,12.26,2020,,Lang Son
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2021,2021,annual,10.69,%,observed,not_specified,E1448,25,7,10.69,2021,,Lang Son
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2022,2022,annual,7.91,%,observed,not_specified,E1448,25,8,7.91,2022,,Lang Son
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2023,2023,annual,6.07,%,observed,not_specified,E1448,25,9,6.07,2023,,Lang Son
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2024,2024,annual,4.07,%,observed,preliminary,E1448,25,10,4.07,Prel. 2024,,Lang Son
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2016,2016,annual,6.43,%,observed,not_specified,E1448,26,2,6.43,2016,,Bac Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2017,2017,annual,5.40,%,observed,not_specified,E1448,26,3,5.40,2017,,Bac Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2018,2018,annual,3.78,%,observed,not_specified,E1448,26,4,3.78,2018,,Bac Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2019,2019,annual,3.29,%,observed,not_specified,E1448,26,5,3.29,2019,,Bac Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2020,2020,annual,2.81,%,observed,not_specified,E1448,26,6,2.81,2020,,Bac Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2021,2021,annual,2.60,%,observed,not_specified,E1448,26,7,2.60,2021,,Bac Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2022,2022,annual,2.03,%,observed,not_specified,E1448,26,8,2.03,2022,,Bac Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2023,2023,annual,1.50,%,observed,not_specified,E1448,26,9,1.50,2023,,Bac Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2024,2024,annual,0.95,%,observed,preliminary,E1448,26,10,0.95,Prel. 2024,,Bac Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2016,2016,annual,10.29,%,observed,not_specified,E1448,27,2,10.29,2016,,Phu Tho
+health_culture_environment,e1448_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2017,2017,annual,9.15,%,observed,not_specified,E1448,27,3,9.15,2017,,Phu Tho
+health_culture_environment,e1448_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2018,2018,annual,7.46,%,observed,not_specified,E1448,27,4,7.46,2018,,Phu Tho
+health_culture_environment,e1448_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2019,2019,annual,6.53,%,observed,not_specified,E1448,27,5,6.53,2019,,Phu Tho
+health_culture_environment,e1448_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2020,2020,annual,5.84,%,observed,not_specified,E1448,27,6,5.84,2020,,Phu Tho
+health_culture_environment,e1448_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2021,2021,annual,5.61,%,observed,not_specified,E1448,27,7,5.61,2021,,Phu Tho
+health_culture_environment,e1448_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2022,2022,annual,4.06,%,observed,not_specified,E1448,27,8,4.06,2022,,Phu Tho
+health_culture_environment,e1448_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2023,2023,annual,3.66,%,observed,not_specified,E1448,27,9,3.66,2023,,Phu Tho
+health_culture_environment,e1448_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2024,2024,annual,2.53,%,observed,preliminary,E1448,27,10,2.53,Prel. 2024,,Phu Tho
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2016,2016,annual,53.93,%,observed,not_specified,E1448,28,2,53.93,2016,,Dien Bien
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2017,2017,annual,50.18,%,observed,not_specified,E1448,28,3,50.18,2017,,Dien Bien
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2018,2018,annual,44.47,%,observed,not_specified,E1448,28,4,44.47,2018,,Dien Bien
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2019,2019,annual,39.85,%,observed,not_specified,E1448,28,5,39.85,2019,,Dien Bien
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2020,2020,annual,36.74,%,observed,not_specified,E1448,28,6,36.74,2020,,Dien Bien
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2021,2021,annual,34.52,%,observed,not_specified,E1448,28,7,34.52,2021,,Dien Bien
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2022,2022,annual,33.58,%,observed,not_specified,E1448,28,8,33.58,2022,,Dien Bien
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2023,2023,annual,29.55,%,observed,not_specified,E1448,28,9,29.55,2023,,Dien Bien
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2024,2024,annual,23.17,%,observed,preliminary,E1448,28,10,23.17,Prel. 2024,,Dien Bien
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2016,2016,annual,44.31,%,observed,not_specified,E1448,29,2,44.31,2016,,Lai Chau
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2017,2017,annual,41.55,%,observed,not_specified,E1448,29,3,41.55,2017,,Lai Chau
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2018,2018,annual,37.05,%,observed,not_specified,E1448,29,4,37.05,2018,,Lai Chau
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2019,2019,annual,33.04,%,observed,not_specified,E1448,29,5,33.04,2019,,Lai Chau
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2020,2020,annual,30.83,%,observed,not_specified,E1448,29,6,30.83,2020,,Lai Chau
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2021,2021,annual,27.90,%,observed,not_specified,E1448,29,7,27.90,2021,,Lai Chau
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2022,2022,annual,30.31,%,observed,not_specified,E1448,29,8,30.31,2022,,Lai Chau
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2023,2023,annual,28.12,%,observed,not_specified,E1448,29,9,28.12,2023,,Lai Chau
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2024,2024,annual,21.80,%,observed,preliminary,E1448,29,10,21.80,Prel. 2024,,Lai Chau
+health_culture_environment,e1448_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2016,2016,annual,42.80,%,observed,not_specified,E1448,30,2,42.80,2016,,Son La
+health_culture_environment,e1448_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2017,2017,annual,41.02,%,observed,not_specified,E1448,30,3,41.02,2017,,Son La
+health_culture_environment,e1448_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2018,2018,annual,36.34,%,observed,not_specified,E1448,30,4,36.34,2018,,Son La
+health_culture_environment,e1448_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2019,2019,annual,33.01,%,observed,not_specified,E1448,30,5,33.01,2019,,Son La
+health_culture_environment,e1448_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2020,2020,annual,30.53,%,observed,not_specified,E1448,30,6,30.53,2020,,Son La
+health_culture_environment,e1448_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2021,2021,annual,28.61,%,observed,not_specified,E1448,30,7,28.61,2021,,Son La
+health_culture_environment,e1448_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2022,2022,annual,23.88,%,observed,not_specified,E1448,30,8,23.88,2022,,Son La
+health_culture_environment,e1448_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2023,2023,annual,19.79,%,observed,not_specified,E1448,30,9,19.79,2023,,Son La
+health_culture_environment,e1448_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2024,2024,annual,14.50,%,observed,preliminary,E1448,30,10,14.50,Prel. 2024,,Son La
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2016,2016,annual,17.75,%,observed,not_specified,E1448,31,2,17.75,2016,,Hoa Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2017,2017,annual,15.40,%,observed,not_specified,E1448,31,3,15.40,2017,,Hoa Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2018,2018,annual,12.71,%,observed,not_specified,E1448,31,4,12.71,2018,,Hoa Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2019,2019,annual,10.50,%,observed,not_specified,E1448,31,5,10.50,2019,,Hoa Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2020,2020,annual,9.09,%,observed,not_specified,E1448,31,6,9.09,2020,,Hoa Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2021,2021,annual,8.19,%,observed,not_specified,E1448,31,7,8.19,2021,,Hoa Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2022,2022,annual,7.94,%,observed,not_specified,E1448,31,8,7.94,2022,,Hoa Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2023,2023,annual,6.03,%,observed,not_specified,E1448,31,9,6.03,2023,,Hoa Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2024,2024,annual,3.57,%,observed,preliminary,E1448,31,10,3.57,Prel. 2024,,Hoa Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2016,2016,annual,11.86,%,observed,not_specified,E1448,33,2,11.86,2016,,Thanh Hoa
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2017,2017,annual,10.88,%,observed,not_specified,E1448,33,3,10.88,2017,,Thanh Hoa
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2018,2018,annual,8.82,%,observed,not_specified,E1448,33,4,8.82,2018,,Thanh Hoa
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2019,2019,annual,7.99,%,observed,not_specified,E1448,33,5,7.99,2019,,Thanh Hoa
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2020,2020,annual,7.01,%,observed,not_specified,E1448,33,6,7.01,2020,,Thanh Hoa
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2021,2021,annual,6.29,%,observed,not_specified,E1448,33,7,6.29,2021,,Thanh Hoa
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2022,2022,annual,5.21,%,observed,not_specified,E1448,33,8,5.21,2022,,Thanh Hoa
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2023,2023,annual,3.90,%,observed,not_specified,E1448,33,9,3.90,2023,,Thanh Hoa
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2024,2024,annual,2.68,%,observed,preliminary,E1448,33,10,2.68,Prel. 2024,,Thanh Hoa
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2016,2016,annual,17.67,%,observed,not_specified,E1448,34,2,17.67,2016,,Nghe An
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2017,2017,annual,16.35,%,observed,not_specified,E1448,34,3,16.35,2017,,Nghe An
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2018,2018,annual,13.46,%,observed,not_specified,E1448,34,4,13.46,2018,,Nghe An
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2019,2019,annual,12.10,%,observed,not_specified,E1448,34,5,12.10,2019,,Nghe An
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2020,2020,annual,10.88,%,observed,not_specified,E1448,34,6,10.88,2020,,Nghe An
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2021,2021,annual,9.53,%,observed,not_specified,E1448,34,7,9.53,2021,,Nghe An
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2022,2022,annual,6.22,%,observed,not_specified,E1448,34,8,6.22,2022,,Nghe An
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2023,2023,annual,4.72,%,observed,not_specified,E1448,34,9,4.72,2023,,Nghe An
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2024,2024,annual,3.22,%,observed,preliminary,E1448,34,10,3.22,Prel. 2024,,Nghe An
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2016,2016,annual,12.51,%,observed,not_specified,E1448,35,2,12.51,2016,,Ha Tinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2017,2017,annual,10.88,%,observed,not_specified,E1448,35,3,10.88,2017,,Ha Tinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2018,2018,annual,8.77,%,observed,not_specified,E1448,35,4,8.77,2018,,Ha Tinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2019,2019,annual,7.22,%,observed,not_specified,E1448,35,5,7.22,2019,,Ha Tinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2020,2020,annual,6.53,%,observed,not_specified,E1448,35,6,6.53,2020,,Ha Tinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2021,2021,annual,5.88,%,observed,not_specified,E1448,35,7,5.88,2021,,Ha Tinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2022,2022,annual,3.83,%,observed,not_specified,E1448,35,8,3.83,2022,,Ha Tinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2023,2023,annual,2.90,%,observed,not_specified,E1448,35,9,2.90,2023,,Ha Tinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2024,2024,annual,1.92,%,observed,preliminary,E1448,35,10,1.92,Prel. 2024,,Ha Tinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2016,2016,annual,13.66,%,observed,not_specified,E1448,36,2,13.66,2016,,Quang Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2017,2017,annual,12.10,%,observed,not_specified,E1448,36,3,12.10,2017,,Quang Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2018,2018,annual,10.75,%,observed,not_specified,E1448,36,4,10.75,2018,,Quang Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2019,2019,annual,9.29,%,observed,not_specified,E1448,36,5,9.29,2019,,Quang Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2020,2020,annual,8.84,%,observed,not_specified,E1448,36,6,8.84,2020,,Quang Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2021,2021,annual,7.66,%,observed,not_specified,E1448,36,7,7.66,2021,,Quang Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2022,2022,annual,6.33,%,observed,not_specified,E1448,36,8,6.33,2022,,Quang Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2023,2023,annual,5.00,%,observed,not_specified,E1448,36,9,5.00,2023,,Quang Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2024,2024,annual,3.44,%,observed,preliminary,E1448,36,10,3.44,Prel. 2024,,Quang Binh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2016,2016,annual,16.07,%,observed,not_specified,E1448,37,2,16.07,2016,,Quang Tri
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2017,2017,annual,14.25,%,observed,not_specified,E1448,37,3,14.25,2017,,Quang Tri
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2018,2018,annual,12.57,%,observed,not_specified,E1448,37,4,12.57,2018,,Quang Tri
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2019,2019,annual,10.91,%,observed,not_specified,E1448,37,5,10.91,2019,,Quang Tri
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2020,2020,annual,9.15,%,observed,not_specified,E1448,37,6,9.15,2020,,Quang Tri
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2021,2021,annual,8.14,%,observed,not_specified,E1448,37,7,8.14,2021,,Quang Tri
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2022,2022,annual,9.51,%,observed,not_specified,E1448,37,8,9.51,2022,,Quang Tri
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2023,2023,annual,7.01,%,observed,not_specified,E1448,37,9,7.01,2023,,Quang Tri
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2024,2024,annual,5.60,%,observed,preliminary,E1448,37,10,5.60,Prel. 2024,,Quang Tri
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THUATHIENHUE,Thua Thien-Hue,source_reported_unharmonized,2016,2016,annual,7.33,%,observed,not_specified,E1448,38,2,7.33,2016,,Thua Thien-Hue
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THUATHIENHUE,Thua Thien-Hue,source_reported_unharmonized,2017,2017,annual,6.46,%,observed,not_specified,E1448,38,3,6.46,2017,,Thua Thien-Hue
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THUATHIENHUE,Thua Thien-Hue,source_reported_unharmonized,2018,2018,annual,4.65,%,observed,not_specified,E1448,38,4,4.65,2018,,Thua Thien-Hue
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THUATHIENHUE,Thua Thien-Hue,source_reported_unharmonized,2019,2019,annual,3.95,%,observed,not_specified,E1448,38,5,3.95,2019,,Thua Thien-Hue
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THUATHIENHUE,Thua Thien-Hue,source_reported_unharmonized,2020,2020,annual,3.50,%,observed,not_specified,E1448,38,6,3.50,2020,,Thua Thien-Hue
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THUATHIENHUE,Thua Thien-Hue,source_reported_unharmonized,2021,2021,annual,3.02,%,observed,not_specified,E1448,38,7,3.02,2021,,Thua Thien-Hue
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THUATHIENHUE,Thua Thien-Hue,source_reported_unharmonized,2022,2022,annual,3.93,%,observed,not_specified,E1448,38,8,3.93,2022,,Thua Thien-Hue
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THUATHIENHUE,Thua Thien-Hue,source_reported_unharmonized,2023,2023,annual,3.31,%,observed,not_specified,E1448,38,9,3.31,2023,,Thua Thien-Hue
+health_culture_environment,e1448_c9b3c38247,VN_SRC_THUATHIENHUE,Thua Thien-Hue,source_reported_unharmonized,2024,2024,annual,2.31,%,observed,preliminary,E1448,38,10,2.31,Prel. 2024,,Thua Thien-Hue
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2016,2016,annual,1.48,%,observed,not_specified,E1448,39,2,1.48,2016,,Da Nang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2017,2017,annual,1.22,%,observed,not_specified,E1448,39,3,1.22,2017,,Da Nang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2018,2018,annual,0.89,%,observed,not_specified,E1448,39,4,0.89,2018,,Da Nang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2019,2019,annual,0.69,%,observed,not_specified,E1448,39,5,0.69,2019,,Da Nang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2020,2020,annual,0.51,%,observed,not_specified,E1448,39,6,0.51,2020,,Da Nang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2021,2021,annual,0.38,%,observed,not_specified,E1448,39,7,0.38,2021,,Da Nang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2022,2022,annual,0.93,%,observed,not_specified,E1448,39,8,0.93,2022,,Da Nang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2023,2023,annual,0.90,%,observed,not_specified,E1448,39,9,0.90,2023,,Da Nang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2024,2024,annual,0.56,%,observed,preliminary,E1448,39,10,0.56,Prel. 2024,,Da Nang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2016,2016,annual,13.67,%,observed,not_specified,E1448,40,2,13.67,2016,,Quang  Nam
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2017,2017,annual,12.59,%,observed,not_specified,E1448,40,3,12.59,2017,,Quang  Nam
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2018,2018,annual,10.29,%,observed,not_specified,E1448,40,4,10.29,2018,,Quang  Nam
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2019,2019,annual,9.11,%,observed,not_specified,E1448,40,5,9.11,2019,,Quang  Nam
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2020,2020,annual,8.12,%,observed,not_specified,E1448,40,6,8.12,2020,,Quang  Nam
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2021,2021,annual,6.96,%,observed,not_specified,E1448,40,7,6.96,2021,,Quang  Nam
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2022,2022,annual,7.53,%,observed,not_specified,E1448,40,8,7.53,2022,,Quang  Nam
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2023,2023,annual,5.44,%,observed,not_specified,E1448,40,9,5.44,2023,,Quang  Nam
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2024,2024,annual,3.37,%,observed,preliminary,E1448,40,10,3.37,Prel. 2024,,Quang  Nam
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2016,2016,annual,13.66,%,observed,not_specified,E1448,41,2,13.66,2016,,Quang  Ngai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2017,2017,annual,12.19,%,observed,not_specified,E1448,41,3,12.19,2017,,Quang  Ngai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2018,2018,annual,10.06,%,observed,not_specified,E1448,41,4,10.06,2018,,Quang  Ngai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2019,2019,annual,8.38,%,observed,not_specified,E1448,41,5,8.38,2019,,Quang  Ngai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2020,2020,annual,7.45,%,observed,not_specified,E1448,41,6,7.45,2020,,Quang  Ngai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2021,2021,annual,6.78,%,observed,not_specified,E1448,41,7,6.78,2021,,Quang  Ngai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2022,2022,annual,6.58,%,observed,not_specified,E1448,41,8,6.58,2022,,Quang  Ngai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2023,2023,annual,5.18,%,observed,not_specified,E1448,41,9,5.18,2023,,Quang  Ngai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2024,2024,annual,3.66,%,observed,preliminary,E1448,41,10,3.66,Prel. 2024,,Quang  Ngai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2016,2016,annual,8.00,%,observed,not_specified,E1448,42,2,8.00,2016,,Binh Dinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2017,2017,annual,6.91,%,observed,not_specified,E1448,42,3,6.91,2017,,Binh Dinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2018,2018,annual,5.47,%,observed,not_specified,E1448,42,4,5.47,2018,,Binh Dinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2019,2019,annual,4.61,%,observed,not_specified,E1448,42,5,4.61,2019,,Binh Dinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2020,2020,annual,4.08,%,observed,not_specified,E1448,42,6,4.08,2020,,Binh Dinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2021,2021,annual,3.62,%,observed,not_specified,E1448,42,7,3.62,2021,,Binh Dinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2022,2022,annual,4.01,%,observed,not_specified,E1448,42,8,4.01,2022,,Binh Dinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2023,2023,annual,2.37,%,observed,not_specified,E1448,42,9,2.37,2023,,Binh Dinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2024,2024,annual,1.56,%,observed,preliminary,E1448,42,10,1.56,Prel. 2024,,Binh Dinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2016,2016,annual,9.87,%,observed,not_specified,E1448,43,2,9.87,2016,,Phu Yen
+health_culture_environment,e1448_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2017,2017,annual,8.80,%,observed,not_specified,E1448,43,3,8.80,2017,,Phu Yen
+health_culture_environment,e1448_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2018,2018,annual,7.45,%,observed,not_specified,E1448,43,4,7.45,2018,,Phu Yen
+health_culture_environment,e1448_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2019,2019,annual,6.26,%,observed,not_specified,E1448,43,5,6.26,2019,,Phu Yen
+health_culture_environment,e1448_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2020,2020,annual,5.55,%,observed,not_specified,E1448,43,6,5.55,2020,,Phu Yen
+health_culture_environment,e1448_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2021,2021,annual,5.05,%,observed,not_specified,E1448,43,7,5.05,2021,,Phu Yen
+health_culture_environment,e1448_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2022,2022,annual,6.51,%,observed,not_specified,E1448,43,8,6.51,2022,,Phu Yen
+health_culture_environment,e1448_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2023,2023,annual,4.98,%,observed,not_specified,E1448,43,9,4.98,2023,,Phu Yen
+health_culture_environment,e1448_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2024,2024,annual,3.35,%,observed,preliminary,E1448,43,10,3.35,Prel. 2024,,Phu Yen
+health_culture_environment,e1448_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2016,2016,annual,5.90,%,observed,not_specified,E1448,44,2,5.90,2016,,Khanh  Hoa
+health_culture_environment,e1448_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2017,2017,annual,4.99,%,observed,not_specified,E1448,44,3,4.99,2017,,Khanh  Hoa
+health_culture_environment,e1448_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2018,2018,annual,3.67,%,observed,not_specified,E1448,44,4,3.67,2018,,Khanh  Hoa
+health_culture_environment,e1448_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2019,2019,annual,3.01,%,observed,not_specified,E1448,44,5,3.01,2019,,Khanh  Hoa
+health_culture_environment,e1448_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2020,2020,annual,2.45,%,observed,not_specified,E1448,44,6,2.45,2020,,Khanh  Hoa
+health_culture_environment,e1448_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2021,2021,annual,2.19,%,observed,not_specified,E1448,44,7,2.19,2021,,Khanh  Hoa
+health_culture_environment,e1448_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2022,2022,annual,3.06,%,observed,not_specified,E1448,44,8,3.06,2022,,Khanh  Hoa
+health_culture_environment,e1448_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2023,2023,annual,2.39,%,observed,not_specified,E1448,44,9,2.39,2023,,Khanh  Hoa
+health_culture_environment,e1448_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2024,2024,annual,1.52,%,observed,preliminary,E1448,44,10,1.52,Prel. 2024,,Khanh  Hoa
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2016,2016,annual,13.40,%,observed,not_specified,E1448,45,2,13.40,2016,,Ninh  Thuan
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2017,2017,annual,12.57,%,observed,not_specified,E1448,45,3,12.57,2017,,Ninh  Thuan
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2018,2018,annual,11.02,%,observed,not_specified,E1448,45,4,11.02,2018,,Ninh  Thuan
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2019,2019,annual,9.76,%,observed,not_specified,E1448,45,5,9.76,2019,,Ninh  Thuan
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2020,2020,annual,8.96,%,observed,not_specified,E1448,45,6,8.96,2020,,Ninh  Thuan
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2021,2021,annual,8.41,%,observed,not_specified,E1448,45,7,8.41,2021,,Ninh  Thuan
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2022,2022,annual,9.05,%,observed,not_specified,E1448,45,8,9.05,2022,,Ninh  Thuan
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2023,2023,annual,8.04,%,observed,not_specified,E1448,45,9,8.04,2023,,Ninh  Thuan
+health_culture_environment,e1448_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2024,2024,annual,6.55,%,observed,preliminary,E1448,45,10,6.55,Prel. 2024,,Ninh  Thuan
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2016,2016,annual,4.37,%,observed,not_specified,E1448,46,2,4.37,2016,,Binh Thuan
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2017,2017,annual,3.55,%,observed,not_specified,E1448,46,3,3.55,2017,,Binh Thuan
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2018,2018,annual,2.57,%,observed,not_specified,E1448,46,4,2.57,2018,,Binh Thuan
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2019,2019,annual,2.14,%,observed,not_specified,E1448,46,5,2.14,2019,,Binh Thuan
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2020,2020,annual,1.65,%,observed,not_specified,E1448,46,6,1.65,2020,,Binh Thuan
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2021,2021,annual,1.32,%,observed,not_specified,E1448,46,7,1.32,2021,,Binh Thuan
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2022,2022,annual,2.85,%,observed,not_specified,E1448,46,8,2.85,2022,,Binh Thuan
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2023,2023,annual,1.17,%,observed,not_specified,E1448,46,9,1.17,2023,,Binh Thuan
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2024,2024,annual,0.63,%,observed,preliminary,E1448,46,10,0.63,Prel. 2024,,Binh Thuan
+health_culture_environment,e1448_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2016,2016,annual,34.00,%,observed,not_specified,E1448,48,2,34.00,2016,,Kon Tum
+health_culture_environment,e1448_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2017,2017,annual,31.92,%,observed,not_specified,E1448,48,3,31.92,2017,,Kon Tum
+health_culture_environment,e1448_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2018,2018,annual,27.46,%,observed,not_specified,E1448,48,4,27.46,2018,,Kon Tum
+health_culture_environment,e1448_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2019,2019,annual,24.09,%,observed,not_specified,E1448,48,5,24.09,2019,,Kon Tum
+health_culture_environment,e1448_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2020,2020,annual,22.03,%,observed,not_specified,E1448,48,6,22.03,2020,,Kon Tum
+health_culture_environment,e1448_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2021,2021,annual,20.64,%,observed,not_specified,E1448,48,7,20.64,2021,,Kon Tum
+health_culture_environment,e1448_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2022,2022,annual,19.26,%,observed,not_specified,E1448,48,8,19.26,2022,,Kon Tum
+health_culture_environment,e1448_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2023,2023,annual,16.01,%,observed,not_specified,E1448,48,9,16.01,2023,,Kon Tum
+health_culture_environment,e1448_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2024,2024,annual,10.85,%,observed,preliminary,E1448,48,10,10.85,Prel. 2024,,Kon Tum
+health_culture_environment,e1448_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2016,2016,annual,30.20,%,observed,not_specified,E1448,49,2,30.20,2016,,Gia Lai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2017,2017,annual,27.47,%,observed,not_specified,E1448,49,3,27.47,2017,,Gia Lai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2018,2018,annual,23.36,%,observed,not_specified,E1448,49,4,23.36,2018,,Gia Lai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2019,2019,annual,20.15,%,observed,not_specified,E1448,49,5,20.15,2019,,Gia Lai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2020,2020,annual,18.40,%,observed,not_specified,E1448,49,6,18.40,2020,,Gia Lai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2021,2021,annual,16.89,%,observed,not_specified,E1448,49,7,16.89,2021,,Gia Lai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2022,2022,annual,18.10,%,observed,not_specified,E1448,49,8,18.10,2022,,Gia Lai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2023,2023,annual,14.82,%,observed,not_specified,E1448,49,9,14.82,2023,,Gia Lai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2024,2024,annual,10.08,%,observed,preliminary,E1448,49,10,10.08,Prel. 2024,,Gia Lai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2016,2016,annual,15.40,%,observed,not_specified,E1448,50,2,15.40,2016,,Dak Lak
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2017,2017,annual,13.54,%,observed,not_specified,E1448,50,3,13.54,2017,,Dak Lak
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2018,2018,annual,10.94,%,observed,not_specified,E1448,50,4,10.94,2018,,Dak Lak
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2019,2019,annual,9.12,%,observed,not_specified,E1448,50,5,9.12,2019,,Dak Lak
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2020,2020,annual,7.81,%,observed,not_specified,E1448,50,6,7.81,2020,,Dak Lak
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2021,2021,annual,7.03,%,observed,not_specified,E1448,50,7,7.03,2021,,Dak Lak
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2022,2022,annual,8.18,%,observed,not_specified,E1448,50,8,8.18,2022,,Dak Lak
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2023,2023,annual,7.07,%,observed,not_specified,E1448,50,9,7.07,2023,,Dak Lak
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2024,2024,annual,4.75,%,observed,preliminary,E1448,50,10,4.75,Prel. 2024,,Dak Lak
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2016,2016,annual,17.10,%,observed,not_specified,E1448,51,2,17.10,2016,,Dak Nong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2017,2017,annual,14.82,%,observed,not_specified,E1448,51,3,14.82,2017,,Dak Nong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2018,2018,annual,12.13,%,observed,not_specified,E1448,51,4,12.13,2018,,Dak Nong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2019,2019,annual,10.10,%,observed,not_specified,E1448,51,5,10.10,2019,,Dak Nong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2020,2020,annual,9.03,%,observed,not_specified,E1448,51,6,9.03,2020,,Dak Nong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2021,2021,annual,8.23,%,observed,not_specified,E1448,51,7,8.23,2021,,Dak Nong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2022,2022,annual,9.74,%,observed,not_specified,E1448,51,8,9.74,2022,,Dak Nong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2023,2023,annual,8.74,%,observed,not_specified,E1448,51,9,8.74,2023,,Dak Nong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2024,2024,annual,6.00,%,observed,preliminary,E1448,51,10,6.00,Prel. 2024,,Dak Nong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2016,2016,annual,8.10,%,observed,not_specified,E1448,52,2,8.10,2016,,Lam Dong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2017,2017,annual,6.93,%,observed,not_specified,E1448,52,3,6.93,2017,,Lam Dong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2018,2018,annual,5.84,%,observed,not_specified,E1448,52,4,5.84,2018,,Lam Dong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2019,2019,annual,4.84,%,observed,not_specified,E1448,52,5,4.84,2019,,Lam Dong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2020,2020,annual,4.02,%,observed,not_specified,E1448,52,6,4.02,2020,,Lam Dong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2021,2021,annual,3.34,%,observed,not_specified,E1448,52,7,3.34,2021,,Lam Dong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2022,2022,annual,3.61,%,observed,not_specified,E1448,52,8,3.61,2022,,Lam Dong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2023,2023,annual,2.91,%,observed,not_specified,E1448,52,9,2.91,2023,,Lam Dong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2024,2024,annual,1.86,%,observed,preliminary,E1448,52,10,1.86,Prel. 2024,,Lam Dong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2016,2016,annual,6.70,%,observed,not_specified,E1448,54,2,6.70,2016,,Binh Phuoc
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2017,2017,annual,5.99,%,observed,not_specified,E1448,54,3,5.99,2017,,Binh Phuoc
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2018,2018,annual,4.40,%,observed,not_specified,E1448,54,4,4.40,2018,,Binh Phuoc
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2019,2019,annual,3.71,%,observed,not_specified,E1448,54,5,3.71,2019,,Binh Phuoc
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2020,2020,annual,3.02,%,observed,not_specified,E1448,54,6,3.02,2020,,Binh Phuoc
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2021,2021,annual,2.72,%,observed,not_specified,E1448,54,7,2.72,2021,,Binh Phuoc
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2022,2022,annual,2.21,%,observed,not_specified,E1448,54,8,2.21,2022,,Binh Phuoc
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2023,2023,annual,1.73,%,observed,not_specified,E1448,54,9,1.73,2023,,Binh Phuoc
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2024,2024,annual,1.19,%,observed,preliminary,E1448,54,10,1.19,Prel. 2024,,Binh Phuoc
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2016,2016,annual,2.50,%,observed,not_specified,E1448,55,2,2.50,2016,,Tay Ninh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2017,2017,annual,2.22,%,observed,not_specified,E1448,55,3,2.22,2017,,Tay Ninh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2018,2018,annual,1.66,%,observed,not_specified,E1448,55,4,1.66,2018,,Tay Ninh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2019,2019,annual,1.23,%,observed,not_specified,E1448,55,5,1.23,2019,,Tay Ninh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2020,2020,annual,1.08,%,observed,not_specified,E1448,55,6,1.08,2020,,Tay Ninh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2021,2021,annual,0.84,%,observed,not_specified,E1448,55,7,0.84,2021,,Tay Ninh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2022,2022,annual,1.23,%,observed,not_specified,E1448,55,8,1.23,2022,,Tay Ninh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2023,2023,annual,0.75,%,observed,not_specified,E1448,55,9,0.75,2023,,Tay Ninh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2024,2024,annual,0.55,%,observed,preliminary,E1448,55,10,0.55,Prel. 2024,,Tay Ninh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2016,2016,annual,1.10,%,observed,not_specified,E1448,56,2,1.10,2016,,Binh Duong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2017,2017,annual,0.87,%,observed,not_specified,E1448,56,3,0.87,2017,,Binh Duong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2018,2018,annual,0.73,%,observed,not_specified,E1448,56,4,0.73,2018,,Binh Duong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2019,2019,annual,0.56,%,observed,not_specified,E1448,56,5,0.56,2019,,Binh Duong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2020,2020,annual,0.12,%,observed,not_specified,E1448,56,6,0.12,2020,,Binh Duong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2021,2021,annual,0.00,%,observed,not_specified,E1448,56,7,0.00,2021,,Binh Duong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2022,2022,annual,0.12,%,observed,not_specified,E1448,56,8,0.12,2022,,Binh Duong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2023,2023,annual,0.13,%,observed,not_specified,E1448,56,9,0.13,2023,,Binh Duong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2024,2024,annual,0.12,%,observed,preliminary,E1448,56,10,0.12,Prel. 2024,,Binh Duong
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2016,2016,annual,0.80,%,observed,not_specified,E1448,57,2,0.80,2016,,Dong Nai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2017,2017,annual,0.72,%,observed,not_specified,E1448,57,3,0.72,2017,,Dong Nai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2018,2018,annual,0.47,%,observed,not_specified,E1448,57,4,0.47,2018,,Dong Nai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2019,2019,annual,0.28,%,observed,not_specified,E1448,57,5,0.28,2019,,Dong Nai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2020,2020,annual,0.25,%,observed,not_specified,E1448,57,6,0.25,2020,,Dong Nai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2021,2021,annual,0.30,%,observed,not_specified,E1448,57,7,0.30,2021,,Dong Nai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2022,2022,annual,0.68,%,observed,not_specified,E1448,57,8,0.68,2022,,Dong Nai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2023,2023,annual,0.49,%,observed,not_specified,E1448,57,9,0.49,2023,,Dong Nai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2024,2024,annual,0.27,%,observed,preliminary,E1448,57,10,0.27,Prel. 2024,,Dong Nai
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2016,2016,annual,1.30,%,observed,not_specified,E1448,58,2,1.30,2016,,Ba Ria - Vung Tau
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2017,2017,annual,1.14,%,observed,not_specified,E1448,58,3,1.14,2017,,Ba Ria - Vung Tau
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2018,2018,annual,0.92,%,observed,not_specified,E1448,58,4,0.92,2018,,Ba Ria - Vung Tau
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2019,2019,annual,0.71,%,observed,not_specified,E1448,58,5,0.71,2019,,Ba Ria - Vung Tau
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2020,2020,annual,0.47,%,observed,not_specified,E1448,58,6,0.47,2020,,Ba Ria - Vung Tau
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2021,2021,annual,0.23,%,observed,not_specified,E1448,58,7,0.23,2021,,Ba Ria - Vung Tau
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2022,2022,annual,0.82,%,observed,not_specified,E1448,58,8,0.82,2022,,Ba Ria - Vung Tau
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2023,2023,annual,0.60,%,observed,not_specified,E1448,58,9,0.60,2023,,Ba Ria - Vung Tau
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2024,2024,annual,0.43,%,observed,preliminary,E1448,58,10,0.43,Prel. 2024,,Ba Ria - Vung Tau
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2016,2016,annual,0.20,%,observed,not_specified,E1448,59,2,0.20,2016,,Ho Chi Minh city
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2017,2017,annual,0.10,%,observed,not_specified,E1448,59,3,0.10,2017,,Ho Chi Minh city
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2018,2018,annual,0.11,%,observed,not_specified,E1448,59,4,0.11,2018,,Ho Chi Minh city
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2019,2019,annual,0.09,%,observed,not_specified,E1448,59,5,0.09,2019,,Ho Chi Minh city
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2020,2020,annual,0.00,%,observed,not_specified,E1448,59,6,0.00,2020,,Ho Chi Minh city
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2021,2021,annual,0.00,%,observed,not_specified,E1448,59,7,0.00,2021,,Ho Chi Minh city
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2022,2022,annual,0.00,%,observed,not_specified,E1448,59,8,0.00,2022,,Ho Chi Minh city
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2023,2023,annual,0.00,%,observed,not_specified,E1448,59,9,0.00,2023,,Ho Chi Minh city
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2024,2024,annual,0.00,%,observed,preliminary,E1448,59,10,0.00,Prel. 2024,,Ho Chi Minh city
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2016,2016,annual,4.80,%,observed,not_specified,E1448,61,2,4.80,2016,,Long An
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2017,2017,annual,4.03,%,observed,not_specified,E1448,61,3,4.03,2017,,Long An
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2018,2018,annual,2.87,%,observed,not_specified,E1448,61,4,2.87,2018,,Long An
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2019,2019,annual,2.46,%,observed,not_specified,E1448,61,5,2.46,2019,,Long An
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2020,2020,annual,2.00,%,observed,not_specified,E1448,61,6,2.00,2020,,Long An
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2021,2021,annual,1.70,%,observed,not_specified,E1448,61,7,1.70,2021,,Long An
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2022,2022,annual,2.29,%,observed,not_specified,E1448,61,8,2.29,2022,,Long An
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2023,2023,annual,1.70,%,observed,not_specified,E1448,61,9,1.70,2023,,Long An
+health_culture_environment,e1448_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2024,2024,annual,1.17,%,observed,preliminary,E1448,61,10,1.17,Prel. 2024,,Long An
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2016,2016,annual,5.70,%,observed,not_specified,E1448,62,2,5.70,2016,,Tien Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2017,2017,annual,4.65,%,observed,not_specified,E1448,62,3,4.65,2017,,Tien Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2018,2018,annual,3.17,%,observed,not_specified,E1448,62,4,3.17,2018,,Tien Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2019,2019,annual,2.61,%,observed,not_specified,E1448,62,5,2.61,2019,,Tien Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2020,2020,annual,2.01,%,observed,not_specified,E1448,62,6,2.01,2020,,Tien Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2021,2021,annual,1.70,%,observed,not_specified,E1448,62,7,1.70,2021,,Tien Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2022,2022,annual,2.26,%,observed,not_specified,E1448,62,8,2.26,2022,,Tien Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2023,2023,annual,1.12,%,observed,not_specified,E1448,62,9,1.12,2023,,Tien Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2024,2024,annual,0.72,%,observed,preliminary,E1448,62,10,0.72,Prel. 2024,,Tien Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2016,2016,annual,10.10,%,observed,not_specified,E1448,63,2,10.10,2016,,Ben Tre
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2017,2017,annual,8.65,%,observed,not_specified,E1448,63,3,8.65,2017,,Ben Tre
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2018,2018,annual,6.71,%,observed,not_specified,E1448,63,4,6.71,2018,,Ben Tre
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2019,2019,annual,5.59,%,observed,not_specified,E1448,63,5,5.59,2019,,Ben Tre
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2020,2020,annual,4.96,%,observed,not_specified,E1448,63,6,4.96,2020,,Ben Tre
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2021,2021,annual,4.59,%,observed,not_specified,E1448,63,7,4.59,2021,,Ben Tre
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2022,2022,annual,3.85,%,observed,not_specified,E1448,63,8,3.85,2022,,Ben Tre
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2023,2023,annual,2.42,%,observed,not_specified,E1448,63,9,2.42,2023,,Ben Tre
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2024,2024,annual,1.69,%,observed,preliminary,E1448,63,10,1.69,Prel. 2024,,Ben Tre
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2016,2016,annual,13.90,%,observed,not_specified,E1448,64,2,13.90,2016,,Tra Vinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2017,2017,annual,12.00,%,observed,not_specified,E1448,64,3,12.00,2017,,Tra Vinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2018,2018,annual,9.90,%,observed,not_specified,E1448,64,4,9.90,2018,,Tra Vinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2019,2019,annual,8.36,%,observed,not_specified,E1448,64,5,8.36,2019,,Tra Vinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2020,2020,annual,7.40,%,observed,not_specified,E1448,64,6,7.40,2020,,Tra Vinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2021,2021,annual,6.55,%,observed,not_specified,E1448,64,7,6.55,2021,,Tra Vinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2022,2022,annual,7.04,%,observed,not_specified,E1448,64,8,7.04,2022,,Tra Vinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2023,2023,annual,6.04,%,observed,not_specified,E1448,64,9,6.04,2023,,Tra Vinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2024,2024,annual,4.00,%,observed,preliminary,E1448,64,10,4.00,Prel. 2024,,Tra Vinh
+health_culture_environment,e1448_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2016,2016,annual,9.30,%,observed,not_specified,E1448,65,2,9.30,2016,,Vinh Long
+health_culture_environment,e1448_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2017,2017,annual,7.94,%,observed,not_specified,E1448,65,3,7.94,2017,,Vinh Long
+health_culture_environment,e1448_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2018,2018,annual,6.54,%,observed,not_specified,E1448,65,4,6.54,2018,,Vinh Long
+health_culture_environment,e1448_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2019,2019,annual,5.76,%,observed,not_specified,E1448,65,5,5.76,2019,,Vinh Long
+health_culture_environment,e1448_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2020,2020,annual,5.07,%,observed,not_specified,E1448,65,6,5.07,2020,,Vinh Long
+health_culture_environment,e1448_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2021,2021,annual,4.56,%,observed,not_specified,E1448,65,7,4.56,2021,,Vinh Long
+health_culture_environment,e1448_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2022,2022,annual,3.55,%,observed,not_specified,E1448,65,8,3.55,2022,,Vinh Long
+health_culture_environment,e1448_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2023,2023,annual,2.57,%,observed,not_specified,E1448,65,9,2.57,2023,,Vinh Long
+health_culture_environment,e1448_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2024,2024,annual,1.83,%,observed,preliminary,E1448,65,10,1.83,Prel. 2024,,Vinh Long
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2016,2016,annual,8.00,%,observed,not_specified,E1448,66,2,8.00,2016,,Dong Thap
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2017,2017,annual,6.87,%,observed,not_specified,E1448,66,3,6.87,2017,,Dong Thap
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2018,2018,annual,5.63,%,observed,not_specified,E1448,66,4,5.63,2018,,Dong Thap
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2019,2019,annual,4.66,%,observed,not_specified,E1448,66,5,4.66,2019,,Dong Thap
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2020,2020,annual,4.02,%,observed,not_specified,E1448,66,6,4.02,2020,,Dong Thap
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2021,2021,annual,3.72,%,observed,not_specified,E1448,66,7,3.72,2021,,Dong Thap
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2022,2022,annual,3.11,%,observed,not_specified,E1448,66,8,3.11,2022,,Dong Thap
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2023,2023,annual,2.20,%,observed,not_specified,E1448,66,9,2.20,2023,,Dong Thap
+health_culture_environment,e1448_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2024,2024,annual,1.44,%,observed,preliminary,E1448,66,10,1.44,Prel. 2024,,Dong Thap
+health_culture_environment,e1448_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2016,2016,annual,7.60,%,observed,not_specified,E1448,67,2,7.60,2016,,An Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2017,2017,annual,6.76,%,observed,not_specified,E1448,67,3,6.76,2017,,An Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2018,2018,annual,5.70,%,observed,not_specified,E1448,67,4,5.70,2018,,An Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2019,2019,annual,4.91,%,observed,not_specified,E1448,67,5,4.91,2019,,An Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2020,2020,annual,3.98,%,observed,not_specified,E1448,67,6,3.98,2020,,An Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2021,2021,annual,3.51,%,observed,not_specified,E1448,67,7,3.51,2021,,An Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2022,2022,annual,4.64,%,observed,not_specified,E1448,67,8,4.64,2022,,An Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2023,2023,annual,3.71,%,observed,not_specified,E1448,67,9,3.71,2023,,An Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2024,2024,annual,2.53,%,observed,preliminary,E1448,67,10,2.53,Prel. 2024,,An Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2016,2016,annual,8.20,%,observed,not_specified,E1448,68,2,8.20,2016,,Kien  Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2017,2017,annual,7.13,%,observed,not_specified,E1448,68,3,7.13,2017,,Kien  Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2018,2018,annual,5.79,%,observed,not_specified,E1448,68,4,5.79,2018,,Kien  Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2019,2019,annual,4.76,%,observed,not_specified,E1448,68,5,4.76,2019,,Kien  Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2020,2020,annual,4.08,%,observed,not_specified,E1448,68,6,4.08,2020,,Kien  Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2021,2021,annual,3.61,%,observed,not_specified,E1448,68,7,3.61,2021,,Kien  Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2022,2022,annual,4.09,%,observed,not_specified,E1448,68,8,4.09,2022,,Kien  Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2023,2023,annual,3.38,%,observed,not_specified,E1448,68,9,3.38,2023,,Kien  Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2024,2024,annual,2.24,%,observed,preliminary,E1448,68,10,2.24,Prel. 2024,,Kien  Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2016,2016,annual,4.60,%,observed,not_specified,E1448,69,2,4.60,2016,,Can Tho
+health_culture_environment,e1448_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2017,2017,annual,3.87,%,observed,not_specified,E1448,69,3,3.87,2017,,Can Tho
+health_culture_environment,e1448_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2018,2018,annual,2.74,%,observed,not_specified,E1448,69,4,2.74,2018,,Can Tho
+health_culture_environment,e1448_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2019,2019,annual,2.15,%,observed,not_specified,E1448,69,5,2.15,2019,,Can Tho
+health_culture_environment,e1448_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2020,2020,annual,1.98,%,observed,not_specified,E1448,69,6,1.98,2020,,Can Tho
+health_culture_environment,e1448_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2021,2021,annual,1.80,%,observed,not_specified,E1448,69,7,1.80,2021,,Can Tho
+health_culture_environment,e1448_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2022,2022,annual,1.01,%,observed,not_specified,E1448,69,8,1.01,2022,,Can Tho
+health_culture_environment,e1448_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2023,2023,annual,0.87,%,observed,not_specified,E1448,69,9,0.87,2023,,Can Tho
+health_culture_environment,e1448_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2024,2024,annual,0.60,%,observed,preliminary,E1448,69,10,0.60,Prel. 2024,,Can Tho
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2016,2016,annual,10.70,%,observed,not_specified,E1448,70,2,10.70,2016,,Hau Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2017,2017,annual,9.35,%,observed,not_specified,E1448,70,3,9.35,2017,,Hau Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2018,2018,annual,7.33,%,observed,not_specified,E1448,70,4,7.33,2018,,Hau Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2019,2019,annual,6.15,%,observed,not_specified,E1448,70,5,6.15,2019,,Hau Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2020,2020,annual,5.60,%,observed,not_specified,E1448,70,6,5.60,2020,,Hau Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2021,2021,annual,5.24,%,observed,not_specified,E1448,70,7,5.24,2021,,Hau Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2022,2022,annual,5.30,%,observed,not_specified,E1448,70,8,5.30,2022,,Hau Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2023,2023,annual,3.88,%,observed,not_specified,E1448,70,9,3.88,2023,,Hau Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2024,2024,annual,2.81,%,observed,preliminary,E1448,70,10,2.81,Prel. 2024,,Hau Giang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2016,2016,annual,10.20,%,observed,not_specified,E1448,71,2,10.20,2016,,Soc Trang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2017,2017,annual,8.70,%,observed,not_specified,E1448,71,3,8.70,2017,,Soc Trang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2018,2018,annual,6.72,%,observed,not_specified,E1448,71,4,6.72,2018,,Soc Trang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2019,2019,annual,5.64,%,observed,not_specified,E1448,71,5,5.64,2019,,Soc Trang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2020,2020,annual,4.98,%,observed,not_specified,E1448,71,6,4.98,2020,,Soc Trang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2021,2021,annual,4.69,%,observed,not_specified,E1448,71,7,4.69,2021,,Soc Trang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2022,2022,annual,6.11,%,observed,not_specified,E1448,71,8,6.11,2022,,Soc Trang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2023,2023,annual,4.95,%,observed,not_specified,E1448,71,9,4.95,2023,,Soc Trang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2024,2024,annual,3.43,%,observed,preliminary,E1448,71,10,3.43,Prel. 2024,,Soc Trang
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2016,2016,annual,13.30,%,observed,not_specified,E1448,72,2,13.30,2016,,Bac Lieu
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2017,2017,annual,11.46,%,observed,not_specified,E1448,72,3,11.46,2017,,Bac Lieu
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2018,2018,annual,9.37,%,observed,not_specified,E1448,72,4,9.37,2018,,Bac Lieu
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2019,2019,annual,7.88,%,observed,not_specified,E1448,72,5,7.88,2019,,Bac Lieu
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2020,2020,annual,6.67,%,observed,not_specified,E1448,72,6,6.67,2020,,Bac Lieu
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2021,2021,annual,5.81,%,observed,not_specified,E1448,72,7,5.81,2021,,Bac Lieu
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2022,2022,annual,5.24,%,observed,not_specified,E1448,72,8,5.24,2022,,Bac Lieu
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2023,2023,annual,4.29,%,observed,not_specified,E1448,72,9,4.29,2023,,Bac Lieu
+health_culture_environment,e1448_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2024,2024,annual,2.86,%,observed,preliminary,E1448,72,10,2.86,Prel. 2024,,Bac Lieu
+health_culture_environment,e1448_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2016,2016,annual,11.90,%,observed,not_specified,E1448,73,2,11.90,2016,,Ca Mau
+health_culture_environment,e1448_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2017,2017,annual,10.14,%,observed,not_specified,E1448,73,3,10.14,2017,,Ca Mau
+health_culture_environment,e1448_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2018,2018,annual,8.25,%,observed,not_specified,E1448,73,4,8.25,2018,,Ca Mau
+health_culture_environment,e1448_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2019,2019,annual,6.88,%,observed,not_specified,E1448,73,5,6.88,2019,,Ca Mau
+health_culture_environment,e1448_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2020,2020,annual,5.92,%,observed,not_specified,E1448,73,6,5.92,2020,,Ca Mau
+health_culture_environment,e1448_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2021,2021,annual,5.22,%,observed,not_specified,E1448,73,7,5.22,2021,,Ca Mau
+health_culture_environment,e1448_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2022,2022,annual,6.38,%,observed,not_specified,E1448,73,8,6.38,2022,,Ca Mau
+health_culture_environment,e1448_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2023,2023,annual,5.25,%,observed,not_specified,E1448,73,9,5.25,2023,,Ca Mau
+health_culture_environment,e1448_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2024,2024,annual,3.54,%,observed,preliminary,E1448,73,10,3.54,Prel. 2024,,Ca Mau

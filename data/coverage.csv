@@ -1,0 +1,230 @@
+﻿section,source_id,status,reason,observations,numeric_observations,province_count,indicator_count,first_period,last_period
+population,E0201,included,,2835,2835,63,3,2011,2025
+population,E0202,excluded,no province rows,0,0,0,0,,
+population,E0203-07,included,,9920,9634,64,5,1995,2025
+population,E0208,excluded,no province rows,0,0,0,0,,
+population,E0209,included,,1280,1262,64,1,2005,2025
+population,E0210,excluded,no province rows,0,0,0,0,,
+population,E0211,excluded,no province rows,0,0,0,0,,
+population,E0212-14,included,,3840,3786,64,3,2005,2025
+population,E0215,excluded,no province rows,0,0,0,0,,
+population,E0216,included,,1280,1262,64,1,2005,2025
+population,E0217,excluded,no province rows,0,0,0,0,,
+population,E0218,included,,1280,1262,64,1,2005,2025
+population,E0219,included,,945,945,63,1,2010,2025
+population,E0220,included,,1280,1259,64,1,2005,2025
+population,E0221-23,included,,3840,3786,64,3,2005,2025
+population,E0224,excluded,no province rows,0,0,0,0,,
+population,E0225,included,,504,504,63,1,2018,2025
+population,E0226,excluded,no province rows,0,0,0,0,,
+population,E0227,included,,1088,1072,64,1,2006,2024
+population,E0228,included,,1323,1323,63,3,2018,2024
+population,E0229,excluded,no province rows,0,0,0,0,,
+population,E0230,included,,882,882,63,1,2010,2025
+population,E0231,included,,2268,2210,63,3,2013,2024
+population,E0232,excluded,no province rows,0,0,0,0,,
+population,E0233,included,,441,441,63,1,2019,2025
+population,E0234,included,,1323,1323,63,3,2018,2024
+employment,E0235,excluded,no province rows,0,0,0,0,,
+employment,E0236,excluded,no province rows,0,0,0,0,,
+employment,E0237,included,,1280,1262,64,1,2005,2025
+employment,E0238,excluded,no province rows,0,0,0,0,,
+employment,E0239,excluded,no province rows,0,0,0,0,,
+employment,E0240,excluded,no province rows,0,0,0,0,,
+employment,E0241,excluded,no province rows,0,0,0,0,,
+employment,E0242,excluded,no province rows,0,0,0,0,,
+employment,E0243,excluded,no province rows,0,0,0,0,,
+employment,E0244,excluded,no province rows,0,0,0,0,,
+employment,E0245,included,,504,504,63,1,2018,2025
+employment,E0246,excluded,no province rows,0,0,0,0,,
+employment,E0247,excluded,no province rows,0,0,0,0,,
+employment,E0248,excluded,no province rows,0,0,0,0,,
+employment,E0249,excluded,no province rows,0,0,0,0,,
+employment,E0250,excluded,no province rows,0,0,0,0,,
+employment,E0251,included,,504,504,63,1,2018,2025
+employment,E0252,excluded,no province rows,0,0,0,0,,
+employment,E0253,excluded,no province rows,0,0,0,0,,
+employment,E0254,excluded,no province rows,0,0,0,0,,
+employment,E0255,included,,1134,1134,63,1,2008,2025
+employment,E0256,excluded,no province rows,0,0,0,0,,
+employment,E0257,excluded,no province rows,0,0,0,0,,
+employment,E0258,included,,504,504,63,1,2018,2025
+employment,E0259,excluded,no province rows,0,0,0,0,,
+employment,E0260,excluded,no province rows,0,0,0,0,,
+employment,E0261,excluded,no province rows,0,0,0,0,,
+employment,E0262,excluded,no province rows,0,0,0,0,,
+employment,E0263,included,,504,504,63,1,2018,2025
+employment,E0264,excluded,no province rows,0,0,0,0,,
+employment,E0265,excluded,no province rows,0,0,0,0,,
+employment,E0266,excluded,no province rows,0,0,0,0,,
+employment,E0267,excluded,no province rows,0,0,0,0,,
+employment,E0268,excluded,no province rows,0,0,0,0,,
+employment,E0269,excluded,no province rows,0,0,0,0,,
+employment,E0270,included,,504,504,63,1,2018,2025
+national_account,E0301,excluded,no province rows,0,0,0,0,,
+national_account,E0302,excluded,no province rows,0,0,0,0,,
+national_account,E0303,excluded,no province rows,0,0,0,0,,
+national_account,E0304-05,excluded,no province rows,0,0,0,0,,
+national_account,E0306-07,excluded,no province rows,0,0,0,0,,
+national_account,E0308,excluded,no province rows,0,0,0,0,,
+national_account,E0309,excluded,no province rows,0,0,0,0,,
+national_account,E0310,included,,504,504,63,1,2018,2025
+national_account,E0311,excluded,no province rows,0,0,0,0,,
+national_account,E0312,included,,504,504,63,1,2018,2025
+national_account,E0326,excluded,no province rows,0,0,0,0,,
+banking_insurance_budget,E0315,excluded,no province rows,0,0,0,0,,
+banking_insurance_budget,E0316,excluded,no province rows,0,0,0,0,,
+banking_insurance_budget,E0317,excluded,no province rows,0,0,0,0,,
+banking_insurance_budget,E0319,excluded,no province rows,0,0,0,0,,
+banking_insurance_budget,E0320,excluded,no province rows,0,0,0,0,,
+banking_insurance_budget,E0321,excluded,no province rows,0,0,0,0,,
+banking_insurance_budget,E0322,excluded,no province rows,0,0,0,0,,
+banking_insurance_budget,E0323,included,,630,630,63,1,2015,2024
+banking_insurance_budget,E0324,included,,630,630,63,1,2015,2024
+banking_insurance_budget,E0325,included,,630,630,63,1,2015,2024
+education,E1332,excluded,no province rows,0,0,0,0,,
+education,E1333,excluded,no province rows,0,0,0,0,,
+education,E1334,excluded,no province rows,0,0,0,0,,
+education,E1301,excluded,no province rows,0,0,0,0,,
+education,E1302,excluded,no province rows,0,0,0,0,,
+education,E1303,included,,5120,4918,64,4,2002,2023
+education,E1304,excluded,no province rows,0,0,0,0,,
+education,E1306,excluded,no province rows,0,0,0,0,,
+education,E1307,excluded,no province rows,0,0,0,0,,
+education,E1308,included,,10240,7015,64,8,2002,2024
+education,E1309,included,,5632,5544,64,4,2002,2024
+education,E1310,excluded,no province rows,0,0,0,0,,
+education,E1311,included,,5632,5544,64,4,2002,2024
+education,E1312,included,,4608,4552,64,4,2004,2023
+education,E1313,included,,3128,2806,46,4,2004,2023
+education,E1314,included,,5632,5544,64,4,2002,2024
+education,E1315,included,,5120,5056,64,4,2004,2024
+education,E1316,included,,5376,4608,64,4,2004,2024
+education,E1317,excluded,no province rows,0,0,0,0,,
+education,E1318,excluded,no province rows,0,0,0,0,,
+education,E1319,included,,252,252,63,4,2024,2024
+education,E1320,included,,252,252,63,4,2024,2024
+education,E1321,excluded,no province rows,0,0,0,0,,
+education,E1322,included,,63,63,63,1,2024,2024
+education,E1323,included,,1024,1009,64,1,2001-2002,2016-2017
+education,E1324,excluded,no province rows,0,0,0,0,,
+education,E1325,excluded,no province rows,0,0,0,0,,
+education,E1326,included,,459,409,51,1,2015,2023
+education,E1327,included,,459,410,51,1,2015,2023
+education,E1328,excluded,no province rows,0,0,0,0,,
+education,E1329,excluded,no province rows,0,0,0,0,,
+education,E1330,excluded,no province rows,0,0,0,0,,
+education,E1331,included,,315,315,63,5,2023,2023
+health_culture_environment,E1401,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1402,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1403,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1404,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1405,included,,4160,3619,64,5,2005,2017
+health_culture_environment,E1406,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1407,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1408,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1409,included,,567,506,63,3,2021,2023
+health_culture_environment,E1410,included,,5120,4436,64,5,2002,2017
+health_culture_environment,E1411,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1412,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1413,included,,4096,4032,64,4,2002,2017
+health_culture_environment,E1414,included,,315,315,63,1,2018,2022
+health_culture_environment,E1415,included,,3072,3017,64,6,2002,2017
+health_culture_environment,E1416,included,,945,945,63,1,2010,2024
+health_culture_environment,E1417,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1418,included,,756,728,63,3,2021,2024
+health_culture_environment,E1419,included,,7056,3821,63,8,2011,2024
+health_culture_environment,E1420,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1421,included,,1664,1633,64,2,2004,2017
+health_culture_environment,E1422,included,,1071,1071,63,1,2005,2024
+health_culture_environment,E1423,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1424,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1425,included,,126,126,63,1,2023,2024
+health_culture_environment,E1426,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1427,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1428,included,,3780,3780,63,5,2010,2025
+health_culture_environment,E1429,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1430,included,,4536,4536,63,6,2010,2025
+health_culture_environment,E1431,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1432,included,,2268,2268,63,3,2010,2025
+health_culture_environment,E1433,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1434,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1435,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1436,included,,504,504,63,1,2018,2025
+health_culture_environment,E1437,included,,441,441,63,1,2018,2024
+health_culture_environment,E1438,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1439,included,,504,504,63,1,2018,2025
+health_culture_environment,E1440,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1441,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1442,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1443,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1444,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1445,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1446,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1447,included,,896,882,64,1,2006,2025
+health_culture_environment,E1448,included,,567,567,63,1,2016,2024
+health_culture_environment,E1449,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1450,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1451,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1452,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1453,included,,504,504,63,1,2018,2025
+health_culture_environment,E1454,included,,567,567,63,1,2016,2024
+health_culture_environment,E1455,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1456,included,,504,504,63,1,2018,2025
+health_culture_environment,E1457,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1458,included,,768,754,64,1,2002,2024
+health_culture_environment,E1459,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1460,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1461,included,,441,441,63,1,2019,2025
+health_culture_environment,E1462,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1463,included,,126,126,63,1,2024,2025
+health_culture_environment,E1465,included,,126,126,63,1,2024,2025
+health_culture_environment,E1466,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1467,included,,126,126,63,1,2024,2025
+health_culture_environment,E1468,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1469,included,,126,126,63,1,2024,2025
+health_culture_environment,E1470,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1471,included,,126,126,63,1,2024,2025
+health_culture_environment,E1472,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1473,included,,1890,1862,63,5,2014,2024
+health_culture_environment,E1474,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1475,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1476,included,,1890,1839,63,5,2014,Prel. 20204
+health_culture_environment,E1477,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1478,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1479,included,,378,378,63,2,2022,2024
+health_culture_environment,E1481,included,,378,378,63,2,2022,2024
+health_culture_environment,E1482,included,,378,378,63,2,2022,2024
+health_culture_environment,E1483,included,,756,756,63,4,2022,2024
+health_culture_environment,E1484,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1485,included,,63,63,63,1,2024,2024
+health_culture_environment,E1486,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1487,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1488,included,,567,567,63,3,2022,2024
+health_culture_environment,E1489,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1490,included,,756,682,63,4,2022,2024
+health_culture_environment,E1491,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1492,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1493,excluded,no province rows,0,0,0,0,,
+health_culture_environment,E1494,included,,504,493,63,2,2015,2018
+health_culture_environment,E1495,included,,92,92,23,4,2023,2023
+health_culture_environment,E1496,included,,945,898,63,3,2020,2024
+health_culture_environment,E1497,included,,567,504,63,3,2022,2024
+administration_land_climate,E0101,included,,7056,5561,63,7,2009,2024
+administration_land_climate,E0102,excluded,no province rows,0,0,0,0,,
+administration_land_climate,E0103,included,,1575,1566,63,5,2018-12-31,2023-12-31
+administration_land_climate,E0104,included,,1575,1567,63,5,2018-12-31,2023-12-31
+administration_land_climate,E0105,included,,1008,996,63,4,2020/2019,2023/2022
+administration_land_climate,E0106,excluded,"station observations, not province aggregates",0,0,0,0,,
+administration_land_climate,E0107,excluded,"station observations, not province aggregates",0,0,0,0,,
+administration_land_climate,E0108,excluded,"station observations, not province aggregates",0,0,0,0,,
+administration_land_climate,E0109,excluded,"station observations, not province aggregates",0,0,0,0,,
+administration_land_climate,E0110,excluded,"station observations, not province aggregates",0,0,0,0,,
+administration_land_climate,E0111,excluded,"station observations, not province aggregates",0,0,0,0,,
+administration_land_climate,E0112,excluded,"station observations, not province aggregates",0,0,0,0,,
+administration_land_climate,E0113,excluded,"station observations, not province aggregates",0,0,0,0,,
+administration_land_climate,E0114,excluded,"station observations, not province aggregates",0,0,0,0,,
+administration_land_climate,E0115,excluded,"station observations, not province aggregates",0,0,0,0,,
+administration_land_climate,E0116,excluded,"station observations, not province aggregates",0,0,0,0,,
+administration_land_climate,E0117,excluded,"station observations, not province aggregates",0,0,0,0,,
+administration_land_climate,E0118,excluded,"station observations, not province aggregates",0,0,0,0,,

@@ -1,0 +1,26 @@
+{
+  "observations": 161709,
+  "unique_keys": true,
+  "foreign_keys_valid": true,
+  "source_checksums_verified": 91,
+  "all_numeric_values_equal_raw_values": true,
+  "all_missing_values_remain_empty": true,
+  "section_and_table_partitions_match_master": true,
+  "independent_hanoi_population_2011_thousand_persons": "6825.82",
+  "unresolved_period_observations": 315,
+  "period_status_counts": {
+    "footnoted": 1200,
+    "not_specified": 156083,
+    "preliminary": 4237,
+    "estimated": 189
+  },
+  "period_type_counts": {
+    "annual": 156212,
+    "academic_year": 1024,
+    "unresolved_source_period": 315,
+    "point_in_time": 3150,
+    "comparison": 1008
+  },
+  "province_names_review": "All unmatched labels in validation.json were reviewed: residual categories, central/military bodies, unspecified areas or explanatory labels, not named provinces.",
+  "default_dashboard_indicators": 229
+}

@@ -1,0 +1,631 @@
+﻿section,indicator_id,province_code,province_name,geography_version,period,year,period_type,value,unit,value_status,period_status,source_id,source_row,source_column,raw_value,source_period_header,quality_flags,province_name_source
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2015,2015,annual,69.7,%,observed,not_specified,E0324,6,2,69.7,2015,catalogue_title_differs,Ha Noi
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2016,2016,annual,75.4,%,observed,not_specified,E0324,6,3,75.4,2016,catalogue_title_differs,Ha Noi
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2017,2017,annual,82.5,%,observed,not_specified,E0324,6,4,82.5,2017,catalogue_title_differs,Ha Noi
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2018,2018,annual,84.9,%,observed,not_specified,E0324,6,5,84.9,2018,catalogue_title_differs,Ha Noi
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2019,2019,annual,86.1,%,observed,not_specified,E0324,6,6,86.1,2019,catalogue_title_differs,Ha Noi
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2020,2020,annual,87.7,%,observed,not_specified,E0324,6,7,87.7,2020,catalogue_title_differs,Ha Noi
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2021,2021,annual,89.7,%,observed,not_specified,E0324,6,8,89.7,2021,catalogue_title_differs,Ha Noi
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2022,2022,annual,91.7,%,observed,not_specified,E0324,6,9,91.7,2022,catalogue_title_differs,Ha Noi
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2023,2023,annual,93.0,%,observed,not_specified,E0324,6,10,93.0,2023,catalogue_title_differs,Ha Noi
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2024,2024,annual,96.3,%,observed,preliminary,E0324,6,11,96.3,Prel. 2024,catalogue_title_differs,Ha Noi
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2015,2015,annual,69.3,%,observed,not_specified,E0324,7,2,69.3,2015,catalogue_title_differs,Vinh Phuc
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2016,2016,annual,75.3,%,observed,not_specified,E0324,7,3,75.3,2016,catalogue_title_differs,Vinh Phuc
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2017,2017,annual,83.8,%,observed,not_specified,E0324,7,4,83.8,2017,catalogue_title_differs,Vinh Phuc
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2018,2018,annual,87.2,%,observed,not_specified,E0324,7,5,87.2,2018,catalogue_title_differs,Vinh Phuc
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2019,2019,annual,88.2,%,observed,not_specified,E0324,7,6,88.2,2019,catalogue_title_differs,Vinh Phuc
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2020,2020,annual,93.9,%,observed,not_specified,E0324,7,7,93.9,2020,catalogue_title_differs,Vinh Phuc
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2021,2021,annual,93.0,%,observed,not_specified,E0324,7,8,93.0,2021,catalogue_title_differs,Vinh Phuc
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2022,2022,annual,93.2,%,observed,not_specified,E0324,7,9,93.2,2022,catalogue_title_differs,Vinh Phuc
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2023,2023,annual,95.3,%,observed,not_specified,E0324,7,10,95.3,2023,catalogue_title_differs,Vinh Phuc
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2024,2024,annual,94.9,%,observed,preliminary,E0324,7,11,94.9,Prel. 2024,catalogue_title_differs,Vinh Phuc
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2015,2015,annual,73.7,%,observed,not_specified,E0324,8,2,73.7,2015,catalogue_title_differs,Bac Ninh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2016,2016,annual,80.6,%,observed,not_specified,E0324,8,3,80.6,2016,catalogue_title_differs,Bac Ninh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2017,2017,annual,91.4,%,observed,not_specified,E0324,8,4,91.4,2017,catalogue_title_differs,Bac Ninh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2018,2018,annual,92.1,%,observed,not_specified,E0324,8,5,92.1,2018,catalogue_title_differs,Bac Ninh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2019,2019,annual,93.4,%,observed,not_specified,E0324,8,6,93.4,2019,catalogue_title_differs,Bac Ninh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2020,2020,annual,95.6,%,observed,not_specified,E0324,8,7,95.6,2020,catalogue_title_differs,Bac Ninh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2021,2021,annual,92.9,%,observed,not_specified,E0324,8,8,92.9,2021,catalogue_title_differs,Bac Ninh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2022,2022,annual,94.5,%,observed,not_specified,E0324,8,9,94.5,2022,catalogue_title_differs,Bac Ninh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2023,2023,annual,95.7,%,observed,not_specified,E0324,8,10,95.7,2023,catalogue_title_differs,Bac Ninh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2024,2024,annual,95.5,%,observed,preliminary,E0324,8,11,95.5,Prel. 2024,catalogue_title_differs,Bac Ninh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2015,2015,annual,80.6,%,observed,not_specified,E0324,9,2,80.6,2015,catalogue_title_differs,Quang Ninh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2016,2016,annual,86.9,%,observed,not_specified,E0324,9,3,86.9,2016,catalogue_title_differs,Quang Ninh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2017,2017,annual,91.8,%,observed,not_specified,E0324,9,4,91.8,2017,catalogue_title_differs,Quang Ninh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2018,2018,annual,91.9,%,observed,not_specified,E0324,9,5,91.9,2018,catalogue_title_differs,Quang Ninh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2019,2019,annual,91.8,%,observed,not_specified,E0324,9,6,91.8,2019,catalogue_title_differs,Quang Ninh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2020,2020,annual,92.5,%,observed,not_specified,E0324,9,7,92.5,2020,catalogue_title_differs,Quang Ninh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2021,2021,annual,92.5,%,observed,not_specified,E0324,9,8,92.5,2021,catalogue_title_differs,Quang Ninh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2022,2022,annual,92.9,%,observed,not_specified,E0324,9,9,92.9,2022,catalogue_title_differs,Quang Ninh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2023,2023,annual,93.5,%,observed,not_specified,E0324,9,10,93.5,2023,catalogue_title_differs,Quang Ninh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2024,2024,annual,93.9,%,observed,preliminary,E0324,9,11,93.9,Prel. 2024,catalogue_title_differs,Quang Ninh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2015,2015,annual,72.2,%,observed,not_specified,E0324,10,2,72.2,2015,catalogue_title_differs,Hai Duong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2016,2016,annual,77.9,%,observed,not_specified,E0324,10,3,77.9,2016,catalogue_title_differs,Hai Duong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2017,2017,annual,84.3,%,observed,not_specified,E0324,10,4,84.3,2017,catalogue_title_differs,Hai Duong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2018,2018,annual,84.6,%,observed,not_specified,E0324,10,5,84.6,2018,catalogue_title_differs,Hai Duong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2019,2019,annual,86.7,%,observed,not_specified,E0324,10,6,86.7,2019,catalogue_title_differs,Hai Duong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2020,2020,annual,88.3,%,observed,not_specified,E0324,10,7,88.3,2020,catalogue_title_differs,Hai Duong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2021,2021,annual,89.0,%,observed,not_specified,E0324,10,8,89.0,2021,catalogue_title_differs,Hai Duong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2022,2022,annual,90.6,%,observed,not_specified,E0324,10,9,90.6,2022,catalogue_title_differs,Hai Duong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2023,2023,annual,91.2,%,observed,not_specified,E0324,10,10,91.2,2023,catalogue_title_differs,Hai Duong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2024,2024,annual,92.0,%,observed,preliminary,E0324,10,11,92.0,Prel. 2024,catalogue_title_differs,Hai Duong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2015,2015,annual,70.6,%,observed,not_specified,E0324,11,2,70.6,2015,catalogue_title_differs,Hai Phong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2016,2016,annual,75.6,%,observed,not_specified,E0324,11,3,75.6,2016,catalogue_title_differs,Hai Phong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2017,2017,annual,84.4,%,observed,not_specified,E0324,11,4,84.4,2017,catalogue_title_differs,Hai Phong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2018,2018,annual,88.2,%,observed,not_specified,E0324,11,5,88.2,2018,catalogue_title_differs,Hai Phong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2019,2019,annual,87.4,%,observed,not_specified,E0324,11,6,87.4,2019,catalogue_title_differs,Hai Phong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2020,2020,annual,88.7,%,observed,not_specified,E0324,11,7,88.7,2020,catalogue_title_differs,Hai Phong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2021,2021,annual,90.0,%,observed,not_specified,E0324,11,8,90.0,2021,catalogue_title_differs,Hai Phong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2022,2022,annual,91.3,%,observed,not_specified,E0324,11,9,91.3,2022,catalogue_title_differs,Hai Phong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2023,2023,annual,92.7,%,observed,not_specified,E0324,11,10,92.7,2023,catalogue_title_differs,Hai Phong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2024,2024,annual,93.6,%,observed,preliminary,E0324,11,11,93.6,Prel. 2024,catalogue_title_differs,Hai Phong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2015,2015,annual,64.5,%,observed,not_specified,E0324,12,2,64.5,2015,catalogue_title_differs,Hung Yen
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2016,2016,annual,72.5,%,observed,not_specified,E0324,12,3,72.5,2016,catalogue_title_differs,Hung Yen
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2017,2017,annual,79.8,%,observed,not_specified,E0324,12,4,79.8,2017,catalogue_title_differs,Hung Yen
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2018,2018,annual,81.8,%,observed,not_specified,E0324,12,5,81.8,2018,catalogue_title_differs,Hung Yen
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2019,2019,annual,84.4,%,observed,not_specified,E0324,12,6,84.4,2019,catalogue_title_differs,Hung Yen
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2020,2020,annual,85.6,%,observed,not_specified,E0324,12,7,85.6,2020,catalogue_title_differs,Hung Yen
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2021,2021,annual,87.2,%,observed,not_specified,E0324,12,8,87.2,2021,catalogue_title_differs,Hung Yen
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2022,2022,annual,89.4,%,observed,not_specified,E0324,12,9,89.4,2022,catalogue_title_differs,Hung Yen
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2023,2023,annual,90.1,%,observed,not_specified,E0324,12,10,90.1,2023,catalogue_title_differs,Hung Yen
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2024,2024,annual,90.7,%,observed,preliminary,E0324,12,11,90.7,Prel. 2024,catalogue_title_differs,Hung Yen
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2015,2015,annual,71.5,%,observed,not_specified,E0324,13,2,71.5,2015,catalogue_title_differs,Thai Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2016,2016,annual,76.6,%,observed,not_specified,E0324,13,3,76.6,2016,catalogue_title_differs,Thai Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2017,2017,annual,83.2,%,observed,not_specified,E0324,13,4,83.2,2017,catalogue_title_differs,Thai Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2018,2018,annual,84.3,%,observed,not_specified,E0324,13,5,84.3,2018,catalogue_title_differs,Thai Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2019,2019,annual,85.0,%,observed,not_specified,E0324,13,6,85.0,2019,catalogue_title_differs,Thai Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2020,2020,annual,85.3,%,observed,not_specified,E0324,13,7,85.3,2020,catalogue_title_differs,Thai Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2021,2021,annual,86.7,%,observed,not_specified,E0324,13,8,86.7,2021,catalogue_title_differs,Thai Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2022,2022,annual,88.3,%,observed,not_specified,E0324,13,9,88.3,2022,catalogue_title_differs,Thai Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2023,2023,annual,90.3,%,observed,not_specified,E0324,13,10,90.3,2023,catalogue_title_differs,Thai Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2024,2024,annual,90.9,%,observed,preliminary,E0324,13,11,90.9,Prel. 2024,catalogue_title_differs,Thai Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2015,2015,annual,64.6,%,observed,not_specified,E0324,14,2,64.6,2015,catalogue_title_differs,Ha Nam
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2016,2016,annual,71.8,%,observed,not_specified,E0324,14,3,71.8,2016,catalogue_title_differs,Ha Nam
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2017,2017,annual,81.1,%,observed,not_specified,E0324,14,4,81.1,2017,catalogue_title_differs,Ha Nam
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2018,2018,annual,82.9,%,observed,not_specified,E0324,14,5,82.9,2018,catalogue_title_differs,Ha Nam
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2019,2019,annual,85.8,%,observed,not_specified,E0324,14,6,85.8,2019,catalogue_title_differs,Ha Nam
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2020,2020,annual,88.3,%,observed,not_specified,E0324,14,7,88.3,2020,catalogue_title_differs,Ha Nam
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2021,2021,annual,89.9,%,observed,not_specified,E0324,14,8,89.9,2021,catalogue_title_differs,Ha Nam
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2022,2022,annual,91.2,%,observed,not_specified,E0324,14,9,91.2,2022,catalogue_title_differs,Ha Nam
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2023,2023,annual,92.9,%,observed,not_specified,E0324,14,10,92.9,2023,catalogue_title_differs,Ha Nam
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2024,2024,annual,93.4,%,observed,preliminary,E0324,14,11,93.4,Prel. 2024,catalogue_title_differs,Ha Nam
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2015,2015,annual,65.7,%,observed,not_specified,E0324,15,2,65.7,2015,catalogue_title_differs,Nam Dinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2016,2016,annual,71.7,%,observed,not_specified,E0324,15,3,71.7,2016,catalogue_title_differs,Nam Dinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2017,2017,annual,86.4,%,observed,not_specified,E0324,15,4,86.4,2017,catalogue_title_differs,Nam Dinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2018,2018,annual,86.8,%,observed,not_specified,E0324,15,5,86.8,2018,catalogue_title_differs,Nam Dinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2019,2019,annual,89.2,%,observed,not_specified,E0324,15,6,89.2,2019,catalogue_title_differs,Nam Dinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2020,2020,annual,90.6,%,observed,not_specified,E0324,15,7,90.6,2020,catalogue_title_differs,Nam Dinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2021,2021,annual,90.0,%,observed,not_specified,E0324,15,8,90.0,2021,catalogue_title_differs,Nam Dinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2022,2022,annual,88.7,%,observed,not_specified,E0324,15,9,88.7,2022,catalogue_title_differs,Nam Dinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2023,2023,annual,90.8,%,observed,not_specified,E0324,15,10,90.8,2023,catalogue_title_differs,Nam Dinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2024,2024,annual,92.1,%,observed,preliminary,E0324,15,11,92.1,Prel. 2024,catalogue_title_differs,Nam Dinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2015,2015,annual,66.8,%,observed,not_specified,E0324,16,2,66.8,2015,catalogue_title_differs,Ninh Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2016,2016,annual,81.2,%,observed,not_specified,E0324,16,3,81.2,2016,catalogue_title_differs,Ninh Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2017,2017,annual,91.0,%,observed,not_specified,E0324,16,4,91.0,2017,catalogue_title_differs,Ninh Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2018,2018,annual,89.5,%,observed,not_specified,E0324,16,5,89.5,2018,catalogue_title_differs,Ninh Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2019,2019,annual,90.4,%,observed,not_specified,E0324,16,6,90.4,2019,catalogue_title_differs,Ninh Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2020,2020,annual,91.2,%,observed,not_specified,E0324,16,7,91.2,2020,catalogue_title_differs,Ninh Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2021,2021,annual,91.3,%,observed,not_specified,E0324,16,8,91.3,2021,catalogue_title_differs,Ninh Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2022,2022,annual,91.7,%,observed,not_specified,E0324,16,9,91.7,2022,catalogue_title_differs,Ninh Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2023,2023,annual,93.3,%,observed,not_specified,E0324,16,10,93.3,2023,catalogue_title_differs,Ninh Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2024,2024,annual,93.3,%,observed,preliminary,E0324,16,11,93.3,Prel. 2024,catalogue_title_differs,Ninh Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2015,2015,annual,94.8,%,observed,not_specified,E0324,18,2,94.8,2015,catalogue_title_differs,Ha Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2016,2016,annual,95.7,%,observed,not_specified,E0324,18,3,95.7,2016,catalogue_title_differs,Ha Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2017,2017,annual,99.0,%,observed,not_specified,E0324,18,4,99.0,2017,catalogue_title_differs,Ha Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2018,2018,annual,98.0,%,observed,not_specified,E0324,18,5,98.0,2018,catalogue_title_differs,Ha Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2019,2019,annual,96.3,%,observed,not_specified,E0324,18,6,96.3,2019,catalogue_title_differs,Ha Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2020,2020,annual,96.4,%,observed,not_specified,E0324,18,7,96.4,2020,catalogue_title_differs,Ha Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2021,2021,annual,95.9,%,observed,not_specified,E0324,18,8,95.9,2021,catalogue_title_differs,Ha Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2022,2022,annual,96.6,%,observed,not_specified,E0324,18,9,96.6,2022,catalogue_title_differs,Ha Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2023,2023,annual,97.4,%,observed,not_specified,E0324,18,10,97.4,2023,catalogue_title_differs,Ha Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2024,2024,annual,96.3,%,observed,preliminary,E0324,18,11,96.3,Prel. 2024,catalogue_title_differs,Ha Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2015,2015,annual,92.1,%,observed,not_specified,E0324,19,2,92.1,2015,catalogue_title_differs,Cao Bang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2016,2016,annual,97.4,%,observed,not_specified,E0324,19,3,97.4,2016,catalogue_title_differs,Cao Bang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2017,2017,annual,99.6,%,observed,not_specified,E0324,19,4,99.6,2017,catalogue_title_differs,Cao Bang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2018,2018,annual,99.2,%,observed,not_specified,E0324,19,5,99.2,2018,catalogue_title_differs,Cao Bang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2019,2019,annual,97.8,%,observed,not_specified,E0324,19,6,97.8,2019,catalogue_title_differs,Cao Bang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2020,2020,annual,97.3,%,observed,not_specified,E0324,19,7,97.3,2020,catalogue_title_differs,Cao Bang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2021,2021,annual,93.8,%,observed,not_specified,E0324,19,8,93.8,2021,catalogue_title_differs,Cao Bang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2022,2022,annual,94.0,%,observed,not_specified,E0324,19,9,94.0,2022,catalogue_title_differs,Cao Bang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2023,2023,annual,95.3,%,observed,not_specified,E0324,19,10,95.3,2023,catalogue_title_differs,Cao Bang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2024,2024,annual,93.8,%,observed,preliminary,E0324,19,11,93.8,Prel. 2024,catalogue_title_differs,Cao Bang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2015,2015,annual,93.2,%,observed,not_specified,E0324,20,2,93.2,2015,catalogue_title_differs,Bac Kan
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2016,2016,annual,98.7,%,observed,not_specified,E0324,20,3,98.7,2016,catalogue_title_differs,Bac Kan
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2017,2017,annual,102.0,%,observed,not_specified,E0324,20,4,102.0,2017,catalogue_title_differs,Bac Kan
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2018,2018,annual,100.3,%,observed,not_specified,E0324,20,5,100.3,2018,catalogue_title_differs,Bac Kan
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2019,2019,annual,97.8,%,observed,not_specified,E0324,20,6,97.8,2019,catalogue_title_differs,Bac Kan
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2020,2020,annual,97.5,%,observed,not_specified,E0324,20,7,97.5,2020,catalogue_title_differs,Bac Kan
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2021,2021,annual,96.2,%,observed,not_specified,E0324,20,8,96.2,2021,catalogue_title_differs,Bac Kan
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2022,2022,annual,96.0,%,observed,not_specified,E0324,20,9,96.0,2022,catalogue_title_differs,Bac Kan
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2023,2023,annual,96.9,%,observed,not_specified,E0324,20,10,96.9,2023,catalogue_title_differs,Bac Kan
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2024,2024,annual,96.6,%,observed,preliminary,E0324,20,11,96.6,Prel. 2024,catalogue_title_differs,Bac Kan
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2015,2015,annual,93.1,%,observed,not_specified,E0324,21,2,93.1,2015,catalogue_title_differs,Tuyen Quang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2016,2016,annual,94.4,%,observed,not_specified,E0324,21,3,94.4,2016,catalogue_title_differs,Tuyen Quang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2017,2017,annual,98.4,%,observed,not_specified,E0324,21,4,98.4,2017,catalogue_title_differs,Tuyen Quang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2018,2018,annual,95.8,%,observed,not_specified,E0324,21,5,95.8,2018,catalogue_title_differs,Tuyen Quang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2019,2019,annual,94.2,%,observed,not_specified,E0324,21,6,94.2,2019,catalogue_title_differs,Tuyen Quang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2020,2020,annual,95.0,%,observed,not_specified,E0324,21,7,95.0,2020,catalogue_title_differs,Tuyen Quang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2021,2021,annual,93.4,%,observed,not_specified,E0324,21,8,93.4,2021,catalogue_title_differs,Tuyen Quang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2022,2022,annual,93.3,%,observed,not_specified,E0324,21,9,93.3,2022,catalogue_title_differs,Tuyen Quang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2023,2023,annual,97.0,%,observed,not_specified,E0324,21,10,97.0,2023,catalogue_title_differs,Tuyen Quang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2024,2024,annual,96.1,%,observed,preliminary,E0324,21,11,96.1,Prel. 2024,catalogue_title_differs,Tuyen Quang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2015,2015,annual,96.3,%,observed,not_specified,E0324,22,2,96.3,2015,catalogue_title_differs,Lao Cai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2016,2016,annual,99.2,%,observed,not_specified,E0324,22,3,99.2,2016,catalogue_title_differs,Lao Cai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2017,2017,annual,98.6,%,observed,not_specified,E0324,22,4,98.6,2017,catalogue_title_differs,Lao Cai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2018,2018,annual,97.8,%,observed,not_specified,E0324,22,5,97.8,2018,catalogue_title_differs,Lao Cai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2019,2019,annual,96.6,%,observed,not_specified,E0324,22,6,96.6,2019,catalogue_title_differs,Lao Cai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2020,2020,annual,96.1,%,observed,not_specified,E0324,22,7,96.1,2020,catalogue_title_differs,Lao Cai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2021,2021,annual,95.1,%,observed,not_specified,E0324,22,8,95.1,2021,catalogue_title_differs,Lao Cai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2022,2022,annual,92.5,%,observed,not_specified,E0324,22,9,92.5,2022,catalogue_title_differs,Lao Cai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2023,2023,annual,94.9,%,observed,not_specified,E0324,22,10,94.9,2023,catalogue_title_differs,Lao Cai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2024,2024,annual,94.0,%,observed,preliminary,E0324,22,11,94.0,Prel. 2024,catalogue_title_differs,Lao Cai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2015,2015,annual,85.2,%,observed,not_specified,E0324,23,2,85.2,2015,catalogue_title_differs,Yen Bai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2016,2016,annual,90.9,%,observed,not_specified,E0324,23,3,90.9,2016,catalogue_title_differs,Yen Bai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2017,2017,annual,95.3,%,observed,not_specified,E0324,23,4,95.3,2017,catalogue_title_differs,Yen Bai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2018,2018,annual,96.4,%,observed,not_specified,E0324,23,5,96.4,2018,catalogue_title_differs,Yen Bai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2019,2019,annual,96.6,%,observed,not_specified,E0324,23,6,96.6,2019,catalogue_title_differs,Yen Bai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2020,2020,annual,96.7,%,observed,not_specified,E0324,23,7,96.7,2020,catalogue_title_differs,Yen Bai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2021,2021,annual,91.3,%,observed,not_specified,E0324,23,8,91.3,2021,catalogue_title_differs,Yen Bai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2022,2022,annual,91.3,%,observed,not_specified,E0324,23,9,91.3,2022,catalogue_title_differs,Yen Bai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2023,2023,annual,94.3,%,observed,not_specified,E0324,23,10,94.3,2023,catalogue_title_differs,Yen Bai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2024,2024,annual,94.4,%,observed,preliminary,E0324,23,11,94.4,Prel. 2024,catalogue_title_differs,Yen Bai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2015,2015,annual,91.1,%,observed,not_specified,E0324,24,2,91.1,2015,catalogue_title_differs,Thai  Nguyen
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2016,2016,annual,94.3,%,observed,not_specified,E0324,24,3,94.3,2016,catalogue_title_differs,Thai  Nguyen
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2017,2017,annual,96.6,%,observed,not_specified,E0324,24,4,96.6,2017,catalogue_title_differs,Thai  Nguyen
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2018,2018,annual,95.2,%,observed,not_specified,E0324,24,5,95.2,2018,catalogue_title_differs,Thai  Nguyen
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2019,2019,annual,94.1,%,observed,not_specified,E0324,24,6,94.1,2019,catalogue_title_differs,Thai  Nguyen
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2020,2020,annual,93.0,%,observed,not_specified,E0324,24,7,93.0,2020,catalogue_title_differs,Thai  Nguyen
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2021,2021,annual,91.8,%,observed,not_specified,E0324,24,8,91.8,2021,catalogue_title_differs,Thai  Nguyen
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2022,2022,annual,92.0,%,observed,not_specified,E0324,24,9,92.0,2022,catalogue_title_differs,Thai  Nguyen
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2023,2023,annual,95.5,%,observed,not_specified,E0324,24,10,95.5,2023,catalogue_title_differs,Thai  Nguyen
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2024,2024,annual,95.2,%,observed,preliminary,E0324,24,11,95.2,Prel. 2024,catalogue_title_differs,Thai  Nguyen
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2015,2015,annual,85.7,%,observed,not_specified,E0324,25,2,85.7,2015,catalogue_title_differs,Lang Son
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2016,2016,annual,91.4,%,observed,not_specified,E0324,25,3,91.4,2016,catalogue_title_differs,Lang Son
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2017,2017,annual,97.2,%,observed,not_specified,E0324,25,4,97.2,2017,catalogue_title_differs,Lang Son
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2018,2018,annual,95.9,%,observed,not_specified,E0324,25,5,95.9,2018,catalogue_title_differs,Lang Son
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2019,2019,annual,93.9,%,observed,not_specified,E0324,25,6,93.9,2019,catalogue_title_differs,Lang Son
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2020,2020,annual,92.7,%,observed,not_specified,E0324,25,7,92.7,2020,catalogue_title_differs,Lang Son
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2021,2021,annual,92.1,%,observed,not_specified,E0324,25,8,92.1,2021,catalogue_title_differs,Lang Son
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2022,2022,annual,91.8,%,observed,not_specified,E0324,25,9,91.8,2022,catalogue_title_differs,Lang Son
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2023,2023,annual,94.2,%,observed,not_specified,E0324,25,10,94.2,2023,catalogue_title_differs,Lang Son
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2024,2024,annual,94.0,%,observed,preliminary,E0324,25,11,94.0,Prel. 2024,catalogue_title_differs,Lang Son
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2015,2015,annual,70.9,%,observed,not_specified,E0324,26,2,70.9,2015,catalogue_title_differs,Bac Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2016,2016,annual,79.6,%,observed,not_specified,E0324,26,3,79.6,2016,catalogue_title_differs,Bac Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2017,2017,annual,88.5,%,observed,not_specified,E0324,26,4,88.5,2017,catalogue_title_differs,Bac Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2018,2018,annual,88.6,%,observed,not_specified,E0324,26,5,88.6,2018,catalogue_title_differs,Bac Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2019,2019,annual,89.8,%,observed,not_specified,E0324,26,6,89.8,2019,catalogue_title_differs,Bac Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2020,2020,annual,91.5,%,observed,not_specified,E0324,26,7,91.5,2020,catalogue_title_differs,Bac Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2021,2021,annual,90.7,%,observed,not_specified,E0324,26,8,90.7,2021,catalogue_title_differs,Bac Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2022,2022,annual,91.6,%,observed,not_specified,E0324,26,9,91.6,2022,catalogue_title_differs,Bac Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2023,2023,annual,92.3,%,observed,not_specified,E0324,26,10,92.3,2023,catalogue_title_differs,Bac Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2024,2024,annual,92.2,%,observed,preliminary,E0324,26,11,92.2,Prel. 2024,catalogue_title_differs,Bac Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2015,2015,annual,76.6,%,observed,not_specified,E0324,27,2,76.6,2015,catalogue_title_differs,Phu Tho
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2016,2016,annual,84.3,%,observed,not_specified,E0324,27,3,84.3,2016,catalogue_title_differs,Phu Tho
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2017,2017,annual,86.0,%,observed,not_specified,E0324,27,4,86.0,2017,catalogue_title_differs,Phu Tho
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2018,2018,annual,85.4,%,observed,not_specified,E0324,27,5,85.4,2018,catalogue_title_differs,Phu Tho
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2019,2019,annual,85.5,%,observed,not_specified,E0324,27,6,85.5,2019,catalogue_title_differs,Phu Tho
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2020,2020,annual,86.7,%,observed,not_specified,E0324,27,7,86.7,2020,catalogue_title_differs,Phu Tho
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2021,2021,annual,85.0,%,observed,not_specified,E0324,27,8,85.0,2021,catalogue_title_differs,Phu Tho
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2022,2022,annual,87.2,%,observed,not_specified,E0324,27,9,87.2,2022,catalogue_title_differs,Phu Tho
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2023,2023,annual,90.7,%,observed,not_specified,E0324,27,10,90.7,2023,catalogue_title_differs,Phu Tho
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2024,2024,annual,92.2,%,observed,preliminary,E0324,27,11,92.2,Prel. 2024,catalogue_title_differs,Phu Tho
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2015,2015,annual,94.8,%,observed,not_specified,E0324,28,2,94.8,2015,catalogue_title_differs,Dien Bien
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2016,2016,annual,96.8,%,observed,not_specified,E0324,28,3,96.8,2016,catalogue_title_differs,Dien Bien
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2017,2017,annual,97.5,%,observed,not_specified,E0324,28,4,97.5,2017,catalogue_title_differs,Dien Bien
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2018,2018,annual,97.7,%,observed,not_specified,E0324,28,5,97.7,2018,catalogue_title_differs,Dien Bien
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2019,2019,annual,97.1,%,observed,not_specified,E0324,28,6,97.1,2019,catalogue_title_differs,Dien Bien
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2020,2020,annual,97.0,%,observed,not_specified,E0324,28,7,97.0,2020,catalogue_title_differs,Dien Bien
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2021,2021,annual,95.6,%,observed,not_specified,E0324,28,8,95.6,2021,catalogue_title_differs,Dien Bien
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2022,2022,annual,95.0,%,observed,not_specified,E0324,28,9,95.0,2022,catalogue_title_differs,Dien Bien
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2023,2023,annual,95.8,%,observed,not_specified,E0324,28,10,95.8,2023,catalogue_title_differs,Dien Bien
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2024,2024,annual,95.3,%,observed,preliminary,E0324,28,11,95.3,Prel. 2024,catalogue_title_differs,Dien Bien
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2015,2015,annual,92.9,%,observed,not_specified,E0324,29,2,92.9,2015,catalogue_title_differs,Lai Chau
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2016,2016,annual,93.3,%,observed,not_specified,E0324,29,3,93.3,2016,catalogue_title_differs,Lai Chau
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2017,2017,annual,93.7,%,observed,not_specified,E0324,29,4,93.7,2017,catalogue_title_differs,Lai Chau
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2018,2018,annual,95.0,%,observed,not_specified,E0324,29,5,95.0,2018,catalogue_title_differs,Lai Chau
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2019,2019,annual,94.4,%,observed,not_specified,E0324,29,6,94.4,2019,catalogue_title_differs,Lai Chau
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2020,2020,annual,94.7,%,observed,not_specified,E0324,29,7,94.7,2020,catalogue_title_differs,Lai Chau
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2021,2021,annual,93.8,%,observed,not_specified,E0324,29,8,93.8,2021,catalogue_title_differs,Lai Chau
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2022,2022,annual,89.7,%,observed,not_specified,E0324,29,9,89.7,2022,catalogue_title_differs,Lai Chau
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2023,2023,annual,92.0,%,observed,not_specified,E0324,29,10,92.0,2023,catalogue_title_differs,Lai Chau
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2024,2024,annual,93.7,%,observed,preliminary,E0324,29,11,93.7,Prel. 2024,catalogue_title_differs,Lai Chau
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2015,2015,annual,92.3,%,observed,not_specified,E0324,30,2,92.3,2015,catalogue_title_differs,Son La
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2016,2016,annual,94.5,%,observed,not_specified,E0324,30,3,94.5,2016,catalogue_title_differs,Son La
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2017,2017,annual,95.9,%,observed,not_specified,E0324,30,4,95.9,2017,catalogue_title_differs,Son La
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2018,2018,annual,96.2,%,observed,not_specified,E0324,30,5,96.2,2018,catalogue_title_differs,Son La
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2019,2019,annual,94.8,%,observed,not_specified,E0324,30,6,94.8,2019,catalogue_title_differs,Son La
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2020,2020,annual,94.2,%,observed,not_specified,E0324,30,7,94.2,2020,catalogue_title_differs,Son La
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2021,2021,annual,90.4,%,observed,not_specified,E0324,30,8,90.4,2021,catalogue_title_differs,Son La
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2022,2022,annual,90.8,%,observed,not_specified,E0324,30,9,90.8,2022,catalogue_title_differs,Son La
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2023,2023,annual,92.7,%,observed,not_specified,E0324,30,10,92.7,2023,catalogue_title_differs,Son La
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_SONLA,Son La,source_reported_unharmonized,2024,2024,annual,92.7,%,observed,preliminary,E0324,30,11,92.7,Prel. 2024,catalogue_title_differs,Son La
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2015,2015,annual,86.8,%,observed,not_specified,E0324,31,2,86.8,2015,catalogue_title_differs,Hoa Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2016,2016,annual,83.0,%,observed,not_specified,E0324,31,3,83.0,2016,catalogue_title_differs,Hoa Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2017,2017,annual,96.6,%,observed,not_specified,E0324,31,4,96.6,2017,catalogue_title_differs,Hoa Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2018,2018,annual,95.7,%,observed,not_specified,E0324,31,5,95.7,2018,catalogue_title_differs,Hoa Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2019,2019,annual,93.8,%,observed,not_specified,E0324,31,6,93.8,2019,catalogue_title_differs,Hoa Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2020,2020,annual,94.5,%,observed,not_specified,E0324,31,7,94.5,2020,catalogue_title_differs,Hoa Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2021,2021,annual,94.5,%,observed,not_specified,E0324,31,8,94.5,2021,catalogue_title_differs,Hoa Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2022,2022,annual,93.6,%,observed,not_specified,E0324,31,9,93.6,2022,catalogue_title_differs,Hoa Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2023,2023,annual,95.5,%,observed,not_specified,E0324,31,10,95.5,2023,catalogue_title_differs,Hoa Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2024,2024,annual,94.6,%,observed,preliminary,E0324,31,11,94.6,Prel. 2024,catalogue_title_differs,Hoa Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2015,2015,annual,73.7,%,observed,not_specified,E0324,33,2,73.7,2015,catalogue_title_differs,Thanh Hoa
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2016,2016,annual,81.8,%,observed,not_specified,E0324,33,3,81.8,2016,catalogue_title_differs,Thanh Hoa
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2017,2017,annual,86.4,%,observed,not_specified,E0324,33,4,86.4,2017,catalogue_title_differs,Thanh Hoa
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2018,2018,annual,86.1,%,observed,not_specified,E0324,33,5,86.1,2018,catalogue_title_differs,Thanh Hoa
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2019,2019,annual,86.3,%,observed,not_specified,E0324,33,6,86.3,2019,catalogue_title_differs,Thanh Hoa
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2020,2020,annual,87.3,%,observed,not_specified,E0324,33,7,87.3,2020,catalogue_title_differs,Thanh Hoa
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2021,2021,annual,87.8,%,observed,not_specified,E0324,33,8,87.8,2021,catalogue_title_differs,Thanh Hoa
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2022,2022,annual,89.2,%,observed,not_specified,E0324,33,9,89.2,2022,catalogue_title_differs,Thanh Hoa
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2023,2023,annual,91.9,%,observed,not_specified,E0324,33,10,91.9,2023,catalogue_title_differs,Thanh Hoa
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2024,2024,annual,92.6,%,observed,preliminary,E0324,33,11,92.6,Prel. 2024,catalogue_title_differs,Thanh Hoa
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2015,2015,annual,72.6,%,observed,not_specified,E0324,34,2,72.6,2015,catalogue_title_differs,Nghe An
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2016,2016,annual,76.4,%,observed,not_specified,E0324,34,3,76.4,2016,catalogue_title_differs,Nghe An
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2017,2017,annual,82.9,%,observed,not_specified,E0324,34,4,82.9,2017,catalogue_title_differs,Nghe An
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2018,2018,annual,84.3,%,observed,not_specified,E0324,34,5,84.3,2018,catalogue_title_differs,Nghe An
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2019,2019,annual,83.5,%,observed,not_specified,E0324,34,6,83.5,2019,catalogue_title_differs,Nghe An
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2020,2020,annual,85.0,%,observed,not_specified,E0324,34,7,85.0,2020,catalogue_title_differs,Nghe An
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2021,2021,annual,84.9,%,observed,not_specified,E0324,34,8,84.9,2021,catalogue_title_differs,Nghe An
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2022,2022,annual,86.8,%,observed,not_specified,E0324,34,9,86.8,2022,catalogue_title_differs,Nghe An
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2023,2023,annual,89.6,%,observed,not_specified,E0324,34,10,89.6,2023,catalogue_title_differs,Nghe An
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2024,2024,annual,90.4,%,observed,preliminary,E0324,34,11,90.4,Prel. 2024,catalogue_title_differs,Nghe An
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2015,2015,annual,83.0,%,observed,not_specified,E0324,35,2,83.0,2015,catalogue_title_differs,Ha Tinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2016,2016,annual,86.2,%,observed,not_specified,E0324,35,3,86.2,2016,catalogue_title_differs,Ha Tinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2017,2017,annual,89.5,%,observed,not_specified,E0324,35,4,89.5,2017,catalogue_title_differs,Ha Tinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2018,2018,annual,89.2,%,observed,not_specified,E0324,35,5,89.2,2018,catalogue_title_differs,Ha Tinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2019,2019,annual,86.0,%,observed,not_specified,E0324,35,6,86.0,2019,catalogue_title_differs,Ha Tinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2020,2020,annual,85.8,%,observed,not_specified,E0324,35,7,85.8,2020,catalogue_title_differs,Ha Tinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2021,2021,annual,87.1,%,observed,not_specified,E0324,35,8,87.1,2021,catalogue_title_differs,Ha Tinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2022,2022,annual,87.8,%,observed,not_specified,E0324,35,9,87.8,2022,catalogue_title_differs,Ha Tinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2023,2023,annual,89.0,%,observed,not_specified,E0324,35,10,89.0,2023,catalogue_title_differs,Ha Tinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2024,2024,annual,88.0,%,observed,preliminary,E0324,35,11,88.0,Prel. 2024,catalogue_title_differs,Ha Tinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2015,2015,annual,79.6,%,observed,not_specified,E0324,36,2,79.6,2015,catalogue_title_differs,Quang Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2016,2016,annual,86.9,%,observed,not_specified,E0324,36,3,86.9,2016,catalogue_title_differs,Quang Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2017,2017,annual,94.3,%,observed,not_specified,E0324,36,4,94.3,2017,catalogue_title_differs,Quang Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2018,2018,annual,93.7,%,observed,not_specified,E0324,36,5,93.7,2018,catalogue_title_differs,Quang Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2019,2019,annual,87.0,%,observed,not_specified,E0324,36,6,87.0,2019,catalogue_title_differs,Quang Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2020,2020,annual,87.6,%,observed,not_specified,E0324,36,7,87.6,2020,catalogue_title_differs,Quang Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2021,2021,annual,88.5,%,observed,not_specified,E0324,36,8,88.5,2021,catalogue_title_differs,Quang Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2022,2022,annual,89.3,%,observed,not_specified,E0324,36,9,89.3,2022,catalogue_title_differs,Quang Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2023,2023,annual,91.7,%,observed,not_specified,E0324,36,10,91.7,2023,catalogue_title_differs,Quang Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2024,2024,annual,92.7,%,observed,preliminary,E0324,36,11,92.7,Prel. 2024,catalogue_title_differs,Quang Binh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2015,2015,annual,77.4,%,observed,not_specified,E0324,37,2,77.4,2015,catalogue_title_differs,Quang Tri
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2016,2016,annual,85.6,%,observed,not_specified,E0324,37,3,85.6,2016,catalogue_title_differs,Quang Tri
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2017,2017,annual,92.6,%,observed,not_specified,E0324,37,4,92.6,2017,catalogue_title_differs,Quang Tri
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2018,2018,annual,93.3,%,observed,not_specified,E0324,37,5,93.3,2018,catalogue_title_differs,Quang Tri
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2019,2019,annual,93.4,%,observed,not_specified,E0324,37,6,93.4,2019,catalogue_title_differs,Quang Tri
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2020,2020,annual,95.3,%,observed,not_specified,E0324,37,7,95.3,2020,catalogue_title_differs,Quang Tri
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2021,2021,annual,96.0,%,observed,not_specified,E0324,37,8,96.0,2021,catalogue_title_differs,Quang Tri
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2022,2022,annual,95.4,%,observed,not_specified,E0324,37,9,95.4,2022,catalogue_title_differs,Quang Tri
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2023,2023,annual,96.8,%,observed,not_specified,E0324,37,10,96.8,2023,catalogue_title_differs,Quang Tri
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2024,2024,annual,96.2,%,observed,preliminary,E0324,37,11,96.2,Prel. 2024,catalogue_title_differs,Quang Tri
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THUATHIENHUE,Thua Thien-Hue,source_reported_unharmonized,2015,2015,annual,91.9,%,observed,not_specified,E0324,38,2,91.9,2015,catalogue_title_differs,Thua Thien-Hue
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THUATHIENHUE,Thua Thien-Hue,source_reported_unharmonized,2016,2016,annual,97.4,%,observed,not_specified,E0324,38,3,97.4,2016,catalogue_title_differs,Thua Thien-Hue
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THUATHIENHUE,Thua Thien-Hue,source_reported_unharmonized,2017,2017,annual,99.7,%,observed,not_specified,E0324,38,4,99.7,2017,catalogue_title_differs,Thua Thien-Hue
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THUATHIENHUE,Thua Thien-Hue,source_reported_unharmonized,2018,2018,annual,101.9,%,observed,not_specified,E0324,38,5,101.9,2018,catalogue_title_differs,Thua Thien-Hue
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THUATHIENHUE,Thua Thien-Hue,source_reported_unharmonized,2019,2019,annual,101.7,%,observed,not_specified,E0324,38,6,101.7,2019,catalogue_title_differs,Thua Thien-Hue
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THUATHIENHUE,Thua Thien-Hue,source_reported_unharmonized,2020,2020,annual,101.2,%,observed,not_specified,E0324,38,7,101.2,2020,catalogue_title_differs,Thua Thien-Hue
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THUATHIENHUE,Thua Thien-Hue,source_reported_unharmonized,2021,2021,annual,100.4,%,observed,not_specified,E0324,38,8,100.4,2021,catalogue_title_differs,Thua Thien-Hue
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THUATHIENHUE,Thua Thien-Hue,source_reported_unharmonized,2022,2022,annual,99.4,%,observed,not_specified,E0324,38,9,99.4,2022,catalogue_title_differs,Thua Thien-Hue
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THUATHIENHUE,Thua Thien-Hue,source_reported_unharmonized,2023,2023,annual,99.9,%,observed,not_specified,E0324,38,10,99.9,2023,catalogue_title_differs,Thua Thien-Hue
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_THUATHIENHUE,Thua Thien-Hue,source_reported_unharmonized,2024,2024,annual,99.3,%,observed,preliminary,E0324,38,11,99.3,Prel. 2024,catalogue_title_differs,Thua Thien-Hue
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2015,2015,annual,82.8,%,observed,not_specified,E0324,39,2,82.8,2015,catalogue_title_differs,Da Nang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2016,2016,annual,88.0,%,observed,not_specified,E0324,39,3,88.0,2016,catalogue_title_differs,Da Nang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2017,2017,annual,91.5,%,observed,not_specified,E0324,39,4,91.5,2017,catalogue_title_differs,Da Nang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2018,2018,annual,91.6,%,observed,not_specified,E0324,39,5,91.6,2018,catalogue_title_differs,Da Nang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2019,2019,annual,91.6,%,observed,not_specified,E0324,39,6,91.6,2019,catalogue_title_differs,Da Nang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2020,2020,annual,91.0,%,observed,not_specified,E0324,39,7,91.0,2020,catalogue_title_differs,Da Nang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2021,2021,annual,91.2,%,observed,not_specified,E0324,39,8,91.2,2021,catalogue_title_differs,Da Nang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2022,2022,annual,89.9,%,observed,not_specified,E0324,39,9,89.9,2022,catalogue_title_differs,Da Nang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2023,2023,annual,89.9,%,observed,not_specified,E0324,39,10,89.9,2023,catalogue_title_differs,Da Nang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2024,2024,annual,90.5,%,observed,preliminary,E0324,39,11,90.5,Prel. 2024,catalogue_title_differs,Da Nang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2015,2015,annual,87.4,%,observed,not_specified,E0324,40,2,87.4,2015,catalogue_title_differs,Quang  Nam
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2016,2016,annual,92.6,%,observed,not_specified,E0324,40,3,92.6,2016,catalogue_title_differs,Quang  Nam
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2017,2017,annual,93.6,%,observed,not_specified,E0324,40,4,93.6,2017,catalogue_title_differs,Quang  Nam
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2018,2018,annual,93.5,%,observed,not_specified,E0324,40,5,93.5,2018,catalogue_title_differs,Quang  Nam
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2019,2019,annual,94.5,%,observed,not_specified,E0324,40,6,94.5,2019,catalogue_title_differs,Quang  Nam
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2020,2020,annual,95.1,%,observed,not_specified,E0324,40,7,95.1,2020,catalogue_title_differs,Quang  Nam
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2021,2021,annual,95.6,%,observed,not_specified,E0324,40,8,95.6,2021,catalogue_title_differs,Quang  Nam
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2022,2022,annual,96.1,%,observed,not_specified,E0324,40,9,96.1,2022,catalogue_title_differs,Quang  Nam
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2023,2023,annual,96.8,%,observed,not_specified,E0324,40,10,96.8,2023,catalogue_title_differs,Quang  Nam
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2024,2024,annual,96.5,%,observed,preliminary,E0324,40,11,96.5,Prel. 2024,catalogue_title_differs,Quang  Nam
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2015,2015,annual,80.1,%,observed,not_specified,E0324,41,2,80.1,2015,catalogue_title_differs,Quang  Ngai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2016,2016,annual,85.6,%,observed,not_specified,E0324,41,3,85.6,2016,catalogue_title_differs,Quang  Ngai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2017,2017,annual,92.3,%,observed,not_specified,E0324,41,4,92.3,2017,catalogue_title_differs,Quang  Ngai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2018,2018,annual,93.3,%,observed,not_specified,E0324,41,5,93.3,2018,catalogue_title_differs,Quang  Ngai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2019,2019,annual,94.7,%,observed,not_specified,E0324,41,6,94.7,2019,catalogue_title_differs,Quang  Ngai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2020,2020,annual,95.9,%,observed,not_specified,E0324,41,7,95.9,2020,catalogue_title_differs,Quang  Ngai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2021,2021,annual,95.9,%,observed,not_specified,E0324,41,8,95.9,2021,catalogue_title_differs,Quang  Ngai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2022,2022,annual,94.1,%,observed,not_specified,E0324,41,9,94.1,2022,catalogue_title_differs,Quang  Ngai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2023,2023,annual,95.0,%,observed,not_specified,E0324,41,10,95.0,2023,catalogue_title_differs,Quang  Ngai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2024,2024,annual,95.1,%,observed,preliminary,E0324,41,11,95.1,Prel. 2024,catalogue_title_differs,Quang  Ngai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2015,2015,annual,77.4,%,observed,not_specified,E0324,42,2,77.4,2015,catalogue_title_differs,Binh Dinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2016,2016,annual,86.1,%,observed,not_specified,E0324,42,3,86.1,2016,catalogue_title_differs,Binh Dinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2017,2017,annual,91.2,%,observed,not_specified,E0324,42,4,91.2,2017,catalogue_title_differs,Binh Dinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2018,2018,annual,93.3,%,observed,not_specified,E0324,42,5,93.3,2018,catalogue_title_differs,Binh Dinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2019,2019,annual,94.5,%,observed,not_specified,E0324,42,6,94.5,2019,catalogue_title_differs,Binh Dinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2020,2020,annual,96.0,%,observed,not_specified,E0324,42,7,96.0,2020,catalogue_title_differs,Binh Dinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2021,2021,annual,95.3,%,observed,not_specified,E0324,42,8,95.3,2021,catalogue_title_differs,Binh Dinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2022,2022,annual,96.0,%,observed,not_specified,E0324,42,9,96.0,2022,catalogue_title_differs,Binh Dinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2023,2023,annual,96.8,%,observed,not_specified,E0324,42,10,96.8,2023,catalogue_title_differs,Binh Dinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2024,2024,annual,96.6,%,observed,preliminary,E0324,42,11,96.6,Prel. 2024,catalogue_title_differs,Binh Dinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2015,2015,annual,77.6,%,observed,not_specified,E0324,43,2,77.6,2015,catalogue_title_differs,Phu Yen
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2016,2016,annual,84.0,%,observed,not_specified,E0324,43,3,84.0,2016,catalogue_title_differs,Phu Yen
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2017,2017,annual,87.3,%,observed,not_specified,E0324,43,4,87.3,2017,catalogue_title_differs,Phu Yen
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2018,2018,annual,88.5,%,observed,not_specified,E0324,43,5,88.5,2018,catalogue_title_differs,Phu Yen
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2019,2019,annual,90.0,%,observed,not_specified,E0324,43,6,90.0,2019,catalogue_title_differs,Phu Yen
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2020,2020,annual,91.9,%,observed,not_specified,E0324,43,7,91.9,2020,catalogue_title_differs,Phu Yen
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2021,2021,annual,92.4,%,observed,not_specified,E0324,43,8,92.4,2021,catalogue_title_differs,Phu Yen
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2022,2022,annual,92.6,%,observed,not_specified,E0324,43,9,92.6,2022,catalogue_title_differs,Phu Yen
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2023,2023,annual,94.2,%,observed,not_specified,E0324,43,10,94.2,2023,catalogue_title_differs,Phu Yen
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2024,2024,annual,93.9,%,observed,preliminary,E0324,43,11,93.9,Prel. 2024,catalogue_title_differs,Phu Yen
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2015,2015,annual,70.2,%,observed,not_specified,E0324,44,2,70.2,2015,catalogue_title_differs,Khanh  Hoa
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2016,2016,annual,78.2,%,observed,not_specified,E0324,44,3,78.2,2016,catalogue_title_differs,Khanh  Hoa
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2017,2017,annual,85.0,%,observed,not_specified,E0324,44,4,85.0,2017,catalogue_title_differs,Khanh  Hoa
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2018,2018,annual,90.1,%,observed,not_specified,E0324,44,5,90.1,2018,catalogue_title_differs,Khanh  Hoa
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2019,2019,annual,93.8,%,observed,not_specified,E0324,44,6,93.8,2019,catalogue_title_differs,Khanh  Hoa
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2020,2020,annual,92.6,%,observed,not_specified,E0324,44,7,92.6,2020,catalogue_title_differs,Khanh  Hoa
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2021,2021,annual,93.6,%,observed,not_specified,E0324,44,8,93.6,2021,catalogue_title_differs,Khanh  Hoa
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2022,2022,annual,93.2,%,observed,not_specified,E0324,44,9,93.2,2022,catalogue_title_differs,Khanh  Hoa
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2023,2023,annual,94.9,%,observed,not_specified,E0324,44,10,94.9,2023,catalogue_title_differs,Khanh  Hoa
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2024,2024,annual,95.1,%,observed,preliminary,E0324,44,11,95.1,Prel. 2024,catalogue_title_differs,Khanh  Hoa
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2015,2015,annual,70.1,%,observed,not_specified,E0324,45,2,70.1,2015,catalogue_title_differs,Ninh  Thuan
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2016,2016,annual,81.0,%,observed,not_specified,E0324,45,3,81.0,2016,catalogue_title_differs,Ninh  Thuan
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2017,2017,annual,89.3,%,observed,not_specified,E0324,45,4,89.3,2017,catalogue_title_differs,Ninh  Thuan
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2018,2018,annual,87.8,%,observed,not_specified,E0324,45,5,87.8,2018,catalogue_title_differs,Ninh  Thuan
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2019,2019,annual,92.5,%,observed,not_specified,E0324,45,6,92.5,2019,catalogue_title_differs,Ninh  Thuan
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2020,2020,annual,94.0,%,observed,not_specified,E0324,45,7,94.0,2020,catalogue_title_differs,Ninh  Thuan
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2021,2021,annual,89.5,%,observed,not_specified,E0324,45,8,89.5,2021,catalogue_title_differs,Ninh  Thuan
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2022,2022,annual,91.6,%,observed,not_specified,E0324,45,9,91.6,2022,catalogue_title_differs,Ninh  Thuan
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2023,2023,annual,94.5,%,observed,not_specified,E0324,45,10,94.5,2023,catalogue_title_differs,Ninh  Thuan
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2024,2024,annual,93.1,%,observed,preliminary,E0324,45,11,93.1,Prel. 2024,catalogue_title_differs,Ninh  Thuan
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2015,2015,annual,60.4,%,observed,not_specified,E0324,46,2,60.4,2015,catalogue_title_differs,Binh Thuan
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2016,2016,annual,67.9,%,observed,not_specified,E0324,46,3,67.9,2016,catalogue_title_differs,Binh Thuan
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2017,2017,annual,77.3,%,observed,not_specified,E0324,46,4,77.3,2017,catalogue_title_differs,Binh Thuan
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2018,2018,annual,78.8,%,observed,not_specified,E0324,46,5,78.8,2018,catalogue_title_differs,Binh Thuan
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2019,2019,annual,80.2,%,observed,not_specified,E0324,46,6,80.2,2019,catalogue_title_differs,Binh Thuan
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2020,2020,annual,82.2,%,observed,not_specified,E0324,46,7,82.2,2020,catalogue_title_differs,Binh Thuan
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2021,2021,annual,85.2,%,observed,not_specified,E0324,46,8,85.2,2021,catalogue_title_differs,Binh Thuan
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2022,2022,annual,88.9,%,observed,not_specified,E0324,46,9,88.9,2022,catalogue_title_differs,Binh Thuan
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2023,2023,annual,90.7,%,observed,not_specified,E0324,46,10,90.7,2023,catalogue_title_differs,Binh Thuan
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2024,2024,annual,92.1,%,observed,preliminary,E0324,46,11,92.1,Prel. 2024,catalogue_title_differs,Binh Thuan
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2015,2015,annual,82.9,%,observed,not_specified,E0324,48,2,82.9,2015,catalogue_title_differs,Kon Tum
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2016,2016,annual,87.7,%,observed,not_specified,E0324,48,3,87.7,2016,catalogue_title_differs,Kon Tum
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2017,2017,annual,87.3,%,observed,not_specified,E0324,48,4,87.3,2017,catalogue_title_differs,Kon Tum
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2018,2018,annual,88.8,%,observed,not_specified,E0324,48,5,88.8,2018,catalogue_title_differs,Kon Tum
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2019,2019,annual,87.5,%,observed,not_specified,E0324,48,6,87.5,2019,catalogue_title_differs,Kon Tum
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2020,2020,annual,89.3,%,observed,not_specified,E0324,48,7,89.3,2020,catalogue_title_differs,Kon Tum
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2021,2021,annual,89.0,%,observed,not_specified,E0324,48,8,89.0,2021,catalogue_title_differs,Kon Tum
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2022,2022,annual,87.3,%,observed,not_specified,E0324,48,9,87.3,2022,catalogue_title_differs,Kon Tum
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2023,2023,annual,89.0,%,observed,not_specified,E0324,48,10,89.0,2023,catalogue_title_differs,Kon Tum
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2024,2024,annual,89.6,%,observed,preliminary,E0324,48,11,89.6,Prel. 2024,catalogue_title_differs,Kon Tum
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2015,2015,annual,73.3,%,observed,not_specified,E0324,49,2,73.3,2015,catalogue_title_differs,Gia Lai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2016,2016,annual,81.7,%,observed,not_specified,E0324,49,3,81.7,2016,catalogue_title_differs,Gia Lai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2017,2017,annual,86.9,%,observed,not_specified,E0324,49,4,86.9,2017,catalogue_title_differs,Gia Lai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2018,2018,annual,87.1,%,observed,not_specified,E0324,49,5,87.1,2018,catalogue_title_differs,Gia Lai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2019,2019,annual,86.7,%,observed,not_specified,E0324,49,6,86.7,2019,catalogue_title_differs,Gia Lai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2020,2020,annual,88.3,%,observed,not_specified,E0324,49,7,88.3,2020,catalogue_title_differs,Gia Lai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2021,2021,annual,78.3,%,observed,not_specified,E0324,49,8,78.3,2021,catalogue_title_differs,Gia Lai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2022,2022,annual,83.0,%,observed,not_specified,E0324,49,9,83.0,2022,catalogue_title_differs,Gia Lai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2023,2023,annual,86.3,%,observed,not_specified,E0324,49,10,86.3,2023,catalogue_title_differs,Gia Lai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2024,2024,annual,87.7,%,observed,preliminary,E0324,49,11,87.7,Prel. 2024,catalogue_title_differs,Gia Lai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2015,2015,annual,73.9,%,observed,not_specified,E0324,50,2,73.9,2015,catalogue_title_differs,Dak Lak
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2016,2016,annual,77.2,%,observed,not_specified,E0324,50,3,77.2,2016,catalogue_title_differs,Dak Lak
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2017,2017,annual,82.1,%,observed,not_specified,E0324,50,4,82.1,2017,catalogue_title_differs,Dak Lak
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2018,2018,annual,86.5,%,observed,not_specified,E0324,50,5,86.5,2018,catalogue_title_differs,Dak Lak
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2019,2019,annual,87.1,%,observed,not_specified,E0324,50,6,87.1,2019,catalogue_title_differs,Dak Lak
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2020,2020,annual,88.7,%,observed,not_specified,E0324,50,7,88.7,2020,catalogue_title_differs,Dak Lak
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2021,2021,annual,80.9,%,observed,not_specified,E0324,50,8,80.9,2021,catalogue_title_differs,Dak Lak
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2022,2022,annual,86.5,%,observed,not_specified,E0324,50,9,86.5,2022,catalogue_title_differs,Dak Lak
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2023,2023,annual,89.9,%,observed,not_specified,E0324,50,10,89.9,2023,catalogue_title_differs,Dak Lak
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2024,2024,annual,91.1,%,observed,preliminary,E0324,50,11,91.1,Prel. 2024,catalogue_title_differs,Dak Lak
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2015,2015,annual,71.1,%,observed,not_specified,E0324,51,2,71.1,2015,catalogue_title_differs,Dak Nong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2016,2016,annual,78.8,%,observed,not_specified,E0324,51,3,78.8,2016,catalogue_title_differs,Dak Nong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2017,2017,annual,81.2,%,observed,not_specified,E0324,51,4,81.2,2017,catalogue_title_differs,Dak Nong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2018,2018,annual,85.7,%,observed,not_specified,E0324,51,5,85.7,2018,catalogue_title_differs,Dak Nong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2019,2019,annual,87.3,%,observed,not_specified,E0324,51,6,87.3,2019,catalogue_title_differs,Dak Nong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2020,2020,annual,87.4,%,observed,not_specified,E0324,51,7,87.4,2020,catalogue_title_differs,Dak Nong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2021,2021,annual,84.7,%,observed,not_specified,E0324,51,8,84.7,2021,catalogue_title_differs,Dak Nong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2022,2022,annual,84.6,%,observed,not_specified,E0324,51,9,84.6,2022,catalogue_title_differs,Dak Nong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2023,2023,annual,87.8,%,observed,not_specified,E0324,51,10,87.8,2023,catalogue_title_differs,Dak Nong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2024,2024,annual,89.0,%,observed,preliminary,E0324,51,11,89.0,Prel. 2024,catalogue_title_differs,Dak Nong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2015,2015,annual,64.5,%,observed,not_specified,E0324,52,2,64.5,2015,catalogue_title_differs,Lam Dong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2016,2016,annual,72.1,%,observed,not_specified,E0324,52,3,72.1,2016,catalogue_title_differs,Lam Dong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2017,2017,annual,79.9,%,observed,not_specified,E0324,52,4,79.9,2017,catalogue_title_differs,Lam Dong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2018,2018,annual,83.1,%,observed,not_specified,E0324,52,5,83.1,2018,catalogue_title_differs,Lam Dong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2019,2019,annual,86.3,%,observed,not_specified,E0324,52,6,86.3,2019,catalogue_title_differs,Lam Dong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2020,2020,annual,88.9,%,observed,not_specified,E0324,52,7,88.9,2020,catalogue_title_differs,Lam Dong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2021,2021,annual,91.2,%,observed,not_specified,E0324,52,8,91.2,2021,catalogue_title_differs,Lam Dong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2022,2022,annual,92.1,%,observed,not_specified,E0324,52,9,92.1,2022,catalogue_title_differs,Lam Dong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2023,2023,annual,92.4,%,observed,not_specified,E0324,52,10,92.4,2023,catalogue_title_differs,Lam Dong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2024,2024,annual,93.2,%,observed,preliminary,E0324,52,11,93.2,Prel. 2024,catalogue_title_differs,Lam Dong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2015,2015,annual,63.9,%,observed,not_specified,E0324,54,2,63.9,2015,catalogue_title_differs,Binh Phuoc
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2016,2016,annual,69.5,%,observed,not_specified,E0324,54,3,69.5,2016,catalogue_title_differs,Binh Phuoc
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2017,2017,annual,79.2,%,observed,not_specified,E0324,54,4,79.2,2017,catalogue_title_differs,Binh Phuoc
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2018,2018,annual,82.4,%,observed,not_specified,E0324,54,5,82.4,2018,catalogue_title_differs,Binh Phuoc
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2019,2019,annual,83.9,%,observed,not_specified,E0324,54,6,83.9,2019,catalogue_title_differs,Binh Phuoc
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2020,2020,annual,87.8,%,observed,not_specified,E0324,54,7,87.8,2020,catalogue_title_differs,Binh Phuoc
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2021,2021,annual,85.2,%,observed,not_specified,E0324,54,8,85.2,2021,catalogue_title_differs,Binh Phuoc
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2022,2022,annual,89.5,%,observed,not_specified,E0324,54,9,89.5,2022,catalogue_title_differs,Binh Phuoc
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2023,2023,annual,91.5,%,observed,not_specified,E0324,54,10,91.5,2023,catalogue_title_differs,Binh Phuoc
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2024,2024,annual,92.2,%,observed,preliminary,E0324,54,11,92.2,Prel. 2024,catalogue_title_differs,Binh Phuoc
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2015,2015,annual,60.7,%,observed,not_specified,E0324,55,2,60.7,2015,catalogue_title_differs,Tay Ninh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2016,2016,annual,66.9,%,observed,not_specified,E0324,55,3,66.9,2016,catalogue_title_differs,Tay Ninh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2017,2017,annual,75.3,%,observed,not_specified,E0324,55,4,75.3,2017,catalogue_title_differs,Tay Ninh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2018,2018,annual,77.8,%,observed,not_specified,E0324,55,5,77.8,2018,catalogue_title_differs,Tay Ninh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2019,2019,annual,80.0,%,observed,not_specified,E0324,55,6,80.0,2019,catalogue_title_differs,Tay Ninh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2020,2020,annual,82.4,%,observed,not_specified,E0324,55,7,82.4,2020,catalogue_title_differs,Tay Ninh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2021,2021,annual,82.8,%,observed,not_specified,E0324,55,8,82.8,2021,catalogue_title_differs,Tay Ninh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2022,2022,annual,87.4,%,observed,not_specified,E0324,55,9,87.4,2022,catalogue_title_differs,Tay Ninh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2023,2023,annual,90.1,%,observed,not_specified,E0324,55,10,90.1,2023,catalogue_title_differs,Tay Ninh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2024,2024,annual,91.6,%,observed,preliminary,E0324,55,11,91.6,Prel. 2024,catalogue_title_differs,Tay Ninh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2015,2015,annual,72.3,%,observed,not_specified,E0324,56,2,72.3,2015,catalogue_title_differs,Binh  Duong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2016,2016,annual,74.0,%,observed,not_specified,E0324,56,3,74.0,2016,catalogue_title_differs,Binh  Duong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2017,2017,annual,79.7,%,observed,not_specified,E0324,56,4,79.7,2017,catalogue_title_differs,Binh  Duong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2018,2018,annual,81.1,%,observed,not_specified,E0324,56,5,81.1,2018,catalogue_title_differs,Binh  Duong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2019,2019,annual,82.4,%,observed,not_specified,E0324,56,6,82.4,2019,catalogue_title_differs,Binh  Duong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2020,2020,annual,82.2,%,observed,not_specified,E0324,56,7,82.2,2020,catalogue_title_differs,Binh  Duong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2021,2021,annual,85.2,%,observed,not_specified,E0324,56,8,85.2,2021,catalogue_title_differs,Binh  Duong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2022,2022,annual,88.6,%,observed,not_specified,E0324,56,9,88.6,2022,catalogue_title_differs,Binh  Duong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2023,2023,annual,90.3,%,observed,not_specified,E0324,56,10,90.3,2023,catalogue_title_differs,Binh  Duong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2024,2024,annual,91.7,%,observed,preliminary,E0324,56,11,91.7,Prel. 2024,catalogue_title_differs,Binh  Duong
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2015,2015,annual,68.4,%,observed,not_specified,E0324,57,2,68.4,2015,catalogue_title_differs,Dong Nai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2016,2016,annual,74.7,%,observed,not_specified,E0324,57,3,74.7,2016,catalogue_title_differs,Dong Nai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2017,2017,annual,79.6,%,observed,not_specified,E0324,57,4,79.6,2017,catalogue_title_differs,Dong Nai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2018,2018,annual,81.5,%,observed,not_specified,E0324,57,5,81.5,2018,catalogue_title_differs,Dong Nai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2019,2019,annual,82.8,%,observed,not_specified,E0324,57,6,82.8,2019,catalogue_title_differs,Dong Nai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2020,2020,annual,81.9,%,observed,not_specified,E0324,57,7,81.9,2020,catalogue_title_differs,Dong Nai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2021,2021,annual,86.0,%,observed,not_specified,E0324,57,8,86.0,2021,catalogue_title_differs,Dong Nai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2022,2022,annual,88.0,%,observed,not_specified,E0324,57,9,88.0,2022,catalogue_title_differs,Dong Nai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2023,2023,annual,90.3,%,observed,not_specified,E0324,57,10,90.3,2023,catalogue_title_differs,Dong Nai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2024,2024,annual,91.5,%,observed,preliminary,E0324,57,11,91.5,Prel. 2024,catalogue_title_differs,Dong Nai
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2015,2015,annual,69.7,%,observed,not_specified,E0324,58,2,69.7,2015,catalogue_title_differs,Ba Ria - Vung Tau
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2016,2016,annual,77.3,%,observed,not_specified,E0324,58,3,77.3,2016,catalogue_title_differs,Ba Ria - Vung Tau
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2017,2017,annual,84.1,%,observed,not_specified,E0324,58,4,84.1,2017,catalogue_title_differs,Ba Ria - Vung Tau
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2018,2018,annual,81.5,%,observed,not_specified,E0324,58,5,81.5,2018,catalogue_title_differs,Ba Ria - Vung Tau
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2019,2019,annual,83.5,%,observed,not_specified,E0324,58,6,83.5,2019,catalogue_title_differs,Ba Ria - Vung Tau
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2020,2020,annual,86.1,%,observed,not_specified,E0324,58,7,86.1,2020,catalogue_title_differs,Ba Ria - Vung Tau
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2021,2021,annual,86.1,%,observed,not_specified,E0324,58,8,86.1,2021,catalogue_title_differs,Ba Ria - Vung Tau
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2022,2022,annual,89.6,%,observed,not_specified,E0324,58,9,89.6,2022,catalogue_title_differs,Ba Ria - Vung Tau
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2023,2023,annual,91.4,%,observed,not_specified,E0324,58,10,91.4,2023,catalogue_title_differs,Ba Ria - Vung Tau
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2024,2024,annual,93.4,%,observed,preliminary,E0324,58,11,93.4,Prel. 2024,catalogue_title_differs,Ba Ria - Vung Tau
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2015,2015,annual,67.9,%,observed,not_specified,E0324,59,2,67.9,2015,catalogue_title_differs,Ho Chi Minh city
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2016,2016,annual,75.1,%,observed,not_specified,E0324,59,3,75.1,2016,catalogue_title_differs,Ho Chi Minh city
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2017,2017,annual,79.3,%,observed,not_specified,E0324,59,4,79.3,2017,catalogue_title_differs,Ho Chi Minh city
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2018,2018,annual,80.5,%,observed,not_specified,E0324,59,5,80.5,2018,catalogue_title_differs,Ho Chi Minh city
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2019,2019,annual,83.1,%,observed,not_specified,E0324,59,6,83.1,2019,catalogue_title_differs,Ho Chi Minh city
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2020,2020,annual,85.6,%,observed,not_specified,E0324,59,7,85.6,2020,catalogue_title_differs,Ho Chi Minh city
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2021,2021,annual,88.9,%,observed,not_specified,E0324,59,8,88.9,2021,catalogue_title_differs,Ho Chi Minh city
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2022,2022,annual,90.9,%,observed,not_specified,E0324,59,9,90.9,2022,catalogue_title_differs,Ho Chi Minh city
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2023,2023,annual,92.2,%,observed,not_specified,E0324,59,10,92.2,2023,catalogue_title_differs,Ho Chi Minh city
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2024,2024,annual,93.6,%,observed,preliminary,E0324,59,11,93.6,Prel. 2024,catalogue_title_differs,Ho Chi Minh city
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2015,2015,annual,67.4,%,observed,not_specified,E0324,61,2,67.4,2015,catalogue_title_differs,Long An
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2016,2016,annual,72.5,%,observed,not_specified,E0324,61,3,72.5,2016,catalogue_title_differs,Long An
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2017,2017,annual,76.2,%,observed,not_specified,E0324,61,4,76.2,2017,catalogue_title_differs,Long An
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2018,2018,annual,79.9,%,observed,not_specified,E0324,61,5,79.9,2018,catalogue_title_differs,Long An
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2019,2019,annual,82.8,%,observed,not_specified,E0324,61,6,82.8,2019,catalogue_title_differs,Long An
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2020,2020,annual,85.4,%,observed,not_specified,E0324,61,7,85.4,2020,catalogue_title_differs,Long An
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2021,2021,annual,82.8,%,observed,not_specified,E0324,61,8,82.8,2021,catalogue_title_differs,Long An
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2022,2022,annual,86.7,%,observed,not_specified,E0324,61,9,86.7,2022,catalogue_title_differs,Long An
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2023,2023,annual,88.8,%,observed,not_specified,E0324,61,10,88.8,2023,catalogue_title_differs,Long An
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2024,2024,annual,90.2,%,observed,preliminary,E0324,61,11,90.2,Prel. 2024,catalogue_title_differs,Long An
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2015,2015,annual,65.7,%,observed,not_specified,E0324,62,2,65.7,2015,catalogue_title_differs,Tien Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2016,2016,annual,72.4,%,observed,not_specified,E0324,62,3,72.4,2016,catalogue_title_differs,Tien Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2017,2017,annual,79.9,%,observed,not_specified,E0324,62,4,79.9,2017,catalogue_title_differs,Tien Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2018,2018,annual,82.8,%,observed,not_specified,E0324,62,5,82.8,2018,catalogue_title_differs,Tien Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2019,2019,annual,84.4,%,observed,not_specified,E0324,62,6,84.4,2019,catalogue_title_differs,Tien Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2020,2020,annual,85.2,%,observed,not_specified,E0324,62,7,85.2,2020,catalogue_title_differs,Tien Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2021,2021,annual,85.6,%,observed,not_specified,E0324,62,8,85.6,2021,catalogue_title_differs,Tien Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2022,2022,annual,88.2,%,observed,not_specified,E0324,62,9,88.2,2022,catalogue_title_differs,Tien Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2023,2023,annual,90.0,%,observed,not_specified,E0324,62,10,90.0,2023,catalogue_title_differs,Tien Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2024,2024,annual,91.2,%,observed,preliminary,E0324,62,11,91.2,Prel. 2024,catalogue_title_differs,Tien Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2015,2015,annual,70.1,%,observed,not_specified,E0324,63,2,70.1,2015,catalogue_title_differs,Ben Tre
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2016,2016,annual,80.4,%,observed,not_specified,E0324,63,3,80.4,2016,catalogue_title_differs,Ben Tre
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2017,2017,annual,90.0,%,observed,not_specified,E0324,63,4,90.0,2017,catalogue_title_differs,Ben Tre
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2018,2018,annual,90.7,%,observed,not_specified,E0324,63,5,90.7,2018,catalogue_title_differs,Ben Tre
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2019,2019,annual,90.5,%,observed,not_specified,E0324,63,6,90.5,2019,catalogue_title_differs,Ben Tre
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2020,2020,annual,92.1,%,observed,not_specified,E0324,63,7,92.1,2020,catalogue_title_differs,Ben Tre
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2021,2021,annual,92.8,%,observed,not_specified,E0324,63,8,92.8,2021,catalogue_title_differs,Ben Tre
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2022,2022,annual,92.7,%,observed,not_specified,E0324,63,9,92.7,2022,catalogue_title_differs,Ben Tre
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2023,2023,annual,94.0,%,observed,not_specified,E0324,63,10,94.0,2023,catalogue_title_differs,Ben Tre
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2024,2024,annual,94.6,%,observed,preliminary,E0324,63,11,94.6,Prel. 2024,catalogue_title_differs,Ben Tre
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2015,2015,annual,77.2,%,observed,not_specified,E0324,64,2,77.2,2015,catalogue_title_differs,Tra Vinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2016,2016,annual,95.3,%,observed,not_specified,E0324,64,3,95.3,2016,catalogue_title_differs,Tra Vinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2017,2017,annual,97.8,%,observed,not_specified,E0324,64,4,97.8,2017,catalogue_title_differs,Tra Vinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2018,2018,annual,98.5,%,observed,not_specified,E0324,64,5,98.5,2018,catalogue_title_differs,Tra Vinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2019,2019,annual,95.2,%,observed,not_specified,E0324,64,6,95.2,2019,catalogue_title_differs,Tra Vinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2020,2020,annual,96.1,%,observed,not_specified,E0324,64,7,96.1,2020,catalogue_title_differs,Tra Vinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2021,2021,annual,96.3,%,observed,not_specified,E0324,64,8,96.3,2021,catalogue_title_differs,Tra Vinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2022,2022,annual,91.4,%,observed,not_specified,E0324,64,9,91.4,2022,catalogue_title_differs,Tra Vinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2023,2023,annual,93.9,%,observed,not_specified,E0324,64,10,93.9,2023,catalogue_title_differs,Tra Vinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2024,2024,annual,93.7,%,observed,preliminary,E0324,64,11,93.7,Prel. 2024,catalogue_title_differs,Tra Vinh
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2015,2015,annual,63.6,%,observed,not_specified,E0324,65,2,63.6,2015,catalogue_title_differs,Vinh Long
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2016,2016,annual,71.3,%,observed,not_specified,E0324,65,3,71.3,2016,catalogue_title_differs,Vinh Long
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2017,2017,annual,80.5,%,observed,not_specified,E0324,65,4,80.5,2017,catalogue_title_differs,Vinh Long
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2018,2018,annual,84.2,%,observed,not_specified,E0324,65,5,84.2,2018,catalogue_title_differs,Vinh Long
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2019,2019,annual,87.8,%,observed,not_specified,E0324,65,6,87.8,2019,catalogue_title_differs,Vinh Long
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2020,2020,annual,90.2,%,observed,not_specified,E0324,65,7,90.2,2020,catalogue_title_differs,Vinh Long
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2021,2021,annual,90.2,%,observed,not_specified,E0324,65,8,90.2,2021,catalogue_title_differs,Vinh Long
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2022,2022,annual,91.8,%,observed,not_specified,E0324,65,9,91.8,2022,catalogue_title_differs,Vinh Long
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2023,2023,annual,93.3,%,observed,not_specified,E0324,65,10,93.3,2023,catalogue_title_differs,Vinh Long
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2024,2024,annual,93.8,%,observed,preliminary,E0324,65,11,93.8,Prel. 2024,catalogue_title_differs,Vinh Long
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2015,2015,annual,63.9,%,observed,not_specified,E0324,66,2,63.9,2015,catalogue_title_differs,Dong Thap
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2016,2016,annual,73.7,%,observed,not_specified,E0324,66,3,73.7,2016,catalogue_title_differs,Dong Thap
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2017,2017,annual,78.0,%,observed,not_specified,E0324,66,4,78.0,2017,catalogue_title_differs,Dong Thap
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2018,2018,annual,82.6,%,observed,not_specified,E0324,66,5,82.6,2018,catalogue_title_differs,Dong Thap
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2019,2019,annual,85.9,%,observed,not_specified,E0324,66,6,85.9,2019,catalogue_title_differs,Dong Thap
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2020,2020,annual,90.6,%,observed,not_specified,E0324,66,7,90.6,2020,catalogue_title_differs,Dong Thap
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2021,2021,annual,91.4,%,observed,not_specified,E0324,66,8,91.4,2021,catalogue_title_differs,Dong Thap
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2022,2022,annual,91.6,%,observed,not_specified,E0324,66,9,91.6,2022,catalogue_title_differs,Dong Thap
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2023,2023,annual,93.4,%,observed,not_specified,E0324,66,10,93.4,2023,catalogue_title_differs,Dong Thap
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2024,2024,annual,94.0,%,observed,preliminary,E0324,66,11,94.0,Prel. 2024,catalogue_title_differs,Dong Thap
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2015,2015,annual,61.9,%,observed,not_specified,E0324,67,2,61.9,2015,catalogue_title_differs,An Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2016,2016,annual,76.6,%,observed,not_specified,E0324,67,3,76.6,2016,catalogue_title_differs,An Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2017,2017,annual,84.4,%,observed,not_specified,E0324,67,4,84.4,2017,catalogue_title_differs,An Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2018,2018,annual,86.2,%,observed,not_specified,E0324,67,5,86.2,2018,catalogue_title_differs,An Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2019,2019,annual,87.9,%,observed,not_specified,E0324,67,6,87.9,2019,catalogue_title_differs,An Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2020,2020,annual,90.6,%,observed,not_specified,E0324,67,7,90.6,2020,catalogue_title_differs,An Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2021,2021,annual,92.1,%,observed,not_specified,E0324,67,8,92.1,2021,catalogue_title_differs,An Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2022,2022,annual,90.9,%,observed,not_specified,E0324,67,9,90.9,2022,catalogue_title_differs,An Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2023,2023,annual,92.1,%,observed,not_specified,E0324,67,10,92.1,2023,catalogue_title_differs,An Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2024,2024,annual,92.8,%,observed,preliminary,E0324,67,11,92.8,Prel. 2024,catalogue_title_differs,An Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2015,2015,annual,59.5,%,observed,not_specified,E0324,68,2,59.5,2015,catalogue_title_differs,Kien  Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2016,2016,annual,71.7,%,observed,not_specified,E0324,68,3,71.7,2016,catalogue_title_differs,Kien  Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2017,2017,annual,81.5,%,observed,not_specified,E0324,68,4,81.5,2017,catalogue_title_differs,Kien  Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2018,2018,annual,82.5,%,observed,not_specified,E0324,68,5,82.5,2018,catalogue_title_differs,Kien  Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2019,2019,annual,83.1,%,observed,not_specified,E0324,68,6,83.1,2019,catalogue_title_differs,Kien  Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2020,2020,annual,86.0,%,observed,not_specified,E0324,68,7,86.0,2020,catalogue_title_differs,Kien  Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2021,2021,annual,81.8,%,observed,not_specified,E0324,68,8,81.8,2021,catalogue_title_differs,Kien  Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2022,2022,annual,85.1,%,observed,not_specified,E0324,68,9,85.1,2022,catalogue_title_differs,Kien  Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2023,2023,annual,89.2,%,observed,not_specified,E0324,68,10,89.2,2023,catalogue_title_differs,Kien  Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2024,2024,annual,90.4,%,observed,preliminary,E0324,68,11,90.4,Prel. 2024,catalogue_title_differs,Kien  Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2015,2015,annual,66.9,%,observed,not_specified,E0324,69,2,66.9,2015,catalogue_title_differs,Can Tho
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2016,2016,annual,77.4,%,observed,not_specified,E0324,69,3,77.4,2016,catalogue_title_differs,Can Tho
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2017,2017,annual,84.2,%,observed,not_specified,E0324,69,4,84.2,2017,catalogue_title_differs,Can Tho
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2018,2018,annual,87.2,%,observed,not_specified,E0324,69,5,87.2,2018,catalogue_title_differs,Can Tho
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2019,2019,annual,85.7,%,observed,not_specified,E0324,69,6,85.7,2019,catalogue_title_differs,Can Tho
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2020,2020,annual,88.1,%,observed,not_specified,E0324,69,7,88.1,2020,catalogue_title_differs,Can Tho
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2021,2021,annual,88.6,%,observed,not_specified,E0324,69,8,88.6,2021,catalogue_title_differs,Can Tho
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2022,2022,annual,90.8,%,observed,not_specified,E0324,69,9,90.8,2022,catalogue_title_differs,Can Tho
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2023,2023,annual,91.8,%,observed,not_specified,E0324,69,10,91.8,2023,catalogue_title_differs,Can Tho
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2024,2024,annual,92.9,%,observed,preliminary,E0324,69,11,92.9,Prel. 2024,catalogue_title_differs,Can Tho
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2015,2015,annual,67.3,%,observed,not_specified,E0324,70,2,67.3,2015,catalogue_title_differs,Hau Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2016,2016,annual,79.4,%,observed,not_specified,E0324,70,3,79.4,2016,catalogue_title_differs,Hau Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2017,2017,annual,85.2,%,observed,not_specified,E0324,70,4,85.2,2017,catalogue_title_differs,Hau Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2018,2018,annual,87.1,%,observed,not_specified,E0324,70,5,87.1,2018,catalogue_title_differs,Hau Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2019,2019,annual,87.9,%,observed,not_specified,E0324,70,6,87.9,2019,catalogue_title_differs,Hau Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2020,2020,annual,91.0,%,observed,not_specified,E0324,70,7,91.0,2020,catalogue_title_differs,Hau Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2021,2021,annual,91.1,%,observed,not_specified,E0324,70,8,91.1,2021,catalogue_title_differs,Hau Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2022,2022,annual,92.8,%,observed,not_specified,E0324,70,9,92.8,2022,catalogue_title_differs,Hau Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2023,2023,annual,94.2,%,observed,not_specified,E0324,70,10,94.2,2023,catalogue_title_differs,Hau Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2024,2024,annual,94.9,%,observed,preliminary,E0324,70,11,94.9,Prel. 2024,catalogue_title_differs,Hau Giang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2015,2015,annual,79.4,%,observed,not_specified,E0324,71,2,79.4,2015,catalogue_title_differs,Soc Trang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2016,2016,annual,107.8,%,observed,not_specified,E0324,71,3,107.8,2016,catalogue_title_differs,Soc Trang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2017,2017,annual,114.9,%,observed,not_specified,E0324,71,4,114.9,2017,catalogue_title_differs,Soc Trang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2018,2018,annual,110.3,%,observed,not_specified,E0324,71,5,110.3,2018,catalogue_title_differs,Soc Trang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2019,2019,annual,106.5,%,observed,not_specified,E0324,71,6,106.5,2019,catalogue_title_differs,Soc Trang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2020,2020,annual,104.8,%,observed,not_specified,E0324,71,7,104.8,2020,catalogue_title_differs,Soc Trang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2021,2021,annual,94.7,%,observed,not_specified,E0324,71,8,94.7,2021,catalogue_title_differs,Soc Trang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2022,2022,annual,93.8,%,observed,not_specified,E0324,71,9,93.8,2022,catalogue_title_differs,Soc Trang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2023,2023,annual,96.9,%,observed,not_specified,E0324,71,10,96.9,2023,catalogue_title_differs,Soc Trang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2024,2024,annual,101.2,%,observed,preliminary,E0324,71,11,101.2,Prel. 2024,catalogue_title_differs,Soc Trang
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2015,2015,annual,68.5,%,observed,not_specified,E0324,72,2,68.5,2015,catalogue_title_differs,Bac Lieu
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2016,2016,annual,76.6,%,observed,not_specified,E0324,72,3,76.6,2016,catalogue_title_differs,Bac Lieu
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2017,2017,annual,83.1,%,observed,not_specified,E0324,72,4,83.1,2017,catalogue_title_differs,Bac Lieu
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2018,2018,annual,81.9,%,observed,not_specified,E0324,72,5,81.9,2018,catalogue_title_differs,Bac Lieu
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2019,2019,annual,79.7,%,observed,not_specified,E0324,72,6,79.7,2019,catalogue_title_differs,Bac Lieu
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2020,2020,annual,79.2,%,observed,not_specified,E0324,72,7,79.2,2020,catalogue_title_differs,Bac Lieu
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2021,2021,annual,73.4,%,observed,not_specified,E0324,72,8,73.4,2021,catalogue_title_differs,Bac Lieu
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2022,2022,annual,82.9,%,observed,not_specified,E0324,72,9,82.9,2022,catalogue_title_differs,Bac Lieu
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2023,2023,annual,85.5,%,observed,not_specified,E0324,72,10,85.5,2023,catalogue_title_differs,Bac Lieu
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2024,2024,annual,88.4,%,observed,preliminary,E0324,72,11,88.4,Prel. 2024,catalogue_title_differs,Bac Lieu
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2015,2015,annual,70.4,%,observed,not_specified,E0324,73,2,70.4,2015,catalogue_title_differs,Ca Mau
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2016,2016,annual,81.6,%,observed,not_specified,E0324,73,3,81.6,2016,catalogue_title_differs,Ca Mau
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2017,2017,annual,84.5,%,observed,not_specified,E0324,73,4,84.5,2017,catalogue_title_differs,Ca Mau
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2018,2018,annual,86.7,%,observed,not_specified,E0324,73,5,86.7,2018,catalogue_title_differs,Ca Mau
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2019,2019,annual,85.8,%,observed,not_specified,E0324,73,6,85.8,2019,catalogue_title_differs,Ca Mau
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2020,2020,annual,88.2,%,observed,not_specified,E0324,73,7,88.2,2020,catalogue_title_differs,Ca Mau
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2021,2021,annual,89.0,%,observed,not_specified,E0324,73,8,89.0,2021,catalogue_title_differs,Ca Mau
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2022,2022,annual,88.8,%,observed,not_specified,E0324,73,9,88.8,2022,catalogue_title_differs,Ca Mau
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2023,2023,annual,90.8,%,observed,not_specified,E0324,73,10,90.8,2023,catalogue_title_differs,Ca Mau
+banking_insurance_budget,e0324_c9b3c38247,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2024,2024,annual,91.8,%,observed,preliminary,E0324,73,11,91.8,Prel. 2024,catalogue_title_differs,Ca Mau

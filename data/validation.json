@@ -1,0 +1,131 @@
+{
+  "source_tables_scanned": 229,
+  "source_tables_included": 91,
+  "indicators": 231,
+  "observations": 161709,
+  "numeric_observations": 149608,
+  "missing_observations": 12101,
+  "other_markers": 0,
+  "province_labels": 65,
+  "duplicate_keys": 0,
+  "all_values_checked_against_source": true,
+  "unmatched_labels_for_review": [
+    [
+      "E1309",
+      "General classes in universities have been excluded in province"
+    ],
+    [
+      "E1313",
+      "Other provinces"
+    ],
+    [
+      "E1314",
+      "Pupils in universities"
+    ],
+    [
+      "E1315",
+      "Upper secondary schoolgirls in universities have been excluded in province"
+    ],
+    [
+      "E1316",
+      "Other city, province"
+    ],
+    [
+      "E1419",
+      "Unidentified"
+    ],
+    [
+      "E1479",
+      "Other"
+    ],
+    [
+      "E1479",
+      " Military"
+    ],
+    [
+      "E1479",
+      "a"
+    ],
+    [
+      "E1481",
+      "Other"
+    ],
+    [
+      "E1481",
+      " Military procuracy"
+    ],
+    [
+      "E1481",
+      "Supreme people's procuracy"
+    ],
+    [
+      "E1482",
+      "Other"
+    ],
+    [
+      "E1483",
+      "Other"
+    ],
+    [
+      "E1488",
+      "Other"
+    ],
+    [
+      "E1490",
+      "Other"
+    ],
+    [
+      "E0103",
+      "NEC."
+    ],
+    [
+      "E0104",
+      "Nec."
+    ],
+    [
+      "E0105",
+      "Nec."
+    ],
+    [
+      "E0105",
+      "%"
+    ]
+  ],
+  "by_section": {
+    "population": {
+      "tables": 16,
+      "indicators": 32,
+      "observations": 34329
+    },
+    "employment": {
+      "tables": 7,
+      "indicators": 7,
+      "observations": 4934
+    },
+    "national_account": {
+      "tables": 2,
+      "indicators": 2,
+      "observations": 1008
+    },
+    "banking_insurance_budget": {
+      "tables": 3,
+      "indicators": 3,
+      "observations": 1890
+    },
+    "education": {
+      "tables": 16,
+      "indicators": 57,
+      "observations": 53312
+    },
+    "health_culture_environment": {
+      "tables": 43,
+      "indicators": 109,
+      "observations": 55022
+    },
+    "administration_land_climate": {
+      "tables": 4,
+      "indicators": 21,
+      "observations": 11214
+    }
+  }
+}

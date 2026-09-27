@@ -1,0 +1,316 @@
+﻿section,indicator_id,province_code,province_name,geography_version,period,year,period_type,value,unit,value_status,period_status,source_id,source_row,source_column,raw_value,source_period_header,quality_flags,province_name_source
+education,e1331_5eeee52ec1,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2023,2023,annual,12109.00,Person,observed,not_specified,E1331,6,2,12109.00,Teacher,,Ha Noi
+education,e1331_49ac71a435,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2023,2023,annual,4233.00,Person,observed,not_specified,E1331,6,3,4233.00,Teacher-Public,,Ha Noi
+education,e1331_9812ca35d7,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2023,2023,annual,246097.00,Person,observed,not_specified,E1331,6,4,246097.00,Newly enrolled pupils and students,,Ha Noi
+education,e1331_1941347ebc,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2023,2023,annual,33696.00,Person,observed,not_specified,E1331,6,5,33696.00,Newly enrolled pupils and students-Secondary school,,Ha Noi
+education,e1331_a31a3b95ed,VN_SRC_HANOI,Ha Noi,source_reported_unharmonized,2023,2023,annual,37778.00,Person,observed,not_specified,E1331,6,6,37778.00,Newly enrolled pupils and students-College,,Ha Noi
+education,e1331_5eeee52ec1,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2023,2023,annual,1509.00,Person,observed,not_specified,E1331,7,2,1509.00,Teacher,,Vinh Phuc
+education,e1331_49ac71a435,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2023,2023,annual,1045.00,Person,observed,not_specified,E1331,7,3,1045.00,Teacher-Public,,Vinh Phuc
+education,e1331_9812ca35d7,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2023,2023,annual,23822.00,Person,observed,not_specified,E1331,7,4,23822.00,Newly enrolled pupils and students,,Vinh Phuc
+education,e1331_1941347ebc,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2023,2023,annual,6074.00,Person,observed,not_specified,E1331,7,5,6074.00,Newly enrolled pupils and students-Secondary school,,Vinh Phuc
+education,e1331_a31a3b95ed,VN_SRC_VINHPHUC,Vinh Phuc,source_reported_unharmonized,2023,2023,annual,1966.00,Person,observed,not_specified,E1331,7,6,1966.00,Newly enrolled pupils and students-College,,Vinh Phuc
+education,e1331_5eeee52ec1,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2023,2023,annual,3113.00,Person,observed,not_specified,E1331,8,2,3113.00,Teacher,,Bac Ninh
+education,e1331_49ac71a435,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2023,2023,annual,759.00,Person,observed,not_specified,E1331,8,3,759.00,Teacher-Public,,Bac Ninh
+education,e1331_9812ca35d7,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2023,2023,annual,71805.00,Person,observed,not_specified,E1331,8,4,71805.00,Newly enrolled pupils and students,,Bac Ninh
+education,e1331_1941347ebc,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2023,2023,annual,6321.00,Person,observed,not_specified,E1331,8,5,6321.00,Newly enrolled pupils and students-Secondary school,,Bac Ninh
+education,e1331_a31a3b95ed,VN_SRC_BACNINH,Bac Ninh,source_reported_unharmonized,2023,2023,annual,5582.00,Person,observed,not_specified,E1331,8,6,5582.00,Newly enrolled pupils and students-College,,Bac Ninh
+education,e1331_5eeee52ec1,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2023,2023,annual,2017.00,Person,observed,not_specified,E1331,9,2,2017.00,Teacher,,Quang Ninh
+education,e1331_49ac71a435,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2023,2023,annual,1630.00,Person,observed,not_specified,E1331,9,3,1630.00,Teacher-Public,,Quang Ninh
+education,e1331_9812ca35d7,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2023,2023,annual,39564.00,Person,observed,not_specified,E1331,9,4,39564.00,Newly enrolled pupils and students,,Quang Ninh
+education,e1331_1941347ebc,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2023,2023,annual,6437.00,Person,observed,not_specified,E1331,9,5,6437.00,Newly enrolled pupils and students-Secondary school,,Quang Ninh
+education,e1331_a31a3b95ed,VN_SRC_QUANGNINH,Quang Ninh,source_reported_unharmonized,2023,2023,annual,856.00,Person,observed,not_specified,E1331,9,6,856.00,Newly enrolled pupils and students-College,,Quang Ninh
+education,e1331_5eeee52ec1,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2023,2023,annual,1420.00,Person,observed,not_specified,E1331,10,2,1420.00,Teacher,,Hai Duong
+education,e1331_49ac71a435,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2023,2023,annual,442.00,Person,observed,not_specified,E1331,10,3,442.00,Teacher-Public,,Hai Duong
+education,e1331_9812ca35d7,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2023,2023,annual,38406.00,Person,observed,not_specified,E1331,10,4,38406.00,Newly enrolled pupils and students,,Hai Duong
+education,e1331_1941347ebc,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2023,2023,annual,2814.00,Person,observed,not_specified,E1331,10,5,2814.00,Newly enrolled pupils and students-Secondary school,,Hai Duong
+education,e1331_a31a3b95ed,VN_SRC_HAIDUONG,Hai Duong,source_reported_unharmonized,2023,2023,annual,1098.00,Person,observed,not_specified,E1331,10,6,1098.00,Newly enrolled pupils and students-College,,Hai Duong
+education,e1331_5eeee52ec1,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2023,2023,annual,1760.00,Person,observed,not_specified,E1331,11,2,1760.00,Teacher,,Hai Phong
+education,e1331_49ac71a435,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2023,2023,annual,1142.00,Person,observed,not_specified,E1331,11,3,1142.00,Teacher-Public,,Hai Phong
+education,e1331_9812ca35d7,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2023,2023,annual,53900.00,Person,observed,not_specified,E1331,11,4,53900.00,Newly enrolled pupils and students,,Hai Phong
+education,e1331_1941347ebc,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2023,2023,annual,5700.00,Person,observed,not_specified,E1331,11,5,5700.00,Newly enrolled pupils and students-Secondary school,,Hai Phong
+education,e1331_a31a3b95ed,VN_SRC_HAIPHONG,Hai Phong,source_reported_unharmonized,2023,2023,annual,4000.00,Person,observed,not_specified,E1331,11,6,4000.00,Newly enrolled pupils and students-College,,Hai Phong
+education,e1331_5eeee52ec1,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2023,2023,annual,1201.00,Person,observed,not_specified,E1331,12,2,1201.00,Teacher,,Hung Yen
+education,e1331_49ac71a435,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2023,2023,annual,596.00,Person,observed,not_specified,E1331,12,3,596.00,Teacher-Public,,Hung Yen
+education,e1331_9812ca35d7,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2023,2023,annual,9108.00,Person,observed,not_specified,E1331,12,4,9108.00,Newly enrolled pupils and students,,Hung Yen
+education,e1331_1941347ebc,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2023,2023,annual,3544.00,Person,observed,not_specified,E1331,12,5,3544.00,Newly enrolled pupils and students-Secondary school,,Hung Yen
+education,e1331_a31a3b95ed,VN_SRC_HUNGYEN,Hung Yen,source_reported_unharmonized,2023,2023,annual,1641.00,Person,observed,not_specified,E1331,12,6,1641.00,Newly enrolled pupils and students-College,,Hung Yen
+education,e1331_5eeee52ec1,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2023,2023,annual,780.00,Person,observed,not_specified,E1331,13,2,780.00,Teacher,,Thai Binh
+education,e1331_49ac71a435,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2023,2023,annual,780.00,Person,observed,not_specified,E1331,13,3,780.00,Teacher-Public,,Thai Binh
+education,e1331_9812ca35d7,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2023,2023,annual,35700.00,Person,observed,not_specified,E1331,13,4,35700.00,Newly enrolled pupils and students,,Thai Binh
+education,e1331_1941347ebc,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2023,2023,annual,6800.00,Person,observed,not_specified,E1331,13,5,6800.00,Newly enrolled pupils and students-Secondary school,,Thai Binh
+education,e1331_a31a3b95ed,VN_SRC_THAIBINH,Thai Binh,source_reported_unharmonized,2023,2023,annual,3900.00,Person,observed,not_specified,E1331,13,6,3900.00,Newly enrolled pupils and students-College,,Thai Binh
+education,e1331_5eeee52ec1,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2023,2023,annual,707.00,Person,observed,not_specified,E1331,14,2,707.00,Teacher,,Ha Nam
+education,e1331_49ac71a435,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2023,2023,annual,618.00,Person,observed,not_specified,E1331,14,3,618.00,Teacher-Public,,Ha Nam
+education,e1331_9812ca35d7,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2023,2023,annual,17234.00,Person,observed,not_specified,E1331,14,4,17234.00,Newly enrolled pupils and students,,Ha Nam
+education,e1331_1941347ebc,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2023,2023,annual,2196.00,Person,observed,not_specified,E1331,14,5,2196.00,Newly enrolled pupils and students-Secondary school,,Ha Nam
+education,e1331_a31a3b95ed,VN_SRC_HANAM,Ha Nam,source_reported_unharmonized,2023,2023,annual,391.00,Person,observed,not_specified,E1331,14,6,391.00,Newly enrolled pupils and students-College,,Ha Nam
+education,e1331_5eeee52ec1,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2023,2023,annual,1312.00,Person,observed,not_specified,E1331,15,2,1312.00,Teacher,,Nam Dinh
+education,e1331_49ac71a435,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2023,2023,annual,1045.00,Person,observed,not_specified,E1331,15,3,1045.00,Teacher-Public,,Nam Dinh
+education,e1331_9812ca35d7,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2023,2023,annual,35200.00,Person,observed,not_specified,E1331,15,4,35200.00,Newly enrolled pupils and students,,Nam Dinh
+education,e1331_1941347ebc,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2023,2023,annual,4266.00,Person,observed,not_specified,E1331,15,5,4266.00,Newly enrolled pupils and students-Secondary school,,Nam Dinh
+education,e1331_a31a3b95ed,VN_SRC_NAMDINH,Nam Dinh,source_reported_unharmonized,2023,2023,annual,339.00,Person,observed,not_specified,E1331,15,6,339.00,Newly enrolled pupils and students-College,,Nam Dinh
+education,e1331_5eeee52ec1,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2023,2023,annual,819.00,Person,observed,not_specified,E1331,16,2,819.00,Teacher,,Ninh Binh
+education,e1331_49ac71a435,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2023,2023,annual,467.00,Person,observed,not_specified,E1331,16,3,467.00,Teacher-Public,,Ninh Binh
+education,e1331_9812ca35d7,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2023,2023,annual,18105.00,Person,observed,not_specified,E1331,16,4,18105.00,Newly enrolled pupils and students,,Ninh Binh
+education,e1331_1941347ebc,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2023,2023,annual,4738.00,Person,observed,not_specified,E1331,16,5,4738.00,Newly enrolled pupils and students-Secondary school,,Ninh Binh
+education,e1331_a31a3b95ed,VN_SRC_NINHBINH,Ninh Binh,source_reported_unharmonized,2023,2023,annual,742.00,Person,observed,not_specified,E1331,16,6,742.00,Newly enrolled pupils and students-College,,Ninh Binh
+education,e1331_5eeee52ec1,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2023,2023,annual,301.00,Person,observed,not_specified,E1331,18,2,301.00,Teacher,,Ha Giang
+education,e1331_49ac71a435,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2023,2023,annual,217.00,Person,observed,not_specified,E1331,18,3,217.00,Teacher-Public,,Ha Giang
+education,e1331_9812ca35d7,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2023,2023,annual,21811.00,Person,observed,not_specified,E1331,18,4,21811.00,Newly enrolled pupils and students,,Ha Giang
+education,e1331_1941347ebc,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2023,2023,annual,972.00,Person,observed,not_specified,E1331,18,5,972.00,Newly enrolled pupils and students-Secondary school,,Ha Giang
+education,e1331_a31a3b95ed,VN_SRC_HAGIANG,Ha Giang,source_reported_unharmonized,2023,2023,annual,161.00,Person,observed,not_specified,E1331,18,6,161.00,Newly enrolled pupils and students-College,,Ha Giang
+education,e1331_5eeee52ec1,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2023,2023,annual,172.00,Person,observed,not_specified,E1331,19,2,172.00,Teacher,,Cao Bang
+education,e1331_49ac71a435,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2023,2023,annual,104.00,Person,observed,not_specified,E1331,19,3,104.00,Teacher-Public,,Cao Bang
+education,e1331_9812ca35d7,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2023,2023,annual,6294.00,Person,observed,not_specified,E1331,19,4,6294.00,Newly enrolled pupils and students,,Cao Bang
+education,e1331_1941347ebc,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2023,2023,annual,500.00,Person,observed,not_specified,E1331,19,5,500.00,Newly enrolled pupils and students-Secondary school,,Cao Bang
+education,e1331_a31a3b95ed,VN_SRC_CAOBANG,Cao Bang,source_reported_unharmonized,2023,2023,annual,108.00,Person,observed,not_specified,E1331,19,6,108.00,Newly enrolled pupils and students-College,,Cao Bang
+education,e1331_5eeee52ec1,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2023,2023,annual,282.00,Person,observed,not_specified,E1331,20,2,282.00,Teacher,,Bac Kan
+education,e1331_49ac71a435,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2023,2023,annual,184.00,Person,observed,not_specified,E1331,20,3,184.00,Teacher-Public,,Bac Kan
+education,e1331_9812ca35d7,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2023,2023,annual,12137.00,Person,observed,not_specified,E1331,20,4,12137.00,Newly enrolled pupils and students,,Bac Kan
+education,e1331_1941347ebc,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2023,2023,annual,697.00,Person,observed,not_specified,E1331,20,5,697.00,Newly enrolled pupils and students-Secondary school,,Bac Kan
+education,e1331_a31a3b95ed,VN_SRC_BACKAN,Bac Kan,source_reported_unharmonized,2023,2023,annual,0.00,Person,observed,not_specified,E1331,20,6,0.00,Newly enrolled pupils and students-College,,Bac Kan
+education,e1331_5eeee52ec1,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2023,2023,annual,462.00,Person,observed,not_specified,E1331,21,2,462.00,Teacher,,Tuyen Quang
+education,e1331_49ac71a435,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2023,2023,annual,245.00,Person,observed,not_specified,E1331,21,3,245.00,Teacher-Public,,Tuyen Quang
+education,e1331_9812ca35d7,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2023,2023,annual,13554.00,Person,observed,not_specified,E1331,21,4,13554.00,Newly enrolled pupils and students,,Tuyen Quang
+education,e1331_1941347ebc,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2023,2023,annual,1278.00,Person,observed,not_specified,E1331,21,5,1278.00,Newly enrolled pupils and students-Secondary school,,Tuyen Quang
+education,e1331_a31a3b95ed,VN_SRC_TUYENQUANG,Tuyen Quang,source_reported_unharmonized,2023,2023,annual,128.00,Person,observed,not_specified,E1331,21,6,128.00,Newly enrolled pupils and students-College,,Tuyen Quang
+education,e1331_5eeee52ec1,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2023,2023,annual,565.00,Person,observed,not_specified,E1331,22,2,565.00,Teacher,,Lao Cai
+education,e1331_49ac71a435,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2023,2023,annual,546.00,Person,observed,not_specified,E1331,22,3,546.00,Teacher-Public,,Lao Cai
+education,e1331_9812ca35d7,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2023,2023,annual,13414.00,Person,observed,not_specified,E1331,22,4,13414.00,Newly enrolled pupils and students,,Lao Cai
+education,e1331_1941347ebc,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2023,2023,annual,1091.00,Person,observed,not_specified,E1331,22,5,1091.00,Newly enrolled pupils and students-Secondary school,,Lao Cai
+education,e1331_a31a3b95ed,VN_SRC_LAOCAI,Lao Cai,source_reported_unharmonized,2023,2023,annual,1067.00,Person,observed,not_specified,E1331,22,6,1067.00,Newly enrolled pupils and students-College,,Lao Cai
+education,e1331_5eeee52ec1,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2023,2023,annual,604.00,Person,observed,not_specified,E1331,23,2,604.00,Teacher,,Yen Bai
+education,e1331_49ac71a435,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2023,2023,annual,271.00,Person,observed,not_specified,E1331,23,3,271.00,Teacher-Public,,Yen Bai
+education,e1331_9812ca35d7,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2023,2023,annual,10979.00,Person,observed,not_specified,E1331,23,4,10979.00,Newly enrolled pupils and students,,Yen Bai
+education,e1331_1941347ebc,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2023,2023,annual,2386.00,Person,observed,not_specified,E1331,23,5,2386.00,Newly enrolled pupils and students-Secondary school,,Yen Bai
+education,e1331_a31a3b95ed,VN_SRC_YENBAI,Yen Bai,source_reported_unharmonized,2023,2023,annual,1156.00,Person,observed,not_specified,E1331,23,6,1156.00,Newly enrolled pupils and students-College,,Yen Bai
+education,e1331_5eeee52ec1,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2023,2023,annual,1984.00,Person,observed,not_specified,E1331,24,2,1984.00,Teacher,,Thai Nguyen
+education,e1331_49ac71a435,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2023,2023,annual,1324.00,Person,observed,not_specified,E1331,24,3,1324.00,Teacher-Public,,Thai Nguyen
+education,e1331_9812ca35d7,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2023,2023,annual,40512.00,Person,observed,not_specified,E1331,24,4,40512.00,Newly enrolled pupils and students,,Thai Nguyen
+education,e1331_1941347ebc,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2023,2023,annual,9593.00,Person,observed,not_specified,E1331,24,5,9593.00,Newly enrolled pupils and students-Secondary school,,Thai Nguyen
+education,e1331_a31a3b95ed,VN_SRC_THAINGUYEN,Thai Nguyen,source_reported_unharmonized,2023,2023,annual,3054.00,Person,observed,not_specified,E1331,24,6,3054.00,Newly enrolled pupils and students-College,,Thai Nguyen
+education,e1331_5eeee52ec1,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2023,2023,annual,721.00,Person,observed,not_specified,E1331,25,2,721.00,Teacher,,Lang Son
+education,e1331_49ac71a435,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2023,2023,annual,315.00,Person,observed,not_specified,E1331,25,3,315.00,Teacher-Public,,Lang Son
+education,e1331_9812ca35d7,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2023,2023,annual,19825.00,Person,observed,not_specified,E1331,25,4,19825.00,Newly enrolled pupils and students,,Lang Son
+education,e1331_1941347ebc,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2023,2023,annual,2623.00,Person,observed,not_specified,E1331,25,5,2623.00,Newly enrolled pupils and students-Secondary school,,Lang Son
+education,e1331_a31a3b95ed,VN_SRC_LANGSON,Lang Son,source_reported_unharmonized,2023,2023,annual,539.00,Person,observed,not_specified,E1331,25,6,539.00,Newly enrolled pupils and students-College,,Lang Son
+education,e1331_5eeee52ec1,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2023,2023,annual,848.00,Person,observed,not_specified,E1331,26,2,848.00,Teacher,,Bac Giang
+education,e1331_49ac71a435,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2023,2023,annual,531.00,Person,observed,not_specified,E1331,26,3,531.00,Teacher-Public,,Bac Giang
+education,e1331_9812ca35d7,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2023,2023,annual,29546.00,Person,observed,not_specified,E1331,26,4,29546.00,Newly enrolled pupils and students,,Bac Giang
+education,e1331_1941347ebc,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2023,2023,annual,4859.00,Person,observed,not_specified,E1331,26,5,4859.00,Newly enrolled pupils and students-Secondary school,,Bac Giang
+education,e1331_a31a3b95ed,VN_SRC_BACGIANG,Bac Giang,source_reported_unharmonized,2023,2023,annual,1665.00,Person,observed,not_specified,E1331,26,6,1665.00,Newly enrolled pupils and students-College,,Bac Giang
+education,e1331_5eeee52ec1,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2023,2023,annual,1907.00,Person,observed,not_specified,E1331,27,2,1907.00,Teacher,,Phu Tho
+education,e1331_49ac71a435,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2023,2023,annual,773.00,Person,observed,not_specified,E1331,27,3,773.00,Teacher-Public,,Phu Tho
+education,e1331_9812ca35d7,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2023,2023,annual,29017.00,Person,observed,not_specified,E1331,27,4,29017.00,Newly enrolled pupils and students,,Phu Tho
+education,e1331_1941347ebc,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2023,2023,annual,5413.00,Person,observed,not_specified,E1331,27,5,5413.00,Newly enrolled pupils and students-Secondary school,,Phu Tho
+education,e1331_a31a3b95ed,VN_SRC_PHUTHO,Phu Tho,source_reported_unharmonized,2023,2023,annual,2470.00,Person,observed,not_specified,E1331,27,6,2470.00,Newly enrolled pupils and students-College,,Phu Tho
+education,e1331_5eeee52ec1,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2023,2023,annual,233.00,Person,observed,not_specified,E1331,28,2,233.00,Teacher,,Dien Bien
+education,e1331_49ac71a435,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2023,2023,annual,233.00,Person,observed,not_specified,E1331,28,3,233.00,Teacher-Public,,Dien Bien
+education,e1331_9812ca35d7,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2023,2023,annual,7954.00,Person,observed,not_specified,E1331,28,4,7954.00,Newly enrolled pupils and students,,Dien Bien
+education,e1331_1941347ebc,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2023,2023,annual,835.00,Person,observed,not_specified,E1331,28,5,835.00,Newly enrolled pupils and students-Secondary school,,Dien Bien
+education,e1331_a31a3b95ed,VN_SRC_DIENBIEN,Dien Bien,source_reported_unharmonized,2023,2023,annual,249.00,Person,observed,not_specified,E1331,28,6,249.00,Newly enrolled pupils and students-College,,Dien Bien
+education,e1331_5eeee52ec1,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2023,2023,annual,84.00,Person,observed,not_specified,E1331,29,2,84.00,Teacher,,Lai Chau
+education,e1331_49ac71a435,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2023,2023,annual,70.00,Person,observed,not_specified,E1331,29,3,70.00,Teacher-Public,,Lai Chau
+education,e1331_9812ca35d7,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2023,2023,annual,8951.00,Person,observed,not_specified,E1331,29,4,8951.00,Newly enrolled pupils and students,,Lai Chau
+education,e1331_1941347ebc,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2023,2023,annual,799.00,Person,observed,not_specified,E1331,29,5,799.00,Newly enrolled pupils and students-Secondary school,,Lai Chau
+education,e1331_a31a3b95ed,VN_SRC_LAICHAU,Lai Chau,source_reported_unharmonized,2023,2023,annual,0.00,Person,observed,not_specified,E1331,29,6,0.00,Newly enrolled pupils and students-College,,Lai Chau
+education,e1331_5eeee52ec1,VN_SRC_SONLA,Son La,source_reported_unharmonized,2023,2023,annual,461.00,Person,observed,not_specified,E1331,30,2,461.00,Teacher,,Son La
+education,e1331_49ac71a435,VN_SRC_SONLA,Son La,source_reported_unharmonized,2023,2023,annual,408.00,Person,observed,not_specified,E1331,30,3,408.00,Teacher-Public,,Son La
+education,e1331_9812ca35d7,VN_SRC_SONLA,Son La,source_reported_unharmonized,2023,2023,annual,8569.00,Person,observed,not_specified,E1331,30,4,8569.00,Newly enrolled pupils and students,,Son La
+education,e1331_1941347ebc,VN_SRC_SONLA,Son La,source_reported_unharmonized,2023,2023,annual,3021.00,Person,observed,not_specified,E1331,30,5,3021.00,Newly enrolled pupils and students-Secondary school,,Son La
+education,e1331_a31a3b95ed,VN_SRC_SONLA,Son La,source_reported_unharmonized,2023,2023,annual,610.00,Person,observed,not_specified,E1331,30,6,610.00,Newly enrolled pupils and students-College,,Son La
+education,e1331_5eeee52ec1,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2023,2023,annual,753.00,Person,observed,not_specified,E1331,31,2,753.00,Teacher,,Hoa Binh
+education,e1331_49ac71a435,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2023,2023,annual,301.00,Person,observed,not_specified,E1331,31,3,301.00,Teacher-Public,,Hoa Binh
+education,e1331_9812ca35d7,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2023,2023,annual,19595.00,Person,observed,not_specified,E1331,31,4,19595.00,Newly enrolled pupils and students,,Hoa Binh
+education,e1331_1941347ebc,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2023,2023,annual,2835.00,Person,observed,not_specified,E1331,31,5,2835.00,Newly enrolled pupils and students-Secondary school,,Hoa Binh
+education,e1331_a31a3b95ed,VN_SRC_HOABINH,Hoa Binh,source_reported_unharmonized,2023,2023,annual,138.00,Person,observed,not_specified,E1331,31,6,138.00,Newly enrolled pupils and students-College,,Hoa Binh
+education,e1331_5eeee52ec1,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2023,2023,annual,1801.00,Person,observed,not_specified,E1331,33,2,1801.00,Teacher,,Thanh Hoa
+education,e1331_49ac71a435,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2023,2023,annual,1156.00,Person,observed,not_specified,E1331,33,3,1156.00,Teacher-Public,,Thanh Hoa
+education,e1331_9812ca35d7,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2023,2023,annual,37081.00,Person,observed,not_specified,E1331,33,4,37081.00,Newly enrolled pupils and students,,Thanh Hoa
+education,e1331_1941347ebc,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2023,2023,annual,7957.00,Person,observed,not_specified,E1331,33,5,7957.00,Newly enrolled pupils and students-Secondary school,,Thanh Hoa
+education,e1331_a31a3b95ed,VN_SRC_THANHHOA,Thanh Hoa,source_reported_unharmonized,2023,2023,annual,1949.00,Person,observed,not_specified,E1331,33,6,1949.00,Newly enrolled pupils and students-College,,Thanh Hoa
+education,e1331_5eeee52ec1,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2023,2023,annual,2260.00,Person,observed,not_specified,E1331,34,2,2260.00,Teacher,,Nghe An
+education,e1331_49ac71a435,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2023,2023,annual,1164.00,Person,observed,not_specified,E1331,34,3,1164.00,Teacher-Public,,Nghe An
+education,e1331_9812ca35d7,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2023,2023,annual,50078.00,Person,observed,not_specified,E1331,34,4,50078.00,Newly enrolled pupils and students,,Nghe An
+education,e1331_1941347ebc,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2023,2023,annual,7277.00,Person,observed,not_specified,E1331,34,5,7277.00,Newly enrolled pupils and students-Secondary school,,Nghe An
+education,e1331_a31a3b95ed,VN_SRC_NGHEAN,Nghe An,source_reported_unharmonized,2023,2023,annual,2326.00,Person,observed,not_specified,E1331,34,6,2326.00,Newly enrolled pupils and students-College,,Nghe An
+education,e1331_5eeee52ec1,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2023,2023,annual,667.00,Person,observed,not_specified,E1331,35,2,667.00,Teacher,,Ha Tinh
+education,e1331_49ac71a435,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2023,2023,annual,602.00,Person,observed,not_specified,E1331,35,3,602.00,Teacher-Public,,Ha Tinh
+education,e1331_9812ca35d7,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2023,2023,annual,15254.00,Person,observed,not_specified,E1331,35,4,15254.00,Newly enrolled pupils and students,,Ha Tinh
+education,e1331_1941347ebc,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2023,2023,annual,4816.00,Person,observed,not_specified,E1331,35,5,4816.00,Newly enrolled pupils and students-Secondary school,,Ha Tinh
+education,e1331_a31a3b95ed,VN_SRC_HATINH,Ha Tinh,source_reported_unharmonized,2023,2023,annual,905.00,Person,observed,not_specified,E1331,35,6,905.00,Newly enrolled pupils and students-College,,Ha Tinh
+education,e1331_5eeee52ec1,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2023,2023,annual,660.00,Person,observed,not_specified,E1331,36,2,660.00,Teacher,,Quang Binh
+education,e1331_49ac71a435,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2023,2023,annual,457.00,Person,observed,not_specified,E1331,36,3,457.00,Teacher-Public,,Quang Binh
+education,e1331_9812ca35d7,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2023,2023,annual,18002.00,Person,observed,not_specified,E1331,36,4,18002.00,Newly enrolled pupils and students,,Quang Binh
+education,e1331_1941347ebc,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2023,2023,annual,2261.00,Person,observed,not_specified,E1331,36,5,2261.00,Newly enrolled pupils and students-Secondary school,,Quang Binh
+education,e1331_a31a3b95ed,VN_SRC_QUANGBINH,Quang Binh,source_reported_unharmonized,2023,2023,annual,361.00,Person,observed,not_specified,E1331,36,6,361.00,Newly enrolled pupils and students-College,,Quang Binh
+education,e1331_5eeee52ec1,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2023,2023,annual,333.00,Person,observed,not_specified,E1331,37,2,333.00,Teacher,,Quang Tri
+education,e1331_49ac71a435,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2023,2023,annual,174.00,Person,observed,not_specified,E1331,37,3,174.00,Teacher-Public,,Quang Tri
+education,e1331_9812ca35d7,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2023,2023,annual,9047.00,Person,observed,not_specified,E1331,37,4,9047.00,Newly enrolled pupils and students,,Quang Tri
+education,e1331_1941347ebc,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2023,2023,annual,1339.00,Person,observed,not_specified,E1331,37,5,1339.00,Newly enrolled pupils and students-Secondary school,,Quang Tri
+education,e1331_a31a3b95ed,VN_SRC_QUANGTRI,Quang Tri,source_reported_unharmonized,2023,2023,annual,127.00,Person,observed,not_specified,E1331,37,6,127.00,Newly enrolled pupils and students-College,,Quang Tri
+education,e1331_5eeee52ec1,VN_SRC_THUATHIENHUE,Thua Thien-Hue,source_reported_unharmonized,2023,2023,annual,1336.00,Person,observed,not_specified,E1331,38,2,1336.00,Teacher,,Thua Thien-Hue
+education,e1331_49ac71a435,VN_SRC_THUATHIENHUE,Thua Thien-Hue,source_reported_unharmonized,2023,2023,annual,1024.00,Person,observed,not_specified,E1331,38,3,1024.00,Teacher-Public,,Thua Thien-Hue
+education,e1331_9812ca35d7,VN_SRC_THUATHIENHUE,Thua Thien-Hue,source_reported_unharmonized,2023,2023,annual,16150.00,Person,observed,not_specified,E1331,38,4,16150.00,Newly enrolled pupils and students,,Thua Thien-Hue
+education,e1331_1941347ebc,VN_SRC_THUATHIENHUE,Thua Thien-Hue,source_reported_unharmonized,2023,2023,annual,2373.00,Person,observed,not_specified,E1331,38,5,2373.00,Newly enrolled pupils and students-Secondary school,,Thua Thien-Hue
+education,e1331_a31a3b95ed,VN_SRC_THUATHIENHUE,Thua Thien-Hue,source_reported_unharmonized,2023,2023,annual,1617.00,Person,observed,not_specified,E1331,38,6,1617.00,Newly enrolled pupils and students-College,,Thua Thien-Hue
+education,e1331_5eeee52ec1,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2023,2023,annual,1831.00,Person,observed,not_specified,E1331,39,2,1831.00,Teacher,,Da Nang
+education,e1331_49ac71a435,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2023,2023,annual,564.00,Person,observed,not_specified,E1331,39,3,564.00,Teacher-Public,,Da Nang
+education,e1331_9812ca35d7,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2023,2023,annual,31686.00,Person,observed,not_specified,E1331,39,4,31686.00,Newly enrolled pupils and students,,Da Nang
+education,e1331_1941347ebc,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2023,2023,annual,3728.00,Person,observed,not_specified,E1331,39,5,3728.00,Newly enrolled pupils and students-Secondary school,,Da Nang
+education,e1331_a31a3b95ed,VN_SRC_DANANG,Da Nang,source_reported_unharmonized,2023,2023,annual,5767.00,Person,observed,not_specified,E1331,39,6,5767.00,Newly enrolled pupils and students-College,,Da Nang
+education,e1331_5eeee52ec1,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2023,2023,annual,1062.00,Person,observed,not_specified,E1331,40,2,1062.00,Teacher,,Quang  Nam
+education,e1331_49ac71a435,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2023,2023,annual,391.00,Person,observed,not_specified,E1331,40,3,391.00,Teacher-Public,,Quang  Nam
+education,e1331_9812ca35d7,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2023,2023,annual,24045.00,Person,observed,not_specified,E1331,40,4,24045.00,Newly enrolled pupils and students,,Quang  Nam
+education,e1331_1941347ebc,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2023,2023,annual,2191.00,Person,observed,not_specified,E1331,40,5,2191.00,Newly enrolled pupils and students-Secondary school,,Quang  Nam
+education,e1331_a31a3b95ed,VN_SRC_QUANGNAM,Quang Nam,source_reported_unharmonized,2023,2023,annual,1119.00,Person,observed,not_specified,E1331,40,6,1119.00,Newly enrolled pupils and students-College,,Quang  Nam
+education,e1331_5eeee52ec1,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2023,2023,annual,499.00,Person,observed,not_specified,E1331,41,2,499.00,Teacher,,Quang  Ngai
+education,e1331_49ac71a435,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2023,2023,annual,209.00,Person,observed,not_specified,E1331,41,3,209.00,Teacher-Public,,Quang  Ngai
+education,e1331_9812ca35d7,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2023,2023,annual,11085.00,Person,observed,not_specified,E1331,41,4,11085.00,Newly enrolled pupils and students,,Quang  Ngai
+education,e1331_1941347ebc,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2023,2023,annual,1984.00,Person,observed,not_specified,E1331,41,5,1984.00,Newly enrolled pupils and students-Secondary school,,Quang  Ngai
+education,e1331_a31a3b95ed,VN_SRC_QUANGNGAI,Quang Ngai,source_reported_unharmonized,2023,2023,annual,1300.00,Person,observed,not_specified,E1331,41,6,1300.00,Newly enrolled pupils and students-College,,Quang  Ngai
+education,e1331_5eeee52ec1,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2023,2023,annual,1114.00,Person,observed,not_specified,E1331,42,2,1114.00,Teacher,,Binh Dinh
+education,e1331_49ac71a435,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2023,2023,annual,744.00,Person,observed,not_specified,E1331,42,3,744.00,Teacher-Public,,Binh Dinh
+education,e1331_9812ca35d7,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2023,2023,annual,23918.00,Person,observed,not_specified,E1331,42,4,23918.00,Newly enrolled pupils and students,,Binh Dinh
+education,e1331_1941347ebc,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2023,2023,annual,2220.00,Person,observed,not_specified,E1331,42,5,2220.00,Newly enrolled pupils and students-Secondary school,,Binh Dinh
+education,e1331_a31a3b95ed,VN_SRC_BINHDINH,Binh Dinh,source_reported_unharmonized,2023,2023,annual,1404.00,Person,observed,not_specified,E1331,42,6,1404.00,Newly enrolled pupils and students-College,,Binh Dinh
+education,e1331_5eeee52ec1,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2023,2023,annual,625.00,Person,observed,not_specified,E1331,43,2,625.00,Teacher,,Phu Yen
+education,e1331_49ac71a435,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2023,2023,annual,512.00,Person,observed,not_specified,E1331,43,3,512.00,Teacher-Public,,Phu Yen
+education,e1331_9812ca35d7,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2023,2023,annual,34135.00,Person,observed,not_specified,E1331,43,4,34135.00,Newly enrolled pupils and students,,Phu Yen
+education,e1331_1941347ebc,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2023,2023,annual,4186.00,Person,observed,not_specified,E1331,43,5,4186.00,Newly enrolled pupils and students-Secondary school,,Phu Yen
+education,e1331_a31a3b95ed,VN_SRC_PHUYEN,Phu Yen,source_reported_unharmonized,2023,2023,annual,1360.00,Person,observed,not_specified,E1331,43,6,1360.00,Newly enrolled pupils and students-College,,Phu Yen
+education,e1331_5eeee52ec1,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2023,2023,annual,1072.00,Person,observed,not_specified,E1331,44,2,1072.00,Teacher,,Khanh  Hoa
+education,e1331_49ac71a435,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2023,2023,annual,560.00,Person,observed,not_specified,E1331,44,3,560.00,Teacher-Public,,Khanh  Hoa
+education,e1331_9812ca35d7,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2023,2023,annual,30059.00,Person,observed,not_specified,E1331,44,4,30059.00,Newly enrolled pupils and students,,Khanh  Hoa
+education,e1331_1941347ebc,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2023,2023,annual,3573.00,Person,observed,not_specified,E1331,44,5,3573.00,Newly enrolled pupils and students-Secondary school,,Khanh  Hoa
+education,e1331_a31a3b95ed,VN_SRC_KHANHHOA,Khanh Hoa,source_reported_unharmonized,2023,2023,annual,1861.00,Person,observed,not_specified,E1331,44,6,1861.00,Newly enrolled pupils and students-College,,Khanh  Hoa
+education,e1331_5eeee52ec1,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2023,2023,annual,399.00,Person,observed,not_specified,E1331,45,2,399.00,Teacher,,Ninh  Thuan
+education,e1331_49ac71a435,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2023,2023,annual,218.00,Person,observed,not_specified,E1331,45,3,218.00,Teacher-Public,,Ninh  Thuan
+education,e1331_9812ca35d7,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2023,2023,annual,10994.00,Person,observed,not_specified,E1331,45,4,10994.00,Newly enrolled pupils and students,,Ninh  Thuan
+education,e1331_1941347ebc,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2023,2023,annual,586.00,Person,observed,not_specified,E1331,45,5,586.00,Newly enrolled pupils and students-Secondary school,,Ninh  Thuan
+education,e1331_a31a3b95ed,VN_SRC_NINHTHUAN,Ninh Thuan,source_reported_unharmonized,2023,2023,annual,475.00,Person,observed,not_specified,E1331,45,6,475.00,Newly enrolled pupils and students-College,,Ninh  Thuan
+education,e1331_5eeee52ec1,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2023,2023,annual,1061.00,Person,observed,not_specified,E1331,46,2,1061.00,Teacher,,Binh Thuan
+education,e1331_49ac71a435,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2023,2023,annual,221.00,Person,observed,not_specified,E1331,46,3,221.00,Teacher-Public,,Binh Thuan
+education,e1331_9812ca35d7,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2023,2023,annual,14037.00,Person,observed,not_specified,E1331,46,4,14037.00,Newly enrolled pupils and students,,Binh Thuan
+education,e1331_1941347ebc,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2023,2023,annual,940.00,Person,observed,not_specified,E1331,46,5,940.00,Newly enrolled pupils and students-Secondary school,,Binh Thuan
+education,e1331_a31a3b95ed,VN_SRC_BINHTHUAN,Binh Thuan,source_reported_unharmonized,2023,2023,annual,585.00,Person,observed,not_specified,E1331,46,6,585.00,Newly enrolled pupils and students-College,,Binh Thuan
+education,e1331_5eeee52ec1,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2023,2023,annual,300.00,Person,observed,not_specified,E1331,48,2,300.00,Teacher,,Kon Tum
+education,e1331_49ac71a435,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2023,2023,annual,190.00,Person,observed,not_specified,E1331,48,3,190.00,Teacher-Public,,Kon Tum
+education,e1331_9812ca35d7,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2023,2023,annual,6819.00,Person,observed,not_specified,E1331,48,4,6819.00,Newly enrolled pupils and students,,Kon Tum
+education,e1331_1941347ebc,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2023,2023,annual,572.00,Person,observed,not_specified,E1331,48,5,572.00,Newly enrolled pupils and students-Secondary school,,Kon Tum
+education,e1331_a31a3b95ed,VN_SRC_KONTUM,Kon Tum,source_reported_unharmonized,2023,2023,annual,186.00,Person,observed,not_specified,E1331,48,6,186.00,Newly enrolled pupils and students-College,,Kon Tum
+education,e1331_5eeee52ec1,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2023,2023,annual,667.00,Person,observed,not_specified,E1331,49,2,667.00,Teacher,,Gia Lai
+education,e1331_49ac71a435,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2023,2023,annual,331.00,Person,observed,not_specified,E1331,49,3,331.00,Teacher-Public,,Gia Lai
+education,e1331_9812ca35d7,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2023,2023,annual,18481.00,Person,observed,not_specified,E1331,49,4,18481.00,Newly enrolled pupils and students,,Gia Lai
+education,e1331_1941347ebc,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2023,2023,annual,382.00,Person,observed,not_specified,E1331,49,5,382.00,Newly enrolled pupils and students-Secondary school,,Gia Lai
+education,e1331_a31a3b95ed,VN_SRC_GIALAI,Gia Lai,source_reported_unharmonized,2023,2023,annual,436.00,Person,observed,not_specified,E1331,49,6,436.00,Newly enrolled pupils and students-College,,Gia Lai
+education,e1331_5eeee52ec1,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2023,2023,annual,1595.00,Person,observed,not_specified,E1331,50,2,1595.00,Teacher,,Dak Lak
+education,e1331_49ac71a435,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2023,2023,annual,559.00,Person,observed,not_specified,E1331,50,3,559.00,Teacher-Public,,Dak Lak
+education,e1331_9812ca35d7,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2023,2023,annual,42413.00,Person,observed,not_specified,E1331,50,4,42413.00,Newly enrolled pupils and students,,Dak Lak
+education,e1331_1941347ebc,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2023,2023,annual,4981.00,Person,observed,not_specified,E1331,50,5,4981.00,Newly enrolled pupils and students-Secondary school,,Dak Lak
+education,e1331_a31a3b95ed,VN_SRC_DAKLAK,Dak Lak,source_reported_unharmonized,2023,2023,annual,1353.00,Person,observed,not_specified,E1331,50,6,1353.00,Newly enrolled pupils and students-College,,Dak Lak
+education,e1331_5eeee52ec1,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2023,2023,annual,340.00,Person,observed,not_specified,E1331,51,2,340.00,Teacher,,Dak Nong
+education,e1331_49ac71a435,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2023,2023,annual,82.00,Person,observed,not_specified,E1331,51,3,82.00,Teacher-Public,,Dak Nong
+education,e1331_9812ca35d7,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2023,2023,annual,13064.00,Person,observed,not_specified,E1331,51,4,13064.00,Newly enrolled pupils and students,,Dak Nong
+education,e1331_1941347ebc,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2023,2023,annual,710.00,Person,observed,not_specified,E1331,51,5,710.00,Newly enrolled pupils and students-Secondary school,,Dak Nong
+education,e1331_a31a3b95ed,VN_SRC_DAKNONG,Dak Nong,source_reported_unharmonized,2023,2023,annual,33.00,Person,observed,not_specified,E1331,51,6,33.00,Newly enrolled pupils and students-College,,Dak Nong
+education,e1331_5eeee52ec1,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2023,2023,annual,1178.00,Person,observed,not_specified,E1331,52,2,1178.00,Teacher,,Lam Dong
+education,e1331_49ac71a435,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2023,2023,annual,416.00,Person,observed,not_specified,E1331,52,3,416.00,Teacher-Public,,Lam Dong
+education,e1331_9812ca35d7,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2023,2023,annual,29935.00,Person,observed,not_specified,E1331,52,4,29935.00,Newly enrolled pupils and students,,Lam Dong
+education,e1331_1941347ebc,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2023,2023,annual,2250.00,Person,observed,not_specified,E1331,52,5,2250.00,Newly enrolled pupils and students-Secondary school,,Lam Dong
+education,e1331_a31a3b95ed,VN_SRC_LAMDONG,Lam Dong,source_reported_unharmonized,2023,2023,annual,969.00,Person,observed,not_specified,E1331,52,6,969.00,Newly enrolled pupils and students-College,,Lam Dong
+education,e1331_5eeee52ec1,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2023,2023,annual,880.00,Person,observed,not_specified,E1331,54,2,880.00,Teacher,,Binh Phuoc
+education,e1331_49ac71a435,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2023,2023,annual,239.00,Person,observed,not_specified,E1331,54,3,239.00,Teacher-Public,,Binh Phuoc
+education,e1331_9812ca35d7,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2023,2023,annual,27679.00,Person,observed,not_specified,E1331,54,4,27679.00,Newly enrolled pupils and students,,Binh Phuoc
+education,e1331_1941347ebc,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2023,2023,annual,1801.00,Person,observed,not_specified,E1331,54,5,1801.00,Newly enrolled pupils and students-Secondary school,,Binh Phuoc
+education,e1331_a31a3b95ed,VN_SRC_BINHPHUOC,Binh Phuoc,source_reported_unharmonized,2023,2023,annual,487.00,Person,observed,not_specified,E1331,54,6,487.00,Newly enrolled pupils and students-College,,Binh Phuoc
+education,e1331_5eeee52ec1,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2023,2023,annual,449.00,Person,observed,not_specified,E1331,55,2,449.00,Teacher,,Tay Ninh
+education,e1331_49ac71a435,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2023,2023,annual,203.00,Person,observed,not_specified,E1331,55,3,203.00,Teacher-Public,,Tay Ninh
+education,e1331_9812ca35d7,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2023,2023,annual,9104.00,Person,observed,not_specified,E1331,55,4,9104.00,Newly enrolled pupils and students,,Tay Ninh
+education,e1331_1941347ebc,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2023,2023,annual,2660.00,Person,observed,not_specified,E1331,55,5,2660.00,Newly enrolled pupils and students-Secondary school,,Tay Ninh
+education,e1331_a31a3b95ed,VN_SRC_TAYNINH,Tay Ninh,source_reported_unharmonized,2023,2023,annual,300.00,Person,observed,not_specified,E1331,55,6,300.00,Newly enrolled pupils and students-College,,Tay Ninh
+education,e1331_5eeee52ec1,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2023,2023,annual,1998.00,Person,observed,not_specified,E1331,56,2,1998.00,Teacher,,Binh Duong
+education,e1331_49ac71a435,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2023,2023,annual,425.00,Person,observed,not_specified,E1331,56,3,425.00,Teacher-Public,,Binh Duong
+education,e1331_9812ca35d7,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2023,2023,annual,34989.00,Person,observed,not_specified,E1331,56,4,34989.00,Newly enrolled pupils and students,,Binh Duong
+education,e1331_1941347ebc,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2023,2023,annual,5448.00,Person,observed,not_specified,E1331,56,5,5448.00,Newly enrolled pupils and students-Secondary school,,Binh Duong
+education,e1331_a31a3b95ed,VN_SRC_BINHDUONG,Binh Duong,source_reported_unharmonized,2023,2023,annual,2133.00,Person,observed,not_specified,E1331,56,6,2133.00,Newly enrolled pupils and students-College,,Binh Duong
+education,e1331_5eeee52ec1,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2023,2023,annual,3156.00,Person,observed,not_specified,E1331,57,2,3156.00,Teacher,,Dong Nai
+education,e1331_49ac71a435,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2023,2023,annual,1367.00,Person,observed,not_specified,E1331,57,3,1367.00,Teacher-Public,,Dong Nai
+education,e1331_9812ca35d7,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2023,2023,annual,72738.00,Person,observed,not_specified,E1331,57,4,72738.00,Newly enrolled pupils and students,,Dong Nai
+education,e1331_1941347ebc,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2023,2023,annual,13090.00,Person,observed,not_specified,E1331,57,5,13090.00,Newly enrolled pupils and students-Secondary school,,Dong Nai
+education,e1331_a31a3b95ed,VN_SRC_DONGNAI,Dong Nai,source_reported_unharmonized,2023,2023,annual,6197.00,Person,observed,not_specified,E1331,57,6,6197.00,Newly enrolled pupils and students-College,,Dong Nai
+education,e1331_5eeee52ec1,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2023,2023,annual,1518.00,Person,observed,not_specified,E1331,58,2,1518.00,Teacher,,Ba Ria - Vung Tau
+education,e1331_49ac71a435,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2023,2023,annual,379.00,Person,observed,not_specified,E1331,58,3,379.00,Teacher-Public,,Ba Ria - Vung Tau
+education,e1331_9812ca35d7,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2023,2023,annual,28623.00,Person,observed,not_specified,E1331,58,4,28623.00,Newly enrolled pupils and students,,Ba Ria - Vung Tau
+education,e1331_1941347ebc,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2023,2023,annual,2810.00,Person,observed,not_specified,E1331,58,5,2810.00,Newly enrolled pupils and students-Secondary school,,Ba Ria - Vung Tau
+education,e1331_a31a3b95ed,VN_SRC_BARIAVUNGTAU,Ba Ria - Vung Tau,source_reported_unharmonized,2023,2023,annual,1259.00,Person,observed,not_specified,E1331,58,6,1259.00,Newly enrolled pupils and students-College,,Ba Ria - Vung Tau
+education,e1331_5eeee52ec1,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2023,2023,annual,12323.00,Person,observed,not_specified,E1331,59,2,12323.00,Teacher,,Ho Chi Minh city
+education,e1331_49ac71a435,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2023,2023,annual,4327.00,Person,observed,not_specified,E1331,59,3,4327.00,Teacher-Public,,Ho Chi Minh city
+education,e1331_9812ca35d7,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2023,2023,annual,312830.00,Person,observed,not_specified,E1331,59,4,312830.00,Newly enrolled pupils and students,,Ho Chi Minh city
+education,e1331_1941347ebc,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2023,2023,annual,23699.00,Person,observed,not_specified,E1331,59,5,23699.00,Newly enrolled pupils and students-Secondary school,,Ho Chi Minh city
+education,e1331_a31a3b95ed,VN_SRC_HOCHIMINHCITY,Ho Chi Minh city,source_reported_unharmonized,2023,2023,annual,36426.00,Person,observed,not_specified,E1331,59,6,36426.00,Newly enrolled pupils and students-College,,Ho Chi Minh city
+education,e1331_5eeee52ec1,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2023,2023,annual,601.00,Person,observed,not_specified,E1331,61,2,601.00,Teacher,,Long An
+education,e1331_49ac71a435,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2023,2023,annual,270.00,Person,observed,not_specified,E1331,61,3,270.00,Teacher-Public,,Long An
+education,e1331_9812ca35d7,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2023,2023,annual,23632.00,Person,observed,not_specified,E1331,61,4,23632.00,Newly enrolled pupils and students,,Long An
+education,e1331_1941347ebc,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2023,2023,annual,3766.00,Person,observed,not_specified,E1331,61,5,3766.00,Newly enrolled pupils and students-Secondary school,,Long An
+education,e1331_a31a3b95ed,VN_SRC_LONGAN,Long An,source_reported_unharmonized,2023,2023,annual,857.00,Person,observed,not_specified,E1331,61,6,857.00,Newly enrolled pupils and students-College,,Long An
+education,e1331_5eeee52ec1,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2023,2023,annual,607.00,Person,observed,not_specified,E1331,62,2,607.00,Teacher,,Tien Giang
+education,e1331_49ac71a435,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2023,2023,annual,497.00,Person,observed,not_specified,E1331,62,3,497.00,Teacher-Public,,Tien Giang
+education,e1331_9812ca35d7,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2023,2023,annual,13088.00,Person,observed,not_specified,E1331,62,4,13088.00,Newly enrolled pupils and students,,Tien Giang
+education,e1331_1941347ebc,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2023,2023,annual,2391.00,Person,observed,not_specified,E1331,62,5,2391.00,Newly enrolled pupils and students-Secondary school,,Tien Giang
+education,e1331_a31a3b95ed,VN_SRC_TIENGIANG,Tien Giang,source_reported_unharmonized,2023,2023,annual,1083.00,Person,observed,not_specified,E1331,62,6,1083.00,Newly enrolled pupils and students-College,,Tien Giang
+education,e1331_5eeee52ec1,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2023,2023,annual,255.00,Person,observed,not_specified,E1331,63,2,255.00,Teacher,,Ben Tre
+education,e1331_49ac71a435,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2023,2023,annual,233.00,Person,observed,not_specified,E1331,63,3,233.00,Teacher-Public,,Ben Tre
+education,e1331_9812ca35d7,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2023,2023,annual,11985.00,Person,observed,not_specified,E1331,63,4,11985.00,Newly enrolled pupils and students,,Ben Tre
+education,e1331_1941347ebc,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2023,2023,annual,1977.00,Person,observed,not_specified,E1331,63,5,1977.00,Newly enrolled pupils and students-Secondary school,,Ben Tre
+education,e1331_a31a3b95ed,VN_SRC_BENTRE,Ben Tre,source_reported_unharmonized,2023,2023,annual,754.00,Person,observed,not_specified,E1331,63,6,754.00,Newly enrolled pupils and students-College,,Ben Tre
+education,e1331_5eeee52ec1,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2023,2023,annual,279.00,Person,observed,not_specified,E1331,64,2,279.00,Teacher,,Tra Vinh
+education,e1331_49ac71a435,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2023,2023,annual,264.00,Person,observed,not_specified,E1331,64,3,264.00,Teacher-Public,,Tra Vinh
+education,e1331_9812ca35d7,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2023,2023,annual,19701.00,Person,observed,not_specified,E1331,64,4,19701.00,Newly enrolled pupils and students,,Tra Vinh
+education,e1331_1941347ebc,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2023,2023,annual,727.00,Person,observed,not_specified,E1331,64,5,727.00,Newly enrolled pupils and students-Secondary school,,Tra Vinh
+education,e1331_a31a3b95ed,VN_SRC_TRAVINH,Tra Vinh,source_reported_unharmonized,2023,2023,annual,936.00,Person,observed,not_specified,E1331,64,6,936.00,Newly enrolled pupils and students-College,,Tra Vinh
+education,e1331_5eeee52ec1,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2023,2023,annual,651.00,Person,observed,not_specified,E1331,65,2,651.00,Teacher,,Vinh Long
+education,e1331_49ac71a435,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2023,2023,annual,401.00,Person,observed,not_specified,E1331,65,3,401.00,Teacher-Public,,Vinh Long
+education,e1331_9812ca35d7,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2023,2023,annual,36658.00,Person,observed,not_specified,E1331,65,4,36658.00,Newly enrolled pupils and students,,Vinh Long
+education,e1331_1941347ebc,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2023,2023,annual,1814.00,Person,observed,not_specified,E1331,65,5,1814.00,Newly enrolled pupils and students-Secondary school,,Vinh Long
+education,e1331_a31a3b95ed,VN_SRC_VINHLONG,Vinh Long,source_reported_unharmonized,2023,2023,annual,581.00,Person,observed,not_specified,E1331,65,6,581.00,Newly enrolled pupils and students-College,,Vinh Long
+education,e1331_5eeee52ec1,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2023,2023,annual,401.00,Person,observed,not_specified,E1331,66,2,401.00,Teacher,,Dong Thap
+education,e1331_49ac71a435,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2023,2023,annual,401.00,Person,observed,not_specified,E1331,66,3,401.00,Teacher-Public,,Dong Thap
+education,e1331_9812ca35d7,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2023,2023,annual,14958.00,Person,observed,not_specified,E1331,66,4,14958.00,Newly enrolled pupils and students,,Dong Thap
+education,e1331_1941347ebc,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2023,2023,annual,3030.00,Person,observed,not_specified,E1331,66,5,3030.00,Newly enrolled pupils and students-Secondary school,,Dong Thap
+education,e1331_a31a3b95ed,VN_SRC_DONGTHAP,Dong Thap,source_reported_unharmonized,2023,2023,annual,1363.00,Person,observed,not_specified,E1331,66,6,1363.00,Newly enrolled pupils and students-College,,Dong Thap
+education,e1331_5eeee52ec1,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2023,2023,annual,640.00,Person,observed,not_specified,E1331,67,2,640.00,Teacher,,An Giang
+education,e1331_49ac71a435,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2023,2023,annual,640.00,Person,observed,not_specified,E1331,67,3,640.00,Teacher-Public,,An Giang
+education,e1331_9812ca35d7,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2023,2023,annual,28319.00,Person,observed,not_specified,E1331,67,4,28319.00,Newly enrolled pupils and students,,An Giang
+education,e1331_1941347ebc,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2023,2023,annual,3849.00,Person,observed,not_specified,E1331,67,5,3849.00,Newly enrolled pupils and students-Secondary school,,An Giang
+education,e1331_a31a3b95ed,VN_SRC_ANGIANG,An Giang,source_reported_unharmonized,2023,2023,annual,1299.00,Person,observed,not_specified,E1331,67,6,1299.00,Newly enrolled pupils and students-College,,An Giang
+education,e1331_5eeee52ec1,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2023,2023,annual,545.00,Person,observed,not_specified,E1331,68,2,545.00,Teacher,,Kien  Giang
+education,e1331_49ac71a435,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2023,2023,annual,545.00,Person,observed,not_specified,E1331,68,3,545.00,Teacher-Public,,Kien  Giang
+education,e1331_9812ca35d7,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2023,2023,annual,24792.00,Person,observed,not_specified,E1331,68,4,24792.00,Newly enrolled pupils and students,,Kien  Giang
+education,e1331_1941347ebc,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2023,2023,annual,3459.00,Person,observed,not_specified,E1331,68,5,3459.00,Newly enrolled pupils and students-Secondary school,,Kien  Giang
+education,e1331_a31a3b95ed,VN_SRC_KIENGIANG,Kien Giang,source_reported_unharmonized,2023,2023,annual,1664.00,Person,observed,not_specified,E1331,68,6,1664.00,Newly enrolled pupils and students-College,,Kien  Giang
+education,e1331_5eeee52ec1,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2023,2023,annual,1154.00,Person,observed,not_specified,E1331,69,2,1154.00,Teacher,,Can Tho
+education,e1331_49ac71a435,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2023,2023,annual,648.00,Person,observed,not_specified,E1331,69,3,648.00,Teacher-Public,,Can Tho
+education,e1331_9812ca35d7,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2023,2023,annual,45680.00,Person,observed,not_specified,E1331,69,4,45680.00,Newly enrolled pupils and students,,Can Tho
+education,e1331_1941347ebc,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2023,2023,annual,2532.00,Person,observed,not_specified,E1331,69,5,2532.00,Newly enrolled pupils and students-Secondary school,,Can Tho
+education,e1331_a31a3b95ed,VN_SRC_CANTHO,Can Tho,source_reported_unharmonized,2023,2023,annual,6042.00,Person,observed,not_specified,E1331,69,6,6042.00,Newly enrolled pupils and students-College,,Can Tho
+education,e1331_5eeee52ec1,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2023,2023,annual,735.00,Person,observed,not_specified,E1331,70,2,735.00,Teacher,,Hau Giang
+education,e1331_49ac71a435,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2023,2023,annual,148.00,Person,observed,not_specified,E1331,70,3,148.00,Teacher-Public,,Hau Giang
+education,e1331_9812ca35d7,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2023,2023,annual,12601.00,Person,observed,not_specified,E1331,70,4,12601.00,Newly enrolled pupils and students,,Hau Giang
+education,e1331_1941347ebc,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2023,2023,annual,650.00,Person,observed,not_specified,E1331,70,5,650.00,Newly enrolled pupils and students-Secondary school,,Hau Giang
+education,e1331_a31a3b95ed,VN_SRC_HAUGIANG,Hau Giang,source_reported_unharmonized,2023,2023,annual,285.00,Person,observed,not_specified,E1331,70,6,285.00,Newly enrolled pupils and students-College,,Hau Giang
+education,e1331_5eeee52ec1,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2023,2023,annual,402.00,Person,observed,not_specified,E1331,71,2,402.00,Teacher,,Soc Trang
+education,e1331_49ac71a435,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2023,2023,annual,155.00,Person,observed,not_specified,E1331,71,3,155.00,Teacher-Public,,Soc Trang
+education,e1331_9812ca35d7,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2023,2023,annual,17540.00,Person,observed,not_specified,E1331,71,4,17540.00,Newly enrolled pupils and students,,Soc Trang
+education,e1331_1941347ebc,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2023,2023,annual,400.00,Person,observed,not_specified,E1331,71,5,400.00,Newly enrolled pupils and students-Secondary school,,Soc Trang
+education,e1331_a31a3b95ed,VN_SRC_SOCTRANG,Soc Trang,source_reported_unharmonized,2023,2023,annual,959.00,Person,observed,not_specified,E1331,71,6,959.00,Newly enrolled pupils and students-College,,Soc Trang
+education,e1331_5eeee52ec1,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2023,2023,annual,236.00,Person,observed,not_specified,E1331,72,2,236.00,Teacher,,Bac Lieu
+education,e1331_49ac71a435,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2023,2023,annual,227.00,Person,observed,not_specified,E1331,72,3,227.00,Teacher-Public,,Bac Lieu
+education,e1331_9812ca35d7,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2023,2023,annual,12294.00,Person,observed,not_specified,E1331,72,4,12294.00,Newly enrolled pupils and students,,Bac Lieu
+education,e1331_1941347ebc,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2023,2023,annual,578.00,Person,observed,not_specified,E1331,72,5,578.00,Newly enrolled pupils and students-Secondary school,,Bac Lieu
+education,e1331_a31a3b95ed,VN_SRC_BACLIEU,Bac Lieu,source_reported_unharmonized,2023,2023,annual,601.00,Person,observed,not_specified,E1331,72,6,601.00,Newly enrolled pupils and students-College,,Bac Lieu
+education,e1331_5eeee52ec1,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2023,2023,annual,197.00,Person,observed,not_specified,E1331,73,2,197.00,Teacher,,Ca Mau
+education,e1331_49ac71a435,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2023,2023,annual,197.00,Person,observed,not_specified,E1331,73,3,197.00,Teacher-Public,,Ca Mau
+education,e1331_9812ca35d7,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2023,2023,annual,9112.00,Person,observed,not_specified,E1331,73,4,9112.00,Newly enrolled pupils and students,,Ca Mau
+education,e1331_1941347ebc,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2023,2023,annual,239.00,Person,observed,not_specified,E1331,73,5,239.00,Newly enrolled pupils and students-Secondary school,,Ca Mau
+education,e1331_a31a3b95ed,VN_SRC_CAMAU,Ca Mau,source_reported_unharmonized,2023,2023,annual,968.00,Person,observed,not_specified,E1331,73,6,968.00,Newly enrolled pupils and students-College,,Ca Mau
