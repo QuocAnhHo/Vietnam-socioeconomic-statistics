@@ -1,14 +1,20 @@
 # Vietnam socio-economic statistics
 
-Province-level statistics prepared from public CSV data published by Vietnam's National Statistics Office (NSO), for an independent personal website and dashboard project.
+National, regional and provincial statistics prepared from public CSV data published by Vietnam's National Statistics Office (NSO), for an independent personal website and dashboard project.
 
-**161,709 observations · 231 indicator series · 91 source tables**
+**Statistics: 4,025 complete datasets · 16,588 CSV files**
 
-[Visit the website](https://quocanhho.github.io/Vietnam-socio-economics-statistics/) · [Open the population explorer](https://quocanhho.github.io/Vietnam-socio-economics-statistics/#/explorer)
+**Dashboard: 364 provincial indicators · 283,619 observations · 13 sections**
 
-The English-language website includes a searchable statistics catalogue, dataset pages, downloads and a population explorer with 32 indicators, historical province maps, rankings, trends, comparisons and CSV exports. Census is a coming-soon placeholder. This is an independent personal project, not an official NSO website, and does not imply government endorsement.
+[Visit the website](https://quocanhho.github.io/Vietnam-socioeconomic-statistics/) · [Open Dashboard](https://quocanhho.github.io/Vietnam-socioeconomic-statistics/#/dashboard)
+
+The English-language website includes a searchable statistics catalogue, complete dataset downloads, 226 publications and releases from the last five years, and a multi-section Dashboard with 364 indicators, historical province maps, rankings, trends, comparisons and CSV exports. Census is a coming-soon placeholder. This is an independent personal project, not an official NSO website, and does not imply government endorsement.
 
 See [WEBSITE.md](WEBSITE.md) for local development, rebuilding and GitHub Pages deployment.
+
+## Original seven-section data package
+
+The files under `data/` and the September 28 release preserve the original 231-series package. The expanded Dashboard exports are under `public/downloads/indicators/`; complete source downloads are under `public/downloads/`.
 
 ## Download and explore
 
@@ -20,7 +26,7 @@ See [WEBSITE.md](WEBSITE.md) for local development, rebuilding and GitHub Pages 
 - [Sources and provenance](data/sources.csv)
 - [Data dictionary](data/data_dictionary.csv)
 - [Full data guide](data/README.md)
-- [Downloadable archives](https://github.com/QuocAnhHo/Vietnam-socio-economics-statistics/releases)
+- [Downloadable archives](https://github.com/QuocAnhHo/Vietnam-socioeconomic-statistics/releases)
 
 The complete CSV archive contains 16,588 original/converted CSV files across the wider NSO collection. The separate province dashboard package contains the prepared data in this repository. Both are intended to be available as release attachments.
 

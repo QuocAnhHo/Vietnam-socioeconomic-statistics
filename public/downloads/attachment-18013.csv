@@ -1,0 +1,332 @@
+﻿"Trị giá nhập khẩu phân theo một số nước, khối nước và vùng lãnh thổ chủ yếu ",,,,
+và phân theo mặt hàng chủ yếu sơ bộ 3 tháng năm 2014,,,,
+,,,,
+,Khối nước,ĐVT,Sơ bộ 3 tháng,
+,,,Lượng,"Trị giá 
+(1000 USD)"
+,,,,
+EU,,,,1902331.511
+,Trong đó :,,,
+,"Xơ, sợi dệt các loại",Tấn,32.0,531.122
+,Vải các loại,1000 USD,0.0,24196.638
+,Thuốc trừ sâu và nguyên liệu,1000 USD,0.0,25553.816
+,Thức ăn gia súc và nguyên liệu,1000 USD,0.0,69916.86899999999
+,Sắt thép các loại,Tấn,7515.0,24056.847999999998
+,Sản phẩm từ sắt thép,1000 USD,0.0,46773.0
+,Sản phẩm từ kim loại thường khác,1000 USD,0.0,1284.184
+,Sản phẩm từ giấy ,1000 USD,0.0,556.614
+,Sản phẩm từ chất dẻo,1000 USD,0.0,20592.847999999998
+,Sản phẩm từ cao su,1000 USD,0.0,5612.8640000000005
+,Sản phẩm khác từ dầu mỏ,1000 USD,0.0,4445.233
+,Sản phẩm hoá chất,1000 USD,0.0,90964.881
+,Sữa và sản phẩm từ sữa,1000 USD,0.0,57884.461
+,Quặng và khoáng sản khác,Tấn,2334.0,3132.215
+,Phế liệu sắt thép,Tấn,45895.0,17304.865999999998
+,Phương tiện vận tải khác và phụ tùng,1000 USD,0.0,10614.894
+,Phân bón các loại,Tấn,6032.0,3717.679
+,Nguyên phụ liệu thuốc lá,1000 USD,0.0,7923.990999999999
+,"Nguyên phụ liệu dệt may, da, giầy ",1000 USD,0.0,50489.915
+,Nguyên phụ liệu Dược phẩm ,1000 USD,0.0,11559.438
+,"Máy vi tính, sp điện tử và linh kiện",1000 USD,0.0,26818.101
+,"Máy móc, thiết bị, dụng cụ, phụ tùng khác",1000 USD,0.0,622700.4029999999
+,"Máy ảnh, máy quay phim và linh kiện",1000 USD,0.0,252.331
+,"Linh kiện, phụ tùng ô tô ",1000 USD,0.0,33265.619
+,Kim loại thường khác,Tấn,9243.0,26644.566
+,Hoá chất,1000 USD,0.0,37206.537
+,Hàng thuỷ sản,1000 USD,0.0,12616.515
+,Hàng điện gia dụng,1000 USD,0.0,485.281
+,Giấy các loại,Tấn,7434.0,11096.002
+,Gỗ và sản phẩm gỗ,1000 USD,0.0,22415.447999999997
+,Dược phẩm ,1000 USD,0.0,207180.155
+,Dây Điện và dây cáp điện,1000 USD,0.0,6184.971000000001
+,Chất dẻo nguyên liệu,Tấn,10085.0,32846.437
+,Cao su ,Tấn,1789.0,4951.945
+,Bông các loại ,Tấn,317.0,304.995
+,Bánh kẹo và các sản phẩm từ ngũ cốc,1000 USD,0.0,1659.665
+,Điện thoại các loại và linh kiện,1000 USD,0.0,578.417
+,"Đá quý, kim loại quý và sản phẩm",1000 USD,0.0,18587.148999999998
+,Ô tô nguyên chiếc các loại,Chiếc,573.0,23558.151
+ASEAN,,,,5263436.43
+,Trong đó :,,,
+,"Xơ, sợi dệt các loại ",Tấn,34147.0,57295.199
+,Xăng dầu các loại ,Tấn,869982.0,807879.964
+,Vải các loại,1000 USD,0.0,74822.764
+,Thuốc trừ sâu và nguyên liệu ,1000 USD,0.0,26988.053
+,Thức ăn gia súc và nguyên liệu,1000 USD,0.0,64107.64400000001
+,Sắt thép các loại ,Tấn,27372.0,37305.064
+,Sản phẩm từ sắt thép ,1000 USD,0.0,49912.03
+,Sản phẩm từ kim loại thường khác,1000 USD,0.0,18614.264000000003
+,Sản phẩm từ giấy ,1000 USD,0.0,7147.357
+,Sản phẩm từ chất dẻo ,1000 USD,0.0,72112.062
+,Sản phẩm từ cao su ,1000 USD,0.0,25936.221
+,Sản phẩm khác từ dầu mỏ,1000 USD,0.0,99113.51000000001
+,Sản phẩm hoá chất ,1000 USD,0.0,128670.93000000001
+,Sữa và sản phẩm sữa,1000 USD,0.0,43379.55
+,Quặng và khoáng sản khác,Tấn,736749.0,27408.895
+,Phế liệu sắt thép,Tấn,58867.0,22247.616
+,Phương tiện vận tải khác và phụ tùng ,1000 USD,0.0,1660.313
+,Phân bón các loại ,Tấn,34178.0,12392.498000000001
+,Nguyên phụ liệu thuốc lá ,1000 USD,0.0,10133.667
+,"Nguyên phụ liệu dệt may, da, giầy",1000 USD,0.0,58249.943999999996
+,Nguyên phụ liệu Dược phẩm ,,0.0,2580.6859999999997
+,Ngô,Tấn,104774.0,37928.688
+,"Máy vi tính, sp điện tử và linh kiện ",1000 USD,0.0,848564.975
+,"Máy móc, thiết bị, dụng cụ, phụ tùng khác ",1000 USD,0.0,357921.72500000003
+,"Máy ảnh, máy quay phim và linh kiện",,0.0,1336.385
+,"Linh kiện, phụ tùng ô tô ",1000 USD,0.0,132833.879
+,Kim loại thường khác ,Tấn,23076.0,101946.752
+,Khí đốt hoá lỏng ,,18401.0,19129.465
+,Hoá chất,1000 USD,0.0,148503.973
+,Hạt điều,,7168.0,11314.328000000001
+,Hàng thuỷ sản ,1000 USD,22734.0,47295.57000000001
+,Hàng rau quả ,1000 USD,0.0,29407.0
+,Hàng điện gia dụng,1000 USD,0.0,171754.445
+,Giấy các loại ,Tấn,153956.0,148425.32299999997
+,Gỗ và sản phẩm gỗ ,1000 USD,0.0,343228.78899999993
+,Dược phẩm ,1000 USD,0.0,24291.898999999998
+,Dầu mỡ động thực vật ,1000 USD,0.0,135925.40000000002
+,Dây Điện và dây cáp điện  ,1000 USD,0.0,23317.072
+,Chất dẻo nguyên liệu ,Tấn,156958.0,276167.144
+,Cao su ,Tấn,19745.0,36929.721
+,Bông các loại ,Tấn,1134.0,1370.755
+,Bánh kẹo và các sản phẩm từ ngũ cốc ,1000 USD,0.0,37267.406
+,"Đá quý, kim loại quý và sản phẩm ",1000 USD,0.0,982.478
+,Ô tô nguyên chiếc các loại ,Chiếc,2117.0,32355.99
+Mỹ,,,,1612999.825
+,Trong đó :,,,
+,Hàng thuỷ sản,1000 USD,,3221.05
+,Sữa và sản phẩm sữa ,1000 USD,,57638.255
+,Hàng rau quả,1000 USD,,12563.419
+,Lúa mỳ,Tấn,60376.0,19822.942
+,Ngô,Tấn,188520.0,47626.785
+,Đậu tương,1000 USD,357071.0,208778.429
+,Dầu mỡ động thực vật,1000 USD,,3047.547
+,Bánh kẹo và các sản phẩm từ ngũ cốc,1000 USD,,612.382
+,Thức ăn gia súc và nguyên liệu,1000 USD,,126575.344
+,Nguyên phụ liệu thuốc lá,,,7928.655
+,Quặng và khoáng sản khác,1000 USD,14407.0,12703.513
+,Sản phẩm khác từ dầu mỏ,1000 USD,,7099.77
+,Hoá chất,Tấn,,33437.598
+,Sản phẩm hoá chất,1000 USD,,47810.125
+,Dược phẩm,Tấn,,12337.962
+,Phân bón các loại,1000 USD,1008.0,1335.213
+,Thuốc trừ sâu và nguyên liệu,Tấn,,2546.239
+,Chất dẻo nguyên liệu,1000 USD,17675.0,49247.313
+,Sản phẩm từ chất dẻo,1000 USD,,12299.348
+,Cao su,Tấn,3150.0,6294.373
+,Sản phẩm từ cao su,1000 USD,,2904.403
+,Gỗ và sản phẩm gỗ,Tấn,,50753.028
+,Giấy các loại,1000 USD,3259.0,4027.862
+,Sản phẩm từ giấy,1000 USD,,1275.857
+,Bông các loại,1000 USD,73550.0,154691.372
+,Vải các loại ,Tấn,,5580.138
+,"Nguyên phụ liệu dệt may, da, giầy",Tấn,,55247.876
+,"Đá quý, kim loại quý và sản phẩm",1000 USD,,18468.793
+,Phế liệu sắt thép,Tấn,47018.0,18302.366
+,Sắt thép các loại,1000 USD,4431.0,5222.611
+,Sản phẩm từ sắt thép,1000 USD,,16110.447
+,Kim loại thường khác,1000 USD,685.0,4585.408
+,Sản phẩm từ kim loại thường khác,1000 USD,,4316.06
+,"Máy vi tính, sp điện tử và linh kiện",Tấn,,241194.929
+,Điện thoại các loại và linh kiện,1000 USD,,151.476
+,"Máy ảnh, máy quay phim và linh kiện",1000 USD,,261.774
+,"Máy móc, thiết bị, dụng cụ, phụ tùng khác",,,192246.221
+,Dây điện và dây cáp điện,,,1779.026
+,Ô tô nguyên chiếc các loại,,141.0,5776.703
+,"Linh kiện, phụ tùng ô tô",,,2032.446
+,Phương tiện vận tải khác và phụ tùng,,,23229.625
+Hàn Quốc,,,,5509265.833
+,Trong đó :,,,
+,Hàng thuỷ sản,1000 USD,,7967.08
+,Sữa và sản phẩm sữa ,1000 USD,,2851.038
+,Hàng rau quả,1000 USD,,1358.732
+,Dầu mỡ động thực vật,1000 USD,,1130.329
+,Bánh kẹo và các sản phẩm từ ngũ cốc,1000 USD,,1980.381
+,Thức ăn gia súc và nguyên liệu,1000 USD,,6717.158
+,Nguyên phụ liệu thuốc lá,,,750.358
+,Quặng và khoáng sản khác,Tấn,1620.0,954.093
+,Xăng dầu các loại,Tấn,194950.0,194081.692
+,Khí đốt hoá lỏng,Tấn,927.0,928.082
+,Sản phẩm khác từ dầu mỏ,1000 USD,,26040.882
+,Hoá chất,1000 USD,,79262.839
+,Sản phẩm hoá chất,1000 USD,,92583.446
+,Nguyên phụ liệu Dược phẩm ,1000 USD,,737.276
+,Dược phẩm,1000 USD,,36571.871
+,Phân bón các loại,Tấn,6794.0,3880.368
+,Thuốc trừ sâu và nguyên liệu,1000 USD,,6697.372
+,Chất dẻo nguyên liệu,Tấn,147667.0,281374.765
+,Sản phẩm từ chất dẻo,1000 USD,,187663.865
+,Cao su,Tấn,15681.0,30281.714
+,Sản phẩm từ cao su,1000 USD,,22521.671
+,Gỗ và sản phẩm gỗ,1000 USD,,3403.089
+,Giấy các loại,Tấn,40312.0,35661.924
+,Sản phẩm từ giấy,1000 USD,,13175.93
+,Bông các loại,Tấn,557.0,700.957
+,"Xơ, sợi dệt các loại",Tấn,14076.0,39314.543
+,Vải các loại ,1000 USD,,386493.354
+,"Nguyên phụ liệu dệt may, da, giầy",1000 USD,,173652.128
+,"Đá quý, kim loại quý và sản phẩm",1000 USD,,4982.546
+,Phế liệu sắt thép,Tấn,310.0,197.51
+,Sắt thép các loại,Tấn,334001.0,247330.018
+,Sản phẩm từ sắt thép,1000 USD,,164827.075
+,Kim loại thường khác,Tấn,57069.0,190720.872
+,Sản phẩm từ kim loại thường khác,1000 USD,,32977.416
+,"Máy vi tính, sp điện tử và linh kiện",1000 USD,,1414797.468
+,Hàng điện gia dụng và linh kiện,1000 USD,,6947.46
+,Điện thoại các loại và linh kiện,1000 USD,,577921.965
+,"Máy ảnh, máy quay phim và linh kiện",1000 USD,,96027.54
+,"Máy móc, thiết bị, dụng cụ, phụ tùng khác",1000 USD,,768047.369
+,Dây điện và dây cáp điện,1000 USD,,27669.715
+,Ô tô nguyên chiếc các loại,Tấn,3695.0,47513.301
+,"Linh kiện, phụ tùng ô tô",1000 USD,,110267.983
+,Phương tiện vận tải khác và phụ tùng,1000 USD,,11648.976
+Nhật Bản,,,,2520952.55
+,Trong đó :,,,
+,Hàng thuỷ sản,1000 USD,,11515.267
+,Sữa và sản phẩm sữa ,1000 USD,,226.918
+,Thức ăn gia súc và nguyên liệu,1000 USD,,1514.22
+,Nguyên phụ liệu thuốc lá,,,9501.812
+,Quặng và khoáng sản khác,Tấn,18264.0,2426.268
+,Xăng dầu các loại,,,0.0
+,Sản phẩm khác từ dầu mỏ,1000 USD,,7748.452
+,Hoá chất,1000 USD,,55908.931
+,Sản phẩm hoá chất,1000 USD,,57384.021
+,Nguyên phụ liệu Dược phẩm ,1000 USD,,310.181
+,Dược phẩm,1000 USD,,3601.177
+,Phân bón các loại,Tấn,69330.0,10809.515
+,Thuốc trừ sâu và nguyên liệu,1000 USD,,7669.832
+,Chất dẻo nguyên liệu,Tấn,26684.0,66037.44
+,Sản phẩm từ chất dẻo,1000 USD,,121628.416
+,Cao su,Tấn,10593.0,28257.919
+,Sản phẩm từ cao su,1000 USD,,20331.791
+,Gỗ và sản phẩm gỗ,1000 USD,,1310.319
+,Giấy các loại,Tấn,21896.0,20729.574
+,Sản phẩm từ giấy,1000 USD,,9609.98
+,"Xơ, sợi dệt các loại",Tấn,2283.0,12176.85
+,Vải các loại ,1000 USD,,110276.542
+,"Nguyên phụ liệu dệt may, da, giầy",1000 USD,,47567.766
+,"Đá quý, kim loại quý và sản phẩm",1000 USD,,6105.452
+,Phế liệu sắt thép,,36965.0,13780.646
+,Sắt thép các loại,Tấn,473539.0,309358.498
+,Sản phẩm từ sắt thép,1000 USD,,93464.099
+,Kim loại thường khác,Tấn,11900.0,75334.838
+,Sản phẩm từ kim loại thường khác,1000 USD,,12925.225
+,"Máy vi tính, sp điện tử và linh kiện",1000 USD,,331840.144
+,Hàng điện gia dụng và linh kiện,1000 USD,,2712.397
+,Điện thoại các loại và linh kiện,1000 USD,,4263.181
+,"Máy ảnh, máy quay phim và linh kiện",1000 USD,,10234.397
+,"Máy móc, thiết bị, dụng cụ, phụ tùng khác",1000 USD,,784474.747
+,Dây điện và dây cáp điện,1000 USD,,23318.785
+,Ô tô nguyên chiếc các loại,Tấn,745.0,24626.323
+,"Linh kiện, phụ tùng ô tô",1000 USD,,73201.569
+,Phương tiện vận tải khác và phụ tùng,Tấn,,13788.556
+Ô-xtrây-li-a,,,,451514.543
+,Trong đó :,,,
+,Sữa và sản phẩm sữa ,1000 USD,,7138.914
+,Hàng rau quả,1000 USD,,7362.185
+,Lúa mỳ,Tấn,427203.0,135274.961
+,Dầu mỡ động thực vật,1000 USD,,956.493
+,Thức ăn gia súc và nguyên liệu,1000 USD,,5059.061
+,Khí đốt hoá lỏng,Tấn,28168.0,9343.482
+,Sản phẩm khác từ dầu mỏ,1000 USD,,3637.072
+,Hoá chất,1000 USD,,1045.773
+,Sản phẩm hoá chất,Tấn,,7321.142
+,Dược phẩm,Tấn,,10276.216
+,Chất dẻo nguyên liệu,1000 USD,712.0,1416.334
+,Gỗ và sản phẩm gỗ,Tấn,,2637.74
+,Bông các loại,1000 USD,2443.0,5189.943
+,"Nguyên phụ liệu dệt may, da, giầy",1000 USD,,5903.895
+,"Đá quý, kim loại quý và sản phẩm",1000 USD,,3741.815
+,Phế liệu sắt thép,Tấn,121494.0,48622.362
+,Sắt thép các loại,Tấn,2430.0,1534.064
+,Sản phẩm từ sắt thép,1000 USD,,2633.05
+,Kim loại thường khác,Tấn,27696.0,77186.122
+,"Máy móc, thiết bị, dụng cụ, phụ tùng khác",,,7910.798
+CHND Trung Hoa,,,,8808714.393
+,Trong đó :,,,
+,Hàng thuỷ sản,1000 USD,,7282.626
+,Sữa và sản phẩm sữa ,,,0.0
+,Hàng rau quả,1000 USD,,29767.654
+,Dầu mỡ động thực vật,1000 USD,,686.22
+,Bánh kẹo và các sản phẩm từ ngũ cốc,1000 USD,,2193.914
+,Thức ăn gia súc và nguyên liệu,1000 USD,,45826.379
+,Nguyên phụ liệu thuốc lá,1000 USD,,8897.771
+,Quặng và khoáng sản khác,Tấn,68485.0,15759.654
+,Xăng dầu các loại,Tấn,351685.0,344103.967
+,Khí đốt hoá lỏng,Tấn,83053.0,83891.41
+,Sản phẩm khác từ dầu mỏ,1000 USD,,23516.71
+,Hoá chất,1000 USD,,208520.192
+,Sản phẩm hoá chất,1000 USD,,131465.143
+,Nguyên phụ liệu Dược phẩm ,1000 USD,,46559.141
+,Dược phẩm,1000 USD,,12122.648
+,Phân bón các loại,Tấn,400335.0,126108.323
+,Thuốc trừ sâu và nguyên liệu,1000 USD,,111153.776
+,Chất dẻo nguyên liệu,Tấn,50768.0,109414.92
+,Sản phẩm từ chất dẻo,1000 USD,,176295.722
+,Cao su,Tấn,3616.0,8404.238
+,Sản phẩm từ cao su,1000 USD,,33813.085
+,Gỗ và sản phẩm gỗ,1000 USD,,42997.832
+,Giấy các loại,Tấn,60187.0,47880.128
+,Sản phẩm từ giấy,1000 USD,,38071.166
+,Bông các loại,Tấn,527.0,1883.137
+,"Xơ, sợi dệt các loại",Tấn,60968.0,124650.407
+,Vải các loại ,1000 USD,,909402.043
+,"Nguyên phụ liệu dệt may, da, giầy",1000 USD,,317113.58
+,"Đá quý, kim loại quý và sản phẩm",1000 USD,,16956.189
+,Sắt thép các loại,Tấn,866369.0,565996.8
+,Sản phẩm từ sắt thép,1000 USD,,166531.255
+,Kim loại thường khác,Tấn,29031.0,109607.001
+,Sản phẩm từ kim loại thường khác,1000 USD,,32974.12
+,"Máy vi tính, sp điện tử và linh kiện",1000 USD,,970804.983
+,Hàng điện gia dụng và linh kiện,1000 USD,,49107.091
+,Điện thoại các loại và linh kiện,1000 USD,,1406382.892
+,"Máy ảnh, máy quay phim và linh kiện",1000 USD,,163470.682
+,"Máy móc, thiết bị, dụng cụ, phụ tùng khác",1000 USD,,1573439.883
+,Dây điện và dây cáp điện,1000 USD,,91379.193
+,Ô tô nguyên chiếc các loại,Tấn,1258.0,57912.077
+,"Linh kiện, phụ tùng ô tô",1000 USD,,59191.859
+,Phương tiện vận tải khác và phụ tùng,Tấn,,8101.921
+Ấn Độ ,,,,850915.924
+,Trong đó :,,,
+,Hàng thuỷ sản,1000 USD,,93840.298
+,Sữa và sản phẩm sữa ,1000 USD,,62.76
+,Hàng rau quả,1000 USD,,1644.465
+,Lúa mỳ,Tấn,1027.0,332.124
+,Ngô,Tấn,229572.0,55060.692
+,Dầu mỡ động thực vật,1000 USD,,1850.669
+,Thức ăn gia súc và nguyên liệu,1000 USD,,59598.96
+,Nguyên phụ liệu thuốc lá,,,6071.78
+,Quặng và khoáng sản khác,Tấn,20142.0,2940.402
+,Sản phẩm khác từ dầu mỏ,1000 USD,,3405.347
+,Hoá chất,1000 USD,,19728.744
+,Sản phẩm hoá chất,1000 USD,,15772.152
+,Nguyên phụ liệu Dược phẩm ,1000 USD,,13490.672
+,Dược phẩm,1000 USD,,62245.07
+,Phân bón các loại,Tấn,823.0,2760.804
+,Thuốc trừ sâu và nguyên liệu,1000 USD,,10772.394
+,Chất dẻo nguyên liệu,Tấn,19200.0,31418.791
+,Sản phẩm từ chất dẻo,1000 USD,,3715.09
+,Sản phẩm từ cao su,1000 USD,,935.662
+,Giấy các loại,Tấn,1593.0,4895.825
+,Sản phẩm từ giấy,1000 USD,,187.947
+,Bông các loại,Tấn,60602.0,114170.953
+,"Xơ, sợi dệt các loại",Tấn,7042.0,18019.999
+,Vải các loại ,1000 USD,,14240.753
+,"Nguyên phụ liệu dệt may, da, giầy",1000 USD,,24065.87
+,"Đá quý, kim loại quý và sản phẩm",1000 USD,,5619.124
+,Sắt thép các loại,Tấn,202361.0,117368.881
+,Sản phẩm từ sắt thép,1000 USD,,2746.441
+,Kim loại thường khác,Tấn,10072.0,33129.62
+,"Máy vi tính, sp điện tử và linh kiện",1000 USD,,976.175
+,"Máy móc, thiết bị, dụng cụ, phụ tùng khác",1000 USD,,68235.231
+,Ô tô nguyên chiếc các loại,Tấn,1713.0,6156.6
+,"Linh kiện, phụ tùng ô tô",1000 USD,,4585.587
+U-crai-na ,,1000 USD,,15416.078
+,Trong đó :,,,
+,Lúa mỳ,1000 USD,,0.0
+,Thức ăn gia súc và nguyên liệu,1000 USD,,72.286
+,Hoá chất,1000 USD,,39.6
+,Sắt thép các loại,Tấn,476.0,466.225
+,Sản phẩm từ sắt thép,1000 USD,,660.779
+,"Máy móc, thiết bị, dụng cụ, phụ tùng khác",1000 USD,,3404.049
+,Phương tiện vận tải khác và phụ tùng,1000 USD,,2200.0

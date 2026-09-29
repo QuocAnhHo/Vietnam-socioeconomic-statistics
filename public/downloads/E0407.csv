@@ -1,0 +1,67 @@
+﻿"Disbursed state investment by management level by Items, Year and Management level"
+
+Items,Year,Total,Central,Local
+At current prices (Bill. VND),2010,364286.0,174129.0,190157.0
+At current prices (Bill. VND),2011,387576.0,167824.0,219752.0
+At current prices (Bill. VND),2012,459504.0,196897.0,262607.0
+At current prices (Bill. VND),2013,493724.0,207611.0,286113.0
+At current prices (Bill. VND),2014,529468.0,232892.0,296576.0
+At current prices (Bill. VND),2015,556380.0,265393.0,290987.0
+At current prices (Bill. VND),2016,587110.0,281226.0,305884.0
+At current prices (Bill. VND),2017,616459.0,268160.0,348299.0
+At current prices (Bill. VND),2018,630142.0,256468.0,373674.0
+At current prices (Bill. VND),2019,643094.0,259553.0,383541.0
+At current prices (Bill. VND),2020,734735.0,294923.0,439812.0
+At current prices (Bill. VND),2021,719293.0,281463.0,437830.0
+At current prices (Bill. VND),2022,832062.0,313189.0,518873.0
+At current prices (Bill. VND),2023,968187.0,350489.0,617698.0
+At current prices (Bill. VND),2024,1030281.0,380108.0,650173.0
+At current prices (Bill. VND),Prel. 2025,1233578.0,433153.0,800425.0
+Structure (%),2010,100.0,47.8,52.2
+Structure (%),2011,100.0,43.3,56.7
+Structure (%),2012,100.0,42.8,57.2
+Structure (%),2013,100.0,42.1,57.9
+Structure (%),2014,100.0,44.0,56.0
+Structure (%),2015,100.0,47.7,52.3
+Structure (%),2016,100.0,47.9,52.1
+Structure (%),2017,100.0,43.5,56.5
+Structure (%),2018,100.0,40.7,59.3
+Structure (%),2019,100.0,40.4,59.6
+Structure (%),2020,100.0,40.1,59.9
+Structure (%),2021,100.0,39.1,60.9
+Structure (%),2022,100.0,37.6,62.4
+Structure (%),2023,100.0,36.2,63.8
+Structure (%),2024,100.0,36.9,63.1
+Structure (%),Prel. 2025,100.0,35.1,64.9
+At constant 2010 prices (Bill. VND),2010,364286.0,174129.0,190157.0
+At constant 2010 prices (Bill. VND),2011,324940.0,143058.0,181882.0
+At constant 2010 prices (Bill. VND),2012,368629.0,160873.0,207756.0
+At constant 2010 prices (Bill. VND),2013,392359.0,168189.0,224170.0
+At constant 2010 prices (Bill. VND),2014,413319.0,185254.0,228065.0
+At constant 2010 prices (Bill. VND),2015,425225.0,206659.0,218566.0
+At constant 2010 prices (Bill. VND),2016,453106.0,221116.0,231990.0
+At constant 2010 prices (Bill. VND),2017,468411.0,206897.0,261514.0
+At constant 2010 prices (Bill. VND),2018,463566.0,191453.0,272113.0
+At constant 2010 prices (Bill. VND),2019,461107.0,187855.0,273252.0
+At constant 2010 prices (Bill. VND),2020,518787.0,209797.0,308990.0
+At constant 2010 prices (Bill. VND),2021,491046.0,193615.0,297431.0
+At constant 2010 prices (Bill. VND),2022,539345.0,204575.0,334770.0
+At constant 2010 prices (Bill. VND),2023,619155.0,226027.0,393128.0
+At constant 2010 prices (Bill. VND),2024,656012.0,244024.0,411988.0
+At constant 2010 prices (Bill. VND),Prel. 2025,761302.0,269368.0,491934.0
+Index (Previous year=100)-%,2010,..,..,..
+Index (Previous year=100)-%,2011,89.2,82.2,95.6
+Index (Previous year=100)-%,2012,113.4,112.5,114.2
+Index (Previous year=100)-%,2013,106.4,104.5,107.9
+Index (Previous year=100)-%,2014,105.3,110.1,101.7
+Index (Previous year=100)-%,2015,102.9,111.6,95.8
+Index (Previous year=100)-%,2016,106.6,107.0,106.1
+Index (Previous year=100)-%,2017,103.4,93.6,112.7
+Index (Previous year=100)-%,2018,99.0,92.5,104.1
+Index (Previous year=100)-%,2019,99.5,98.1,100.4
+Index (Previous year=100)-%,2020,112.5,111.7,113.1
+Index (Previous year=100)-%,2021,94.7,92.3,96.3
+Index (Previous year=100)-%,2022,109.8,105.7,112.6
+Index (Previous year=100)-%,2023,114.8,110.5,117.4
+Index (Previous year=100)-%,2024,106.0,108.0,104.8
+Index (Previous year=100)-%,Prel. 2025,116.1,110.4,119.4

@@ -1,0 +1,121 @@
+﻿"Chỉ số sản xuất công nghiệp
+Tháng 01 năm 2022",,,,,
+,,,,,
+"Mã ngành
+","Tên ngành
+",Các tháng năm 2022 so với tháng bình quân năm gốc 2015,,"Tháng 01/2022
+so với
+tháng 12/2021","Tháng 01/2022
+so với
+cùng kỳ năm trước"
+,,Tháng 12/2021,Tháng 01/2022,,
+A,B,1,2,3,4
+0,Toàn ngành công nghiệp,163.49,158.39,96.88,102.39
+B,Khai khoáng,87.89,76.49,87.02,95.36
+5,Khai thác than cứng và than non,147.81,139.89,94.64,105.87
+510,Khai thác và thu gom than cứng,147.81,139.89,94.64,105.87
+6,Khai thác dầu thô và khí đốt tự nhiên,72.95,60.1,82.39,90.3
+610,Khai thác dầu thô,63.41,52.63,82.99,92.54
+620,Khai thác khí đốt tự nhiên,84.99,69.55,81.83,88.26
+7,Khai thác quặng kim loại,48.55,78.05,160.77,121.88
+710,Khai thác quặng sắt,16.13,66.76,413.91,177.33
+722,Khai thác quặng kim loại khác không chứa sắt,60.85,82.34,135.31,111.18
+8,Khai khoáng khác,163.83,142.33,86.88,96.15
+810,"Khai thác đá, cát, sỏi, đất sét",163.83,142.33,86.88,96.15
+9,Hoạt động dịch vụ hỗ trợ khai thác mỏ và quặng,61.62,59.03,95.8,100.27
+910,Hoạt động dịch vụ hỗ trợ khai thác dầu thô và khí tự nhiên,61.62,59.03,95.8,100.27
+C,"Công nghiệp chế biến , chế tạo",179.62,175.7,97.82,102.82
+10,Sản xuất chế biến thực phẩm,128.66,120,93.27,107.25
+1020,"Chế biến, bảo quản thuỷ sản và các sản phẩm từ thuỷ sản",130.06,118.53,91.13,109.49
+1030,Chế biến và bảo quản rau quả,176.31,144.41,81.91,112.37
+1050,Chế biến sữa và các sản phẩm từ sữa,149.81,142.21,94.93,116.46
+1061,Xay xát và sản xuất bột thô,43.18,43.21,100.09,108.35
+1079,Sản xuất thực phẩm khác chưa được phân vào đâu,193.66,184.74,95.39,98.57
+1080,"Sản xuất thức ăn gia súc, gia cầm và thuỷ sản",118.2,116.45,98.53,104.57
+11,Sản xuất đồ uống,157.55,149.32,94.78,97.32
+1103,Sản xuất bia và mạch nha ủ men bia,192.31,173.97,90.46,97.82
+1104,"Sản xuất đồ uống không cồn, nước khoáng",117.3,120.78,102.97,96.49
+12,Sản xuất sản phẩm thuốc lá,146.93,141.17,96.08,99.09
+1200,Sản xuất sản phẩm thuốc lá,146.93,141.17,96.08,99.09
+13,Dệt,153.34,150.4,98.08,108.81
+1311,Sản xuất sợi,185.97,182.91,98.35,108.51
+1312,Sản xuất vải dệt thoi,88.8,91.45,102.98,99.68
+1322,Sản xuất hàng may sẵn (trừ trang phục),79.68,71.74,90.04,127.19
+14,Sản xuất trang phục,139.18,135.33,97.23,111.37
+1410,May trang phục (trừ trang phục từ da lông thú),139.18,135.33,97.23,111.37
+15,Sản xuất da và các sản phẩm có liên quan,177.01,176.06,99.47,112.28
+1520,Sản xuất giày dép,177.01,176.06,99.47,112.28
+16,"Chế biến gỗ và sản xuất sản phẩm từ gỗ, tre, nứa (trừ giường, tủ, bàn, ghế); sản xuất sản phẩm từ rơm, rạ và vật liệu tết bện",87.96,80.64,91.68,94.86
+1610,"Cưa, xẻ, bào gỗ và bảo quản gỗ",83.45,73.21,87.73,80.13
+1621,"Sản xuất gỗ dán, gỗ lạng, ván ép và ván mỏng khác",96.39,94.51,98.06,129.24
+17,Sản xuất giấy và sản phẩm từ giấy,158.63,151.34,95.41,104.92
+1702,"Sản xuất giấy nhăn, bìa nhăn, bao bì từ giấy và bìa",151.8,149.05,98.19,114.64
+1709,Sản xuất các sản phẩm khác từ giấy và bìa chưa được phân vào đâu,170.7,155.39,91.03,91.74
+18,"In, sao chép bản ghi các loại",526.93,681.97,129.42,108.39
+1811,In ấn,740.88,980.71,132.37,108.41
+1812,Dịch vụ liên quan đến in,123.7,118.96,96.17,108.08
+19,"Sản xuất than cốc, sản phẩm dầu mỏ tinh chế",234.22,237.64,101.46,102.61
+1910,Sản xuất than cốc,0,0,95.19,100.53
+1920,Sản xuất sản phẩm dầu mỏ tinh chế,227.72,231.46,101.64,102.66
+20,Sản xuất hoá chất và sản phẩm hoá chất,122.88,126.03,102.57,106.01
+2012,Sản xuất phân bón và hợp chất ni tơ,111.65,120.27,107.73,115.36
+2013,Sản xuất plastic và cao su tổng hợp dạng nguyên sinh,177.8,176.63,99.35,109.49
+2022,"Sản xuất sơn, véc ni và các chất sơn, quét tương tự; sản xuất mực in và ma tít",136.28,134.76,98.89,112.73
+2023,"Sản xuất mỹ phẩm, xà phòng, chất tẩy rửa, làm bóng và chế phẩm vệ sinh",102.16,107.33,105.06,88.61
+2029,Sản xuất sản phẩm hoá chất khác chưa được phân vào đâu,105.63,105.41,99.79,100.36
+21,"Sản xuất thuốc, hoá dược và dược liệu",115.83,115.04,99.32,96.44
+2100,"Sản xuất thuốc, hoá dược và dược liệu",115.83,115.04,99.32,96.44
+22,Sản xuất sản phẩm từ cao su và plastic,140.99,138.42,98.18,108.06
+2220,Sản xuất sản phẩm từ plastic,140.99,138.42,98.18,108.06
+23,Sản xuất sản phẩm từ khoáng phi kim loại khác,201.29,183.26,91.04,102.99
+2392,Sản xuất vật liệu xây dựng từ đất sét,114.64,103.91,90.64,98.31
+2394,"Sản xuất xi măng, vôi, thạch cao",260.97,237.44,90.98,104.72
+2395,Sản xuất bê tông và các sản phẩm từ xi măng và thạch cao,111.72,103.51,92.65,95.95
+24,Sản xuất kim loại,338.27,333.07,98.46,102.74
+2410,"Sản xuất sắt, thép, gang",338.27,333.07,98.46,102.74
+25,"Sản xuất sản phẩm từ kim loại đúc sẵn (trừ máy móc, thiết bị)",164.26,148.21,90.23,116.8
+2511,Sản xuất các cấu kiện kim loại,179.74,149.62,83.24,119.15
+2592,Gia công cơ khí; xử lý và tráng phủ kim loại,223.43,221.65,99.2,114.87
+2599,Sản xuất sản phẩm khác bằng kim loại chưa được phân vào đâu,125.42,119.15,95,115.1
+26,"Sản xuất sản phẩm điện tử, máy vi tính và sản phẩm quang học",232.8,213.67,91.78,95.01
+2610,Sản xuất linh kiện điện tử,369.07,351.25,95.17,103.2
+2630,Sản xuất thiết bị truyền thông,204.89,182.9,89.27,92.02
+2640,Sản xuất sản phẩm điện tử dân dụng,325.32,345.25,106.13,101.59
+27,Sản xuất thiết bị điện,125.73,249.99,198.83,111.46
+2710,"Sản xuất mô tơ, máy phát, biến thế điện, thiết bị phân phối và điều khiển điện",105.76,91.55,86.56,118.65
+2720,Sản xuất pin và ắc quy,121.97,152.09,124.7,103.64
+2732,"Sản xuất dây cáp, dây điện và điện tử khác",103.74,105.61,101.8,97.92
+2750,Sản xuất đồ điện dân dụng,215.53,954.58,442.89,116.21
+28,"Sản xuất máy móc, thiết bị chưa được phân vào đâu",145.19,153.35,105.62,107.44
+2813,"Sản xuất máy bơm, máy nén, vòi và van khác",96.42,82.54,85.61,88.72
+2816,"Sản xuất các thiết bị nâng, hạ và bốc xếp",129.3,116.15,89.83,137.83
+2817,Sản xuất máy móc và thiết bị văn phòng (trừ máy vi tính và thiết bị ngoại vi của máy vi tính),132.32,160.58,121.35,115.85
+2819,Sản xuất máy thông dụng khác,106.3,103.12,97.01,71.78
+2826,"Sản xuất máy cho ngành dệt, may và da",146.9,148.85,101.33,89.99
+2829,Sản xuất máy chuyên dụng khác,268.23,290.29,108.22,116.52
+29,Sản xuất xe có động cơ,201.66,210.59,104.43,102.8
+2910,Sản xuất xe có động cơ,188.98,204.85,108.4,107.32
+2930,Sản xuất phụ tùng và bộ phận phụ trợ cho xe có động cơ và động cơ xe,221.46,219.57,99.15,96.86
+30,Sản xuất phương tiện vận tải khác,137.33,117.04,85.22,100.48
+3091,"Sản xuất mô tô, xe máy",137.33,117.04,85.22,100.48
+31,"Sản xuất giường, tủ, bàn, ghế",116.84,117.64,100.68,98.21
+3100,"Sản xuất giường, tủ, bàn, ghế",116.84,117.64,100.68,98.21
+32,"Công nghiệp chế biến, chế tạo khác",185.77,133.14,71.67,115.34
+3240,"Sản xuất đồ chơi, trò chơi",472.8,184.95,39.12,110.29
+3250,"Sản xuất thiết bị, dụng cụ y tế, nha khoa, chỉnh hình và phục hồi chức năng",132.05,136.89,103.66,130.06
+3290,Sản xuất khác chưa được phân vào đâu,108.79,111.12,102.15,109.33
+33,"Sửa chữa, bảo dưỡng và lắp đặt máy móc và thiết bị",82.87,64.23,77.51,102.79
+3312,"Sửa chữa máy móc, thiết bị",140.54,83.34,59.3,148.84
+3315,"Sửa chữa và bảo dưỡng phương tiện vận tải (trừ ô tô, mô tô, xe máy và xe có động cơ khác)",58.72,55.91,95.21,101.81
+3320,Lắp đặt máy móc và thiết bị công nghiệp,73.42,61.39,83.63,84.11
+D,"Sản xuất và phân phối điện, khí đốt, nước nóng, hơi nước và điều hoà không khí",165.47,163.18,98.62,105.09
+35,"Sản xuất và phân phối điện, khí đốt, nước nóng, hơi nước và điều hoà không khí",165.47,163.18,98.62,105.09
+3510,"Sản xuất, truyền tải và phân phối điện",165.47,163.18,98.62,105.09
+E,"Cung cấp nước; hoạt động quản lý và xử lý rác thải, nước thải",152.99,139.7,91.32,101.17
+36,"Khai thác, xử lý và cung cấp nước",138.36,137.27,99.22,102.47
+3600,"Khai thác, xử lý và cung cấp nước",138.36,137.27,99.22,102.47
+37,Thoát nước và xử lý nước thải,172.19,140.09,81.36,104.71
+3700,Thoát nước và xử lý nước thải,172.19,140.09,81.36,104.71
+38,"Hoạt động thu gom, xử lý và tiêu huỷ rác thải; tái chế phế liệu",170.36,143.22,84.07,98.67
+3811,Thu gom rác thải không độc hại,138.94,130.59,93.99,103.91
+3830,Tái chế phế liệu,247.65,174.28,70.37,90.27

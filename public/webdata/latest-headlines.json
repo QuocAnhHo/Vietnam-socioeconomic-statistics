@@ -1,0 +1,74 @@
+{
+  "checked": "2026-09-29",
+  "items": [
+    {
+      "id": "population",
+      "label": "Population",
+      "value": 102.34532,
+      "unit": "million people",
+      "period": "2025 · annual average",
+      "basis": "National total from table E0201.",
+      "source_url": "https://www.nso.gov.vn/en/px-web?pxid=E0201&theme=Population%20and%20Employment"
+    },
+    {
+      "id": "gdp_per_capita",
+      "label": "GDP per capita",
+      "value": 5025.85,
+      "unit": "USD per person",
+      "decimals": 0,
+      "period": "2025 · estimated",
+      "basis": "Current prices; average exchange rate. Table E0301.",
+      "source_url": "https://www.nso.gov.vn/en/px-web?pxid=E0301&theme=National%20Accounts%20and%20State%20budget"
+    },
+    {
+      "id": "gdp_growth",
+      "label": "GDP growth",
+      "value": 8.39,
+      "prefix": "+",
+      "unit": "% year on year",
+      "period": "Q2 2026 · estimated",
+      "basis": "Latest quarter versus Q2 2025. First-half growth: 8.18%.",
+      "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/08/report-socio-economic-performance-in-second-quarter-and-the-first-half-of-2026/"
+    },
+    {
+      "id": "fdi",
+      "label": "FDI investment · YTD",
+      "value": 17.25,
+      "unit": "billion USD disbursed",
+      "period": "January–August 2026 · estimated",
+      "basis": "Realised inward FDI. Registered inward investment: USD 40.63 billion.",
+      "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/09/report-socio-economic-performance-in-august-and-8-months-of-2026/"
+    },
+    {
+      "id": "exports",
+      "label": "Exports · YTD",
+      "value": 374.836705918,
+      "unit": "billion USD",
+      "period": "January–August 2026 · preliminary",
+      "basis": "Goods, FOB valuation. Release dated 19 September 2026.",
+      "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/03/exports-and-imports-value-by-months-of-2026/",
+      "source_file": "data_attachments/2026/62384_E01_2026/001_1.csv",
+      "source_value_thousand_usd": "374836705.918"
+    },
+    {
+      "id": "imports",
+      "label": "Imports · YTD",
+      "value": 395.29826637,
+      "unit": "billion USD",
+      "period": "January–August 2026 · preliminary",
+      "basis": "Goods, CIF valuation. Release dated 19 September 2026.",
+      "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/03/exports-and-imports-value-by-months-of-2026/",
+      "source_file": "data_attachments/2026/62385_E02_2026/001_2.csv",
+      "source_value_thousand_usd": "395298266.37"
+    },
+    {
+      "id": "cpi",
+      "label": "Consumer price index",
+      "value": 104.89,
+      "unit": "index · August 2025 = 100",
+      "period": "August 2026",
+      "basis": "Equivalent to +4.89% year on year; +0.47% month on month. Index rebased from NSO’s reported annual change.",
+      "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/09/consumer-price-index-gold-price-index-and-us-dollar-price-index-in-august-and-eight-months-of-2026/"
+    }
+  ]
+}

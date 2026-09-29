@@ -10,3 +10,5 @@ node_modules/
 .vite/
 qa/
 dist/
+!public/downloads/*.zip
+!docs/downloads/*.zip

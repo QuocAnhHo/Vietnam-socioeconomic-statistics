@@ -1,0 +1,114 @@
+﻿The index of industrial production (IIP) of April 2026,,,,,,,,
+,,,,,,,,
+Code,Activities,IIP of 2026's every month in comparison with the average month of  base year 2015,,,,4/2026 over 3/2026,4/2026 over 4/2025,4 months of 2026 over 4 months of 2025
+,,Jan,Feb,March,April,,,
+A,B,1,2,3,4,5,6,7
+0,Whole industry,194.68,157.2,186.72,192.26,102.97,109.88,109.2
+B,Mining and quarying,77.3,62.33,74.99,75.93,101.26,107.6,103.95
+5,Mining of coal and lignite,144.76,102.71,146.84,142.95,97.35,95.23,94.7
+510,Mining of hard coal ,144.76,102.71,146.84,142.95,97.35,95.23,94.7
+6,Extraction of crude petroleum and nutural gas,54.17,46.91,57.81,59.04,102.14,114.61,108.78
+610,Extraction of crude petroleum,52.72,47.51,54.45,54.45,100,121.98,114.44
+620,Extraction of natural gas,56,46.16,62.05,64.85,104.5,107.71,102.91
+7,Mining of metal ores,84.17,63.17,92.29,84.13,91.16,94.17,91.54
+710,Mining of iron ores,26.26,16.28,21.76,20.42,93.85,74.29,83.47
+722,Mining of other non-ferrous metal ores,106.14,80.97,119.06,108.31,90.98,96.01,92.23
+8,"Other mining and quarrying (stone, sand and clay)",178.56,131.56,156.6,166.45,106.29,104.86,112.45
+810,"Quarrying of stone, sand and clay",178.56,131.56,156.6,166.45,106.29,104.86,112.45
+9,Mining support service activities,102.32,90.94,21.74,24.57,113.01,166.35,85.52
+910,Support activities for petroleum and natural gas mining,102.32,90.94,21.74,24.57,113.01,166.35,85.52
+C,Manufacturing,216.06,174.6,206.27,212.06,102.81,109.99,109.88
+10,Manufacture of food products,150.71,130.82,151.17,155.45,102.83,110.62,111.81
+1020,"Processing and preserving of fish, crustaceans and molluscs",137.68,127.27,150.43,155.37,103.28,116.8,118.42
+1030,Processing and preserving of fruit and vegetables,291.15,245.1,267.03,274.94,102.96,111.77,113.47
+1050,Manufacture of dairy products,131.6,121.31,136.05,141.02,103.65,103.92,104.7
+1061,Manufacture of grain mill products,72.55,68.45,77.79,79.61,102.33,107.3,112.19
+1079,Manufacture of other food products n.e.c,154.19,125.23,145.84,149.84,102.74,97.2,99.02
+1080,"Manufacture of prepared animal, fish, poultry feeds",149.2,123.75,147.31,150.6,102.23,112.35,112.08
+11,Manufacture of beverages,180.68,133.5,163.92,168.49,102.79,115.62,115.93
+1103,Manufacture of beer,204.04,149.18,188.42,188.77,100.19,116,115.21
+1104,Manufacture of soft drinks; production of mineral waters and other bottled waters,153.63,115.35,135.56,145,106.97,115.05,117.05
+12,Manufacture of tobacco products,186.45,145.39,189.96,192.51,101.34,102.65,105.85
+1200,Manufacture of tobacco products,186.45,145.39,189.96,192.51,101.34,102.65,105.85
+13,Manufacture of textiles,170.58,149.18,172.54,177.41,102.82,112.8,109.62
+1311,Preparation and spinning of textile bibres,212.64,191.36,218.7,224.19,102.51,114.04,111.2
+1312,Weaving of textiles,92.87,69.48,91.33,94.68,103.67,104.45,97.97
+1322,"Manufacture of made-up textile articles, except apparel",70.32,50.32,58.47,62.18,106.35,107.89,105.31
+14,Manufacture of wearing apparel,180.25,137.59,165,167.55,101.54,105.34,107.64
+1410,"Manufacture of wearing apparel, except fur apparel",180.25,137.59,165,167.55,101.54,105.34,107.64
+15,Manufacture of leather and related products,214.82,163.54,189.99,199.95,105.24,102.3,104.37
+1520,Manufacture of footwear,214.82,163.54,189.99,199.95,105.24,102.3,104.37
+16,Manufacture of wood and of products of wood and cork,134.63,98.72,127.21,130.72,102.76,107.05,106.85
+1610,Sawmilling and planing of wood; wood reservation,133.88,95.49,126.21,127.5,101.03,104.67,109.91
+1621,"Manufacture of veneer sheets; manufacture of polywood, laminboard, particle board and other panels and board",136.05,104.75,129.07,136.72,105.93,111.48,101.82
+17,Manufacture of paper and paper products,181.89,133.64,165.31,172.1,104.11,110.11,109.64
+1702,Manufacture of corrugated paper and paperboard and of containers of paper and paperboard,150.36,110.35,139.95,141.55,101.14,114.49,113.58
+1709,Manufacture of other articles of paper and paperboard n.e.c,237.62,174.8,210.12,226.08,107.6,105.65,105.51
+18,Printing and reproduction of recorded media,243.93,180.58,222.79,231.82,104.05,108.25,107.13
+1811,Printing,311.9,226.66,282.94,292.47,103.37,106.47,106.47
+1812,Service activities related to printing,115.83,93.74,109.44,117.53,107.39,117.47,110.41
+19,Manufacture of coke and refined petroleum products,283.17,275.22,292.5,295.79,101.13,105.84,104.81
+1910,Manufacture of coke oven products,0,0,0,0,96.58,104.25,102.79
+1920,Manufacture of refined petroleum products,275.1,268.08,284.48,288.05,101.26,105.89,104.87
+20,Manufacture of chemicals and chemical products,171.78,136.42,173.99,176.14,101.23,124.84,120.64
+2012,Manufacture of fertilizer and nitrogen compounds,111.3,95.75,137.82,127.37,92.42,101.57,99.97
+2013,Manufacture of plastics and synthetic rubber in primary forms,477.14,409.29,467.06,474.72,101.64,151.15,149.63
+2022,"Manufacture of paints, varnishes and similar coatings, printing ink and mastics",98.05,63.7,80.94,86.48,106.85,117.64,113.38
+2023,"Manufacture of soap and detergents, cleaning and polishing preparations",164.08,113.14,165.09,176.94,107.18,122.5,112.19
+2029,Manufacture of other chemical products n.e.c,128.22,103.92,121.79,125.48,103.03,120.18,113.07
+21,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",146.35,108.59,119.27,136.59,114.51,107.07,99.84
+2100,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",146.35,108.59,119.27,136.59,114.51,107.07,99.84
+22,Manufacture of rubber and plastics products,194.19,146.56,193.56,206.15,106.5,112.08,109.05
+2220,Manufacture of plastics products,194.19,146.56,193.56,206.15,106.5,112.08,109.05
+23,Manufacture of other non-metallic mineral products,235.36,164.24,221.7,231.44,104.39,108.57,117.87
+2392,Manufacture of clay building materials,131.21,78.38,116.62,128.9,110.53,117.27,126.09
+2394,Manufacture of cement,298.31,217.64,284.13,294.53,103.66,105.32,114.96
+2395,"Manufacture of articles of concrete, cement and plaster",169.51,102.8,160.38,161.29,100.57,125.56,132.43
+24,Manufacture of basic metals,470.44,423.28,450.15,475.82,105.7,114.77,118.71
+2410,Manufacture of basic iron and steel,470.44,423.28,450.14,475.82,105.7,114.77,118.71
+25,"Manufacture of fabricated metal products, except machinery and equipment",194.87,154.8,184.41,193.91,105.15,111.9,107.12
+2511,Manufacture of structural metal products,235.8,184.6,199.69,211.41,105.87,112.06,111.01
+2592,Machining; treatment and coating of metals,261.51,223.2,294.32,317.6,107.91,114.76,97.31
+2599,Manufacture of other fabricated metal products n.e.c,125.86,97.09,126.73,128.68,101.54,109.11,109.45
+26,"Manufacture of computer, electronic and optical products",251.72,210.55,240.57,240.08,99.8,108.87,108.39
+2610,Manufacture of electronic components,447.4,354.21,440.41,462.3,104.97,121.04,121.26
+2630,Manufacture of communication equipment,206.14,178.42,195.29,190.05,97.32,104.65,104.98
+2640,Manufacture of consumer electronics,465.45,348.02,440.31,457.53,103.91,109.94,105.06
+27,Manufacture of electrical equipment,239.81,194.55,236.27,239.57,101.4,105.64,105.12
+2710,"Manufacture of electric motor, generators, transformers and electricity distribution and control apparatus",96.26,84.22,122.63,122.67,100.03,97.62,91.39
+2720,Manufacture of batteries and accumulators,526.82,463.93,513.9,528.57,102.85,108.01,104.28
+2732,Manufacture of other electronic and electric wires and cables,212.65,155.98,189.92,188.33,99.16,106.67,111.65
+2750,Manufacture of domestic appliances,249.38,197.98,256.2,265.58,103.66,105.57,105.88
+28,Manufacture of machinery and equipment n.e.c,162.88,138.71,190.47,203.93,107.06,124.32,109.06
+2813,"Manufacture of other pumps, compressors, taps and valves",181.52,143.95,189.1,189.09,99.99,104.26,109.07
+2816,Manufacture of lifting and handling equipment,51.21,68.5,70.9,79.57,112.22,121.84,95.47
+2817,Manufacture of office machinery and equipment except computers and peripheral equipment,119.79,81.66,114.25,113.34,99.21,118.89,101.81
+2819,Manufacture of other general-purpose machinery,133.11,90.89,141.79,159.99,112.84,90.21,87.2
+2826,"Manufacture of machinery for textile, apparel and leather production",128.65,103.67,132.52,140.68,106.16,115.57,103.89
+2829,Manufacture of other special-purpose machinery,482.34,458.25,657.35,722.62,109.93,146.09,124.16
+29,Manufacture of motor vehicles; trailers and semi-trailers,314.28,208.99,286.23,309.42,108.1,123.59,117.03
+2910,Manufacture of motor vehicles,320.21,199.59,286.31,314.26,109.76,129.49,123.34
+2930,Manufacture of parts and accessories for motor vehicles,305.03,223.66,286.09,301.82,105.5,115.07,108.33
+30,Manufacture of other transport equipment,205.3,145.71,183.96,188.82,102.64,99.41,99.07
+3091,Manufacture of motorcycles,205.3,145.71,183.96,188.82,102.64,99.41,99.07
+31,Manufacture of furniture,136.28,107.83,120.28,129.96,108.05,118.23,112.53
+3100,Manufacture of furniture,136.28,107.83,120.28,129.96,108.05,118.23,112.53
+32,Other manufacturing,193.84,161.51,197.02,202.67,102.87,111.46,110.31
+3240,Manufacture of games and toys,177.97,138.49,178.06,174.54,98.02,104.5,98.07
+3250,"Manufacture of medical and dental instruments and supplies, shape- adjusted and ability recovery apparatus",176.32,155.12,190.08,202.72,106.65,113.96,109.16
+3290,Other manufacturing n.e.c,210.47,174.15,208.42,213.37,102.37,112.39,115.56
+33,Repair and installation of machinery and equipment,123.37,107.3,115.9,117.88,101.7,119.3,120.68
+3312,Repair of machinery,263,246.08,238.74,230.4,96.51,127.25,142.93
+3315,"Repair of transport equipment, except motor vehicles",99.28,83.74,96.36,97.19,100.86,112.93,107.7
+3320,Installation of industrial machinery and equipment,68.96,52.88,66.53,75.2,113.04,114.92,104.17
+D,"Electricity, gas",225.33,174.21,218.79,232.86,106.43,110.87,107.5
+35,"Electricity, gas, steam and air conditioning supply",225.33,174.21,218.79,232.86,106.43,110.87,107.5
+3510,"Electric power generation, transmission and distribution",225.33,174.19,218.76,232.83,106.43,110.87,107.5
+E,"Water supply; sewerage, waste management and remediation activities",193.42,193.68,205.91,197.93,96.12,107.05,107.36
+36,"Water collection, treatment and supply",171.63,170.44,170.34,180.27,105.83,103.55,105.16
+3600,"Water collection, treatment and supply",171.63,170.44,170.34,180.27,105.83,103.55,105.16
+37,Sewerage and sewer treatment activities,168.33,136.75,156.38,165.33,105.73,108.37,108.97
+3700,Sewerage and sewer treatment activities,168.33,136.75,156.38,165.33,105.73,108.37,108.97
+38,"Waste collection, treatment and disposal activities; materials recovery",231.3,240.81,269.64,231.36,85.8,111.17,109.54
+3811,Collection of non-hazardous waste,182.36,176.18,179.74,177.97,99.02,102.76,107.13
+3830,Materials recovery,351.68,399.78,490.78,362.69,73.9,123.35,112.31

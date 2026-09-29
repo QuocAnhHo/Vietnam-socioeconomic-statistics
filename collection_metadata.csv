@@ -1,0 +1,493 @@
+﻿id,unit,stub_columns,source_url
+E0601,Farm,1,https://www.nso.gov.vn/en/px-web?pxid=E0601&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0602,Farm,1,https://www.nso.gov.vn/en/px-web?pxid=E0602&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0603,,2,https://www.nso.gov.vn/en/px-web?pxid=E0603&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0604,,2,https://www.nso.gov.vn/en/px-web?pxid=E0604&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0605, ,2,https://www.nso.gov.vn/en/px-web?pxid=E0605&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0606,,2,https://www.nso.gov.vn/en/px-web?pxid=E0606&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0607,,2,https://www.nso.gov.vn/en/px-web?pxid=E0607&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0608,,2,https://www.nso.gov.vn/en/px-web?pxid=E0608&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0609,Thous. ha,1,https://www.nso.gov.vn/en/px-web?pxid=E0609&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0610,Thous. tons,1,https://www.nso.gov.vn/en/px-web?pxid=E0610&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0611,Kg,1,https://www.nso.gov.vn/en/px-web?pxid=E0611&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0612,,2,https://www.nso.gov.vn/en/px-web?pxid=E0612&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0613,Thous. ha,1,https://www.nso.gov.vn/en/px-web?pxid=E0613&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0614,Quintal/ha,1,https://www.nso.gov.vn/en/px-web?pxid=E0614&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0615,Thous. tons,1,https://www.nso.gov.vn/en/px-web?pxid=E0615&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0616,Thous. ha,1,https://www.nso.gov.vn/en/px-web?pxid=E0616&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0617,Quintal/ha,1,https://www.nso.gov.vn/en/px-web?pxid=E0617&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0618,Thous. tons,1,https://www.nso.gov.vn/en/px-web?pxid=E0618&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0619,Thous. ha,1,https://www.nso.gov.vn/en/px-web?pxid=E0619&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0620,Quintal/ha,1,https://www.nso.gov.vn/en/px-web?pxid=E0620&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0621,Thous. tons,1,https://www.nso.gov.vn/en/px-web?pxid=E0621&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0622,Thous. ha,1,https://www.nso.gov.vn/en/px-web?pxid=E0622&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0623,Quintal/ha,1,https://www.nso.gov.vn/en/px-web?pxid=E0623&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0624,Thous. tons,1,https://www.nso.gov.vn/en/px-web?pxid=E0624&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0625,Thous. ha,1,https://www.nso.gov.vn/en/px-web?pxid=E0625&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0626,Quintal/ha,1,https://www.nso.gov.vn/en/px-web?pxid=E0626&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0627,Thous. tons,1,https://www.nso.gov.vn/en/px-web?pxid=E0627&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0628,Thous. ha; ha,1,https://www.nso.gov.vn/en/px-web?pxid=E0628&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0629,Thous. tons,1,https://www.nso.gov.vn/en/px-web?pxid=E0629&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0630,Thous. ha,1,https://www.nso.gov.vn/en/px-web?pxid=E0630&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0631,Thous. tons,1,https://www.nso.gov.vn/en/px-web?pxid=E0631&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0632,Ha,1,https://www.nso.gov.vn/en/px-web?pxid=E0632&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0633,Thous. tons,1,https://www.nso.gov.vn/en/px-web?pxid=E0633&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0634,Ha,1,https://www.nso.gov.vn/en/px-web?pxid=E0634&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0635,Ton,1,https://www.nso.gov.vn/en/px-web?pxid=E0635&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0636, ,2,https://www.nso.gov.vn/en/px-web?pxid=E0636&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0637,,2,https://www.nso.gov.vn/en/px-web?pxid=E0637&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0638,,2,https://www.nso.gov.vn/en/px-web?pxid=E0638&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0639,Thous. tons,1,https://www.nso.gov.vn/en/px-web?pxid=E0639&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0640,Thous. tons,1,https://www.nso.gov.vn/en/px-web?pxid=E0640&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0641,,2,https://www.nso.gov.vn/en/px-web?pxid=E0641&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0642,Thous. heads,1,https://www.nso.gov.vn/en/px-web?pxid=E0642&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0643,Thous. heads,1,https://www.nso.gov.vn/en/px-web?pxid=E0643&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0644,Thous. heads,1,https://www.nso.gov.vn/en/px-web?pxid=E0644&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0645,Thous. heads,1,https://www.nso.gov.vn/en/px-web?pxid=E0645&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0646,,1,https://www.nso.gov.vn/en/px-web?pxid=E0646&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0647,Ton,1,https://www.nso.gov.vn/en/px-web?pxid=E0647&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0648,Ton,1,https://www.nso.gov.vn/en/px-web?pxid=E0648&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0649,Ton,1,https://www.nso.gov.vn/en/px-web?pxid=E0649&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0650,Ton,1,https://www.nso.gov.vn/en/px-web?pxid=E0650&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0651, Thous.ha,1,https://www.nso.gov.vn/en/px-web?pxid=E0651&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0652, ,2,https://www.nso.gov.vn/en/px-web?pxid=E0652&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0653, Thous.ha,1,https://www.nso.gov.vn/en/px-web?pxid=E0653&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0654,,,https://www.nso.gov.vn/en/px-web?pxid=E0654&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0655,,,https://www.nso.gov.vn/en/px-web?pxid=E0655&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0656,Thous.m3,1,https://www.nso.gov.vn/en/px-web?pxid=E0656&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0657, Thous.ha,1,https://www.nso.gov.vn/en/px-web?pxid=E0657&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0658, Thous.ha,1,https://www.nso.gov.vn/en/px-web?pxid=E0658&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0659,Piece,1,https://www.nso.gov.vn/en/px-web?pxid=E0659&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0660, Thous.CV,1,https://www.nso.gov.vn/en/px-web?pxid=E0660&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0661,Piece,1,https://www.nso.gov.vn/en/px-web?pxid=E0661&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0662, ,2,https://www.nso.gov.vn/en/px-web?pxid=E0662&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0663,Ton,1,https://www.nso.gov.vn/en/px-web?pxid=E0663&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0664, ,2,https://www.nso.gov.vn/en/px-web?pxid=E0664&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0665,Ton,1,https://www.nso.gov.vn/en/px-web?pxid=E0665&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0666, Thous. Tons,1,https://www.nso.gov.vn/en/px-web?pxid=E0666&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0667, ,2,https://www.nso.gov.vn/en/px-web?pxid=E0667&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0668,Ton,1,https://www.nso.gov.vn/en/px-web?pxid=E0668&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0669,Ton,1,https://www.nso.gov.vn/en/px-web?pxid=E0669&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0670,Ton,1,https://www.nso.gov.vn/en/px-web?pxid=E0670&theme=Agriculture%2C%20Forestry%20and%20Fishing
+E0401,,2,https://www.nso.gov.vn/en/px-web?pxid=E0401&theme=Investment
+E0402,,1,https://www.nso.gov.vn/en/px-web?pxid=E0402&theme=Investment
+E0403,Bill. VND,1,https://www.nso.gov.vn/en/px-web?pxid=E0403&theme=Investment
+E0404,Bill. VND,1,https://www.nso.gov.vn/en/px-web?pxid=E0404&theme=Investment
+E0405,Bill. VND,1,https://www.nso.gov.vn/en/px-web?pxid=E0405&theme=Investment
+E0406,Bill. VND,1,https://www.nso.gov.vn/en/px-web?pxid=E0406&theme=Investment
+E0407,,2,https://www.nso.gov.vn/en/px-web?pxid=E0407&theme=Investment
+E0408,,2,https://www.nso.gov.vn/en/px-web?pxid=E0408&theme=Investment
+E0409,Bill. VND,1,https://www.nso.gov.vn/en/px-web?pxid=E0409&theme=Investment
+E0410,Bill. VND,1,https://www.nso.gov.vn/en/px-web?pxid=E0410&theme=Investment
+E0411,,1,https://www.nso.gov.vn/en/px-web?pxid=E0411&theme=Investment
+E0412,,1,https://www.nso.gov.vn/en/px-web?pxid=E0412&theme=Investment
+E0413,,1,https://www.nso.gov.vn/en/px-web?pxid=E0413&theme=Investment
+E0414,,1,https://www.nso.gov.vn/en/px-web?pxid=E0414&theme=Investment
+E0415,,1,https://www.nso.gov.vn/en/px-web?pxid=E0415&theme=Investment
+E0416,,1,https://www.nso.gov.vn/en/px-web?pxid=E0416&theme=Investment
+E0417,,1,https://www.nso.gov.vn/en/px-web?pxid=E0417&theme=Investment
+E0418,,1,https://www.nso.gov.vn/en/px-web?pxid=E0418&theme=Investment
+E0419,,1,https://www.nso.gov.vn/en/px-web?pxid=E0419&theme=Investment
+E0420,,1,https://www.nso.gov.vn/en/px-web?pxid=E0420&theme=Investment
+E0421,Thous. m2,1,https://www.nso.gov.vn/en/px-web?pxid=E0421&theme=Investment
+E0422,Thous. m2,1,https://www.nso.gov.vn/en/px-web?pxid=E0422&theme=Investment
+E0423,Thous. m2,1,https://www.nso.gov.vn/en/px-web?pxid=E0423&theme=Investment
+E0424,Thous. m2,1,https://www.nso.gov.vn/en/px-web?pxid=E0424&theme=Investment
+E0425,Flat/house; m2,1,https://www.nso.gov.vn/en/px-web?pxid=E0425&theme=Investment
+E0701,%,1,https://www.nso.gov.vn/en/px-web?pxid=E0701&theme=Industry
+E0702,%,1,https://www.nso.gov.vn/en/px-web?pxid=E0702&theme=Industry
+E0703,%,1,https://www.nso.gov.vn/en/px-web?pxid=E0703&theme=Industry
+E0704,%,1,https://www.nso.gov.vn/en/px-web?pxid=E0704&theme=Industry
+E0705,,1,https://www.nso.gov.vn/en/px-web?pxid=E0705&theme=Industry
+E0706,,2,https://www.nso.gov.vn/en/px-web?pxid=E0706&theme=Industry
+E0707,,1,https://www.nso.gov.vn/en/px-web?pxid=E0707&theme=Industry
+E0708,KTOE,1,https://www.nso.gov.vn/en/px-web?pxid=E0708&theme=Industry
+E0709,,,https://www.nso.gov.vn/en/px-web?pxid=E0709&theme=Industry
+E0501,Enterprise,1,https://www.nso.gov.vn/en/px-web?pxid=E0501&theme=Enterprise
+E0502,Enterprise,1,https://www.nso.gov.vn/en/px-web?pxid=E0502&theme=Enterprise
+E0503,Enterprise,1,https://www.nso.gov.vn/en/px-web?pxid=E0503&theme=Enterprise
+E0504,Enterprise,1,https://www.nso.gov.vn/en/px-web?pxid=E0504&theme=Enterprise
+E0505,Enterprise,1,https://www.nso.gov.vn/en/px-web?pxid=E0505&theme=Enterprise
+E0506,,1,https://www.nso.gov.vn/en/px-web?pxid=E0506&theme=Enterprise
+E0507,Enterprise,1,https://www.nso.gov.vn/en/px-web?pxid=E0507&theme=Enterprise
+E0508,Enterprise,1,https://www.nso.gov.vn/en/px-web?pxid=E0508&theme=Enterprise
+E0509,,1,https://www.nso.gov.vn/en/px-web?pxid=E0509&theme=Enterprise
+E0510,Person,1,https://www.nso.gov.vn/en/px-web?pxid=E0510&theme=Enterprise
+E0511,Person,1,https://www.nso.gov.vn/en/px-web?pxid=E0511&theme=Enterprise
+E0512,,1,https://www.nso.gov.vn/en/px-web?pxid=E0512&theme=Enterprise
+E0513,Persons,1,https://www.nso.gov.vn/en/px-web?pxid=E0513&theme=Enterprise
+E0514,Persons,1,https://www.nso.gov.vn/en/px-web?pxid=E0514&theme=Enterprise
+E0515,,1,https://www.nso.gov.vn/en/px-web?pxid=E0515&theme=Enterprise
+E0516,Billion VND,1,https://www.nso.gov.vn/en/px-web?pxid=E0516&theme=Enterprise
+E0517,Billion VND,1,https://www.nso.gov.vn/en/px-web?pxid=E0517&theme=Enterprise
+E0518,,1,https://www.nso.gov.vn/en/px-web?pxid=E0518&theme=Enterprise
+E0519,Billion VND,1,https://www.nso.gov.vn/en/px-web?pxid=E0519&theme=Enterprise
+E0520,Billion VND,1,https://www.nso.gov.vn/en/px-web?pxid=E0520&theme=Enterprise
+E0521,,1,https://www.nso.gov.vn/en/px-web?pxid=E0521&theme=Enterprise
+E0522,Billion VND,1,https://www.nso.gov.vn/en/px-web?pxid=E0522&theme=Enterprise
+E0523,Billion VND,1,https://www.nso.gov.vn/en/px-web?pxid=E0523&theme=Enterprise
+E0524,Enterprise,2,https://www.nso.gov.vn/en/px-web?pxid=E0524&theme=Enterprise
+E0525,Enterprise,1,https://www.nso.gov.vn/en/px-web?pxid=E0525&theme=Enterprise
+E0526,Enterprise,1,https://www.nso.gov.vn/en/px-web?pxid=E0526&theme=Enterprise
+E0527,Enterprise,2,https://www.nso.gov.vn/en/px-web?pxid=E0527&theme=Enterprise
+E0528,Enterprise,1,https://www.nso.gov.vn/en/px-web?pxid=E0528&theme=Enterprise
+E0529,Enterprise,1,https://www.nso.gov.vn/en/px-web?pxid=E0529&theme=Enterprise
+E0530,,1,https://www.nso.gov.vn/en/px-web?pxid=E0530&theme=Enterprise
+E0531,Billion VND,1,https://www.nso.gov.vn/en/px-web?pxid=E0531&theme=Enterprise
+E0532,Billion VND,1,https://www.nso.gov.vn/en/px-web?pxid=E0532&theme=Enterprise
+E0533,Thousand VND,1,https://www.nso.gov.vn/en/px-web?pxid=E0533&theme=Enterprise
+E0534,Thousand VND,1,https://www.nso.gov.vn/en/px-web?pxid=E0534&theme=Enterprise
+E0535,Thousand VND,1,https://www.nso.gov.vn/en/px-web?pxid=E0535&theme=Enterprise
+E0536,,1,https://www.nso.gov.vn/en/px-web?pxid=E0536&theme=Enterprise
+E0537,Billion VND,1,https://www.nso.gov.vn/en/px-web?pxid=E0537&theme=Enterprise
+E0538,Billion VND,1,https://www.nso.gov.vn/en/px-web?pxid=E0538&theme=Enterprise
+E0539,%,1,https://www.nso.gov.vn/en/px-web?pxid=E0539&theme=Enterprise
+E0540,,1,https://www.nso.gov.vn/en/px-web?pxid=E0540&theme=Enterprise
+E0541,%,1,https://www.nso.gov.vn/en/px-web?pxid=E0541&theme=Enterprise
+E0542,Million VND,1,https://www.nso.gov.vn/en/px-web?pxid=E0542&theme=Enterprise
+E0543,Million VND,1,https://www.nso.gov.vn/en/px-web?pxid=E0543&theme=Enterprise
+E0544,Million VND,1,https://www.nso.gov.vn/en/px-web?pxid=E0544&theme=Enterprise
+E0545,,2,https://www.nso.gov.vn/en/px-web?pxid=E0545&theme=Enterprise
+E0546,,2,https://www.nso.gov.vn/en/px-web?pxid=E0546&theme=Enterprise
+E0547,,2,https://www.nso.gov.vn/en/px-web?pxid=E0547&theme=Enterprise
+E0548,,2,https://www.nso.gov.vn/en/px-web?pxid=E0548&theme=Enterprise
+E0549,,2,https://www.nso.gov.vn/en/px-web?pxid=E0549&theme=Enterprise
+E0550,,2,https://www.nso.gov.vn/en/px-web?pxid=E0550&theme=Enterprise
+E0551,Cooperative,1,https://www.nso.gov.vn/en/px-web?pxid=E0551&theme=Enterprise
+E0552,Persons,1,https://www.nso.gov.vn/en/px-web?pxid=E0552&theme=Enterprise
+E0553,Establishment,1,https://www.nso.gov.vn/en/px-web?pxid=E0553&theme=Enterprise
+E0554,Establishment,1,https://www.nso.gov.vn/en/px-web?pxid=E0554&theme=Enterprise
+E0555,Person,1,https://www.nso.gov.vn/en/px-web?pxid=E0555&theme=Enterprise
+E0556,Person,1,https://www.nso.gov.vn/en/px-web?pxid=E0556&theme=Enterprise
+E0801,,,https://www.nso.gov.vn/en/px-web?pxid=E0801&theme=Trade%2C%20Price%20and%20Tourist
+E0802,Bill.VND,1,https://www.nso.gov.vn/en/px-web?pxid=E0802&theme=Trade%2C%20Price%20and%20Tourist
+E0803,,,https://www.nso.gov.vn/en/px-web?pxid=E0803&theme=Trade%2C%20Price%20and%20Tourist
+E0804,,,https://www.nso.gov.vn/en/px-web?pxid=E0804&theme=Trade%2C%20Price%20and%20Tourist
+E0805,Supermarket,1,https://www.nso.gov.vn/en/px-web?pxid=E0805&theme=Trade%2C%20Price%20and%20Tourist
+E0806,Center,1,https://www.nso.gov.vn/en/px-web?pxid=E0806&theme=Trade%2C%20Price%20and%20Tourist
+E0901,,2,https://www.nso.gov.vn/en/px-web?pxid=E0901&theme=Trade%2C%20Price%20and%20Tourist
+E0902,Mill. USD,1,https://www.nso.gov.vn/en/px-web?pxid=E0902&theme=Trade%2C%20Price%20and%20Tourist
+E0903,Mill. USD,1,https://www.nso.gov.vn/en/px-web?pxid=E0903&theme=Trade%2C%20Price%20and%20Tourist
+E0904,%,1,https://www.nso.gov.vn/en/px-web?pxid=E0904&theme=Trade%2C%20Price%20and%20Tourist
+E0905,,2,https://www.nso.gov.vn/en/px-web?pxid=E0905&theme=Trade%2C%20Price%20and%20Tourist
+E0906,Mill. USD,1,https://www.nso.gov.vn/en/px-web?pxid=E0906&theme=Trade%2C%20Price%20and%20Tourist
+E0907,,1,https://www.nso.gov.vn/en/px-web?pxid=E0907&theme=Trade%2C%20Price%20and%20Tourist
+E0908,Mill.USD,1,https://www.nso.gov.vn/en/px-web?pxid=E0908&theme=Trade%2C%20Price%20and%20Tourist
+E0909-10,,2,https://www.nso.gov.vn/en/px-web?pxid=E0909-10&theme=Trade%2C%20Price%20and%20Tourist
+E0911,,2,https://www.nso.gov.vn/en/px-web?pxid=E0911&theme=Trade%2C%20Price%20and%20Tourist
+E0912,Mill. USD,1,https://www.nso.gov.vn/en/px-web?pxid=E0912&theme=Trade%2C%20Price%20and%20Tourist
+E0913,,1,https://www.nso.gov.vn/en/px-web?pxid=E0913&theme=Trade%2C%20Price%20and%20Tourist
+E0914,%,1,https://www.nso.gov.vn/en/px-web?pxid=E0914&theme=Trade%2C%20Price%20and%20Tourist
+E0915,Mill. USD,2,https://www.nso.gov.vn/en/px-web?pxid=E0915&theme=Trade%2C%20Price%20and%20Tourist
+E1001,,1,https://www.nso.gov.vn/en/px-web?pxid=E1001&theme=Trade%2C%20Price%20and%20Tourist
+E1002,Bill.VND,2,https://www.nso.gov.vn/en/px-web?pxid=E1002&theme=Trade%2C%20Price%20and%20Tourist
+E1003,Bill.VND,1,https://www.nso.gov.vn/en/px-web?pxid=E1003&theme=Trade%2C%20Price%20and%20Tourist
+E1004,Thous.visitors,1,https://www.nso.gov.vn/en/px-web?pxid=E1004&theme=Trade%2C%20Price%20and%20Tourist
+E1005,Thous.visitors,1,https://www.nso.gov.vn/en/px-web?pxid=E1005&theme=Trade%2C%20Price%20and%20Tourist
+E1006,,2,https://www.nso.gov.vn/en/px-web?pxid=E1006&theme=Trade%2C%20Price%20and%20Tourist
+E1007,,2,https://www.nso.gov.vn/en/px-web?pxid=E1007&theme=Trade%2C%20Price%20and%20Tourist
+E1008,Thous.VND,2,https://www.nso.gov.vn/en/px-web?pxid=E1008&theme=Trade%2C%20Price%20and%20Tourist
+E1009,Thous.VND,2,https://www.nso.gov.vn/en/px-web?pxid=E1009&theme=Trade%2C%20Price%20and%20Tourist
+E1010,Thous.VND,1,https://www.nso.gov.vn/en/px-web?pxid=E1010&theme=Trade%2C%20Price%20and%20Tourist
+E1011,Thous.VND,1,https://www.nso.gov.vn/en/px-web?pxid=E1011&theme=Trade%2C%20Price%20and%20Tourist
+E1012,,2,https://www.nso.gov.vn/en/px-web?pxid=E1012&theme=Trade%2C%20Price%20and%20Tourist
+E1013,USD,1,https://www.nso.gov.vn/en/px-web?pxid=E1013&theme=Trade%2C%20Price%20and%20Tourist
+E1014,USD,1,https://www.nso.gov.vn/en/px-web?pxid=E1014&theme=Trade%2C%20Price%20and%20Tourist
+E1015,,2,https://www.nso.gov.vn/en/px-web?pxid=E1015&theme=Trade%2C%20Price%20and%20Tourist
+E1201,,2,https://www.nso.gov.vn/en/px-web?pxid=E1201&theme=Transport%2C%20Postal%20Services%20and%20Telecommunications
+E1202,,2,https://www.nso.gov.vn/en/px-web?pxid=E1202&theme=Transport%2C%20Postal%20Services%20and%20Telecommunications
+E1203,,2,https://www.nso.gov.vn/en/px-web?pxid=E1203&theme=Transport%2C%20Postal%20Services%20and%20Telecommunications
+E1204,,2,https://www.nso.gov.vn/en/px-web?pxid=E1204&theme=Transport%2C%20Postal%20Services%20and%20Telecommunications
+E1205,Mill. persons,1,https://www.nso.gov.vn/en/px-web?pxid=E1205&theme=Transport%2C%20Postal%20Services%20and%20Telecommunications
+E1206,Mill. persons.km,1,https://www.nso.gov.vn/en/px-web?pxid=E1206&theme=Transport%2C%20Postal%20Services%20and%20Telecommunications
+E1207,Mill.persons,1,https://www.nso.gov.vn/en/px-web?pxid=E1207&theme=Transport%2C%20Postal%20Services%20and%20Telecommunications
+E1208,Mill.pers.km,1,https://www.nso.gov.vn/en/px-web?pxid=E1208&theme=Transport%2C%20Postal%20Services%20and%20Telecommunications
+E1209,,2,https://www.nso.gov.vn/en/px-web?pxid=E1209&theme=Transport%2C%20Postal%20Services%20and%20Telecommunications
+E1210,,2,https://www.nso.gov.vn/en/px-web?pxid=E1210&theme=Transport%2C%20Postal%20Services%20and%20Telecommunications
+E1211,,2,https://www.nso.gov.vn/en/px-web?pxid=E1211&theme=Transport%2C%20Postal%20Services%20and%20Telecommunications
+E1212,,2,https://www.nso.gov.vn/en/px-web?pxid=E1212&theme=Transport%2C%20Postal%20Services%20and%20Telecommunications
+E1213,,2,https://www.nso.gov.vn/en/px-web?pxid=E1213&theme=Transport%2C%20Postal%20Services%20and%20Telecommunications
+E1214,,2,https://www.nso.gov.vn/en/px-web?pxid=E1214&theme=Transport%2C%20Postal%20Services%20and%20Telecommunications
+E1215,Thous. tons,1,https://www.nso.gov.vn/en/px-web?pxid=E1215&theme=Transport%2C%20Postal%20Services%20and%20Telecommunications
+E1216,Mill. tons-km,1,https://www.nso.gov.vn/en/px-web?pxid=E1216&theme=Transport%2C%20Postal%20Services%20and%20Telecommunications
+E1217,Thous. tons,1,https://www.nso.gov.vn/en/px-web?pxid=E1217&theme=Transport%2C%20Postal%20Services%20and%20Telecommunications
+E1218,Mill. tons-km,1,https://www.nso.gov.vn/en/px-web?pxid=E1218&theme=Transport%2C%20Postal%20Services%20and%20Telecommunications
+E1219,Thous. tons,1,https://www.nso.gov.vn/en/px-web?pxid=E1219&theme=Transport%2C%20Postal%20Services%20and%20Telecommunications
+E1220,Mill. tons-km,1,https://www.nso.gov.vn/en/px-web?pxid=E1220&theme=Transport%2C%20Postal%20Services%20and%20Telecommunications
+E1221,Thous. tons,1,https://www.nso.gov.vn/en/px-web?pxid=E1221&theme=Transport%2C%20Postal%20Services%20and%20Telecommunications
+E1222,,1,https://www.nso.gov.vn/en/px-web?pxid=E1222&theme=Transport%2C%20Postal%20Services%20and%20Telecommunications
+E1223,,2,https://www.nso.gov.vn/en/px-web?pxid=E1223&theme=Transport%2C%20Postal%20Services%20and%20Telecommunications
+E1224,,2,https://www.nso.gov.vn/en/px-web?pxid=E1224&theme=Transport%2C%20Postal%20Services%20and%20Telecommunications
+E1101,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1101&theme=Trade%2C%20Price%20and%20Tourist
+E1102,%,2,https://www.nso.gov.vn/en/px-web?pxid=E1102&theme=Trade%2C%20Price%20and%20Tourist
+E1103,%,2,https://www.nso.gov.vn/en/px-web?pxid=E1103&theme=Trade%2C%20Price%20and%20Tourist
+E1104,%,2,https://www.nso.gov.vn/en/px-web?pxid=E1104&theme=Trade%2C%20Price%20and%20Tourist
+E1105,%,2,https://www.nso.gov.vn/en/px-web?pxid=E1105&theme=Trade%2C%20Price%20and%20Tourist
+E1106,%,2,https://www.nso.gov.vn/en/px-web?pxid=E1106&theme=Trade%2C%20Price%20and%20Tourist
+E1107,%,2,https://www.nso.gov.vn/en/px-web?pxid=E1107&theme=Trade%2C%20Price%20and%20Tourist
+E1108,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1108&theme=Trade%2C%20Price%20and%20Tourist
+E1109,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1109&theme=Trade%2C%20Price%20and%20Tourist
+E1110,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1110&theme=Trade%2C%20Price%20and%20Tourist
+E1111,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1111&theme=Trade%2C%20Price%20and%20Tourist
+E1112,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1112&theme=Trade%2C%20Price%20and%20Tourist
+E1113,%,2,https://www.nso.gov.vn/en/px-web?pxid=E1113&theme=Trade%2C%20Price%20and%20Tourist
+E1114,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1114&theme=Trade%2C%20Price%20and%20Tourist
+E1115,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1115&theme=Trade%2C%20Price%20and%20Tourist
+E1116,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1116&theme=Trade%2C%20Price%20and%20Tourist
+E1117,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1117&theme=Trade%2C%20Price%20and%20Tourist
+E1118,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1118&theme=Trade%2C%20Price%20and%20Tourist
+E1119,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1119&theme=Trade%2C%20Price%20and%20Tourist
+E1120,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1120&theme=Trade%2C%20Price%20and%20Tourist
+E1121,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1121&theme=Trade%2C%20Price%20and%20Tourist
+E1122,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1122&theme=Trade%2C%20Price%20and%20Tourist
+E1123,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1123&theme=Trade%2C%20Price%20and%20Tourist
+E1124,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1124&theme=Trade%2C%20Price%20and%20Tourist
+E1125,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1125&theme=Trade%2C%20Price%20and%20Tourist
+E1126,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1126&theme=Trade%2C%20Price%20and%20Tourist
+E1127,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1127&theme=Trade%2C%20Price%20and%20Tourist
+E1128,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1128&theme=Trade%2C%20Price%20and%20Tourist
+E1129,,,https://www.nso.gov.vn/en/px-web?pxid=E1129&theme=Trade%2C%20Price%20and%20Tourist
+E1130,,,https://www.nso.gov.vn/en/px-web?pxid=E1130&theme=Trade%2C%20Price%20and%20Tourist
+E1131,,,https://www.nso.gov.vn/en/px-web?pxid=E1131&theme=Trade%2C%20Price%20and%20Tourist
+E1132,,,https://www.nso.gov.vn/en/px-web?pxid=E1132&theme=Trade%2C%20Price%20and%20Tourist
+E1133,,,https://www.nso.gov.vn/en/px-web?pxid=E1133&theme=Trade%2C%20Price%20and%20Tourist
+E1134,,,https://www.nso.gov.vn/en/px-web?pxid=E1134&theme=Trade%2C%20Price%20and%20Tourist
+E1135,,,https://www.nso.gov.vn/en/px-web?pxid=E1135&theme=Trade%2C%20Price%20and%20Tourist
+E1136,,,https://www.nso.gov.vn/en/px-web?pxid=E1136&theme=Trade%2C%20Price%20and%20Tourist
+E1137,,,https://www.nso.gov.vn/en/px-web?pxid=E1137&theme=Trade%2C%20Price%20and%20Tourist
+E0201,,,https://www.nso.gov.vn/en/px-web?pxid=E0201&theme=Population%20and%20Employment
+E0202,,2,https://www.nso.gov.vn/en/px-web?pxid=E0202&theme=Population%20and%20Employment
+E0203-07,Thous. persons,1,https://www.nso.gov.vn/en/px-web?pxid=E0203-07&theme=Population%20and%20Employment
+E0208,,2,https://www.nso.gov.vn/en/px-web?pxid=E0208&theme=Population%20and%20Employment
+E0209,Males per 100 females,1,https://www.nso.gov.vn/en/px-web?pxid=E0209&theme=Population%20and%20Employment
+E0210,Males births per 100 female births,1,https://www.nso.gov.vn/en/px-web?pxid=E0210&theme=Population%20and%20Employment
+E0211,â°,2,https://www.nso.gov.vn/en/px-web?pxid=E0211&theme=Population%20and%20Employment
+E0212-14,â°,1,https://www.nso.gov.vn/en/px-web?pxid=E0212-14&theme=Population%20and%20Employment
+E0215,Children per woman,1,https://www.nso.gov.vn/en/px-web?pxid=E0215&theme=Population%20and%20Employment
+E0216,Children per woman,1,https://www.nso.gov.vn/en/px-web?pxid=E0216&theme=Population%20and%20Employment
+E0217,â°,2,https://www.nso.gov.vn/en/px-web?pxid=E0217&theme=Population%20and%20Employment
+E0218,Infant deaths per 1000 live births,1,https://www.nso.gov.vn/en/px-web?pxid=E0218&theme=Population%20and%20Employment
+E0219,Under five deaths per 1000 live births,1,https://www.nso.gov.vn/en/px-web?pxid=E0219&theme=Population%20and%20Employment
+E0220,%,1,https://www.nso.gov.vn/en/px-web?pxid=E0220&theme=Population%20and%20Employment
+E0221-23,â°,1,https://www.nso.gov.vn/en/px-web?pxid=E0221-23&theme=Population%20and%20Employment
+E0224,Age,1,https://www.nso.gov.vn/en/px-web?pxid=E0224&theme=Population%20and%20Employment
+E0225,Age,1,https://www.nso.gov.vn/en/px-web?pxid=E0225&theme=Population%20and%20Employment
+E0226,%,1,https://www.nso.gov.vn/en/px-web?pxid=E0226&theme=Population%20and%20Employment
+E0227,%,1,https://www.nso.gov.vn/en/px-web?pxid=E0227&theme=Population%20and%20Employment
+E0228,Case,1,https://www.nso.gov.vn/en/px-web?pxid=E0228&theme=Population%20and%20Employment
+E0229,Age,1,https://www.nso.gov.vn/en/px-web?pxid=E0229&theme=Population%20and%20Employment
+E0230,Age,1,https://www.nso.gov.vn/en/px-web?pxid=E0230&theme=Population%20and%20Employment
+E0231,Case,1,https://www.nso.gov.vn/en/px-web?pxid=E0231&theme=Population%20and%20Employment
+E0232,%,1,https://www.nso.gov.vn/en/px-web?pxid=E0232&theme=Population%20and%20Employment
+E0233,%,1,https://www.nso.gov.vn/en/px-web?pxid=E0233&theme=Population%20and%20Employment
+E0234,Person,1,https://www.nso.gov.vn/en/px-web?pxid=E0234&theme=Population%20and%20Employment
+E0235,a,2,https://www.nso.gov.vn/en/px-web?pxid=E0235&theme=Population%20and%20Employment
+E0236,a,2,https://www.nso.gov.vn/en/px-web?pxid=E0236&theme=Population%20and%20Employment
+E0237,Thous. persons,1,https://www.nso.gov.vn/en/px-web?pxid=E0237&theme=Population%20and%20Employment
+E0238,,2,https://www.nso.gov.vn/en/px-web?pxid=E0238&theme=Population%20and%20Employment
+E0239,a,2,https://www.nso.gov.vn/en/px-web?pxid=E0239&theme=Population%20and%20Employment
+E0240,Thous. persons,1,https://www.nso.gov.vn/en/px-web?pxid=E0240&theme=Population%20and%20Employment
+E0241,Thous. persons,1,https://www.nso.gov.vn/en/px-web?pxid=E0241&theme=Population%20and%20Employment
+E0242,a,1,https://www.nso.gov.vn/en/px-web?pxid=E0242&theme=Population%20and%20Employment
+E0243,Thous. persons,1,https://www.nso.gov.vn/en/px-web?pxid=E0243&theme=Population%20and%20Employment
+E0244,Thous. persons,1,https://www.nso.gov.vn/en/px-web?pxid=E0244&theme=Population%20and%20Employment
+E0245,Thousand persons,1,https://www.nso.gov.vn/en/px-web?pxid=E0245&theme=Population%20and%20Employment
+E0246,%,2,https://www.nso.gov.vn/en/px-web?pxid=E0246&theme=Population%20and%20Employment
+E0247,%,1,https://www.nso.gov.vn/en/px-web?pxid=E0247&theme=Population%20and%20Employment
+E0248,%,1,https://www.nso.gov.vn/en/px-web?pxid=E0248&theme=Population%20and%20Employment
+E0249,%,2,https://www.nso.gov.vn/en/px-web?pxid=E0249&theme=Population%20and%20Employment
+E0250,%,1,https://www.nso.gov.vn/en/px-web?pxid=E0250&theme=Population%20and%20Employment
+E0251,%,1,https://www.nso.gov.vn/en/px-web?pxid=E0251&theme=Population%20and%20Employment
+E0252,%,2,https://www.nso.gov.vn/en/px-web?pxid=E0252&theme=Population%20and%20Employment
+E0253,%,1,https://www.nso.gov.vn/en/px-web?pxid=E0253&theme=Population%20and%20Employment
+E0254,%,1,https://www.nso.gov.vn/en/px-web?pxid=E0254&theme=Population%20and%20Employment
+E0255,%,1,https://www.nso.gov.vn/en/px-web?pxid=E0255&theme=Population%20and%20Employment
+E0256,%,1,https://www.nso.gov.vn/en/px-web?pxid=E0256&theme=Population%20and%20Employment
+E0257,Mill. dongs/employed,1,https://www.nso.gov.vn/en/px-web?pxid=E0257&theme=Population%20and%20Employment
+E0258,Mill. dongs/employed,1,https://www.nso.gov.vn/en/px-web?pxid=E0258&theme=Population%20and%20Employment
+E0259,%,2,https://www.nso.gov.vn/en/px-web?pxid=E0259&theme=Population%20and%20Employment
+E0260,%,2,https://www.nso.gov.vn/en/px-web?pxid=E0260&theme=Population%20and%20Employment
+E0261,%,1,https://www.nso.gov.vn/en/px-web?pxid=E0261&theme=Population%20and%20Employment
+E0262,%,1,https://www.nso.gov.vn/en/px-web?pxid=E0262&theme=Population%20and%20Employment
+E0263,%,1,https://www.nso.gov.vn/en/px-web?pxid=E0263&theme=Population%20and%20Employment
+E0264,%,2,https://www.nso.gov.vn/en/px-web?pxid=E0264&theme=Population%20and%20Employment
+E0265,%,2,https://www.nso.gov.vn/en/px-web?pxid=E0265&theme=Population%20and%20Employment
+E0266,%,1,https://www.nso.gov.vn/en/px-web?pxid=E0266&theme=Population%20and%20Employment
+E0267,%,1,https://www.nso.gov.vn/en/px-web?pxid=E0267&theme=Population%20and%20Employment
+E0268,%,2,https://www.nso.gov.vn/en/px-web?pxid=E0268&theme=Population%20and%20Employment
+E0269,%,2,https://www.nso.gov.vn/en/px-web?pxid=E0269&theme=Population%20and%20Employment
+E0270,%,1,https://www.nso.gov.vn/en/px-web?pxid=E0270&theme=Population%20and%20Employment
+E0271,,,https://www.nso.gov.vn/en/px-web?pxid=E0271&theme=Population%20and%20Employment
+E0301,,1,https://www.nso.gov.vn/en/px-web?pxid=E0301&theme=National%20Accounts%20and%20State%20budget
+E0302,,1,https://www.nso.gov.vn/en/px-web?pxid=E0302&theme=National%20Accounts%20and%20State%20budget
+E0303,,1,https://www.nso.gov.vn/en/px-web?pxid=E0303&theme=National%20Accounts%20and%20State%20budget
+E0304-05,,2,https://www.nso.gov.vn/en/px-web?pxid=E0304-05&theme=National%20Accounts%20and%20State%20budget
+E0306-07,,2,https://www.nso.gov.vn/en/px-web?pxid=E0306-07&theme=National%20Accounts%20and%20State%20budget
+E0308,,2,https://www.nso.gov.vn/en/px-web?pxid=E0308&theme=National%20Accounts%20and%20State%20budget
+E0309,,2,https://www.nso.gov.vn/en/px-web?pxid=E0309&theme=National%20Accounts%20and%20State%20budget
+E0310,%,1,https://www.nso.gov.vn/en/px-web?pxid=E0310&theme=National%20Accounts%20and%20State%20budget
+E0311,a,1,https://www.nso.gov.vn/en/px-web?pxid=E0311&theme=National%20Accounts%20and%20State%20budget
+E0312,Mill. dongs,1,https://www.nso.gov.vn/en/px-web?pxid=E0312&theme=National%20Accounts%20and%20State%20budget
+E0326,,1,https://www.nso.gov.vn/en/px-web?pxid=E0326&theme=National%20Accounts%20and%20State%20budget
+E0313,,,https://www.nso.gov.vn/en/px-web?pxid=E0313&theme=National%20Accounts%20and%20State%20budget
+E0314,,,https://www.nso.gov.vn/en/px-web?pxid=E0314&theme=National%20Accounts%20and%20State%20budget
+E0315,%,2,https://www.nso.gov.vn/en/px-web?pxid=E0315&theme=National%20Accounts%20and%20State%20budget
+E0316,,2,https://www.nso.gov.vn/en/px-web?pxid=E0316&theme=National%20Accounts%20and%20State%20budget
+E0317,,2,https://www.nso.gov.vn/en/px-web?pxid=E0317&theme=National%20Accounts%20and%20State%20budget
+E0318,,,https://www.nso.gov.vn/en/px-web?pxid=E0318&theme=National%20Accounts%20and%20State%20budget
+E0319,,3,https://www.nso.gov.vn/en/px-web?pxid=E0319&theme=National%20Accounts%20and%20State%20budget
+E0320,Mill. USD,2,https://www.nso.gov.vn/en/px-web?pxid=E0320&theme=National%20Accounts%20and%20State%20budget
+E0321,"%/year, dongs",1,https://www.nso.gov.vn/en/px-web?pxid=E0321&theme=National%20Accounts%20and%20State%20budget
+E0322,,1,https://www.nso.gov.vn/en/px-web?pxid=E0322&theme=National%20Accounts%20and%20State%20budget
+E0323,%,1,https://www.nso.gov.vn/en/px-web?pxid=E0323&theme=National%20Accounts%20and%20State%20budget
+E0324,%,1,https://www.nso.gov.vn/en/px-web?pxid=E0324&theme=National%20Accounts%20and%20State%20budget
+E0325,%,1,https://www.nso.gov.vn/en/px-web?pxid=E0325&theme=National%20Accounts%20and%20State%20budget
+E1332,Person,1,https://www.nso.gov.vn/en/px-web?pxid=E1332&theme=Education
+E1333,invention,1,https://www.nso.gov.vn/en/px-web?pxid=E1333&theme=Education
+E1334,Bill.dongs,1,https://www.nso.gov.vn/en/px-web?pxid=E1334&theme=Education
+E1301,,2,https://www.nso.gov.vn/en/px-web?pxid=E1301&theme=Education
+E1302,,2,https://www.nso.gov.vn/en/px-web?pxid=E1302&theme=Education
+E1303,,1,https://www.nso.gov.vn/en/px-web?pxid=E1303&theme=Education
+E1304,,2,https://www.nso.gov.vn/en/px-web?pxid=E1304&theme=Education
+E1305,,,https://www.nso.gov.vn/en/px-web?pxid=E1305&theme=Education
+E1306,,3,https://www.nso.gov.vn/en/px-web?pxid=E1306&theme=Education
+E1307,,3,https://www.nso.gov.vn/en/px-web?pxid=E1307&theme=Education
+E1308,School,1,https://www.nso.gov.vn/en/px-web?pxid=E1308&theme=Education
+E1309,Class,1,https://www.nso.gov.vn/en/px-web?pxid=E1309&theme=Education
+E1310,,3,https://www.nso.gov.vn/en/px-web?pxid=E1310&theme=Education
+E1311,Person,1,https://www.nso.gov.vn/en/px-web?pxid=E1311&theme=Education
+E1312,Person,1,https://www.nso.gov.vn/en/px-web?pxid=E1312&theme=Education
+E1313,Person,1,https://www.nso.gov.vn/en/px-web?pxid=E1313&theme=Education
+E1314,Person,1,https://www.nso.gov.vn/en/px-web?pxid=E1314&theme=Education
+E1315,Person,1,https://www.nso.gov.vn/en/px-web?pxid=E1315&theme=Education
+E1316,Person,1,https://www.nso.gov.vn/en/px-web?pxid=E1316&theme=Education
+E1317,Person,2,https://www.nso.gov.vn/en/px-web?pxid=E1317&theme=Education
+E1318,Person,2,https://www.nso.gov.vn/en/px-web?pxid=E1318&theme=Education
+E1319,Person,1,https://www.nso.gov.vn/en/px-web?pxid=E1319&theme=Education
+E1320,Person,1,https://www.nso.gov.vn/en/px-web?pxid=E1320&theme=Education
+E1321,%,2,https://www.nso.gov.vn/en/px-web?pxid=E1321&theme=Education
+E1322,Person,1,https://www.nso.gov.vn/en/px-web?pxid=E1322&theme=Education
+E1323,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1323&theme=Education
+E1324,,2,https://www.nso.gov.vn/en/px-web?pxid=E1324&theme=Education
+E1325,,3,https://www.nso.gov.vn/en/px-web?pxid=E1325&theme=Education
+E1326,Person,1,https://www.nso.gov.vn/en/px-web?pxid=E1326&theme=Education
+E1327,Person,1,https://www.nso.gov.vn/en/px-web?pxid=E1327&theme=Education
+E1328,Person,2,https://www.nso.gov.vn/en/px-web?pxid=E1328&theme=Education
+E1329,,1,https://www.nso.gov.vn/en/px-web?pxid=E1329&theme=Education
+E1330,Person,2,https://www.nso.gov.vn/en/px-web?pxid=E1330&theme=Education
+E1331,Person,1,https://www.nso.gov.vn/en/px-web?pxid=E1331&theme=Education
+E1401,,1,https://www.nso.gov.vn/en/px-web?pxid=E1401&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1402,,2,https://www.nso.gov.vn/en/px-web?pxid=E1402&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1403,Establishment,2,https://www.nso.gov.vn/en/px-web?pxid=E1403&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1404,Establishment,1,https://www.nso.gov.vn/en/px-web?pxid=E1404&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1405,Establishment,1,https://www.nso.gov.vn/en/px-web?pxid=E1405&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1406,,2,https://www.nso.gov.vn/en/px-web?pxid=E1406&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1407,,2,https://www.nso.gov.vn/en/px-web?pxid=E1407&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1408,,2,https://www.nso.gov.vn/en/px-web?pxid=E1408&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1409,Bed,1,https://www.nso.gov.vn/en/px-web?pxid=E1409&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1410,Bed,1,https://www.nso.gov.vn/en/px-web?pxid=E1410&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1411,,2,https://www.nso.gov.vn/en/px-web?pxid=E1411&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1412,,2,https://www.nso.gov.vn/en/px-web?pxid=E1412&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1413,Person,1,https://www.nso.gov.vn/en/px-web?pxid=E1413&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1414,Person,1,https://www.nso.gov.vn/en/px-web?pxid=E1414&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1415,Person,1,https://www.nso.gov.vn/en/px-web?pxid=E1415&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1416,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1416&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1417,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1417&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1418,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1418&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1419,Person,1,https://www.nso.gov.vn/en/px-web?pxid=E1419&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1420,,2,https://www.nso.gov.vn/en/px-web?pxid=E1420&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1421,,1,https://www.nso.gov.vn/en/px-web?pxid=E1421&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1422,Establishment,1,https://www.nso.gov.vn/en/px-web?pxid=E1422&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1423,Medal,1,https://www.nso.gov.vn/en/px-web?pxid=E1423&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1424,Relic,2,https://www.nso.gov.vn/en/px-web?pxid=E1424&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1425,Heritage,1,https://www.nso.gov.vn/en/px-web?pxid=E1425&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1426,Thous. dongs,1,https://www.nso.gov.vn/en/px-web?pxid=E1426&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1427,Thous. dongs,1,https://www.nso.gov.vn/en/px-web?pxid=E1427&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1428,Thous. dongs,1,https://www.nso.gov.vn/en/px-web?pxid=E1428&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1429,Thous. dongs,1,https://www.nso.gov.vn/en/px-web?pxid=E1429&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1430,Thous. dongs,1,https://www.nso.gov.vn/en/px-web?pxid=E1430&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1431,,1,https://www.nso.gov.vn/en/px-web?pxid=E1431&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1432,,1,https://www.nso.gov.vn/en/px-web?pxid=E1432&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1433,Thous. dongs,2,https://www.nso.gov.vn/en/px-web?pxid=E1433&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1434,Thous. dongs,1,https://www.nso.gov.vn/en/px-web?pxid=E1434&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1435,Thous. dongs,1,https://www.nso.gov.vn/en/px-web?pxid=E1435&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1436,Thous. dongs,1,https://www.nso.gov.vn/en/px-web?pxid=E1436&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1437,,1,https://www.nso.gov.vn/en/px-web?pxid=E1437&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1438,,1,https://www.nso.gov.vn/en/px-web?pxid=E1438&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1439,,1,https://www.nso.gov.vn/en/px-web?pxid=E1439&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1440,Thous. dongs,1,https://www.nso.gov.vn/en/px-web?pxid=E1440&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1441,Thous. dongs,1,https://www.nso.gov.vn/en/px-web?pxid=E1441&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1442,Thous. dongs,1,https://www.nso.gov.vn/en/px-web?pxid=E1442&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1443,Thous. dongs,1,https://www.nso.gov.vn/en/px-web?pxid=E1443&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1444,,1,https://www.nso.gov.vn/en/px-web?pxid=E1444&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1445,Thous. VND,1,https://www.nso.gov.vn/en/px-web?pxid=E1445&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1446,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1446&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1447,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1447&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1448,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1448&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1449,,1,https://www.nso.gov.vn/en/px-web?pxid=E1449&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1450,,1,https://www.nso.gov.vn/en/px-web?pxid=E1450&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1451,,1,https://www.nso.gov.vn/en/px-web?pxid=E1451&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1452,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1452&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1453,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1453&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1454,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1454&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1455,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1455&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1456,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1456&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1457,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1457&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1458,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1458&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1459,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1459&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1460,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1460&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1461,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1461&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1462,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1462&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1463,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1463&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1464,%,2,https://www.nso.gov.vn/en/px-web?pxid=E1464&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1465,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1465&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1466,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1466&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1467,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1467&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1468,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1468&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1469,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1469&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1470,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1470&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1471,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1471&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1472,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1472&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1473,%,1,https://www.nso.gov.vn/en/px-web?pxid=E1473&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1474,m2,1,https://www.nso.gov.vn/en/px-web?pxid=E1474&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1475,Thousands dongs,1,https://www.nso.gov.vn/en/px-web?pxid=E1475&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1476,m2,1,https://www.nso.gov.vn/en/px-web?pxid=E1476&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1477,,1,https://www.nso.gov.vn/en/px-web?pxid=E1477&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1478,,1,https://www.nso.gov.vn/en/px-web?pxid=E1478&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1479,,1,https://www.nso.gov.vn/en/px-web?pxid=E1479&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1480,,,https://www.nso.gov.vn/en/px-web?pxid=E1480&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1481,,1,https://www.nso.gov.vn/en/px-web?pxid=E1481&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1482,,1,https://www.nso.gov.vn/en/px-web?pxid=E1482&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1483,,1,https://www.nso.gov.vn/en/px-web?pxid=E1483&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1484,,1,https://www.nso.gov.vn/en/px-web?pxid=E1484&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1485,Person,1,https://www.nso.gov.vn/en/px-web?pxid=E1485&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1486,,1,https://www.nso.gov.vn/en/px-web?pxid=E1486&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1487,,1,https://www.nso.gov.vn/en/px-web?pxid=E1487&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1488,,1,https://www.nso.gov.vn/en/px-web?pxid=E1488&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1489,,1,https://www.nso.gov.vn/en/px-web?pxid=E1489&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1490,,1,https://www.nso.gov.vn/en/px-web?pxid=E1490&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1491,,1,https://www.nso.gov.vn/en/px-web?pxid=E1491&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1492,,2,https://www.nso.gov.vn/en/px-web?pxid=E1492&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1493,Urban area,1,https://www.nso.gov.vn/en/px-web?pxid=E1493&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1494,ton,1,https://www.nso.gov.vn/en/px-web?pxid=E1494&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1495,,1,https://www.nso.gov.vn/en/px-web?pxid=E1495&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1496,,1,https://www.nso.gov.vn/en/px-web?pxid=E1496&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E1497,,1,https://www.nso.gov.vn/en/px-web?pxid=E1497&theme=Health%2C%20Culture%2C%20Sport%20and%20Living%20standard
+E0101,,1,https://www.nso.gov.vn/en/px-web?pxid=E0101&theme=Administrative%20Unit%20and%20Climate
+E0102,Thousand ha,1,https://www.nso.gov.vn/en/px-web?pxid=E0102&theme=Administrative%20Unit%20and%20Climate
+E0103,Thousand ha,1,https://www.nso.gov.vn/en/px-web?pxid=E0103&theme=Administrative%20Unit%20and%20Climate
+E0104,%,1,https://www.nso.gov.vn/en/px-web?pxid=E0104&theme=Administrative%20Unit%20and%20Climate
+E0105,%,1,https://www.nso.gov.vn/en/px-web?pxid=E0105&theme=Administrative%20Unit%20and%20Climate
+E0106,Hour,1,https://www.nso.gov.vn/en/px-web?pxid=E0106&theme=Administrative%20Unit%20and%20Climate
+E0107,Hour,2,https://www.nso.gov.vn/en/px-web?pxid=E0107&theme=Administrative%20Unit%20and%20Climate
+E0108,mm,1,https://www.nso.gov.vn/en/px-web?pxid=E0108&theme=Administrative%20Unit%20and%20Climate
+E0109,mm,2,https://www.nso.gov.vn/en/px-web?pxid=E0109&theme=Administrative%20Unit%20and%20Climate
+E0110,mm,1,https://www.nso.gov.vn/en/px-web?pxid=E0110&theme=Administrative%20Unit%20and%20Climate
+E0111,%,1,https://www.nso.gov.vn/en/px-web?pxid=E0111&theme=Administrative%20Unit%20and%20Climate
+E0112,%,2,https://www.nso.gov.vn/en/px-web?pxid=E0112&theme=Administrative%20Unit%20and%20Climate
+E0113,Degrees Celsius,1,https://www.nso.gov.vn/en/px-web?pxid=E0113&theme=Administrative%20Unit%20and%20Climate
+E0114,Degrees Celsius,2,https://www.nso.gov.vn/en/px-web?pxid=E0114&theme=Administrative%20Unit%20and%20Climate
+E0115,Cm,1,https://www.nso.gov.vn/en/px-web?pxid=E0115&theme=Administrative%20Unit%20and%20Climate
+E0116,m3/s,1,https://www.nso.gov.vn/en/px-web?pxid=E0116&theme=Administrative%20Unit%20and%20Climate
+E0117,Cm,2,https://www.nso.gov.vn/en/px-web?pxid=E0117&theme=Administrative%20Unit%20and%20Climate
+E0118,Cm,1,https://www.nso.gov.vn/en/px-web?pxid=E0118&theme=Administrative%20Unit%20and%20Climate
