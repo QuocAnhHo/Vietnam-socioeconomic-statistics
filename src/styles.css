@@ -32,4 +32,16 @@
 @media(max-width:480px){.statistics-topic-cards{grid-template-columns:1fr}.statistics-topic-card{min-height:150px}.statistics-category{margin-bottom:32px}.statistics-content .source-definition dl{grid-template-columns:1fr}.statistics-landing-search button{padding:10px}.statistics-layout{padding-bottom:25px}.statistics-page{padding-bottom:30px}.statistics-detail .dataset-title{font-size:26px}}
 @media(prefers-reduced-motion:reduce){.statistics-topic-card{transition:none}}
 
-.map-zoom-controls{display:flex;align-items:center;justify-content:center;gap:6px;position:relative;z-index:1;margin:6px 0 12px}.map-zoom-controls button{height:40px;min-width:40px;border:1px solid #cbd7de;border-radius:4px;background:#fff;font-size:24px;color:var(--teal)}.map-zoom-controls button:hover:not(:disabled){background:#e9f4f0}.map-zoom-controls span{font-size:12px;min-width:42px;text-align:center;font-variant-numeric:tabular-nums}.map-zoom-controls .map-reset{font-size:12px;padding:0 12px;margin-left:5px}.province-map{overflow:hidden}.map-hover{pointer-events:none}
+.map-viewport{position:relative}
+.map-zoom-controls{position:absolute;right:8px;bottom:16px;z-index:2;display:flex;flex-direction:column;gap:10px;align-items:center}
+.map-zoom-stack{display:flex;flex-direction:column;border-radius:7px;background:white;box-shadow:0 2px 8px #102d4326,0 0 0 1px #102d430d;overflow:hidden}
+.map-zoom-controls button{display:grid;place-items:center;width:44px;height:44px;padding:0;background:#fff;color:#40525e;border:0;transition:background .15s,color .15s}
+.map-zoom-stack button+button{position:relative}
+.map-zoom-stack button+button:before{content:"";position:absolute;top:0;left:9px;right:9px;height:1px;background:#e2e7eb}
+.map-zoom-controls button:hover:not(:disabled){background:#f0f6f5;color:var(--teal)}
+.map-zoom-controls button:focus-visible{outline:3px solid #dc922b;outline-offset:-3px}
+.map-zoom-controls button:disabled{opacity:1;color:#bdc5ca;cursor:default}
+.map-zoom-controls .map-reset{border-radius:7px;box-shadow:0 2px 8px #102d4326,0 0 0 1px #102d430d}
+.map-zoom-status{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+.province-map{overflow:hidden}.map-hover{pointer-events:none}
+@media(max-width:580px){.map-zoom-controls{right:0;bottom:12px}}
