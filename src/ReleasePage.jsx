@@ -1,0 +1,11 @@
+import React,{useEffect,useState} from 'react';
+import {Download,ArrowUpRight,ChevronRight} from 'lucide-react';
+import {loadData} from './data';
+import {SourceChart} from './SourceChart';
+import {topicLabel} from './StatisticsCatalogue';
+export function ReleasePage({id}){
+ const[data,setData]=useState(null),[error,setError]=useState('');
+ useEffect(()=>{let active=true;loadData('release-details/'+id+'.json').then(d=>active&&setData(d)).catch(e=>active&&setError(e.message));return()=>{active=false}},[id]);
+ if(!data)return <main className="wrap page" role={error?'alert':'status'}>{error||'Loading release data…'}</main>;
+ return <main className="wrap page"><div className="breadcrumb"><a href="#/statistics">Statistics</a><ChevronRight size={14}/><a href={'#/statistics?topic='+data.archive}>{topicLabel(data.archive)}</a></div><p className="eyebrow">{topicLabel(data.archive)}</p><h1 className="dataset-title">{data.title}</h1><p className="intro">Issued {data.date} · {data.sheets.length} data sheets</p><div className="download-actions">{data.download&&<a className="button primary" href={import.meta.env.BASE_URL+data.download} download><Download size={18}/>Download complete release (CSV ZIP)</a>}<a className="text-link" href={data.url} target="_blank" rel="noreferrer">Original NSO release <ArrowUpRight size={17}/></a></div><p>{data.coverage_note} Downloads contain every available row and column; chart selections do not restrict them.</p>{data.sheets.length>0?<SourceChart key={id} source={data}/>:<div className="notice"><p>This release provides no linked spreadsheet data. Read the official release for its report or PDF; data has not been extracted from narrative reports or PDFs.</p></div>}<section className="dataset-notes"><h2>Source and release notes</h2><p>The files are the spreadsheet editions linked from this NSO release when checked on 30 September 2026. NSO may revise linked files; issue dates and reporting periods are preserved separately. Monthly values, cumulative values and comparison indexes are not added together.</p><ul>{data.attachments.map(a=><li key={a.url}><a href={a.url} target="_blank" rel="noreferrer">{decodeURIComponent(a.url.split('/').at(-1))}</a> · {a.files.length} sheets</li>)}</ul></section></main>;
+}

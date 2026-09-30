@@ -12,3 +12,5 @@ qa/
 dist/
 !public/downloads/*.zip
 !docs/downloads/*.zip
+!public/downloads/releases/*.zip
+!docs/downloads/releases/*.zip
