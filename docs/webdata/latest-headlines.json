@@ -1,5 +1,5 @@
 {
-  "checked": "2026-09-29",
+  "checked": "2026-09-30",
   "items": [
     {
       "id": "population",
@@ -7,7 +7,7 @@
       "value": 102.34532,
       "unit": "million people",
       "period": "2025 · annual average",
-      "basis": "National total from table E0201.",
+      "basis": "National annual average.",
       "source_url": "https://www.nso.gov.vn/en/px-web?pxid=E0201&theme=Population%20and%20Employment"
     },
     {
@@ -17,7 +17,7 @@
       "unit": "USD per person",
       "decimals": 0,
       "period": "2025 · estimated",
-      "basis": "Current prices; average exchange rate. Table E0301.",
+      "basis": "Current prices; average exchange rate.",
       "source_url": "https://www.nso.gov.vn/en/px-web?pxid=E0301&theme=National%20Accounts%20and%20State%20budget"
     },
     {
@@ -31,8 +31,26 @@
       "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/08/report-socio-economic-performance-in-second-quarter-and-the-first-half-of-2026/"
     },
     {
+      "id": "cpi",
+      "label": "Consumer price index",
+      "value": 104.89,
+      "unit": "index · August 2025 = 100",
+      "period": "August 2026",
+      "basis": "Equivalent to +4.89% year on year; +0.47% month on month. Index rebased from NSO’s reported annual change.",
+      "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/09/consumer-price-index-gold-price-index-and-us-dollar-price-index-in-august-and-eight-months-of-2026/"
+    },
+    {
+      "id": "unemployment",
+      "label": "Unemployment rate",
+      "value": 2.23,
+      "unit": "% of working-age labour force",
+      "period": "Q2 2026",
+      "basis": "National unemployment rate.",
+      "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/08/report-socio-economic-performance-in-second-quarter-and-the-first-half-of-2026/"
+    },
+    {
       "id": "fdi",
-      "label": "FDI investment · YTD",
+      "label": "FDI investment",
       "value": 17.25,
       "unit": "billion USD disbursed",
       "period": "January–August 2026 · estimated",
@@ -41,7 +59,7 @@
     },
     {
       "id": "exports",
-      "label": "Exports · YTD",
+      "label": "Exports",
       "value": 374.836705918,
       "unit": "billion USD",
       "period": "January–August 2026 · preliminary",
@@ -52,7 +70,7 @@
     },
     {
       "id": "imports",
-      "label": "Imports · YTD",
+      "label": "Imports",
       "value": 395.29826637,
       "unit": "billion USD",
       "period": "January–August 2026 · preliminary",
@@ -62,13 +80,24 @@
       "source_value_thousand_usd": "395298266.37"
     },
     {
-      "id": "cpi",
-      "label": "Consumer price index",
-      "value": 104.89,
-      "unit": "index · August 2025 = 100",
-      "period": "August 2026",
-      "basis": "Equivalent to +4.89% year on year; +0.47% month on month. Index rebased from NSO’s reported annual change.",
-      "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/09/consumer-price-index-gold-price-index-and-us-dollar-price-index-in-august-and-eight-months-of-2026/"
+      "id": "industrial_production",
+      "label": "Industrial production",
+      "value": 11.9,
+      "prefix": "+",
+      "unit": "% year on year",
+      "period": "January–August 2026 · estimated",
+      "basis": "Growth in the Index of Industrial Production.",
+      "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/09/report-socio-economic-performance-in-august-and-8-months-of-2026/"
+    },
+    {
+      "id": "retail_sales",
+      "label": "Retail sales",
+      "value": 13.3,
+      "prefix": "+",
+      "unit": "% year on year",
+      "period": "January–August 2026 · estimated",
+      "basis": "Goods and consumer services, at current prices.",
+      "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/09/report-socio-economic-performance-in-august-and-8-months-of-2026/"
     }
   ]
 }

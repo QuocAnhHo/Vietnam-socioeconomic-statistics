@@ -32,7 +32,7 @@ test('all catalogue series exist and observation totals reconcile',()=>{
  assert.equal(count,283619);assert.equal(count,c.observations);assert.equal(c.indicators.filter(i=>i.section==='population').length,32);
 });
 test('national headline comes from supplied national source row',()=>{
- const h=read('latest-headlines.json');const items=Object.fromEntries(h.items.map(i=>[i.id,i]));assert.equal(h.items.length,7);assert.equal(items.population.value,102.34532);assert.equal(items.gdp_per_capita.value,5025.85);assert.equal(items.exports.value,374.836705918);assert.equal(items.imports.value,395.29826637);assert.match(items.cpi.unit,/2025 = 100/);
+ const h=read('latest-headlines.json');const items=Object.fromEntries(h.items.map(i=>[i.id,i]));assert.equal(h.items.length,10);assert.equal(items.population.value,102.34532);assert.equal(items.gdp_per_capita.value,5025.85);assert.equal(items.exports.value,374.836705918);assert.equal(items.imports.value,395.29826637);assert.match(items.cpi.unit,/2025 = 100/);
 });
 test('complete catalogue retains national data and packages every CSV',()=>{
  const c=read('full-catalogue.json');assert.equal(c.sources.length,4025);assert.equal(c.sources.reduce((n,s)=>n+s.csv_files,0),16588);
