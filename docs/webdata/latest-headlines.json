@@ -55,7 +55,8 @@
       "unit": "billion USD disbursed",
       "period": "January–August 2026 · estimated",
       "basis": "Realised inward FDI. Registered inward investment: USD 40.63 billion.",
-      "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/09/report-socio-economic-performance-in-august-and-8-months-of-2026/"
+      "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/09/report-socio-economic-performance-in-august-and-8-months-of-2026/",
+      "yoy": 12.0
     },
     {
       "id": "exports",
@@ -66,7 +67,8 @@
       "basis": "Goods, FOB valuation. Release dated 19 September 2026.",
       "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/03/exports-and-imports-value-by-months-of-2026/",
       "source_file": "data_attachments/2026/62384_E01_2026/001_1.csv",
-      "source_value_thousand_usd": "374836705.918"
+      "source_value_thousand_usd": "374836705.918",
+      "yoy": 22.4
     },
     {
       "id": "imports",
@@ -77,7 +79,8 @@
       "basis": "Goods, CIF valuation. Release dated 19 September 2026.",
       "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/03/exports-and-imports-value-by-months-of-2026/",
       "source_file": "data_attachments/2026/62385_E02_2026/001_2.csv",
-      "source_value_thousand_usd": "395298266.37"
+      "source_value_thousand_usd": "395298266.37",
+      "yoy": 35.3
     },
     {
       "id": "industrial_production",

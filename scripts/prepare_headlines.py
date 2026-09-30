@@ -27,5 +27,7 @@ items.extend([
 ])
 order=['population','gdp_per_capita','gdp_growth','cpi','unemployment','fdi','exports','imports','industrial_production','retail_sales']
 items.sort(key=lambda i:order.index(i['id']))
+for item in items:
+ if item['id'] in ['fdi','exports','imports']:item['yoy']={'fdi':12.0,'exports':22.4,'imports':35.3}[item['id']]
 (ROOT/'public/webdata/latest-headlines.json').write_text(json.dumps({'checked':'2026-09-30','items':items},ensure_ascii=False,indent=2),encoding='utf-8')
 print([(i['id'],i['value']) for i in items])
