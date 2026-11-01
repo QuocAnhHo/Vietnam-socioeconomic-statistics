@@ -1,6 +1,12 @@
 name: Check NSO monthly data
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/update-nso-data.yml'
+      - 'scripts/update_monthly_data.py'
+      - 'scripts/requirements-monthly-update.txt'
   schedule:
     - cron: '23 5 * * *'
       timezone: 'Asia/Ho_Chi_Minh'
@@ -8,6 +14,7 @@ on:
 
 permissions:
   contents: write
+  pages: write
 
 concurrency:
   group: nso-data-refresh
@@ -62,3 +69,14 @@ jobs:
           fi
           git commit -m 'Refresh NSO monthly report and CPI data'
           git push origin HEAD:main
+      - name: Request GitHub Pages build
+        if: steps.refresh.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          curl --fail-with-body --silent --show-error \
+            --request POST \
+            --header 'Accept: application/vnd.github+json' \
+            --header "Authorization: Bearer $GH_TOKEN" \
+            --header 'X-GitHub-Api-Version: 2022-11-28' \
+            "https://api.github.com/repos/$GITHUB_REPOSITORY/pages/builds"
