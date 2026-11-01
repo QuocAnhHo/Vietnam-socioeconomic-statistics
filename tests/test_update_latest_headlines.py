@@ -4,10 +4,25 @@ from types import SimpleNamespace
 from unittest.mock import patch
 
 from scripts import update_latest_headlines
-from scripts.update_latest_headlines import parse_metrics, parse_trade_sheet
+from scripts.update_latest_headlines import parse_homepage_key_indicators, parse_metrics, parse_trade_sheet
 
 
 class HeadlineParserTests(unittest.TestCase):
+    def test_homepage_key_indicators_parse_newer_month(self):
+        homepage = """
+        <h2>Key indicators</h2>
+        <p>Growth rate of some key indicators in September 2026 compared to the same period last year</p>
+        <table>
+          <tr><td>Index of Industrial Production</td><td>16.7%</td></tr>
+          <tr><td>Retail sales of goods and services</td><td>14.1%</td></tr>
+        </table>
+        <h2>The most visited</h2>
+        """
+        actual = parse_homepage_key_indicators(homepage)
+        self.assertEqual(actual["industrial_production"]["value"], 16.7)
+        self.assertEqual(actual["industrial_production"]["period"], "September 2026")
+        self.assertEqual(actual["retail_sales"]["value"], 14.1)
+
     def test_monthly_report_indicators(self):
         release = {
             "archive": "monthly-report",

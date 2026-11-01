@@ -169,6 +169,33 @@ def parse_metrics(item, text):
     return metrics
 
 
+def parse_homepage_key_indicators(raw):
+    """Read the current month-over-month headline rates published on NSO's homepage."""
+    text = clean(raw)
+    block = re.search(
+        r"Growth rate of some key indicators in\s+([A-Za-z]+\s+20\d{2}).{0,1800}?The most visited",
+        text, re.I,
+    )
+    if not block:
+        return {}
+    period = block.group(1).title()
+    excerpt = block.group(0)
+    metrics = {}
+    for metric, label, basis in (
+        ("industrial_production", "Index of Industrial Production", "Growth in the Index of Industrial Production."),
+        ("retail_sales", "Retail sales of goods and services", "Goods and consumer services, at current prices."),
+    ):
+        value = re.search(re.escape(label) + r"\s*\|?\s*(\d+(?:\.\d+)?)\s*%", excerpt, re.I)
+        if value:
+            metrics[metric] = {"value": number(value.group(1)), "period": period, "basis": basis}
+    return metrics
+
+
+def period_rank(value):
+    match = re.search(r"\b(January|February|March|April|May|June|July|August|September|October|November|December)\s+(20\d{2})\b", value or "", re.I)
+    return (int(match.group(2)), MONTHS[match.group(1).lower()]) if match else (0, 0)
+
+
 def parse_trade_workbooks(release):
     """Read the official E01/E02 monthly total rows (thousand USD)."""
     from update_monthly_data import convert, release_links
@@ -268,6 +295,16 @@ def main():
             metric_dates[metric] = release["date"]
             item = by_id.get(metric)
             if item and apply(item, metric, observation, release["url"]):
+                changed = True
+                parsed.add(metric)
+
+    # The monthly report archive can lag the homepage's monthly key-indicator
+    # block. Prefer a newer month from that official block when available.
+    homepage_metrics = parse_homepage_key_indicators(fetch("https://www.nso.gov.vn/en/homepage/").decode("utf-8", errors="replace"))
+    for metric, observation in homepage_metrics.items():
+        item = by_id.get(metric)
+        if item and period_rank(observation.get("period")) > period_rank(item.get("period")):
+            if apply(item, metric, observation, "https://www.nso.gov.vn/en/homepage/"):
                 changed = True
                 parsed.add(metric)
 
