@@ -81,22 +81,22 @@
     {
       "id": "industrial_production",
       "label": "Industrial production",
-      "value": 11.9,
+      "value": 16.7,
       "prefix": "+",
       "unit": "% year on year",
-      "period": "January–August 2026",
+      "period": "September 2026",
       "basis": "Growth in the Index of Industrial Production.",
-      "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/09/report-socio-economic-performance-in-august-and-8-months-of-2026/"
+      "source_url": "https://www.nso.gov.vn/en/homepage/"
     },
     {
       "id": "retail_sales",
       "label": "Retail sales",
-      "value": 13.3,
+      "value": 14.1,
       "prefix": "+",
       "unit": "% year on year",
-      "period": "January–August 2026",
+      "period": "September 2026",
       "basis": "Goods and consumer services, at current prices.",
-      "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/09/report-socio-economic-performance-in-august-and-8-months-of-2026/"
+      "source_url": "https://www.nso.gov.vn/en/homepage/"
     }
   ]
 }
