@@ -1,5 +1,5 @@
 {
-  "checked": "2026-09-30",
+  "checked": "2026-11-01",
   "items": [
     {
       "id": "population",
@@ -26,25 +26,25 @@
       "value": 8.39,
       "prefix": "+",
       "unit": "% year on year",
-      "period": "Q2 2026 · estimated",
+      "period": "Report socio-economic performance in second quarter and the first half of 2026",
       "basis": "Latest quarter versus Q2 2025. First-half growth: 8.18%.",
       "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/08/report-socio-economic-performance-in-second-quarter-and-the-first-half-of-2026/"
     },
     {
       "id": "cpi",
       "label": "Consumer price index",
-      "value": 104.89,
-      "unit": "index · August 2025 = 100",
-      "period": "August 2026",
-      "basis": "Equivalent to +4.89% year on year; +0.47% month on month. Index rebased from NSO’s reported annual change.",
-      "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/09/consumer-price-index-gold-price-index-and-us-dollar-price-index-in-august-and-eight-months-of-2026/"
+      "value": 105.08,
+      "unit": "index · September 2025 = 100",
+      "period": "September 2026",
+      "basis": "Rebased from NSO’s reported 5.08% year-on-year CPI change.",
+      "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/10/consumer-price-index-gold-price-index-and-us-dollar-price-index-in-september-2026-q3-2026-and-the-nine-months-of-2026/"
     },
     {
       "id": "unemployment",
       "label": "Unemployment rate",
       "value": 2.23,
       "unit": "% of working-age labour force",
-      "period": "Q2 2026",
+      "period": "Report socio-economic performance in second quarter and the first half of 2026",
       "basis": "National unemployment rate.",
       "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/08/report-socio-economic-performance-in-second-quarter-and-the-first-half-of-2026/"
     },
@@ -53,7 +53,7 @@
       "label": "FDI investment",
       "value": 17.25,
       "unit": "billion USD disbursed",
-      "period": "January–August 2026 · estimated",
+      "period": "January–August 2026",
       "basis": "Realised inward FDI. Registered inward investment: USD 40.63 billion.",
       "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/09/report-socio-economic-performance-in-august-and-8-months-of-2026/",
       "yoy": 12.0
@@ -61,25 +61,21 @@
     {
       "id": "exports",
       "label": "Exports",
-      "value": 374.836705918,
+      "value": 434.324392739,
       "unit": "billion USD",
-      "period": "January–August 2026 · preliminary",
+      "period": "January–September 2026 · preliminary",
       "basis": "Goods, FOB valuation. Release dated 19 September 2026.",
       "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/03/exports-and-imports-value-by-months-of-2026/",
-      "source_file": "data_attachments/2026/62384_E01_2026/001_1.csv",
-      "source_value_thousand_usd": "374836705.918",
       "yoy": 22.4
     },
     {
       "id": "imports",
       "label": "Imports",
-      "value": 395.29826637,
+      "value": 453.71459175700005,
       "unit": "billion USD",
-      "period": "January–August 2026 · preliminary",
+      "period": "January–September 2026 · preliminary",
       "basis": "Goods, CIF valuation. Release dated 19 September 2026.",
       "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/03/exports-and-imports-value-by-months-of-2026/",
-      "source_file": "data_attachments/2026/62385_E02_2026/001_2.csv",
-      "source_value_thousand_usd": "395298266.37",
       "yoy": 35.3
     },
     {
@@ -88,7 +84,7 @@
       "value": 11.9,
       "prefix": "+",
       "unit": "% year on year",
-      "period": "January–August 2026 · estimated",
+      "period": "January–August 2026",
       "basis": "Growth in the Index of Industrial Production.",
       "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/09/report-socio-economic-performance-in-august-and-8-months-of-2026/"
     },
@@ -98,7 +94,7 @@
       "value": 13.3,
       "prefix": "+",
       "unit": "% year on year",
-      "period": "January–August 2026 · estimated",
+      "period": "January–August 2026",
       "basis": "Goods and consumer services, at current prices.",
       "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/09/report-socio-economic-performance-in-august-and-8-months-of-2026/"
     }
