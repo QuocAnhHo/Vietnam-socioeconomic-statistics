@@ -1,4 +1,4 @@
-name: Check NSO monthly data
+name: Refresh NSO release datasets
 
 on:
   push:
@@ -7,9 +7,10 @@ on:
       - '.github/workflows/update-nso-data.yml'
       - 'scripts/update_monthly_data.py'
       - 'scripts/requirements-monthly-update.txt'
+      - 'scripts/update_latest_headlines.py'
       - 'pnpm-workspace.yaml'
   schedule:
-    - cron: '23 5 * * *'
+    - cron: '23 6 1 * *'
       timezone: 'Asia/Ho_Chi_Minh'
   workflow_dispatch:
 
@@ -39,7 +40,7 @@ jobs:
           cache-dependency-path: scripts/requirements-monthly-update.txt
       - name: Install spreadsheet readers
         run: python -m pip install -r scripts/requirements-monthly-update.txt
-      - name: Discover NSO releases and convert new spreadsheets to CSV
+      - name: Refresh the four selected release sections and convert new spreadsheets to CSV
         id: refresh
         run: python scripts/update_monthly_data.py
       - name: Set up pnpm
@@ -68,7 +69,7 @@ jobs:
             echo 'No data or website changes to publish.'
             exit 0
           fi
-          git commit -m 'Refresh NSO monthly report and CPI data'
+          git commit -m 'Refresh four NSO release sections'
           git push origin HEAD:main
       - name: Request GitHub Pages build
         if: steps.refresh.outputs.changed == 'true'

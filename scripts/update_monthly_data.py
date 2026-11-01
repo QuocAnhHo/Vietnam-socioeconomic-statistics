@@ -1,4 +1,4 @@
-"""Refresh monthly-report and CPI releases from the English NSO archives.
+"""Refresh the four selected NSO release sections from the English archives.
 
 This script is self-contained so it can run from GitHub Actions. It fetches only
 spreadsheet attachments linked by release pages; PDFs and report prose are not
@@ -27,7 +27,12 @@ ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "public"
 WEB = OUT / "webdata"
 DATA = ROOT / "data" / "release_csv"
-ARCHIVES = {"monthly-report": "Socio-economic reports", "cpi": "CPI, gold & USD indexes"}
+ARCHIVES = {
+    "monthly-report": "Socio-economic reports",
+    "cpi": "CPI, gold & USD indexes",
+    "iip": "Index of Industrial Production",
+    "import-export": "Preliminary Exports and Imports",
+}
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; VietnamStatisticsExplorer/1.0)"}
 
 
@@ -297,7 +302,7 @@ def main():
     set_action_output("changed", True)
 
     packages = []
-    for archive_slug in ("monthly-report", "cpi", "iip", "import-export"):
+    for archive_slug in ARCHIVES:
         grouped = [item for item in release_items if item["archive"] == archive_slug]
         old_package = next((package for package in catalogue.get("packages", [])
                             if package["archive"] == archive_slug), None)
