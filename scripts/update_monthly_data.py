@@ -6,6 +6,7 @@ converted into data.
 """
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
+import csv
 import datetime
 import hashlib
 import html
