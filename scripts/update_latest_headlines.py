@@ -175,7 +175,9 @@ def parse_trade_workbooks(release):
 
     links, _ = release_links(release["url"])
     metrics = {}
-    with tempfile.TemporaryDirectory(prefix="nso-headlines-") as temp:
+    # convert() records each output path relative to ROOT, so its temporary
+    # extraction directory must live under the repository rather than /tmp.
+    with tempfile.TemporaryDirectory(prefix=".nso-headlines-", dir=ROOT) as temp:
         for url in links:
             match = re.search(r"E0([12])[-_]", urllib.parse.urlparse(url).path, re.I)
             if not match:

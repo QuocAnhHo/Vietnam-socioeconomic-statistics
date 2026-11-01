@@ -1,5 +1,9 @@
 import unittest
+from pathlib import Path
+from types import SimpleNamespace
+from unittest.mock import patch
 
+from scripts import update_latest_headlines
 from scripts.update_latest_headlines import parse_metrics, parse_trade_sheet
 
 
@@ -63,6 +67,24 @@ class HeadlineParserTests(unittest.TestCase):
         actual = parse_trade_sheet("exports", rows, "Exports and imports value by months of 2026")
         self.assertAlmostEqual(actual["value"], 374.836705918)
         self.assertEqual(actual["period"], "January–August 2026 · preliminary")
+
+    def test_trade_workbook_conversion_uses_temp_path_inside_repository(self):
+        release = {"url": "https://example.test/trade", "title": "Exports and imports value by months of 2026"}
+        links = ["https://example.test/E01_2026.xlsx"]
+        rows = [["Preliminary Exports of goods In 2026"], ["Total", "374836705.918"]]
+        observed_paths = []
+
+        def fake_convert(_data, _url, destination):
+            observed_paths.append(Path(destination))
+            return [{"rows_data": rows}]
+
+        module = SimpleNamespace(convert=fake_convert, release_links=lambda _url: (links, []))
+        with patch.dict("sys.modules", {"update_monthly_data": module}), \
+                patch.object(update_latest_headlines, "fetch", return_value=b"workbook"):
+            result = update_latest_headlines.parse_trade_workbooks(release)
+
+        self.assertTrue(observed_paths[0].is_relative_to(update_latest_headlines.ROOT))
+        self.assertIn("exports", result)
 
 
 if __name__ == "__main__":
