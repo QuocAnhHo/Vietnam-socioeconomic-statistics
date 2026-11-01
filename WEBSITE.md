@@ -41,6 +41,12 @@ Headlines were checked on 30 September 2026. Population and GDP per capita use 2
 
 `collect_publications.py` indexes the English NSO publication archive and the monthly-report, CPI, IIP and import-export archives, following pagination back to 29 September 2021. The index contains 40 publications and 186 statistical releases. `verify_publication_links.py` confirmed all 40 publication pages have downloadable file links. Files stay on NSO; visitors open the corresponding official detail page. Search, issue-year and type filters apply to the index. Re-running collection requires network access.
 
+## Scheduled NSO data refresh
+
+GitHub Actions checks the English NSO monthly-report and CPI archives daily at 05:23 Vietnam time. It also supports manual runs from the repository Actions tab. New linked Excel/CSV/ZIP spreadsheet attachments are converted sheet-by-sheet to UTF-8 CSV, added to the release detail pages and complete downloads, and included in the rolling five-year release index. PDF attachments and report prose are not extracted. The province dashboard and homepage national-indicator snapshots are not part of this first automation phase.
+
+The job rebuilds and pushes the GitHub Pages files only when the release index or data changes. If an archive page changes format, a spreadsheet cannot be downloaded, or conversion fails, the job stops without publishing partial results; the failed run is visible in GitHub Actions. Spreadsheet conversion requires the packages listed in `scripts/requirements-monthly-update.txt`. The independent collector is `scripts/update_monthly_data.py`.
+
 ## Geography and privacy
 
 See `map_sources/README.md`. The map is a 2020, 63-province historical reference used for annual periods 2009–2024 only. Other periods remain available in tables and downloads. Source geography is not harmonised; never infer the current 34 provinces or sum rates. Comparison charts support up to five provinces. Census remains a placeholder. The website collects no user data; shareable links contain only statistical filters.
