@@ -1,5 +1,5 @@
 {
-  "checked": "2026-11-16",
+  "checked": "2026-11-17",
   "items": [
     {
       "id": "population",
@@ -42,11 +42,11 @@
     {
       "id": "unemployment",
       "label": "Unemployment rate",
-      "value": 2.23,
+      "value": 2.22,
       "unit": "% of working-age labour force",
-      "period": "Report socio-economic performance in second quarter and the first half of 2026",
+      "period": "Report socio - economic performance in the third quarter and the nine months of 2026",
       "basis": "National unemployment rate.",
-      "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/08/report-socio-economic-performance-in-second-quarter-and-the-first-half-of-2026/"
+      "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/11/report-socio-economic-performance-in-the-third-quarter-and-the-nine-months-of-2026/"
     },
     {
       "id": "fdi",
@@ -71,22 +71,22 @@
     {
       "id": "imports",
       "label": "Imports",
-      "value": 453.71459175700005,
+      "value": 511.31,
       "unit": "billion USD",
-      "period": "January–September 2026 · preliminary",
+      "period": "January–October 2026",
       "basis": "Goods, CIF valuation. Release dated 19 September 2026.",
-      "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/03/exports-and-imports-value-by-months-of-2026/",
+      "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/11/report-socio-economic-performance-in-october-and-10-months-of-2026/",
       "yoy": 35.3
     },
     {
       "id": "industrial_production",
       "label": "Industrial production",
-      "value": 15.0,
+      "value": 12.4,
       "prefix": "+",
       "unit": "% year on year",
-      "period": "October 2026",
+      "period": "January–October 2026",
       "basis": "Growth in the Index of Industrial Production.",
-      "source_url": "https://www.nso.gov.vn/en/homepage/"
+      "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/11/report-socio-economic-performance-in-october-and-10-months-of-2026/"
     },
     {
       "id": "retail_sales",
